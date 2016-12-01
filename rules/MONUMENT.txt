@@ -1,0 +1,300 @@
+Token: Monument to
+ID: monument to
+L[EMPTY]:0.933:::L[ORGANISATION]:0.0321:::L[PLACE]:0.0232:::L[EVENT]:0.0116:::
+R[PERSON]:0.2645:::R[MONUMENT]:0.2442:::R[PLACE]:0.1918:::R[ORGANISATION]:0.1046:::R[EVENT]:0.0639:::R[BUILDING]:0.0524:::
+T[MONUMENT]:0.8023:::T[BUILDING]:0.1018:::T[PLACE]:0.0697:::T[OTHER]:0.0262:::
+SW[the]:0.4158:::SW[in]:0.2442:::SW[NULL]:0.2355:::SW[and]:0.0698:::SW[of]:0.0349:::
+DICT[Y]:0.5232:::DICT[N]:0.4768:::
+Active Evidence: 28.66703
+Evidence: 30.0
+========================
+Token: Statue
+ID: statue
+L[PERSON]:0.4505:::L[EMPTY]:0.2472:::L[MONUMENT]:0.0859:::L[COMPANY]:0.0645:::L[BUILDING]:0.0541:::L[PLACE]:0.0512:::
+R[EMPTY]:0.9549:::R[PLACE]:0.043:::R[MONUMENT]:0.0021:::
+T[MONUMENT]:0.3888:::T[BUILDING]:0.3269:::T[OTHER]:0.2472:::T[PLACE]:0.037:::
+SW[NULL]:0.9143:::SW[to]:0.0429:::SW[and]:0.0428:::
+DICT[N]:0.6749:::DICT[Y]:0.3251:::
+Active Evidence: 23.264523
+Evidence: 34.0
+========================
+Token: Monument of
+ID: monument of
+L[EMPTY]:0.7188:::L[PLACE]:0.137:::L[BUILDING]:0.0761:::L[ORGANISATION]:0.0682:::
+R[PLACE]:0.6782:::R[MONUMENT]:0.2328:::R[EMPTY]:0.0342:::R[PERSON]:0.0274:::R[ORGANISATION]:0.0274:::R[BUILDING]:0:::
+T[MONUMENT]:0.6845:::T[PLACE]:0.2811:::T[OTHER]:0.0342:::T[BUILDING]:0.0001:::
+SW[NULL]:0.5819:::SW[of]:0.2809:::SW[and]:0.1369:::SW[do]:0.0003:::
+DICT[Y]:0.6919:::DICT[N]:0.3081:::
+Active Evidence: 7.303557
+Evidence: 14.0
+========================
+Token: Mosque in
+ID: mosque in
+L[PERSON]:0.4036:::L[EMPTY]:0.2043:::L[BUILDING]:0.2042:::L[MONUMENT]:0.1879:::
+R[PERSON]:0.3874:::R[BUILDING]:0.2043:::R[PLACE]:0.2042:::R[MONUMENT]:0.2042:::
+T[MONUMENT]:0.5915:::T[BUILDING]:0.4085:::
+SW[in]:0.7957:::SW[NULL]:0.2043:::
+DICT[N]:1:::
+Active Evidence: 4.8956175
+Evidence: 5.0
+========================
+Token: Monumento a
+ID: monumento a
+L[EMPTY]:1:::
+R[MONUMENT]:0.6667:::R[PLACE]:0.3333:::
+T[MONUMENT]:1:::
+SW[de]:0.6666:::SW[la]:0.3334:::
+DICT[Y]:0.6666:::DICT[N]:0.3334:::
+Active Evidence: 2.999826
+Evidence: 3.0
+========================
+Token: Arch of
+ID: arch of
+L[EMPTY]:0.8757:::L[BUILDING]:0.1217:::L[MONUMENT]:0.0026:::
+R[BUILDING]:0.3842:::R[PLACE]:0.2625:::R[EMPTY]:0.1753:::R[MONUMENT]:0.1753:::R[RIVER]:0.0026:::
+T[MONUMENT]:0.3506:::T[BUILDING]:0.297:::T[PLACE]:0.177:::T[OTHER]:0.1753:::
+SW[the]:0.3506:::SW[NULL]:0.3506:::SW[and]:0.1744:::SW[of]:0.1243:::
+DICT[N]:0.7013:::DICT[Y]:0.2987:::
+Active Evidence: 5.7038646
+Evidence: 9.0
+========================
+Token: Memorial to
+ID: memorial to
+L[EMPTY]:1:::
+R[MONUMENT]:0.2478:::R[EMPTY]:0.2325:::R[COMPANY]:0.107:::R[PLACE]:0.0994:::R[ORGANISATION]:0.0994:::R[PERSON]:0.0573:::
+T[MONUMENT]:0.3967:::T[OTHER]:0.2325:::T[BUILDING]:0.1989:::T[PLACE]:0.1719:::
+SW[NULL]:0.4044:::SW[of]:0.397:::SW[the]:0.1986:::
+DICT[Y]:0.7675:::DICT[N]:0.2325:::
+Active Evidence: 5.0184054
+Evidence: 8.0
+========================
+Token: Alley of
+ID: alley of
+L[EMPTY]:1:::
+R[PERSON]:0.4286:::R[MONUMENT]:0.4286:::R[EMPTY]:0.1429:::
+T[MONUMENT]:0.8571:::T[OTHER]:0.1429:::
+SW[NULL]:1:::
+DICT[Y]:0.8571:::DICT[N]:0.1429:::
+Active Evidence: 2.33333
+Evidence: 3.0
+========================
+Token: Victims of
+ID: victims of
+L[EMPTY]:0.9903:::L[MONUMENT]:0.0097:::L[ORGANISATION]:0:::L[COMPANY]:0:::L[MUSEUM]:0:::
+R[EMPTY]:0.4087:::R[MONUMENT]:0.1932:::R[BUILDING]:0.1618:::R[PLACE]:0.1279:::R[PERIODICAL_LITERATURE]:0.0984:::R[ORGANISATION]:0.0084:::
+T[MONUMENT]:0.5785:::T[OTHER]:0.4087:::T[ORGANISATION]:0.0084:::T[COMPANY]:0.0044:::T[MUSEUM]:0:::
+SW[NULL]:0.8001:::SW[of]:0.1986:::SW[to]:0.0013:::SW[for]:0:::
+DICT[Y]:0.5913:::DICT[N]:0.4087:::
+Active Evidence: 5.1382113
+Evidence: 19.0
+========================
+Token: Memorial of
+ID: memorial of
+L[PLACE]:0.666:::L[COMPANY]:0.3328:::L[EMPTY]:0.0012:::
+R[PLACE]:0.8323:::R[PERSON]:0.1665:::R[ORGANISATION]:0.0008:::R[MONUMENT]:0.0004:::
+T[MONUMENT]:0.333:::T[MUSEUM]:0.333:::T[EVENT]:0.3328:::T[ORGANISATION]:0.0012:::
+SW[of]:0.9988:::SW[the]:0.0012:::
+DICT[Y]:0.666:::DICT[N]:0.334:::
+Active Evidence: 3.0031571
+Evidence: 4.0
+========================
+Token: Triumphal
+ID: triumphal
+L[EMPTY]:0.9989:::L[PLACE]:0.0005:::L[BUILDING]:0.0005:::
+R[MONUMENT]:0.4995:::R[BUILDING]:0.2528:::R[RIVER]:0.2477:::
+T[MONUMENT]:0.5035:::T[PLACE]:0.4954:::T[BUILDING]:0.0011:::
+SW[NULL]:0.5046:::SW[of]:0.4954:::
+DICT[Y]:1:::
+Active Evidence: 1.9855256
+Evidence: 3.0
+========================
+Token: Basilica in
+ID: basilica in
+L[EMPTY]:0.5434:::L[PERSON]:0.1143:::L[BUILDING]:0.1143:::L[PLACE]:0.1141:::L[PERIODICAL_LITERATURE]:0.1141:::
+R[PLACE]:0.7283:::R[MONUMENT]:0.2717:::
+T[MONUMENT]:0.5434:::T[PLACE]:0.4566:::
+SW[NULL]:0.5434:::SW[and]:0.4562:::SW[in]:0.0004:::
+DICT[Y]:1:::
+Active Evidence: 1.8402482
+Evidence: 3.0
+========================
+Token: Villeroy
+ID: villeroy
+L[MONUMENT]:0.4103:::L[EMPTY]:0.4103:::L[PERSON]:0.1786:::L[COMPANY]:0.0009:::
+R[EMPTY]:0.5897:::R[COMPANY]:0.4103:::
+T[MONUMENT]:0.4103:::T[COMPANY]:0.4103:::T[PERSON]:0.1795:::
+SW[de]:0.5897:::SW[NULL]:0.4103:::
+DICT[N]:0.5897:::DICT[Y]:0.4103:::
+Active Evidence: 2.4375203
+Evidence: 6.0
+========================
+Token: Capitoline
+ID: capitoline
+L[EMPTY]:1:::
+R[EMPTY]:0.3333:::R[PERSON]:0.3333:::R[MONUMENT]:0.3333:::R[PLACE]:0.0001:::
+T[MONUMENT]:0.6666:::T[OTHER]:0.3333:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.6666:::DICT[N]:0.3334:::
+Active Evidence: 1.5001905
+Evidence: 3.0
+========================
+Token: Monumento De
+ID: monumento de
+L[EMPTY]:1:::L[PLACE]:0:::
+R[PLACE]:0.9967:::R[PERSON]:0.0033:::
+T[MONUMENT]:0.9967:::T[PERSON]:0.0033:::T[PLACE]:0:::
+SW[NULL]:1:::SW[la]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0033096
+Evidence: 3.0
+========================
+Token: Henry the
+ID: henry the
+L[PERSON]:0.73:::L[EMPTY]:0.27:::
+R[PERSON]:0.7795:::R[EMPTY]:0.1053:::R[PLACE]:0.0567:::R[BUILDING]:0.0567:::R[COMPANY]:0.0009:::R[DISEASE]:0.0009:::
+T[MONUMENT]:0.7232:::T[PERSON]:0.1696:::T[OTHER]:0.1053:::T[ORGANISATION]:0.0019:::
+SW[the]:0.73:::SW[NULL]:0.27:::
+DICT[Y]:0.8452:::DICT[N]:0.1548:::
+Active Evidence: 1.3568152
+Evidence: 7.0
+========================
+Token: Urasoe
+ID: urasoe
+L[EMPTY]:1:::
+R[MONUMENT]:0.9993:::R[PLACE]:0.0007:::
+T[MONUMENT]:0.9993:::T[PLACE]:0.0007:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0007203
+Evidence: 2.0
+========================
+Token: Monumento
+ID: monumento
+L[EMPTY]:1:::
+R[MONUMENT]:0.6666:::R[PERSON]:0.3333:::R[PLACE]:0:::
+T[MONUMENT]:1:::T[PLACE]:0:::
+SW[NULL]:1:::SW[del]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000329
+Evidence: 2.0
+========================
+Token: Montfaucon
+ID: montfaucon
+L[MONUMENT]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[MONUMENT]:1:::T[PERSON]:0:::
+SW[of]:1:::SW[de]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000024
+Evidence: 2.0
+========================
+Token: Guishan
+ID: guishan
+L[EMPTY]:1:::L[PERSON]:0:::
+R[MONUMENT]:0.5:::R[PLACE]:0.2501:::R[PERSON]:0.25:::R[EMPTY]:0:::
+T[MONUMENT]:0.9999:::T[PLACE]:0.0001:::T[PERSON]:0:::
+SW[of]:0.9999:::SW[NULL]:0.0001:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 0.70836544
+Evidence: 3.0
+========================
+Token: Novembre
+ID: novembre
+L[MONUMENT]:1:::L[PLACE]:0:::L[PERSON]:0:::
+R[PLACE]:0.5:::R[MONUMENT]:0.5:::R[EMPTY]:0:::
+T[MONUMENT]:1:::T[PLACE]:0:::T[PERSON]:0:::
+SW[du]:1:::SW[NULL]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 0.8050782
+Evidence: 7.0
+========================
+Token: Ganjavi in
+ID: ganjavi in
+L[PERSON]:0.5:::L[MONUMENT]:0.5:::
+R[PLACE]:0.7845:::R[MONUMENT]:0.1681:::R[PERSON]:0.0475:::
+T[MONUMENT]:1:::
+SW[to]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.6311266E-4
+Evidence: 6.0
+========================
+Token: Singu
+ID: singu
+L[EMPTY]:1:::
+R[PERSON]:0.9716:::R[MOUNTAIN]:0.0284:::
+T[MONUMENT]:0.9716:::T[MOUNTAIN]:0.0284:::
+SW[NULL]:1:::
+DICT[Y]:0.9716:::DICT[N]:0.0284:::
+Active Evidence: 3.3717908E-5
+Evidence: 2.0
+========================
+Token: Markers
+ID: markers
+L[PLACE]:0.6561:::L[PERSON]:0.3237:::L[BUILDING]:0.0101:::L[ORGANISATION]:0.0101:::
+R[EMPTY]:1:::
+T[MONUMENT]:0.9409:::T[MUSEUM]:0.0404:::T[PLACE]:0.0187:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.745172E-5
+Evidence: 3.0
+========================
+Token: Sergii
+ID: sergii
+L[MONUMENT]:0.5419:::L[EMPTY]:0.2915:::L[PERSON]:0.1666:::
+R[EMPTY]:0.5419:::R[PERSON]:0.4581:::
+T[MONUMENT]:0.5419:::T[PERSON]:0.4581:::
+SW[of]:0.5419:::SW[NULL]:0.4581:::
+DICT[Y]:0.5419:::DICT[N]:0.4581:::
+Active Evidence: 1.107344E-5
+Evidence: 3.0
+========================
+Token: Gumbaz
+ID: gumbaz
+L[PLACE]:1:::
+R[EMPTY]:1:::
+T[MONUMENT]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.19632736E-4
+Evidence: 1.0
+========================
+Token: Plack
+ID: plack
+L[PERSON]:0.5:::L[PERIODICAL_LITERATURE]:0.5:::
+R[EMPTY]:1:::
+T[MONUMENT]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.5523975E-5
+Evidence: 1.0
+========================
+Token: Roddick
+ID: roddick
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[MONUMENT]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.5900085E-5
+Evidence: 1.0
+========================
+Token: Tharrawaddy
+ID: tharrawaddy
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[MONUMENT]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.1729165E-6
+Evidence: 1.0
+========================
+Token: Bessarabia
+ID: bessarabia
+L[BUILDING]:0.5:::L[EVENT]:0.5:::
+R[EMPTY]:1:::
+T[MONUMENT]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.0103897E-7
+Evidence: 1.0
+========================

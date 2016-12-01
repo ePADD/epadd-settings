@@ -1,0 +1,870 @@
+Token: Expressway
+ID: expressway
+L[ROAD]:0.5703:::L[PLACE]:0.1989:::L[PERSON]:0.139:::L[ORGANISATION]:0.0177:::L[EVENT]:0.0116:::L[COMPANY]:0.0108:::
+R[EMPTY]:0.988:::R[PLACE]:0.0119:::R[COMPANY]:0.0001:::R[DISEASE]:0:::R[ROAD]:0:::R[UNIVERSITY]:0:::
+T[ROAD]:0.9952:::T[COMPANY]:0.0024:::T[BUILDING]:0.0024:::T[PLACE]:0:::T[GOVAGENCY]:0:::T[BRIDGE]:0:::
+SW[NULL]:0.9904:::SW[an]:0.0072:::SW[of]:0.0024:::
+DICT[N]:0.744:::DICT[Y]:0.256:::
+Active Evidence: 417.85544
+Evidence: 433.0
+========================
+Token: Route
+ID: route
+L[PLACE]:0.8959:::L[ORGANISATION]:0.0338:::L[EMPTY]:0.029:::L[PERSON]:0.0152:::L[ROAD]:0.0108:::L[EVENT]:0.0045:::
+R[EMPTY]:0.3707:::R[ROAD]:0.2902:::R[PLACE]:0.2681:::R[UNIVERSITY]:0.0311:::R[PERSON]:0.0227:::R[ORGANISATION]:0.0132:::
+T[ROAD]:0.9547:::T[PLACE]:0.0257:::T[OTHER]:0.011:::T[PERSON]:0.0032:::T[COMPANY]:0.0017:::T[ORGANISATION]:0.0016:::
+SW[in]:0.539:::SW[NULL]:0.4457:::SW[and]:0.008:::SW[of]:0.007:::SW[the]:0.0003:::SW[la]:0:::
+DICT[Y]:0.9061:::DICT[N]:0.0939:::
+Active Evidence: 610.39545
+Evidence: 698.0
+========================
+Token: Jalan
+ID: jalan
+L[EMPTY]:0.9968:::L[PERSON]:0.0032:::L[BUILDING]:0:::L[COMPANY]:0:::L[UNIVERSITY]:0:::
+R[ROAD]:0.4223:::R[PLACE]:0.2516:::R[PERSON]:0.2416:::R[UNIVERSITY]:0.0154:::R[AIRPORT]:0.015:::R[COMPANY]:0.0083:::
+T[ROAD]:0.9926:::T[PERSON]:0.0032:::T[BRIDGE]:0.0018:::T[PLACE]:0.0016:::T[OTHER]:0.0008:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9228:::DICT[Y]:0.0772:::
+Active Evidence: 310.24945
+Evidence: 326.0
+========================
+Token: Motorway
+ID: motorway
+L[ROAD]:0.8599:::L[PLACE]:0.0587:::L[ORGANISATION]:0.0198:::L[PERSON]:0.0183:::L[EMPTY]:0.0091:::L[COMPANY]:0.0091:::
+R[EMPTY]:1:::R[PERSON]:0:::R[PLACE]:0:::R[ROAD]:0:::
+T[ROAD]:0.9863:::T[OTHER]:0.0091:::T[COMPANY]:0.0046:::T[PLACE]:0:::
+SW[NULL]:0.9999:::SW[of]:0.0001:::
+DICT[N]:0.8538:::DICT[Y]:0.1462:::
+Active Evidence: 219.01207
+Evidence: 226.0
+========================
+Token: Road
+ID: road
+L[ROAD]:0.5949:::L[PLACE]:0.1735:::L[PERSON]:0.0935:::L[EMPTY]:0.0663:::L[BUILDING]:0.0178:::L[ORGANISATION]:0.016:::
+R[EMPTY]:0.9475:::R[PLACE]:0.0369:::R[PERSON]:0.0107:::R[ORGANISATION]:0.0011:::R[BUILDING]:0.0008:::R[DISEASE]:0.0008:::
+T[ROAD]:0.7976:::T[PLACE]:0.1121:::T[OTHER]:0.0604:::T[BUILDING]:0.0191:::T[EVENT]:0.003:::T[COMPANY]:0.0029:::
+SW[NULL]:0.9914:::SW[to]:0.0019:::SW[on]:0.0017:::SW[and]:0.0016:::SW[at]:0.0016:::SW[of]:0.0013:::
+DICT[N]:0.7964:::DICT[Y]:0.2036:::
+Active Evidence: 2142.4731
+Evidence: 3207.0
+========================
+Token: Interstate
+ID: interstate
+L[EMPTY]:0.9999:::L[PLACE]:0:::L[ORGANISATION]:0:::L[PERSON]:0:::L[BUILDING]:0:::L[ROAD]:0:::
+R[ROAD]:0.4559:::R[PLACE]:0.4163:::R[UNIVERSITY]:0.0421:::R[PERSON]:0.0313:::R[ORGANISATION]:0.0265:::R[EMPTY]:0.0203:::
+T[ROAD]:0.976:::T[OTHER]:0.0203:::T[COMPANY]:0.0035:::T[PLACE]:0.0001:::T[ORGANISATION]:0:::T[GOVAGENCY]:0:::
+SW[in]:0.937:::SW[NULL]:0.0571:::SW[and]:0.006:::SW[of]:0:::
+DICT[N]:0.7507:::DICT[Y]:0.2493:::
+Active Evidence: 176.10307
+Evidence: 217.0
+========================
+Token: Bypass
+ID: bypass
+L[PLACE]:0.5625:::L[ROAD]:0.2767:::L[PERSON]:0.0911:::L[BUILDING]:0.0214:::L[UNIVERSITY]:0.0214:::L[EVENT]:0.0109:::
+R[EMPTY]:0.9898:::R[PLACE]:0.0097:::R[ROAD]:0.0004:::R[ORGANISATION]:0:::
+T[ROAD]:1:::T[ORGANISATION]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7719:::DICT[Y]:0.2281:::
+Active Evidence: 46.640213
+Evidence: 52.0
+========================
+Token: Autoroute
+ID: autoroute
+L[ROAD]:0.8308:::L[PLACE]:0.1538:::L[EMPTY]:0.0154:::
+R[EMPTY]:1:::
+T[ROAD]:0.9846:::T[OTHER]:0.0154:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 32.499893
+Evidence: 33.0
+========================
+Token: Byway
+ID: byway
+L[PLACE]:0.5724:::L[ROAD]:0.1797:::L[PERSON]:0.1048:::L[ORGANISATION]:0.0525:::L[COMPANY]:0.0475:::L[PERIODICAL_LITERATURE]:0.0193:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[ROAD]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 25.815714
+Evidence: 27.0
+========================
+Token: Turnpike
+ID: turnpike
+L[PLACE]:0.3496:::L[PERSON]:0.2241:::L[ROAD]:0.111:::L[BUILDING]:0.1012:::L[ORGANISATION]:0.0639:::L[RIVER]:0.0512:::
+R[EMPTY]:0.9811:::R[PLACE]:0.0074:::R[PERSON]:0.0072:::R[COMPANY]:0.0033:::R[ROAD]:0.0006:::R[BUILDING]:0.0003:::
+T[ROAD]:0.8707:::T[BUILDING]:0.0848:::T[PLACE]:0.0256:::T[OTHER]:0.0085:::T[BRIDGE]:0.0072:::T[GOVAGENCY]:0.0032:::
+SW[NULL]:0.8146:::SW[and]:0.1598:::SW[of]:0.0256:::
+DICT[N]:0.6301:::DICT[Y]:0.3699:::
+Active Evidence: 39.027267
+Evidence: 54.0
+========================
+Token: Persiaran
+ID: persiaran
+L[EMPTY]:1:::L[UNIVERSITY]:0:::L[PLACE]:0:::L[PERIODICAL_LITERATURE]:0:::
+R[ROAD]:0.4019:::R[PERSON]:0.2157:::R[PLACE]:0.2144:::R[ORGANISATION]:0.0561:::R[ISLAND]:0.028:::R[COMPANY]:0.028:::
+T[ROAD]:1:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.8965:::DICT[Y]:0.1035:::
+Active Evidence: 17.827646
+Evidence: 19.0
+========================
+Token: Rue De
+ID: rue de
+L[EMPTY]:1:::
+R[ROAD]:0.3857:::R[PLACE]:0.3:::R[EMPTY]:0.2286:::R[BUILDING]:0.0857:::
+T[ROAD]:0.9429:::T[OTHER]:0.0571:::
+SW[NULL]:0.5714:::SW[la]:0.4286:::
+DICT[N]:0.7429:::DICT[Y]:0.2571:::
+Active Evidence: 11.666349
+Evidence: 13.0
+========================
+Token: Avenue
+ID: avenue
+L[PLACE]:0.4584:::L[PERSON]:0.2334:::L[BUILDING]:0.0958:::L[EMPTY]:0.0556:::L[ROAD]:0.0479:::L[ORGANISATION]:0.0246:::
+R[EMPTY]:0.9123:::R[PLACE]:0.0619:::R[PERSON]:0.0098:::R[BUILDING]:0.0044:::R[ROAD]:0.0043:::R[COMPANY]:0.0034:::
+T[ROAD]:0.4002:::T[PLACE]:0.3946:::T[BUILDING]:0.1575:::T[OTHER]:0.0359:::T[COMPANY]:0.0079:::T[ORGANISATION]:0.0037:::
+SW[NULL]:0.8932:::SW[and]:0.0771:::SW[at]:0.0159:::SW[de]:0.0059:::SW[on]:0.0039:::SW[the]:0.002:::
+DICT[N]:0.589:::DICT[Y]:0.411:::
+Active Evidence: 508.8502
+Evidence: 981.0
+========================
+Token: Connector
+ID: connector
+L[PLACE]:0.4101:::L[ROAD]:0.1768:::L[AIRPORT]:0.0884:::L[PERSON]:0.0884:::L[EMPTY]:0.0638:::L[HOSPITAL]:0.0442:::
+R[EMPTY]:0.9935:::R[PLACE]:0.0054:::R[COMPANY]:0.001:::R[ROAD]:0:::R[BRIDGE]:0:::
+T[ROAD]:0.702:::T[COMPANY]:0.0893:::T[GOVAGENCY]:0.0855:::T[OTHER]:0.0589:::T[BRIDGE]:0.0442:::T[PLACE]:0.0146:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0.7176:::DICT[N]:0.2824:::
+Active Evidence: 22.628395
+Evidence: 32.0
+========================
+Token: Autostrada
+ID: autostrada
+L[ROAD]:0.8571:::L[EMPTY]:0.1429:::
+R[EMPTY]:0.8571:::R[ROAD]:0.1429:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 7.0
+Evidence: 7.0
+========================
+Token: Carmageddon
+ID: carmageddon
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[ROAD]:0.8747:::T[OTHER]:0.0146:::
+SW[NULL]:1:::
+DICT[N]:0.1253:::
+Active Evidence: 8.645933
+Evidence: 10.5626
+========================
+Token: Eastlink
+ID: eastlink
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.9997:::R[ORGANISATION]:0:::R[COMPANY]:0:::R[PLACE]:0:::
+T[ROAD]:0.7604:::T[COMPANY]:0.2393:::T[PLACE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0003:::
+Active Evidence: 10.574859
+Evidence: 14.5718
+========================
+Token: Carretera
+ID: carretera
+L[EMPTY]:1:::
+R[PLACE]:0.3537:::R[ROAD]:0.2679:::R[ORGANISATION]:0.2679:::R[EMPTY]:0.067:::R[PERSON]:0.0435:::
+T[ROAD]:0.8024:::T[PLACE]:0.1306:::T[OTHER]:0.067:::
+SW[NULL]:1:::
+DICT[Y]:0.6697:::DICT[N]:0.3303:::
+Active Evidence: 7.4659348
+Evidence: 8.0
+========================
+Token: Beltway
+ID: beltway
+L[EMPTY]:0.3553:::L[PLACE]:0.0782:::L[ORGANISATION]:0.043:::L[COMPANY]:0.0427:::L[PERSON]:0.0419:::
+R[EMPTY]:0.9997:::R[ORGANISATION]:0.0001:::R[PLACE]:0:::R[BUILDING]:0:::
+T[ROAD]:0.9322:::T[OTHER]:0.0215:::T[ORGANISATION]:0.0001:::T[PLACE]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4476:::DICT[Y]:0.2648:::
+Active Evidence: 7.4135895
+Evidence: 11.132
+========================
+Token: Edsa
+ID: edsa
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[BUILDING]:0:::
+T[ROAD]:0.9505:::T[OTHER]:0.0067:::T[PLACE]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::SW[la]:0:::
+DICT[N]:0.0494:::DICT[Y]:0.0001:::
+Active Evidence: 6.7476187
+Evidence: 10.4138
+========================
+Token: Lebuh
+ID: lebuh
+L[EMPTY]:1:::
+R[PLACE]:0.3664:::R[ROAD]:0.2823:::R[PERSON]:0.2712:::R[GOVAGENCY]:0.0801:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[N]:0.66:::DICT[Y]:0.34:::
+Active Evidence: 5.3135033
+Evidence: 6.0
+========================
+Token: Trans-canada
+ID: trans-canada
+L[EMPTY]:1:::
+R[EMPTY]:0.9984:::R[PLACE]:0.0002:::R[ORGANISATION]:0:::
+T[ROAD]:1:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0016:::
+Active Evidence: 5.7789187
+Evidence: 7.7696
+========================
+Token: Alcan
+ID: alcan
+L[EMPTY]:0.7022:::L[PERSON]:0.035:::L[PLACE]:0.0042:::L[BUILDING]:0:::
+R[EMPTY]:0.9145:::R[COMPANY]:0.0075:::R[BUILDING]:0.0037:::R[PLACE]:0:::R[EVENT]:0:::R[MUSEUM]:0:::
+T[ROAD]:0.6168:::T[PERSON]:0.0307:::T[BUILDING]:0.0112:::T[COMPANY]:0.0085:::T[PLACE]:0:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2894:::DICT[Y]:0.0938:::
+Active Evidence: 10.688366
+Evidence: 16.5924
+========================
+Token: Drive
+ID: drive
+L[EMPTY]:0.2707:::L[PLACE]:0.117:::L[PERSON]:0.0999:::L[BUILDING]:0.0361:::L[ROAD]:0.0314:::L[COMPANY]:0.0167:::
+R[EMPTY]:0.9428:::R[PLACE]:0.0248:::R[PERSON]:0.0014:::R[ORGANISATION]:0:::R[RIVER]:0:::R[COMPANY]:0:::
+T[ROAD]:0.248:::T[OTHER]:0.1173:::T[PLACE]:0.042:::T[BUILDING]:0.0375:::T[PERSON]:0.0079:::T[ORGANISATION]:0.0031:::
+SW[NULL]:0.9977:::SW[at]:0.0011:::SW[and]:0:::SW[ap]:0:::
+DICT[N]:0.5743:::DICT[Y]:0.4178:::
+Active Evidence: 150.50708
+Evidence: 265.1824
+========================
+Token: Bowery
+ID: bowery
+L[EMPTY]:0.9995:::L[PLACE]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9984:::R[PLACE]:0.0001:::R[COMPANY]:0:::R[RIVER]:0:::R[BUILDING]:0:::R[THEATRE]:0:::
+T[ROAD]:0.9349:::T[OTHER]:0.0075:::T[BUILDING]:0.0001:::T[ORGANISATION]:0:::T[RIVER]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0636:::DICT[Y]:0.0014:::
+Active Evidence: 7.9320006
+Evidence: 19.416
+========================
+Token: Tollway
+ID: tollway
+L[PLACE]:0.3173:::L[PERSON]:0.3069:::L[ROAD]:0.214:::L[ORGANISATION]:0.1618:::
+R[EMPTY]:1:::R[GOVAGENCY]:0:::
+T[ROAD]:1:::T[GOVAGENCY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5826:::DICT[N]:0.4174:::
+Active Evidence: 4.6721454
+Evidence: 6.0
+========================
+Token: Parkway
+ID: parkway
+L[PLACE]:0.1098:::L[PERSON]:0.0664:::L[EMPTY]:0.0282:::L[ROAD]:0.0143:::L[BUILDING]:0.0112:::L[RIVER]:0.0083:::
+R[EMPTY]:0.9945:::R[PLACE]:0.0013:::R[PERSON]:0:::R[PERIODICAL_LITERATURE]:0:::R[ROAD]:0:::R[THEATRE]:0:::
+T[ROAD]:0.1755:::T[PLACE]:0.1427:::T[BUILDING]:0.0215:::T[BRIDGE]:0.003:::T[OTHER]:0.0005:::T[PERSON]:0:::
+SW[NULL]:0.9816:::SW[on]:0.0027:::SW[and]:0.0015:::SW[of]:0.0001:::
+DICT[Y]:0.6733:::DICT[N]:0.306:::
+Active Evidence: 158.09045
+Evidence: 214.2782
+========================
+Token: Citylink
+ID: citylink
+L[EMPTY]:0.5114:::L[PLACE]:0.027:::L[COMPANY]:0.0149:::L[AIRLINE]:0.0149:::L[EVENT]:0.0141:::L[ORGANISATION]:0.0126:::
+R[EMPTY]:0.9129:::R[PERSON]:0.0149:::R[PLACE]:0:::R[COMPANY]:0:::
+T[ROAD]:0.4243:::T[COMPANY]:0.0695:::T[AIRLINE]:0.0288:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4883:::DICT[Y]:0.0874:::
+Active Evidence: 11.446904
+Evidence: 13.857
+========================
+Token: Peace
+ID: peace
+L[EMPTY]:0.8881:::L[ORGANISATION]:0.0009:::L[PLACE]:0.0007:::L[COMPANY]:0.0003:::L[AWARD]:0.0003:::L[PERSON]:0.0002:::
+R[EMPTY]:0.9006:::R[PLACE]:0.0009:::R[PERSON]:0.0008:::R[ORGANISATION]:0.0005:::R[RIVER]:0.0001:::R[GOVAGENCY]:0:::
+T[ROAD]:0.3833:::T[OTHER]:0.043:::T[PLACE]:0.0345:::T[PERSON]:0.0162:::T[ORGANISATION]:0.0013:::T[COMPANY]:0.001:::
+SW[NULL]:0.9257:::SW[for]:0.0015:::SW[of]:0.0002:::SW[and]:0:::
+DICT[N]:0.3933:::DICT[Y]:0.1595:::
+Active Evidence: 92.188736
+Evidence: 289.233
+========================
+Token: Freeway
+ID: freeway
+L[EMPTY]:0.1249:::L[PLACE]:0.1096:::L[PERSON]:0.0449:::L[ROAD]:0.0215:::L[ORGANISATION]:0.0115:::L[UNIVERSITY]:0.0075:::
+R[EMPTY]:0.9724:::R[COMPANY]:0.0047:::R[PLACE]:0.0015:::R[EVENT]:0.0002:::R[AIRPORT]:0:::R[GOVAGENCY]:0:::
+T[ROAD]:0.2003:::T[PERSON]:0.0934:::T[OTHER]:0.0075:::T[PLACE]:0.0011:::T[AIRPORT]:0:::T[GOVAGENCY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5656:::DICT[N]:0.3622:::
+Active Evidence: 46.261383
+Evidence: 54.3414
+========================
+Token: Highways in
+ID: highways in
+L[UNIVERSITY]:0.4563:::L[EVENT]:0.4563:::L[EMPTY]:0.0875:::
+R[PLACE]:0.7937:::R[EMPTY]:0.0875:::R[PERSON]:0.0873:::R[RIVER]:0.0315:::
+T[ROAD]:0.9125:::T[OTHER]:0.0875:::
+SW[of]:0.9125:::SW[NULL]:0.0875:::
+DICT[Y]:0.9125:::DICT[N]:0.0875:::
+Active Evidence: 5.714725
+Evidence: 11.0
+========================
+Token: Muskegon
+ID: muskegon
+L[EMPTY]:0.9996:::L[PLACE]:0:::
+R[EMPTY]:0.871:::R[ORGANISATION]:0.0115:::R[PLACE]:0.0002:::R[PERSON]:0:::R[PERIODICAL_LITERATURE]:0:::R[UNIVERSITY]:0:::
+T[ROAD]:0.5763:::T[PLACE]:0.2163:::T[ORGANISATION]:0.0115:::T[OTHER]:0.0071:::T[RIVER]:0:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.206:::DICT[Y]:0.0022:::
+Active Evidence: 12.694221
+Evidence: 32.0518
+========================
+Token: Souq
+ID: souq
+L[ROAD]:0.4996:::L[PLACE]:0.2496:::L[PERSON]:0.2342:::L[EMPTY]:0.0166:::
+R[EMPTY]:0.9834:::R[PERIODICAL_LITERATURE]:0.0163:::R[PERSON]:0.0002:::R[PLACE]:0.0002:::
+T[ROAD]:0.9834:::T[PLACE]:0.0166:::
+SW[NULL]:1:::
+DICT[N]:0.7655:::DICT[Y]:0.2345:::
+Active Evidence: 4.003036
+Evidence: 6.0
+========================
+Token: Crowsnest
+ID: crowsnest
+L[EMPTY]:1:::
+R[EMPTY]:0.7261:::R[PLACE]:0.0352:::R[ORGANISATION]:0.0147:::R[MOUNTAIN]:0:::
+T[ROAD]:0.7487:::T[ORGANISATION]:0.0295:::T[MOUNTAIN]:0.0155:::T[RIVER]:0.0008:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.2739:::
+Active Evidence: 6.1775627
+Evidence: 12.4858
+========================
+Token: Midtown
+ID: midtown
+L[EMPTY]:0.8854:::L[BUILDING]:0.0049:::L[PLACE]:0.0048:::L[PERSON]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.8475:::R[PERSON]:0.0057:::R[PLACE]:0.0054:::R[BUILDING]:0.0018:::R[COMPANY]:0:::
+T[ROAD]:0.365:::T[PLACE]:0.2768:::T[BUILDING]:0.0168:::T[OTHER]:0.0102:::T[COMPANY]:0:::
+SW[NULL]:0.9451:::SW[at]:0.0046:::
+DICT[N]:0.2936:::DICT[Y]:0.0951:::
+Active Evidence: 17.824236
+Evidence: 40.897
+========================
+Token: Pan-european
+ID: pan-european
+L[EMPTY]:1:::
+R[PLACE]:0.187:::R[EMPTY]:0.153:::R[PERSON]:0.1332:::R[ROAD]:0.0534:::R[UNIVERSITY]:0.0005:::R[LEGISLATURE]:0.0004:::
+T[ROAD]:0.3734:::T[ORGANISATION]:0.1546:::T[UNIVERSITY]:0.0005:::
+SW[NULL]:1:::
+DICT[Y]:0.847:::
+Active Evidence: 8.242794
+Evidence: 10.2612
+========================
+Token: Avenida
+ID: avenida
+L[EMPTY]:0.9899:::L[BUILDING]:0.01:::L[ORGANISATION]:0:::
+R[PERSON]:0.3899:::R[EMPTY]:0.2156:::R[PLACE]:0.1525:::R[ROAD]:0.1324:::R[EVENT]:0.1045:::R[BUILDING]:0.005:::
+T[ROAD]:0.7743:::T[OTHER]:0.2156:::T[BUILDING]:0.01:::T[ORGANISATION]:0:::
+SW[NULL]:0.99:::SW[de]:0.01:::
+DICT[Y]:0.6064:::DICT[N]:0.3936:::
+Active Evidence: 4.6379704
+Evidence: 9.0
+========================
+Token: Odos
+ID: odos
+L[ROAD]:0.6684:::L[PLACE]:0.3316:::
+R[EMPTY]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.9924343
+Evidence: 3.0
+========================
+Token: Trasa
+ID: trasa
+L[EMPTY]:0.664:::L[ROAD]:0.336:::
+R[ROAD]:0.5:::R[EMPTY]:0.336:::R[PLACE]:0.164:::
+T[ROAD]:1:::
+SW[NULL]:0.6719:::SW[in]:0.3281:::
+DICT[N]:0.6719:::DICT[Y]:0.3281:::
+Active Evidence: 2.9765434
+Evidence: 3.0
+========================
+Token: Rue Du
+ID: rue du
+L[EMPTY]:0.8271:::L[COMPANY]:0.1729:::
+R[PLACE]:0.2073:::R[EMPTY]:0.2073:::R[PERIODICAL_LITERATURE]:0.205:::R[COMPANY]:0.1729:::R[PERSON]:0.1037:::R[ROAD]:0.1037:::
+T[ROAD]:0.4147:::T[COMPANY]:0.378:::T[PLACE]:0.2073:::
+SW[NULL]:0.8271:::SW[du]:0.1729:::
+DICT[N]:0.795:::DICT[Y]:0.205:::
+Active Evidence: 4.822883
+Evidence: 5.0
+========================
+Token: Vinita
+ID: vinita
+L[EMPTY]:1:::
+R[EMPTY]:0.9014:::R[PLACE]:0.0191:::R[PERSON]:0.0057:::
+T[ROAD]:0.9014:::T[PERSON]:0.0248:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0985:::DICT[Y]:0.0001:::
+Active Evidence: 3.290742
+Evidence: 9.9662
+========================
+Token: Deansgate
+ID: deansgate
+L[EMPTY]:0.9992:::L[BUILDING]:0.0001:::L[ORGANISATION]:0.0001:::
+R[EMPTY]:1:::
+T[ROAD]:0.9992:::T[BUILDING]:0.0002:::
+SW[NULL]:1:::
+DICT[Y]:0.0008:::
+Active Evidence: 2.3285968
+Evidence: 3.3268
+========================
+Token: Sukhumvit
+ID: sukhumvit
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ROAD]:0:::R[ORGANISATION]:0:::
+T[ROAD]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 2.471282
+Evidence: 5.4712
+========================
+Token: Sainte-catherine
+ID: sainte-catherine
+L[EMPTY]:0.8263:::L[PERSON]:0.0612:::L[PLACE]:0:::L[AIRPORT]:0:::
+R[EMPTY]:1:::R[AIRPORT]:0:::
+T[ROAD]:1:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.1737:::
+Active Evidence: 2.2267597
+Evidence: 3.8400002
+========================
+Token: Portway
+ID: portway
+L[EMPTY]:0.9996:::L[PERSON]:0.0002:::
+R[EMPTY]:0.5865:::R[PLACE]:0.1744:::R[ORGANISATION]:0:::
+T[ROAD]:0.9996:::T[PERSON]:0.0002:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4139:::DICT[Y]:0:::
+Active Evidence: 2.339509
+Evidence: 5.3712
+========================
+Token: Euston
+ID: euston
+L[EMPTY]:0.9999:::L[PLACE]:0:::
+R[EMPTY]:0.7213:::R[PERSON]:0.0849:::R[PLACE]:0.0006:::R[ORGANISATION]:0:::R[ROAD]:0:::R[BUILDING]:0:::
+T[ROAD]:0.7213:::T[PERSON]:0.0849:::T[BUILDING]:0.0006:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2767:::DICT[Y]:0.002:::
+Active Evidence: 3.1328409
+Evidence: 8.2596
+========================
+Token: Sear
+ID: sear
+L[EMPTY]:0.9811:::L[PERSON]:0.0056:::
+R[EMPTY]:1:::
+T[ROAD]:0.9811:::T[PERSON]:0.0056:::
+SW[NULL]:1:::
+DICT[N]:0.0182:::DICT[Y]:0.0007:::
+Active Evidence: 2.410251
+Evidence: 6.3646
+========================
+Token: Roads in
+ID: roads in
+L[EMPTY]:0.5085:::L[ROAD]:0.4906:::L[EVENT]:0.0008:::
+R[PLACE]:0.491:::R[PERSON]:0.2543:::R[ROAD]:0.2543:::R[ORGANISATION]:0.0004:::
+T[ROAD]:1:::
+SW[NULL]:0.5085:::SW[in]:0.4906:::SW[of]:0.0008:::
+DICT[Y]:1:::
+Active Evidence: 1.9354903
+Evidence: 3.0
+========================
+Token: Valiasr
+ID: valiasr
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.9997:::R[PLACE]:0.0001:::
+T[ROAD]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0003:::
+Active Evidence: 1.7691374
+Evidence: 3.7686
+========================
+Token: Gracechurch
+ID: gracechurch
+L[EMPTY]:1:::L[PERSON]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.9998:::R[PLACE]:0.0001:::
+T[ROAD]:0.7269:::T[OTHER]:0.1172:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2731:::DICT[Y]:0.0002:::
+Active Evidence: 1.8311442
+Evidence: 4.3308
+========================
+Token: Eastcheap
+ID: eastcheap
+L[EMPTY]:1:::L[BUILDING]:0:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[ROAD]:1:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 1.4826014
+Evidence: 3.4826
+========================
+Token: Aye
+ID: aye
+L[EMPTY]:0.6512:::L[PERSON]:0.1182:::L[PLACE]:0.0093:::
+R[EMPTY]:0.7623:::R[PLACE]:0.0458:::R[PERSON]:0.0411:::R[BUILDING]:0:::
+T[ROAD]:0.2099:::T[PERSON]:0.2045:::T[OTHER]:0.0825:::T[PLACE]:0.0016:::T[MOUNTAIN]:0.0001:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7442:::DICT[Y]:0.0459:::
+Active Evidence: 8.267163
+Evidence: 30.7356
+========================
+Token: Routes of
+ID: routes of
+L[ROAD]:0.4425:::L[UNIVERSITY]:0.4038:::L[EMPTY]:0.0692:::L[PLACE]:0.0563:::L[ORGANISATION]:0.0282:::
+R[PLACE]:0.66:::R[ROAD]:0.2708:::R[EMPTY]:0.0692:::
+T[ROAD]:0.8463:::T[PLACE]:0.0845:::T[OTHER]:0.0692:::
+SW[of]:0.6007:::SW[in]:0.3301:::SW[NULL]:0.0692:::
+DICT[Y]:0.9308:::DICT[N]:0.0692:::
+Active Evidence: 2.4079561
+Evidence: 16.0
+========================
+Token: Lordship
+ID: lordship
+L[EMPTY]:1:::
+R[EMPTY]:0.4086:::R[PLACE]:0.2957:::R[ROAD]:0.2957:::R[UNIVERSITY]:0:::R[EVENT]:0:::
+T[ROAD]:0.5914:::T[OTHER]:0.4086:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5914:::DICT[N]:0.4086:::
+Active Evidence: 1.631592
+Evidence: 4.0
+========================
+Token: Pinellas
+ID: pinellas
+L[EMPTY]:1:::
+R[ROAD]:0.6666:::R[EMPTY]:0.3333:::R[PLACE]:0.0001:::R[ORGANISATION]:0:::R[AIRLINE]:0:::R[COMPANY]:0:::
+T[ROAD]:0.6666:::T[OTHER]:0.3333:::T[PLACE]:0.0001:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 1.5002044
+Evidence: 7.0
+========================
+Token: Chuy
+ID: chuy
+L[EMPTY]:0.9863:::L[PLACE]:0.0137:::L[PERSON]:0:::
+R[ROAD]:0.6569:::R[EMPTY]:0.3422:::R[PLACE]:0.0009:::
+T[ROAD]:0.6569:::T[OTHER]:0.3285:::T[PLACE]:0.0138:::T[PERSON]:0.0008:::
+SW[NULL]:0.9863:::SW[del]:0.0137:::
+DICT[N]:0.9991:::DICT[Y]:0.0009:::
+Active Evidence: 1.5222635
+Evidence: 8.0
+========================
+Token: Zhukovsky
+ID: zhukovsky
+L[COMPANY]:0.5:::L[EVENT]:0.5:::L[PERSON]:0:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[UNIVERSITY]:0:::R[PERSON]:0:::R[ORGANISATION]:0:::R[AIRLINE]:0:::
+T[ROAD]:1:::T[PERSON]:0:::T[UNIVERSITY]:0:::
+SW[to]:1:::SW[NULL]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 0.99580646
+Evidence: 5.0
+========================
+Token: Flinders
+ID: flinders
+L[EMPTY]:0.8815:::L[PERSON]:0.0588:::L[UNIVERSITY]:0.0001:::L[PLACE]:0:::
+R[EMPTY]:0.5817:::R[PLACE]:0.2007:::R[PERSON]:0.0053:::R[MOUNTAIN]:0.0007:::R[DISEASE]:0.0007:::R[LEGISLATURE]:0.0007:::
+T[ROAD]:0.1963:::T[PLACE]:0.1852:::T[OTHER]:0.1434:::T[PERSON]:0.0634:::T[DISEASE]:0.002:::T[ISLAND]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0.5244:::DICT[N]:0.3007:::
+Active Evidence: 5.7783103
+Evidence: 43.0108
+========================
+Token: Saxe
+ID: saxe
+L[ROAD]:0.9409:::L[ORGANISATION]:0.0582:::L[PERSON]:0.0009:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::R[PLACE]:0:::
+T[ROAD]:0.9409:::T[PERSON]:0.0591:::T[PLACE]:0:::
+SW[de]:0.9409:::SW[NULL]:0.0591:::
+DICT[Y]:0.9409:::DICT[N]:0.0591:::
+Active Evidence: 1.0628674
+Evidence: 17.0
+========================
+Token: Bennetts
+ID: bennetts
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[PERSON]:0.9988:::R[PLACE]:0.0007:::R[RIVER]:0.0004:::R[EMPTY]:0.0001:::
+T[ROAD]:0.9988:::T[PLACE]:0.0007:::T[RIVER]:0.0004:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.9999:::DICT[N]:0.0001:::
+Active Evidence: 0.04630846
+Evidence: 6.0
+========================
+Token: Burwood
+ID: burwood
+L[PERSON]:0.6749:::L[EMPTY]:0.3079:::L[PLACE]:0.0144:::L[UNIVERSITY]:0.0028:::
+R[EMPTY]:0.6921:::R[ORGANISATION]:0.3044:::R[PLACE]:0.0036:::
+T[ROAD]:0.6728:::T[PLACE]:0.3044:::T[BUILDING]:0.0143:::T[UNIVERSITY]:0.0085:::
+SW[NULL]:1:::
+DICT[Y]:0.9856:::DICT[N]:0.0144:::
+Active Evidence: 0.028574903
+Evidence: 9.0
+========================
+Token: Haringey
+ID: haringey
+L[PLACE]:0.5:::L[ROAD]:0.5:::L[UNIVERSITY]:0.0001:::L[EMPTY]:0:::
+R[EMPTY]:0.9999:::R[PLACE]:0.0001:::R[UNIVERSITY]:0:::R[LEGISLATURE]:0:::
+T[ROAD]:0.9999:::T[UNIVERSITY]:0.0001:::T[LEGISLATURE]:0:::
+SW[NULL]:0.9999:::SW[of]:0.0001:::
+DICT[Y]:1:::
+Active Evidence: 0.01557908
+Evidence: 3.0
+========================
+Token: Sturt
+ID: sturt
+L[EMPTY]:0.9338:::L[PERSON]:0.0515:::L[EVENT]:0.0136:::L[PLACE]:0.0011:::
+R[PERSON]:0.4837:::R[PLACE]:0.4756:::R[COMPANY]:0.0169:::R[UNIVERSITY]:0.011:::R[EMPTY]:0.0089:::R[RIVER]:0.0037:::
+T[ROAD]:0.915:::T[EVENT]:0.0272:::T[PERSON]:0.0202:::T[PLACE]:0.0202:::T[UNIVERSITY]:0.0099:::T[RIVER]:0.0075:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0.9573:::DICT[N]:0.0427:::
+Active Evidence: 0.006895821
+Evidence: 32.0
+========================
+Token: Bannered
+ID: bannered
+L[EMPTY]:1:::
+R[PLACE]:0.6454:::R[ROAD]:0.3546:::
+T[ROAD]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.0015630372
+Evidence: 3.0
+========================
+Token: Rambla
+ID: rambla
+L[EMPTY]:0.8135:::L[PERSON]:0.0951:::L[PLACE]:0.0914:::
+R[PLACE]:0.8135:::R[EMPTY]:0.1865:::
+T[ROAD]:0.8135:::T[PLACE]:0.1828:::T[PERSON]:0.0038:::
+SW[NULL]:0.8172:::SW[de]:0.1828:::
+DICT[N]:1:::
+Active Evidence: 2.2712046E-4
+Evidence: 3.0
+========================
+Token: Statale
+ID: statale
+L[COMPANY]:1:::
+R[PLACE]:0.4114:::R[ROAD]:0.2991:::R[RIVER]:0.193:::R[PERSON]:0.0598:::R[EMPTY]:0.0368:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.7719:::DICT[N]:0.2281:::
+Active Evidence: 2.5841713E-5
+Evidence: 4.0
+========================
+Token: Ebrington
+ID: ebrington
+L[EMPTY]:1:::
+R[PLACE]:0.5321:::R[PERSON]:0.4679:::
+T[ROAD]:0.5321:::T[MOUNTAIN]:0.4679:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.8262825E-6
+Evidence: 2.0
+========================
+Token: Mid-western
+ID: mid-western
+L[EMPTY]:1:::
+R[PLACE]:0.8209:::R[HOSPITAL]:0.1623:::R[UNIVERSITY]:0.0168:::
+T[ROAD]:0.4962:::T[HOSPITAL]:0.4869:::T[UNIVERSITY]:0.0168:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.3373154E-6
+Evidence: 4.0
+========================
+Token: Skokie
+ID: skokie
+L[EMPTY]:1:::
+R[PLACE]:0.5164:::R[RIVER]:0.4836:::
+T[ROAD]:0.5164:::T[RIVER]:0.4836:::
+SW[NULL]:1:::
+DICT[Y]:0.5164:::DICT[N]:0.4836:::
+Active Evidence: 6.1666524E-6
+Evidence: 2.0
+========================
+Token: Colmore
+ID: colmore
+L[EMPTY]:0.9082:::L[BUILDING]:0.0918:::
+R[BUILDING]:1:::
+T[ROAD]:0.9082:::T[BUILDING]:0.0918:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.4811407E-6
+Evidence: 3.0
+========================
+Token: Ukrainka
+ID: ukrainka
+L[PERSON]:1:::
+R[PLACE]:0.5494:::R[EMPTY]:0.3076:::R[THEATRE]:0.0477:::R[ORGANISATION]:0.0477:::R[PERIODICAL_LITERATURE]:0.0477:::
+T[ROAD]:0.4541:::T[PERSON]:0.3076:::T[THEATRE]:0.2383:::
+SW[NULL]:0.7617:::SW[of]:0.2383:::
+DICT[Y]:0.6924:::DICT[N]:0.3076:::
+Active Evidence: 1.7736559E-6
+Evidence: 3.0
+========================
+Token: Egnatia
+ID: egnatia
+L[EMPTY]:1:::
+R[ROAD]:0.6335:::R[PLACE]:0.3665:::
+T[ROAD]:0.6335:::T[PLACE]:0.3665:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.1179942E-6
+Evidence: 3.0
+========================
+Token: Tsankov
+ID: tsankov
+L[PERSON]:1:::
+R[PLACE]:0.7036:::R[EMPTY]:0.2964:::
+T[ROAD]:0.7036:::T[PERSON]:0.2964:::
+SW[NULL]:1:::
+DICT[Y]:0.7036:::DICT[N]:0.2964:::
+Active Evidence: 5.097251E-7
+Evidence: 2.0
+========================
+Token: Surry
+ID: surry
+L[PLACE]:1:::
+R[PLACE]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.6553073E-6
+Evidence: 1.0
+========================
+Token: Bhosle
+ID: bhosle
+L[ROAD]:1:::
+R[COMPANY]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.1125529E-7
+Evidence: 1.0
+========================
+Token: Lanterne
+ID: lanterne
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.001357E-6
+Evidence: 1.0
+========================
+Token: Belliard
+ID: belliard
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.1603878E-6
+Evidence: 1.0
+========================
+Token: Autopista
+ID: autopista
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[ROAD]:0.5:::
+T[ROAD]:1:::
+SW[de]:1:::
+DICT[N]:1:::
+Active Evidence: 0.9853654
+Evidence: 1.0
+========================
+Token: Jungbu
+ID: jungbu
+L[EMPTY]:1:::
+R[ROAD]:0.6667:::R[PLACE]:0.3333:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.7143886E-5
+Evidence: 1.0
+========================
+Token: Sentul
+ID: sentul
+L[EMPTY]:1:::
+R[COMPANY]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.2858225E-6
+Evidence: 1.0
+========================
+Token: Hosier
+ID: hosier
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.5738804E-5
+Evidence: 1.0
+========================
+Token: Angas
+ID: angas
+L[EMPTY]:1:::
+R[PERSON]:0.5:::R[PLACE]:0.5:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.8848563E-7
+Evidence: 1.0
+========================
+Token: Panfilov
+ID: panfilov
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.6932221E-6
+Evidence: 1.0
+========================
+Token: Bylong
+ID: bylong
+L[EMPTY]:1:::
+R[PERSON]:0.5:::R[PLACE]:0.5:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.5807099E-7
+Evidence: 1.0
+========================
+Token: Kempas
+ID: kempas
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.4109158E-7
+Evidence: 1.0
+========================
+Token: Shose
+ID: shose
+L[ROAD]:1:::
+R[EMPTY]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Pyhrn
+ID: pyhrn
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[ROAD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.4061361E-7
+Evidence: 1.0
+========================

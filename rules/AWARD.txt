@@ -1,0 +1,860 @@
+Token: Awards
+ID: awards
+L[AWARD]:0.3235:::L[PERSON]:0.1956:::L[ORGANISATION]:0.1459:::L[COMPANY]:0.1188:::L[PLACE]:0.0912:::L[PERIODICAL_LITERATURE]:0.0508:::
+R[EMPTY]:0.9549:::R[AWARD]:0.0264:::R[PLACE]:0.017:::R[ORGANISATION]:0.0014:::R[UNIVERSITY]:0.0004:::R[EVENT]:0:::
+T[AWARD]:0.9689:::T[OTHER]:0.0158:::T[EVENT]:0.0056:::T[COMPANY]:0.0056:::T[ORGANISATION]:0.0042:::T[UNIVERSITY]:0:::
+SW[NULL]:0.9644:::SW[of]:0.0209:::SW[and]:0.0087:::SW[in]:0.0032:::SW[du]:0.0008:::SW[on]:0.0008:::
+DICT[Y]:0.7655:::DICT[N]:0.2345:::
+Active Evidence: 1234.7817
+Evidence: 1330.0
+========================
+Token: Award
+ID: award
+L[PERSON]:0.4592:::L[AWARD]:0.1548:::L[COMPANY]:0.1058:::L[PLACE]:0.1046:::L[ORGANISATION]:0.0587:::L[PERIODICAL_LITERATURE]:0.0305:::
+R[EMPTY]:0.995:::R[PERSON]:0.0024:::R[AWARD]:0.0014:::R[ORGANISATION]:0.0006:::R[UNIVERSITY]:0.0006:::R[PERIODICAL_LITERATURE]:0.0001:::
+T[AWARD]:0.9843:::T[COMPANY]:0.0064:::T[OTHER]:0.0029:::T[UNIVERSITY]:0.0017:::T[EVENT]:0.0017:::T[MUSEUM]:0.0017:::
+SW[NULL]:0.8921:::SW[of]:0.0562:::SW[and]:0.0201:::SW[a]:0.0117:::SW[in]:0.005:::SW[for]:0.0034:::
+DICT[Y]:0.5946:::DICT[N]:0.4054:::
+Active Evidence: 596.049
+Evidence: 625.0
+========================
+Token: Award for
+ID: award for
+L[AWARD]:0.3245:::L[PERSON]:0.2157:::L[PLACE]:0.1619:::L[ORGANISATION]:0.121:::L[EVENT]:0.0457:::L[COMPANY]:0.0424:::
+R[PERSON]:0.3802:::R[AWARD]:0.2343:::R[COMPANY]:0.1062:::R[PLACE]:0.1:::R[ORGANISATION]:0.0631:::R[PERIODICAL_LITERATURE]:0.0412:::
+T[AWARD]:0.9998:::T[OTHER]:0.0002:::T[ORGANISATION]:0:::
+SW[for]:0.801:::SW[in]:0.1277:::SW[of]:0.0572:::SW[a]:0.0078:::SW[to]:0.0031:::SW[and]:0.0015:::
+DICT[Y]:0.9953:::DICT[N]:0.0047:::
+Active Evidence: 699.0855
+Evidence: 771.0
+========================
+Token: Prize
+ID: prize
+L[PERSON]:0.43:::L[AWARD]:0.1766:::L[PLACE]:0.135:::L[COMPANY]:0.0686:::L[EVENT]:0.0294:::L[EMPTY]:0.0287:::
+R[EMPTY]:0.9928:::R[ORGANISATION]:0.0042:::R[AWARD]:0.001:::R[COMPANY]:0.001:::R[PERSON]:0.001:::R[PERIODICAL_LITERATURE]:0:::
+T[AWARD]:0.9389:::T[OTHER]:0.0287:::T[EVENT]:0.0282:::T[ISLAND]:0.0042:::T[COMPANY]:0:::
+SW[NULL]:0.9795:::SW[for]:0.0042:::SW[of]:0.0042:::SW[de]:0.0042:::SW[a]:0.004:::SW[to]:0.004:::
+DICT[N]:0.572:::DICT[Y]:0.428:::
+Active Evidence: 239.20557
+Evidence: 253.0
+========================
+Token: Medal
+ID: medal
+L[PERSON]:0.6069:::L[AWARD]:0.1908:::L[PLACE]:0.0936:::L[COMPANY]:0.0388:::L[BUILDING]:0.0165:::L[EMPTY]:0.0151:::
+R[EMPTY]:0.9914:::R[COMPANY]:0.0041:::R[DISEASE]:0.0041:::R[AWARD]:0.0005:::R[PLACE]:0:::R[PERSON]:0:::
+T[AWARD]:0.962:::T[EVENT]:0.0166:::T[OTHER]:0.0151:::T[PERSON]:0.0063:::T[COMPANY]:0:::T[PLACE]:0:::
+SW[NULL]:0.9764:::SW[of]:0.0153:::SW[to]:0.0083:::
+DICT[N]:0.671:::DICT[Y]:0.329:::
+Active Evidence: 120.44117
+Evidence: 131.0
+========================
+Token: Bouchercon
+ID: bouchercon
+L[EMPTY]:1:::
+R[AWARD]:0.3705:::R[EVENT]:0.2963:::R[ORGANISATION]:0.2223:::R[PLACE]:0.037:::R[UNIVERSITY]:0.037:::R[PERSON]:0.037:::
+T[AWARD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 26.994188
+Evidence: 27.0
+========================
+Token: Awards for
+ID: awards for
+L[PLACE]:0.8182:::L[PERSON]:0.0889:::L[ORGANISATION]:0.0383:::L[COMPANY]:0.0294:::L[AWARD]:0.0252:::
+R[AWARD]:0.2854:::R[PERSON]:0.2836:::R[COMPANY]:0.2049:::R[PLACE]:0.0893:::R[PERIODICAL_LITERATURE]:0.0382:::R[ORGANISATION]:0.0255:::
+T[AWARD]:0.9619:::T[COMPANY]:0.0381:::
+SW[for]:0.9622:::SW[and]:0.0378:::
+DICT[Y]:0.9706:::DICT[N]:0.0294:::
+Active Evidence: 26.120773
+Evidence: 27.0
+========================
+Token: Year
+ID: year
+L[AWARD]:0.2886:::L[EMPTY]:0.1979:::L[ORGANISATION]:0.1869:::L[PLACE]:0.0922:::L[PERSON]:0.0753:::L[EVENT]:0.0717:::
+R[EMPTY]:0.9796:::R[PERSON]:0.0128:::R[AWARD]:0.0046:::R[COMPANY]:0.0025:::R[PERIODICAL_LITERATURE]:0.0005:::R[UNIVERSITY]:0:::
+T[AWARD]:0.771:::T[OTHER]:0.1955:::T[ORGANISATION]:0.0117:::T[EVENT]:0.0098:::T[COMPANY]:0.0074:::T[PERIODICAL_LITERATURE]:0.0046:::
+SW[of]:0.6181:::SW[NULL]:0.2075:::SW[for]:0.1695:::SW[ibn]:0.0049:::SW[and]:0:::
+DICT[Y]:0.7407:::DICT[N]:0.2593:::
+Active Evidence: 203.7599
+Evidence: 353.0
+========================
+Token: Awards of
+ID: awards of
+L[PERSON]:0.6362:::L[EMPTY]:0.1465:::L[PLACE]:0.112:::L[AWARD]:0.0979:::L[COMPANY]:0.0074:::
+R[AWARD]:0.8392:::R[EMPTY]:0.1465:::R[PLACE]:0.0143:::
+T[AWARD]:0.8535:::T[OTHER]:0.1465:::
+SW[of]:0.8535:::SW[NULL]:0.1465:::
+DICT[N]:0.971:::DICT[Y]:0.029:::
+Active Evidence: 69.94221
+Evidence: 104.0
+========================
+Token: Premios
+ID: premios
+L[EMPTY]:0.9185:::L[PLACE]:0.0815:::
+R[PERSON]:0.3505:::R[AWARD]:0.3483:::R[PLACE]:0.1506:::R[ORGANISATION]:0.0744:::R[COMPANY]:0.0449:::R[EVENT]:0.0308:::
+T[AWARD]:0.9994:::T[ORGANISATION]:0.0006:::
+SW[for]:0.6206:::SW[NULL]:0.3794:::
+DICT[Y]:0.6509:::DICT[N]:0.3491:::
+Active Evidence: 33.633347
+Evidence: 45.0
+========================
+Token: Prize for
+ID: prize for
+L[PERSON]:0.5032:::L[COMPANY]:0.1495:::L[AWARD]:0.1206:::L[ORGANISATION]:0.0688:::L[EVENT]:0.0599:::L[PLACE]:0.0542:::
+R[PERIODICAL_LITERATURE]:0.3921:::R[AWARD]:0.1339:::R[PLACE]:0.1259:::R[UNIVERSITY]:0.0994:::R[COMPANY]:0.0957:::R[ORGANISATION]:0.0826:::
+T[AWARD]:0.9704:::T[COMPANY]:0.0296:::
+SW[for]:0.762:::SW[and]:0.0881:::SW[in]:0.0681:::SW[bin]:0.0302:::SW[NULL]:0.0302:::SW[of]:0.021:::
+DICT[Y]:0.9101:::DICT[N]:0.0899:::
+Active Evidence: 33.12331
+Evidence: 44.0
+========================
+Token: Prize in
+ID: prize in
+L[PERSON]:0.4393:::L[PLACE]:0.2466:::L[COMPANY]:0.1014:::L[AWARD]:0.0901:::L[EMPTY]:0.0338:::L[BUILDING]:0.0338:::
+R[PERIODICAL_LITERATURE]:0.4142:::R[PERSON]:0.1805:::R[COMPANY]:0.135:::R[THEATRE]:0.0676:::R[AWARD]:0.0675:::R[UNIVERSITY]:0.0675:::
+T[AWARD]:0.9662:::T[OTHER]:0.0338:::
+SW[in]:0.8787:::SW[and]:0.0674:::SW[NULL]:0.0338:::SW[of]:0.02:::
+DICT[Y]:0.7633:::DICT[N]:0.2367:::
+Active Evidence: 14.775652
+Evidence: 16.0
+========================
+Token: Outstanding
+ID: outstanding
+L[AWARD]:0.3718:::L[COMPANY]:0.1825:::L[PERSON]:0.1469:::L[PLACE]:0.1418:::L[ORGANISATION]:0.0779:::L[EMPTY]:0.0428:::
+R[AWARD]:0.3813:::R[COMPANY]:0.1352:::R[PERSON]:0.1151:::R[PLACE]:0.1119:::R[ORGANISATION]:0.0989:::R[EVENT]:0.0759:::
+T[AWARD]:0.9855:::T[OTHER]:0.0143:::T[UNIVERSITY]:0.0002:::
+SW[for]:0.9081:::SW[NULL]:0.063:::SW[in]:0.0285:::SW[of]:0.0004:::
+DICT[Y]:0.9857:::DICT[N]:0.0143:::
+Active Evidence: 34.904625
+Evidence: 103.0
+========================
+Token: Arena for
+ID: arena for
+L[PLACE]:0.9445:::L[PERSON]:0.0555:::
+R[PERSON]:0.4256:::R[AWARD]:0.2398:::R[COMPANY]:0.2047:::R[EVENT]:0.1299:::
+T[AWARD]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.954918
+Evidence: 10.0
+========================
+Token: Critics
+ID: critics
+L[EVENT]:0.3235:::L[PERSON]:0.19:::L[AWARD]:0.19:::L[PLACE]:0.1277:::L[EMPTY]:0.0865:::L[ORGANISATION]:0.0717:::
+R[AWARD]:0.6103:::R[ORGANISATION]:0.2488:::R[EMPTY]:0.1028:::R[PLACE]:0.0329:::R[EVENT]:0.0052:::R[PERSON]:0:::
+T[AWARD]:0.9279:::T[OTHER]:0.0709:::T[ORGANISATION]:0.0012:::
+SW[NULL]:0.8347:::SW[of]:0.1653:::SW[for]:0:::
+DICT[Y]:0.8982:::DICT[N]:0.1018:::
+Active Evidence: 25.846292
+Evidence: 65.0
+========================
+Token: Caldecott
+ID: caldecott
+L[EMPTY]:0.9192:::L[PERSON]:0.0065:::
+R[EMPTY]:1:::R[AWARD]:0:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[AWARD]:0.9192:::T[PERSON]:0.0065:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0807:::DICT[Y]:0:::
+Active Evidence: 12.479529
+Evidence: 21.4716
+========================
+Token: Award in
+ID: award in
+L[PERSON]:0.5873:::L[COMPANY]:0.1925:::L[PLACE]:0.1257:::L[AWARD]:0.0945:::
+R[AWARD]:0.387:::R[PERIODICAL_LITERATURE]:0.3147:::R[COMPANY]:0.1326:::R[HOSPITAL]:0.0981:::R[UNIVERSITY]:0.0676:::
+T[AWARD]:1:::
+SW[in]:0.7944:::SW[and]:0.1075:::SW[the]:0.0981:::
+DICT[N]:0.5038:::DICT[Y]:0.4962:::
+Active Evidence: 7.3928514
+Evidence: 8.0
+========================
+Token: Headies
+ID: headies
+L[EMPTY]:1:::
+R[AWARD]:0.8571:::R[EMPTY]:0.1429:::
+T[AWARD]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 7.0
+Evidence: 7.0
+========================
+Token: Emmie
+ID: emmie
+L[EMPTY]:1:::
+R[EMPTY]:0.8139:::R[PERSON]:0.0187:::
+T[AWARD]:0.6929:::T[PERSON]:0.1646:::
+SW[NULL]:1:::
+DICT[N]:0.1861:::
+Active Evidence: 10.994929
+Evidence: 11.949
+========================
+Token: Heisman
+ID: heisman
+L[EMPTY]:0.9999:::L[PERSON]:0:::L[EVENT]:0:::
+R[EMPTY]:0.9999:::R[EVENT]:0:::R[AWARD]:0:::
+T[AWARD]:0.9243:::T[OTHER]:0.0106:::T[PERSON]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.0757:::DICT[Y]:0.0001:::
+Active Evidence: 6.6125975
+Evidence: 11.1116
+========================
+Token: Ninfa
+ID: ninfa
+L[EMPTY]:0.9998:::L[PLACE]:0:::
+R[EMPTY]:0.8329:::R[PERSON]:0.0243:::R[PLACE]:0.0019:::
+T[AWARD]:0.8327:::T[PERSON]:0.0262:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1673:::
+Active Evidence: 6.4612536
+Evidence: 9.3804
+========================
+Token: Award of
+ID: award of
+L[PERSON]:0.4431:::L[PLACE]:0.2037:::L[COMPANY]:0.1945:::L[AWARD]:0.1583:::L[EVENT]:0.0004:::
+R[PERSON]:0.5379:::R[AWARD]:0.2806:::R[UNIVERSITY]:0.1806:::R[ORGANISATION]:0.0006:::R[PERIODICAL_LITERATURE]:0.0003:::
+T[AWARD]:1:::
+SW[of]:0.8185:::SW[da]:0.1806:::SW[the]:0.0009:::
+DICT[Y]:1:::
+Active Evidence: 4.6468196
+Evidence: 6.0
+========================
+Token: Medal for
+ID: medal for
+L[COMPANY]:0.4425:::L[PERSON]:0.3835:::L[PLACE]:0.087:::L[AWARD]:0.087:::
+R[AWARD]:0.4154:::R[COMPANY]:0.3375:::R[PERIODICAL_LITERATURE]:0.21:::R[PLACE]:0.0361:::R[UNIVERSITY]:0.001:::
+T[AWARD]:1:::
+SW[for]:0.3857:::SW[and]:0.3167:::SW[in]:0.2976:::
+DICT[Y]:0.9987:::DICT[N]:0.0013:::
+Active Evidence: 4.6816278
+Evidence: 8.0
+========================
+Token: Competition
+ID: competition
+L[COMPANY]:0.2584:::L[PLACE]:0.251:::L[EMPTY]:0.19:::L[PERSON]:0.078:::L[ORGANISATION]:0.0717:::L[UNIVERSITY]:0.0634:::
+R[EMPTY]:0.9603:::R[COMPANY]:0.0396:::R[GOVAGENCY]:0:::R[PLACE]:0:::R[UNIVERSITY]:0:::R[AWARD]:0:::
+T[AWARD]:0.3554:::T[ORGANISATION]:0.208:::T[OTHER]:0.1504:::T[EVENT]:0.1284:::T[COMPANY]:0.079:::T[PERIODICAL_LITERATURE]:0.0395:::
+SW[NULL]:0.9505:::SW[and]:0.0495:::SW[of]:0:::SW[for]:0:::
+DICT[Y]:0.5949:::DICT[N]:0.4051:::
+Active Evidence: 25.32269
+Evidence: 51.0
+========================
+Token: Famas
+ID: famas
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[AWARD]:0:::R[PERSON]:0:::R[PERIODICAL_LITERATURE]:0:::R[COMPANY]:0:::
+T[AWARD]:0.5406:::T[OTHER]:0.4594:::
+SW[NULL]:1:::SW[for]:0:::
+DICT[Y]:0:::
+Active Evidence: 8.8202095
+Evidence: 15.8202
+========================
+Token: Anugerah
+ID: anugerah
+L[EMPTY]:0.9459:::L[AWARD]:0.0541:::
+R[ORGANISATION]:0.3724:::R[EMPTY]:0.1872:::R[PLACE]:0.1647:::R[COMPANY]:0.1111:::R[EVENT]:0.0971:::R[AWARD]:0.0676:::
+T[AWARD]:0.8128:::T[OTHER]:0.1872:::
+SW[NULL]:1:::
+DICT[N]:0.5842:::DICT[Y]:0.4158:::
+Active Evidence: 4.8966317
+Evidence: 8.0
+========================
+Token: Espy
+ID: espy
+L[EMPTY]:0.9992:::L[PERSON]:0.0001:::L[ORGANISATION]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.9991:::R[PLACE]:0.0001:::R[PERSON]:0:::R[AWARD]:0:::
+T[AWARD]:0.8538:::T[PERSON]:0.021:::T[BUILDING]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.1453:::DICT[Y]:0.0009:::
+Active Evidence: 6.91866
+Evidence: 20.9072
+========================
+Token: Medal of
+ID: medal of
+L[EMPTY]:0.554:::L[ORGANISATION]:0.2053:::L[PERSON]:0.0901:::L[COMPANY]:0.0879:::L[AWARD]:0.0441:::L[PLACE]:0.0186:::
+R[EMPTY]:0.4653:::R[PERSON]:0.2599:::R[AWARD]:0.1353:::R[ORGANISATION]:0.0882:::R[UNIVERSITY]:0.0415:::R[BUILDING]:0.0093:::
+T[AWARD]:0.516:::T[OTHER]:0.4653:::T[MONUMENT]:0.0186:::
+SW[NULL]:0.554:::SW[of]:0.4432:::SW[a]:0.0021:::SW[and]:0.0006:::SW[the]:0.0001:::
+DICT[N]:0.5944:::DICT[Y]:0.4056:::
+Active Evidence: 11.281917
+Evidence: 28.0
+========================
+Token: Medallion
+ID: medallion
+L[PERSON]:0.4346:::L[EMPTY]:0.305:::L[BUILDING]:0.0868:::L[PLACE]:0.0579:::L[ORGANISATION]:0.0579:::L[PERIODICAL_LITERATURE]:0.0579:::
+R[EMPTY]:0.9995:::R[AIRLINE]:0.0004:::R[EVENT]:0.0001:::
+T[AWARD]:0.695:::T[OTHER]:0.3045:::T[AIRLINE]:0.0004:::T[ORGANISATION]:0.0001:::T[EVENT]:0:::
+SW[NULL]:0.826:::SW[da]:0.174:::
+DICT[N]:0.6523:::DICT[Y]:0.3477:::
+Active Evidence: 5.747676
+Evidence: 12.0
+========================
+Token: Prize of
+ID: prize of
+L[EMPTY]:0.4308:::L[PERSON]:0.2871:::L[PLACE]:0.2821:::
+R[PLACE]:0.3803:::R[ORGANISATION]:0.2367:::R[EMPTY]:0.1436:::R[AWARD]:0.1436:::R[PERSON]:0.0957:::
+T[AWARD]:0.8564:::T[OTHER]:0.1436:::
+SW[the]:0.8564:::SW[NULL]:0.1436:::
+DICT[Y]:0.8564:::DICT[N]:0.1436:::
+Active Evidence: 3.4818072
+Evidence: 4.0
+========================
+Token: Actress
+ID: actress
+L[AWARD]:0.4379:::L[PERSON]:0.2629:::L[PLACE]:0.0882:::L[EVENT]:0.0655:::L[EMPTY]:0.0529:::L[COMPANY]:0.0356:::
+R[EMPTY]:0.9806:::R[AWARD]:0.0095:::R[ORGANISATION]:0.0075:::R[PLACE]:0.0021:::R[PERSON]:0.0001:::R[PERIODICAL_LITERATURE]:0.0001:::
+T[AWARD]:0.9471:::T[OTHER]:0.0529:::
+SW[for]:0.9471:::SW[NULL]:0.0529:::
+DICT[Y]:0.9471:::DICT[N]:0.0529:::
+Active Evidence: 9.443314
+Evidence: 53.0
+========================
+Token: Principales for
+ID: principales for
+L[AWARD]:0.7287:::L[PLACE]:0.2713:::
+R[PERSON]:0.4057:::R[EVENT]:0.211:::R[PLACE]:0.1571:::R[COMPANY]:0.1502:::R[AWARD]:0.0479:::R[THEATRE]:0.0233:::
+T[AWARD]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.014419
+Evidence: 27.0
+========================
+Token: Scholarship
+ID: scholarship
+L[PERSON]:0.4219:::L[AWARD]:0.2645:::L[EMPTY]:0.2471:::L[PLACE]:0.0661:::L[ORGANISATION]:0.0004:::L[PERIODICAL_LITERATURE]:0:::
+R[EMPTY]:0.819:::R[PLACE]:0.181:::R[COMPANY]:0:::R[ORGANISATION]:0:::
+T[AWARD]:0.595:::T[COMPANY]:0.181:::T[ORGANISATION]:0.1579:::T[OTHER]:0.0661:::
+SW[NULL]:0.8007:::SW[of]:0.1983:::SW[a]:0.001:::SW[for]:0:::
+DICT[N]:0.8421:::DICT[Y]:0.1579:::
+Active Evidence: 5.0410323
+Evidence: 10.0
+========================
+Token: Actor
+ID: actor
+L[EMPTY]:0.9421:::L[PERSON]:0.0058:::L[AWARD]:0:::L[PLACE]:0:::L[EVENT]:0:::L[PERIODICAL_LITERATURE]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::R[AWARD]:0:::R[PLACE]:0:::R[PERSON]:0:::
+T[AWARD]:0.4316:::T[ORGANISATION]:0.078:::T[OTHER]:0.0439:::T[PERSON]:0.0058:::T[UNIVERSITY]:0:::
+SW[NULL]:0.9421:::SW[the]:0.0058:::SW[for]:0:::
+DICT[N]:0.4904:::DICT[Y]:0.0004:::
+Active Evidence: 17.402372
+Evidence: 72.8622
+========================
+Token: Porin
+ID: porin
+L[EMPTY]:1:::
+R[EMPTY]:0.8369:::R[UNIVERSITY]:0.0429:::R[ORGANISATION]:0.0025:::
+T[AWARD]:0.4002:::T[OTHER]:0.1214:::T[UNIVERSITY]:0.0429:::T[ORGANISATION]:0.0025:::
+SW[NULL]:1:::
+DICT[N]:0.5998:::
+Active Evidence: 6.488253
+Evidence: 11.5964
+========================
+Token: Crafoord
+ID: crafoord
+L[EMPTY]:0.9991:::L[PERSON]:0.0002:::
+R[EMPTY]:1:::R[AWARD]:0:::
+T[AWARD]:0.9991:::T[PERSON]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:0.0009:::DICT[Y]:0:::
+Active Evidence: 3.0136287
+Evidence: 7.0108004
+========================
+Token: Guldbagge
+ID: guldbagge
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[AWARD]:0:::R[PERSON]:0:::R[PLACE]:0:::R[COMPANY]:0:::R[EVENT]:0:::
+T[AWARD]:1:::
+SW[NULL]:1:::SW[for]:0:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 3.124216
+Evidence: 10.1242
+========================
+Token: Emet
+ID: emet
+L[EMPTY]:0.7454:::L[PERSON]:0.0867:::L[BUILDING]:0.0001:::
+R[EMPTY]:0.7452:::R[BUILDING]:0.0865:::R[PERSON]:0.0001:::R[UNIVERSITY]:0.0001:::R[PERIODICAL_LITERATURE]:0.0001:::R[AWARD]:0.0001:::
+T[AWARD]:0.4917:::T[PERSON]:0.0867:::T[BUILDING]:0.0866:::
+SW[NULL]:0.999:::SW[for]:0.0003:::
+DICT[Y]:0.2548:::DICT[N]:0.2546:::
+Active Evidence: 3.9409895
+Evidence: 7.9336
+========================
+Token: Apra
+ID: apra
+L[EMPTY]:1:::L[AWARD]:0:::
+R[AWARD]:0.5906:::R[COMPANY]:0.2953:::R[EVENT]:0.1141:::R[PLACE]:0:::
+T[AWARD]:0.8859:::T[EVENT]:0.1141:::
+SW[of]:0.8858:::SW[NULL]:0.1142:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 3.3507128
+Evidence: 14.0
+========================
+Token: Foxe
+ID: foxe
+L[EMPTY]:0.5127:::L[PERSON]:0.1419:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[AWARD]:0.5127:::T[PERSON]:0.1419:::T[ISLAND]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4869:::DICT[Y]:0.0004:::
+Active Evidence: 4.7452493
+Evidence: 14.433001
+========================
+Token: Emmy
+ID: emmy
+L[EMPTY]:0.9998:::L[PERSON]:0:::L[AWARD]:0:::L[PLACE]:0:::L[ORGANISATION]:0:::L[COMPANY]:0:::
+R[EMPTY]:0.2592:::R[PERSON]:0.0823:::R[PLACE]:0.0037:::R[AWARD]:0:::R[COMPANY]:0:::R[ORGANISATION]:0:::
+T[AWARD]:0.2432:::T[PERSON]:0.086:::T[OTHER]:0.0019:::
+SW[NULL]:1:::SW[for]:0:::
+DICT[N]:0.671:::DICT[Y]:0.0859:::
+Active Evidence: 31.341702
+Evidence: 192.6188
+========================
+Token: Samman
+ID: samman
+L[AWARD]:0.6874:::L[PERSON]:0.3126:::
+R[EMPTY]:1:::
+T[AWARD]:0.9997:::T[PERSON]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:0.5317:::DICT[Y]:0.4683:::
+Active Evidence: 1.8820107
+Evidence: 5.0
+========================
+Token: Supporting
+ID: supporting
+L[PERSON]:0.5804:::L[AWARD]:0.2403:::L[EVENT]:0.0715:::L[COMPANY]:0.0409:::L[PLACE]:0.0259:::L[ORGANISATION]:0.0212:::
+R[AWARD]:0.4484:::R[PLACE]:0.2524:::R[ORGANISATION]:0.1525:::R[EVENT]:0.1434:::R[PERIODICAL_LITERATURE]:0.0017:::R[COMPANY]:0.001:::
+T[AWARD]:1:::T[PLACE]:0:::
+SW[for]:0.596:::SW[in]:0.404:::SW[NULL]:0:::
+DICT[Y]:1:::
+Active Evidence: 4.7076335
+Evidence: 64.0
+========================
+Token: Iifa
+ID: iifa
+L[EMPTY]:1:::
+R[EMPTY]:0.9993:::R[AWARD]:0.0002:::R[PLACE]:0.0001:::R[PERSON]:0:::R[ORGANISATION]:0:::R[COMPANY]:0:::
+T[AWARD]:1:::
+SW[NULL]:0.9993:::SW[for]:0.0003:::
+DICT[Y]:0.0007:::
+Active Evidence: 1.7428787
+Evidence: 8.7416
+========================
+Token: Scholars
+ID: scholars
+L[PERSON]:0.4399:::L[UNIVERSITY]:0.2884:::L[PERIODICAL_LITERATURE]:0.143:::L[EMPTY]:0.1268:::L[ORGANISATION]:0.0007:::L[PLACE]:0.0006:::
+R[EMPTY]:0.8652:::R[COMPANY]:0.1274:::R[ORGANISATION]:0.0073:::R[UNIVERSITY]:0:::R[EVENT]:0:::
+T[AWARD]:0.5816:::T[UNIVERSITY]:0.3362:::T[ORGANISATION]:0.0821:::T[COMPANY]:0.0001:::
+SW[NULL]:0.7091:::SW[for]:0.2908:::SW[of]:0.0002:::
+DICT[N]:0.7111:::DICT[Y]:0.2889:::
+Active Evidence: 3.466224
+Evidence: 23.0
+========================
+Token: North-west
+ID: north-west
+L[EMPTY]:0.9905:::L[PLACE]:0.0093:::L[EVENT]:0.0002:::L[LEGISLATURE]:0:::L[GOVAGENCY]:0:::
+R[UNIVERSITY]:0.2894:::R[EVENT]:0.2188:::R[PLACE]:0.2175:::R[AWARD]:0.2162:::R[EMPTY]:0.0572:::R[COMPANY]:0.0006:::
+T[AWARD]:0.6487:::T[COMPANY]:0.2897:::T[OTHER]:0.0481:::T[PLACE]:0.0102:::T[EVENT]:0.0029:::T[UNIVERSITY]:0.0003:::
+SW[of]:0.649:::SW[NULL]:0.351:::SW[in]:0:::
+DICT[Y]:1:::
+Active Evidence: 2.9728715
+Evidence: 19.0
+========================
+Token: Grammy
+ID: grammy
+L[EMPTY]:0.9987:::L[COMPANY]:0.0001:::L[PLACE]:0.0001:::L[PERIODICAL_LITERATURE]:0:::L[AWARD]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.9938:::R[AWARD]:0.0003:::R[PERSON]:0.0002:::R[COMPANY]:0.0001:::R[PLACE]:0.0001:::R[DISEASE]:0:::
+T[AWARD]:0.9476:::T[OTHER]:0.0063:::T[COMPANY]:0.0001:::T[MUSEUM]:0:::
+SW[NULL]:0.9945:::SW[for]:0.0006:::SW[of]:0:::
+DICT[N]:0.0526:::DICT[Y]:0.0059:::
+Active Evidence: 7.5947475
+Evidence: 250.15039
+========================
+Token: Devotion
+ID: devotion
+L[EMPTY]:0.4148:::L[AWARD]:0.3511:::L[PERSON]:0.2341:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[AWARD]:0.5851:::T[OTHER]:0.4148:::T[BUILDING]:0:::T[PLACE]:0:::
+SW[for]:0.5851:::SW[NULL]:0.4149:::
+DICT[Y]:0.5852:::DICT[N]:0.4148:::
+Active Evidence: 1.6874735
+Evidence: 5.0
+========================
+Token: Title of
+ID: title of
+L[EMPTY]:1:::L[AWARD]:0:::
+R[PERSON]:0.6388:::R[EMPTY]:0.3612:::R[AWARD]:0:::
+T[AWARD]:0.6388:::T[OTHER]:0.3612:::
+SW[NULL]:1:::SW[for]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.3843536
+Evidence: 3.0
+========================
+Token: Honors
+ID: honors
+L[UNIVERSITY]:0.3364:::L[PLACE]:0.2481:::L[COMPANY]:0.1746:::L[PERSON]:0.15:::L[PERIODICAL_LITERATURE]:0.0762:::L[ORGANISATION]:0.0141:::
+R[EMPTY]:0.4661:::R[UNIVERSITY]:0.3366:::R[AWARD]:0.1968:::R[PLACE]:0.0005:::R[ORGANISATION]:0:::R[COMPANY]:0:::
+T[AWARD]:0.6628:::T[UNIVERSITY]:0.3227:::T[BUILDING]:0.0138:::T[PLACE]:0.0005:::T[PERSON]:0.0001:::T[ORGANISATION]:0:::
+SW[NULL]:0.6778:::SW[the]:0.3222:::SW[of]:0:::
+DICT[Y]:0.6864:::DICT[N]:0.3136:::
+Active Evidence: 2.6360633
+Evidence: 26.0
+========================
+Token: Jandal
+ID: jandal
+L[AWARD]:0.9999:::L[EVENT]:0.0001:::
+R[EMPTY]:1:::
+T[AWARD]:0.9999:::T[EVENT]:0.0001:::
+SW[the]:0.9999:::SW[of]:0.0001:::
+DICT[Y]:1:::
+Active Evidence: 1.0001234
+Evidence: 2.0
+========================
+Token: Excellence in
+ID: excellence in
+L[PERSON]:0.32:::L[EMPTY]:0.2316:::L[ORGANISATION]:0.2094:::L[AWARD]:0.1862:::L[BUILDING]:0.0477:::L[UNIVERSITY]:0.005:::
+R[UNIVERSITY]:0.2516:::R[AWARD]:0.2347:::R[EMPTY]:0.2316:::R[ORGANISATION]:0.23:::R[COMPANY]:0.0411:::R[PERIODICAL_LITERATURE]:0.0075:::
+T[AWARD]:0.5065:::T[OTHER]:0.2316:::T[ORGANISATION]:0.2132:::T[UNIVERSITY]:0.0483:::T[COMPANY]:0.0004:::
+SW[for]:0.7035:::SW[NULL]:0.2316:::SW[of]:0.0477:::SW[in]:0.0172:::
+DICT[Y]:0.7088:::DICT[N]:0.2912:::
+Active Evidence: 2.1591296
+Evidence: 16.0
+========================
+Token: Badge
+ID: badge
+L[PERSON]:0.5363:::L[EMPTY]:0.2366:::L[DISEASE]:0.189:::L[UNIVERSITY]:0.0381:::
+R[EMPTY]:0.9876:::R[PERSON]:0.0124:::
+T[AWARD]:0.3781:::T[PERSON]:0.3596:::T[OTHER]:0.2242:::T[UNIVERSITY]:0.0381:::
+SW[NULL]:1:::
+DICT[N]:0.5838:::DICT[Y]:0.4162:::
+Active Evidence: 1.486527
+Evidence: 6.0
+========================
+Token: Heyman
+ID: heyman
+L[PERSON]:0.6689:::L[EMPTY]:0.3311:::
+R[AWARD]:0.4414:::R[EMPTY]:0.3379:::R[PLACE]:0.2207:::
+T[AWARD]:0.6621:::T[OTHER]:0.3311:::T[PERSON]:0.0068:::
+SW[to]:0.6621:::SW[NULL]:0.3379:::SW[a]:0:::
+DICT[Y]:0.6664:::DICT[N]:0.3336:::
+Active Evidence: 1.510192
+Evidence: 28.0
+========================
+Token: Bowerman
+ID: bowerman
+L[EMPTY]:0.9967:::L[PERSON]:0.0033:::
+R[EMPTY]:0.9974:::R[PLACE]:0.0019:::R[BUILDING]:0.0006:::R[AIRPORT]:0.0001:::
+T[AWARD]:0.9941:::T[PERSON]:0.0033:::T[BUILDING]:0.0019:::T[PLACE]:0.0006:::T[AIRPORT]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.997:::DICT[Y]:0.003:::
+Active Evidence: 1.0059364
+Evidence: 19.0
+========================
+Token: Actor in
+ID: actor in
+L[COMPANY]:0.4129:::L[PERSON]:0.4105:::L[AWARD]:0.1204:::L[PLACE]:0.0354:::L[EVENT]:0.0139:::L[ORGANISATION]:0.0056:::
+R[EVENT]:0.4019:::R[ORGANISATION]:0.3958:::R[PLACE]:0.1126:::R[AWARD]:0.0392:::R[COMPANY]:0.0264:::R[PERIODICAL_LITERATURE]:0.0184:::
+T[AWARD]:1:::
+SW[a]:0.7351:::SW[for]:0.2649:::
+DICT[Y]:1:::
+Active Evidence: 1.3700148
+Evidence: 50.0
+========================
+Token: Actress in
+ID: actress in
+L[EMPTY]:0.3364:::L[PERSON]:0.3237:::L[COMPANY]:0.309:::L[AWARD]:0.023:::L[EVENT]:0.0036:::L[ORGANISATION]:0.0019:::
+R[EMPTY]:0.3364:::R[ORGANISATION]:0.318:::R[EVENT]:0.3179:::R[PLACE]:0.0161:::R[PERIODICAL_LITERATURE]:0.0044:::R[COMPANY]:0.0037:::
+T[AWARD]:0.6636:::T[OTHER]:0.3364:::
+SW[a]:0.631:::SW[NULL]:0.3364:::SW[for]:0.0327:::
+DICT[Y]:0.6636:::DICT[N]:0.3364:::
+Active Evidence: 1.4865291
+Evidence: 42.0
+========================
+Token: Disque for
+ID: disque for
+L[PLACE]:0.5:::L[EVENT]:0.5:::
+R[COMPANY]:0.3777:::R[PLACE]:0.2446:::R[BUILDING]:0.1918:::R[AWARD]:0.1859:::
+T[AWARD]:1:::
+SW[du]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.35430437
+Evidence: 3.0
+========================
+Token: Screenplay
+ID: screenplay
+L[PERSON]:0.3333:::L[AWARD]:0.3329:::L[PLACE]:0.2009:::L[EVENT]:0.1275:::L[UNIVERSITY]:0.0029:::L[ORGANISATION]:0.0021:::
+R[EMPTY]:1:::
+T[AWARD]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.13976519
+Evidence: 13.0
+========================
+Token: Nanotechnology
+ID: nanotechnology
+L[AWARD]:0.4062:::L[COMPANY]:0.3514:::L[PERIODICAL_LITERATURE]:0.1668:::L[UNIVERSITY]:0.0378:::L[PERSON]:0.0274:::L[PLACE]:0.0104:::
+R[EMPTY]:0.8493:::R[PERSON]:0.0753:::R[PERIODICAL_LITERATURE]:0.0753:::R[UNIVERSITY]:0:::
+T[AWARD]:0.8123:::T[PERIODICAL_LITERATURE]:0.1668:::T[UNIVERSITY]:0.0209:::
+SW[in]:0.8123:::SW[and]:0.1507:::SW[for]:0.0209:::SW[NULL]:0.01:::SW[of]:0.0061:::
+DICT[Y]:0.9791:::DICT[N]:0.0209:::
+Active Evidence: 0.02232462
+Evidence: 8.0
+========================
+Token: Achievement in
+ID: achievement in
+L[AWARD]:0.6229:::L[UNIVERSITY]:0.2977:::L[ORGANISATION]:0.0263:::L[LIBRARY]:0.0261:::L[PERIODICAL_LITERATURE]:0.0261:::L[PERSON]:0.0009:::
+R[UNIVERSITY]:0.8932:::R[THEATRE]:0.0524:::R[ORGANISATION]:0.0523:::R[PERIODICAL_LITERATURE]:0.0008:::R[COMPANY]:0.0006:::R[PLACE]:0.0003:::
+T[AWARD]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.014330502
+Evidence: 10.0
+========================
+Token: Feroz for
+ID: feroz for
+L[EVENT]:1:::
+R[PERSON]:0.4755:::R[COMPANY]:0.1785:::R[AWARD]:0.1247:::R[PLACE]:0.0808:::R[ORGANISATION]:0.0744:::R[PERIODICAL_LITERATURE]:0.033:::
+T[AWARD]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.015005975
+Evidence: 11.0
+========================
+Token: All-america
+ID: all-america
+L[ORGANISATION]:0.7505:::L[UNIVERSITY]:0.1645:::L[PERIODICAL_LITERATURE]:0.0785:::L[EMPTY]:0.0063:::L[EVENT]:0.0001:::
+R[PERSON]:0.586:::R[ORGANISATION]:0.3335:::R[EMPTY]:0.0785:::R[EVENT]:0.0019:::R[PLACE]:0.0001:::R[AWARD]:0.0001:::
+T[AWARD]:0.9937:::T[ORGANISATION]:0.0063:::
+SW[NULL]:0.9998:::SW[of]:0.0002:::
+DICT[Y]:1:::
+Active Evidence: 0.012934899
+Evidence: 9.0
+========================
+Token: Suncoast
+ID: suncoast
+L[EMPTY]:0.9999:::L[ROAD]:0.0001:::L[ORGANISATION]:0:::
+R[COMPANY]:0.9305:::R[ORGANISATION]:0.0492:::R[EVENT]:0.0154:::R[PLACE]:0.0048:::R[GOVAGENCY]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[AWARD]:0.9285:::T[ORGANISATION]:0.0471:::T[EVENT]:0.0154:::T[PLACE]:0.0048:::T[COMPANY]:0.0042:::
+SW[NULL]:1:::
+DICT[Y]:0.9507:::DICT[N]:0.0493:::
+Active Evidence: 0.0095992
+Evidence: 9.0
+========================
+Token: Students in
+ID: students in
+L[PERSON]:0.3226:::L[PERIODICAL_LITERATURE]:0.3226:::L[AWARD]:0.3226:::L[ORGANISATION]:0.0161:::L[EVENT]:0.0149:::L[COMPANY]:0.0012:::
+R[PLACE]:0.675:::R[GOVAGENCY]:0.3226:::R[PERIODICAL_LITERATURE]:0.0016:::R[PERSON]:0.0008:::
+T[AWARD]:0.9678:::T[ORGANISATION]:0.0322:::
+SW[and]:0.9678:::SW[of]:0.0322:::
+DICT[Y]:1:::
+Active Evidence: 0.005376846
+Evidence: 3.0
+========================
+Token: Cinematography
+ID: cinematography
+L[PERSON]:0.3453:::L[AWARD]:0.254:::L[PLACE]:0.2523:::L[UNIVERSITY]:0.1193:::L[THEATRE]:0.0273:::L[EVENT]:0.0015:::
+R[EMPTY]:1:::R[UNIVERSITY]:0:::
+T[AWARD]:0.7647:::T[UNIVERSITY]:0.2353:::
+SW[for]:0.7647:::SW[of]:0.2353:::SW[NULL]:0:::
+DICT[Y]:1:::
+Active Evidence: 0.0060295174
+Evidence: 8.0
+========================
+Token: Editing
+ID: editing
+L[PERSON]:0.2517:::L[EVENT]:0.2506:::L[AWARD]:0.2478:::L[PLACE]:0.2449:::L[UNIVERSITY]:0.0045:::L[ORGANISATION]:0.0005:::
+R[EMPTY]:1:::
+T[AWARD]:0.9921:::T[PERIODICAL_LITERATURE]:0.0079:::
+SW[for]:0.9921:::SW[NULL]:0.0079:::
+DICT[Y]:1:::
+Active Evidence: 0.0019386632
+Evidence: 5.0
+========================
+Token: Tvynovelas
+ID: tvynovelas
+L[EMPTY]:0.9996:::L[AWARD]:0.0004:::
+R[AWARD]:0.6857:::R[PERSON]:0.2615:::R[COMPANY]:0.0176:::R[PLACE]:0.0144:::R[DISEASE]:0.0092:::R[GOVAGENCY]:0.0083:::
+T[AWARD]:1:::
+SW[for]:0.9996:::SW[NULL]:0.0004:::
+DICT[Y]:0.9996:::DICT[N]:0.0004:::
+Active Evidence: 0.0014433434
+Evidence: 20.0
+========================
+Token: Shyamal
+ID: shyamal
+L[EMPTY]:1:::
+R[PERSON]:0.6704:::R[AWARD]:0.3296:::
+T[AWARD]:0.9887:::T[PERSON]:0.0113:::
+SW[NULL]:1:::
+DICT[Y]:0.9887:::DICT[N]:0.0113:::
+Active Evidence: 2.9707106E-4
+Evidence: 4.0
+========================
+Token: Biophysics
+ID: biophysics
+L[AWARD]:0.552:::L[PERSON]:0.276:::L[PERIODICAL_LITERATURE]:0.1713:::L[EVENT]:0.0007:::
+R[EMPTY]:0.9993:::R[PERIODICAL_LITERATURE]:0.0007:::
+T[AWARD]:0.828:::T[PERIODICAL_LITERATURE]:0.172:::
+SW[in]:0.828:::SW[of]:0.1713:::SW[NULL]:0.0007:::
+DICT[Y]:0.8488:::DICT[N]:0.1512:::
+Active Evidence: 2.9626E-4
+Evidence: 4.0
+========================
+Token: Teaching of
+ID: teaching of
+L[EMPTY]:0.3184:::L[AWARD]:0.2778:::L[UNIVERSITY]:0.1529:::L[PERSON]:0.1249:::L[PLACE]:0.0441:::L[COMPANY]:0.0441:::
+R[PERIODICAL_LITERATURE]:0.902:::R[UNIVERSITY]:0.0441:::R[GOVAGENCY]:0.0441:::R[COMPANY]:0.0098:::
+T[AWARD]:0.4996:::T[PERIODICAL_LITERATURE]:0.3184:::T[ORGANISATION]:0.182:::
+SW[and]:0.4996:::SW[NULL]:0.3184:::SW[for]:0.0938:::SW[on]:0.0882:::
+DICT[Y]:0.9062:::DICT[N]:0.0938:::
+Active Evidence: 2.288658E-4
+Evidence: 5.0
+========================
+Token: Sanskriti
+ID: sanskriti
+L[ORGANISATION]:0.6282:::L[EMPTY]:0.3718:::
+R[EMPTY]:0.6282:::R[MUSEUM]:0.3466:::R[PLACE]:0.0126:::R[UNIVERSITY]:0.0126:::
+T[AWARD]:0.6282:::T[MUSEUM]:0.3466:::T[UNIVERSITY]:0.0252:::
+SW[NULL]:1:::
+DICT[N]:0.9748:::DICT[Y]:0.0252:::
+Active Evidence: 3.0015546E-5
+Evidence: 3.0
+========================
+Token: Keithley
+ID: keithley
+L[PERSON]:0.5719:::L[COMPANY]:0.2738:::L[EMPTY]:0.1543:::
+R[AWARD]:0.5477:::R[PERIODICAL_LITERATURE]:0.2738:::R[RIVER]:0.1543:::R[EMPTY]:0.0242:::
+T[AWARD]:0.8215:::T[PLACE]:0.1543:::T[PERSON]:0.0242:::
+SW[in]:0.8215:::SW[NULL]:0.1785:::
+DICT[Y]:0.9851:::DICT[N]:0.0149:::
+Active Evidence: 2.327731E-5
+Evidence: 5.0
+========================
+Token: Aurealis
+ID: aurealis
+L[EMPTY]:1:::
+R[PERSON]:0.3816:::R[AWARD]:0.3363:::R[PLACE]:0.1324:::R[PERIODICAL_LITERATURE]:0.1034:::R[COMPANY]:0.0463:::
+T[AWARD]:1:::
+SW[for]:0.9886:::SW[NULL]:0.0114:::
+DICT[Y]:1:::
+Active Evidence: 2.5018093E-5
+Evidence: 15.0
+========================
+Token: Dimes
+ID: dimes
+L[PLACE]:0.7223:::L[PERSON]:0.2777:::
+R[EMPTY]:0.5162:::R[PERIODICAL_LITERATURE]:0.3225:::R[AWARD]:0.1613:::
+T[AWARD]:0.4838:::T[PERSON]:0.2777:::T[ORGANISATION]:0.2385:::
+SW[of]:0.7223:::SW[NULL]:0.2777:::
+DICT[Y]:0.7223:::DICT[N]:0.2777:::
+Active Evidence: 7.595649E-6
+Evidence: 3.0
+========================
+Token: Technologies and
+ID: technologies and
+L[PERSON]:0.5202:::L[PLACE]:0.1599:::L[COMPANY]:0.1599:::L[AWARD]:0.1599:::
+R[PERIODICAL_LITERATURE]:0.9596:::R[COMPANY]:0.0404:::
+T[AWARD]:0.9596:::T[PERIODICAL_LITERATURE]:0.0404:::
+SW[for]:0.9596:::SW[and]:0.0404:::
+DICT[Y]:1:::
+Active Evidence: 6.5533995E-6
+Evidence: 2.0
+========================
+Token: Woosnam
+ID: woosnam
+L[EMPTY]:0.8447:::L[PERSON]:0.1553:::
+R[EVENT]:0.8447:::R[EMPTY]:0.1553:::
+T[AWARD]:0.8447:::T[PERSON]:0.1553:::
+SW[NULL]:1:::
+DICT[Y]:0.9223:::DICT[N]:0.0777:::
+Active Evidence: 3.0197345E-6
+Evidence: 3.0
+========================
+Token: Coach of
+ID: coach of
+L[ORGANISATION]:0.3072:::L[AWARD]:0.2442:::L[PERSON]:0.1622:::L[MOUNTAIN]:0.1622:::L[UNIVERSITY]:0.062:::L[PERIODICAL_LITERATURE]:0.062:::
+R[AWARD]:1:::
+T[AWARD]:1:::
+SW[the]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.048278E-7
+Evidence: 4.0
+========================
+Token: Promising
+ID: promising
+L[PLACE]:0.3333:::L[ORGANISATION]:0.3333:::L[AWARD]:0.3333:::
+R[COMPANY]:0.25:::R[PERIODICAL_LITERATURE]:0.25:::R[AWARD]:0.25:::R[EVENT]:0.25:::
+T[AWARD]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.668446E-6
+Evidence: 1.0
+========================
+Token: Mini-series
+ID: mini-series
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[AWARD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.479524E-7
+Evidence: 1.0
+========================
+Token: Awards and
+ID: awards and
+L[EVENT]:1:::
+R[PERSON]:0.4:::R[COMPANY]:0.2:::R[UNIVERSITY]:0.2:::R[AWARD]:0.2:::
+T[AWARD]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.2396602E-7
+Evidence: 1.0
+========================
+Token: Received
+ID: received
+L[UNIVERSITY]:0.3333:::L[AWARD]:0.3333:::L[EVENT]:0.3333:::
+R[PERSON]:0.6667:::R[COMPANY]:0.3333:::
+T[AWARD]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.1147706E-7
+Evidence: 1.0
+========================
+Token: Hollaender
+ID: hollaender
+L[PERSON]:1:::
+R[AWARD]:1:::
+T[AWARD]:1:::
+SW[in]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.7427055E-6
+Evidence: 1.0
+========================
+Token: Byelorussian
+ID: byelorussian
+L[AWARD]:1:::
+R[ORGANISATION]:1:::
+T[AWARD]:1:::
+SW[of]:1:::
+DICT[N]:1:::
+Active Evidence: 6.667405E-6
+Evidence: 1.0
+========================
+Token: Ginza
+ID: ginza
+L[EMPTY]:1:::
+R[COMPANY]:0.5:::R[EVENT]:0.5:::
+T[AWARD]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.3628102E-6
+Evidence: 1.0
+========================
+Token: Stewart of
+ID: stewart of
+L[PERSON]:1:::
+R[PLACE]:0.5:::R[AWARD]:0.5:::
+T[AWARD]:1:::
+SW[of]:1:::
+DICT[N]:1:::
+Active Evidence: 4.0809687E-6
+Evidence: 1.0
+========================

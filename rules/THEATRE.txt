@@ -1,0 +1,470 @@
+Token: Theatre
+ID: theatre
+L[PLACE]:0.3318:::L[PERSON]:0.2725:::L[BUILDING]:0.0878:::L[THEATRE]:0.0734:::L[COMPANY]:0.064:::L[ORGANISATION]:0.0629:::
+R[EMPTY]:0.8685:::R[PLACE]:0.0881:::R[COMPANY]:0.0114:::R[PERSON]:0.0086:::R[RIVER]:0.006:::R[ORGANISATION]:0.0059:::
+T[THEATRE]:0.6138:::T[BUILDING]:0.2065:::T[PLACE]:0.1165:::T[OTHER]:0.019:::T[ORGANISATION]:0.0177:::T[COMPANY]:0.0154:::
+SW[NULL]:0.9759:::SW[and]:0.0085:::SW[of]:0.0075:::SW[de]:0.0028:::SW[in]:0.0021:::SW[a]:0.0019:::
+DICT[Y]:0.5441:::DICT[N]:0.4559:::
+Active Evidence: 1059.8582
+Evidence: 1181.0
+========================
+Token: Playhouse
+ID: playhouse
+L[EMPTY]:0.2937:::L[PLACE]:0.2793:::L[PERSON]:0.1561:::L[BUILDING]:0.0904:::L[THEATRE]:0.0575:::L[RIVER]:0.0329:::
+R[EMPTY]:0.9733:::R[PLACE]:0.0234:::R[THEATRE]:0.0012:::R[RIVER]:0.0011:::R[COMPANY]:0.0009:::R[PERSON]:0:::
+T[THEATRE]:0.5771:::T[OTHER]:0.267:::T[BUILDING]:0.1056:::T[PLACE]:0.0492:::T[ORGANISATION]:0.001:::
+SW[NULL]:1:::
+DICT[N]:0.7139:::DICT[Y]:0.2861:::
+Active Evidence: 60.85154
+Evidence: 88.0
+========================
+Token: Theatre in
+ID: theatre in
+L[ORGANISATION]:0.5022:::L[EVENT]:0.2003:::L[PLACE]:0.1968:::L[COMPANY]:0.1006:::
+R[PLACE]:0.6038:::R[THEATRE]:0.2013:::R[ORGANISATION]:0.0987:::R[COMPANY]:0.0962:::
+T[THEATRE]:1:::
+SW[in]:0.8032:::SW[the]:0.1968:::
+DICT[N]:0.6038:::DICT[Y]:0.3962:::
+Active Evidence: 9.935325
+Evidence: 10.0
+========================
+Token: Teatro
+ID: teatro
+L[EMPTY]:0.9912:::L[PLACE]:0.0067:::L[PERIODICAL_LITERATURE]:0.0021:::
+R[PERSON]:0.3494:::R[PLACE]:0.2587:::R[THEATRE]:0.1754:::R[BUILDING]:0.1023:::R[COMPANY]:0.0657:::R[EMPTY]:0.0292:::
+T[THEATRE]:0.57:::T[PLACE]:0.177:::T[BUILDING]:0.1361:::T[UNIVERSITY]:0.0438:::T[COMPANY]:0.0438:::T[OTHER]:0.0292:::
+SW[NULL]:0.9564:::SW[de]:0.0436:::
+DICT[N]:0.7766:::DICT[Y]:0.2234:::
+Active Evidence: 22.80396
+Evidence: 26.0
+========================
+Token: Theatre of
+ID: theatre of
+L[ORGANISATION]:0.3744:::L[PLACE]:0.1927:::L[EMPTY]:0.1275:::L[COMPANY]:0.0846:::L[EVENT]:0.0806:::L[THEATRE]:0.0504:::
+R[PLACE]:0.6617:::R[PERSON]:0.1657:::R[ORGANISATION]:0.0417:::R[EMPTY]:0.041:::R[EVENT]:0.0267:::R[BUILDING]:0.0216:::
+T[THEATRE]:0.4506:::T[PLACE]:0.2321:::T[EVENT]:0.1375:::T[BUILDING]:0.1108:::T[OTHER]:0.041:::T[ORGANISATION]:0.028:::
+SW[of]:0.8239:::SW[NULL]:0.1256:::SW[and]:0.0486:::SW[de]:0.0019:::
+DICT[Y]:0.6235:::DICT[N]:0.3765:::
+Active Evidence: 35.38091
+Evidence: 43.0
+========================
+Token: Performing
+ID: performing
+L[PERSON]:0.3097:::L[ORGANISATION]:0.2665:::L[PLACE]:0.1413:::L[UNIVERSITY]:0.1121:::L[BUILDING]:0.0457:::L[THEATRE]:0.0446:::
+R[UNIVERSITY]:0.8494:::R[PLACE]:0.1092:::R[EMPTY]:0.0198:::R[ORGANISATION]:0.0114:::R[PERSON]:0.0048:::R[THEATRE]:0.003:::
+T[THEATRE]:0.4639:::T[BUILDING]:0.2576:::T[PLACE]:0.1778:::T[UNIVERSITY]:0.0472:::T[COMPANY]:0.0291:::T[OTHER]:0.0198:::
+SW[for]:0.6909:::SW[NULL]:0.2651:::SW[of]:0.0241:::SW[at]:0.0148:::SW[and]:0.005:::SW[a]:0.0001:::
+DICT[Y]:0.5374:::DICT[N]:0.4626:::
+Active Evidence: 67.24503
+Evidence: 139.0
+========================
+Token: Hippodrome
+ID: hippodrome
+L[EMPTY]:0.4452:::L[PLACE]:0.0801:::L[PERSON]:0.0458:::L[BUILDING]:0.0048:::L[ORGANISATION]:0.0015:::
+R[EMPTY]:0.8334:::R[PLACE]:0.0302:::R[COMPANY]:0.0095:::R[THEATRE]:0:::
+T[THEATRE]:0.7269:::T[BUILDING]:0.0346:::T[PLACE]:0.0305:::
+SW[NULL]:1:::
+DICT[N]:0.6189:::DICT[Y]:0.1025:::
+Active Evidence: 11.469145
+Evidence: 19.1954
+========================
+Token: Liceo
+ID: liceo
+L[EMPTY]:1:::L[PERSON]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.1736:::R[UNIVERSITY]:0.0287:::R[PERSON]:0.0277:::R[PLACE]:0.0123:::R[ORGANISATION]:0.0039:::R[COMPANY]:0.0007:::
+T[THEATRE]:0.1736:::T[UNIVERSITY]:0.0724:::T[COMPANY]:0.0012:::T[ORGANISATION]:0:::
+SW[NULL]:0.86:::SW[de]:0.0096:::SW[del]:0.0018:::SW[le]:0.0011:::
+DICT[N]:0.4241:::DICT[Y]:0.4023:::
+Active Evidence: 58.847595
+Evidence: 67.2152
+========================
+Token: Teater
+ID: teater
+L[PLACE]:0.3662:::L[THEATRE]:0.2748:::L[EMPTY]:0.1374:::L[EVENT]:0.0916:::L[PERSON]:0.0653:::L[COMPANY]:0.0647:::
+R[EMPTY]:1:::R[COMPANY]:0:::
+T[THEATRE]:0.852:::T[OTHER]:0.1374:::T[PERSON]:0.0106:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 5.4586782
+Evidence: 10.0
+========================
+Token: Athenaeum
+ID: athenaeum
+L[EMPTY]:0.33:::L[PLACE]:0.129:::L[THEATRE]:0.0218:::L[EVENT]:0.0214:::L[BUILDING]:0.0106:::L[LIBRARY]:0.0105:::
+R[EMPTY]:0.8543:::R[PLACE]:0.0217:::R[PERIODICAL_LITERATURE]:0.0203:::R[UNIVERSITY]:0.0001:::R[BUILDING]:0:::
+T[THEATRE]:0.2972:::T[BUILDING]:0.2692:::T[UNIVERSITY]:0.0218:::T[MUSEUM]:0.0214:::T[LIBRARY]:0.021:::T[PERIODICAL_LITERATURE]:0.0005:::
+SW[NULL]:0.9993:::SW[and]:0.0002:::
+DICT[N]:0.5938:::DICT[Y]:0.2214:::
+Active Evidence: 13.283605
+Evidence: 17.4552
+========================
+Token: Theater of
+ID: theater of
+L[ORGANISATION]:0.4699:::L[PERSON]:0.1416:::L[PLACE]:0.1236:::L[EVENT]:0.0825:::L[UNIVERSITY]:0.0689:::L[COMPANY]:0.0562:::
+R[PLACE]:0.7283:::R[ORGANISATION]:0.1791:::R[EVENT]:0.046:::R[PERSON]:0.046:::R[THEATRE]:0.0003:::R[UNIVERSITY]:0.0003:::
+T[THEATRE]:0.4482:::T[EVENT]:0.3243:::T[BUILDING]:0.1124:::T[COMPANY]:0.1123:::T[ORGANISATION]:0.0027:::
+SW[of]:0.6831:::SW[the]:0.3169:::
+DICT[Y]:0.6637:::DICT[N]:0.3363:::
+Active Evidence: 8.894997
+Evidence: 15.0
+========================
+Token: Lyric
+ID: lyric
+L[EMPTY]:0.8307:::L[PLACE]:0.0582:::L[ORGANISATION]:0:::L[COMPANY]:0:::L[EVENT]:0:::
+R[EMPTY]:0.8321:::R[PLACE]:0.0576:::R[THEATRE]:0.0001:::R[BUILDING]:0:::R[ORGANISATION]:0:::R[COMPANY]:0:::
+T[THEATRE]:0.6608:::T[PERIODICAL_LITERATURE]:0.0583:::T[OTHER]:0.0583:::T[PLACE]:0:::T[BUILDING]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.5091:::DICT[Y]:0.1673:::
+Active Evidence: 5.8963184
+Evidence: 16.9082
+========================
+Token: Copacabana
+ID: copacabana
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.7564:::R[BUILDING]:0.0697:::R[AIRPORT]:0.0001:::R[PLACE]:0:::
+T[THEATRE]:0.7564:::T[BUILDING]:0.0697:::T[AIRPORT]:0.0001:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::SW[de]:0:::
+DICT[Y]:0.2436:::DICT[N]:0:::
+Active Evidence: 3.2948868
+Evidence: 7.4922
+========================
+Token: National De
+ID: national de
+L[THEATRE]:0.6885:::L[MUSEUM]:0.2477:::L[EMPTY]:0.0496:::L[COMPANY]:0.0109:::L[PERIODICAL_LITERATURE]:0.0022:::L[ORGANISATION]:0.0007:::
+R[PLACE]:0.7304:::R[THEATRE]:0.2059:::R[EMPTY]:0.0496:::R[BUILDING]:0.0131:::R[ORGANISATION]:0.0009:::R[PERSON]:0.0002:::
+T[THEATRE]:0.6885:::T[MUSEUM]:0.2477:::T[OTHER]:0.0496:::T[COMPANY]:0.0131:::T[ORGANISATION]:0.001:::T[PERSON]:0.0002:::
+SW[de]:0.4828:::SW[la]:0.4545:::SW[NULL]:0.0496:::SW[du]:0.0131:::
+DICT[N]:0.738:::DICT[Y]:0.262:::
+Active Evidence: 4.034929
+Evidence: 12.0
+========================
+Token: Gaumont
+ID: gaumont
+L[EMPTY]:0.5212:::L[PERSON]:0.1489:::L[COMPANY]:0.0007:::
+R[EMPTY]:0.9957:::R[COMPANY]:0.0014:::R[ORGANISATION]:0:::R[EVENT]:0:::
+T[THEATRE]:0.5211:::T[PERSON]:0.1483:::T[COMPANY]:0.0014:::
+SW[NULL]:1:::
+DICT[Y]:0.241:::DICT[N]:0.2379:::
+Active Evidence: 4.222872
+Evidence: 9.2004
+========================
+Token: Staatstheater
+ID: staatstheater
+L[EMPTY]:0.6346:::L[THEATRE]:0.3144:::L[PERSON]:0.051:::
+R[PLACE]:0.6856:::R[EMPTY]:0.3144:::
+T[THEATRE]:0.5882:::T[BUILDING]:0.3609:::T[PERSON]:0.051:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.18058
+Evidence: 5.0
+========================
+Token: Theatre on
+ID: theatre on
+L[EMPTY]:0.6147:::L[PERSON]:0.3853:::
+R[THEATRE]:0.7735:::R[EMPTY]:0.2265:::
+T[THEATRE]:0.7735:::T[OTHER]:0.2265:::
+SW[the]:0.7735:::SW[NULL]:0.2265:::
+DICT[Y]:0.7735:::DICT[N]:0.2265:::
+Active Evidence: 2.575697
+Evidence: 4.0
+========================
+Token: Condit
+ID: condit
+L[EMPTY]:0.8152:::L[PERSON]:0.0511:::L[COMPANY]:0:::L[UNIVERSITY]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.9981:::R[PLACE]:0.0005:::R[EVENT]:0:::R[PERSON]:0:::R[ORGANISATION]:0:::
+T[THEATRE]:0.8133:::T[PERSON]:0.0511:::T[BUILDING]:0.0005:::T[PLACE]:0:::T[EVENT]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.1848:::DICT[Y]:0.0019:::
+Active Evidence: 3.2182133
+Evidence: 19.617401
+========================
+Token: Underbelly
+ID: underbelly
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[COMPANY]:0.0001:::
+T[THEATRE]:0.3562:::T[OTHER]:0.2787:::T[COMPANY]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.6438:::
+Active Evidence: 3.6769261
+Evidence: 8.3098
+========================
+Token: Ritz
+ID: ritz
+L[EMPTY]:0.7538:::L[PERSON]:0.0878:::L[BUILDING]:0.0223:::
+R[EMPTY]:0.7553:::R[PLACE]:0.0596:::R[COMPANY]:0.0446:::R[BUILDING]:0.0049:::R[ORGANISATION]:0.0002:::R[PERIODICAL_LITERATURE]:0.0001:::
+T[THEATRE]:0.2304:::T[OTHER]:0.1476:::T[PERSON]:0.119:::T[COMPANY]:0.0447:::T[BUILDING]:0.0273:::T[PLACE]:0.005:::
+SW[NULL]:1:::
+DICT[N]:0.7076:::DICT[Y]:0.1651:::
+Active Evidence: 9.699943
+Evidence: 39.2346
+========================
+Token: Theater and
+ID: theater and
+L[ORGANISATION]:0.5051:::L[PLACE]:0.3868:::L[PERSON]:0.108:::L[BUILDING]:0.0001:::
+R[PLACE]:0.5551:::R[PERSON]:0.1684:::R[THEATRE]:0.1684:::R[COMPANY]:0.108:::R[BUILDING]:0.0001:::R[ORGANISATION]:0.0001:::
+T[THEATRE]:0.9998:::T[PLACE]:0.0001:::T[BUILDING]:0.0001:::
+SW[and]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.6149712
+Evidence: 6.0
+========================
+Token: Collines
+ID: collines
+L[PERSON]:0.4549:::L[EMPTY]:0.2389:::L[ORGANISATION]:0.1538:::L[THEATRE]:0.1522:::L[PERIODICAL_LITERATURE]:0.0002:::
+R[EMPTY]:0.9999:::R[PLACE]:0.0001:::
+T[THEATRE]:0.4565:::T[ORGANISATION]:0.3046:::T[OTHER]:0.2388:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.54:::DICT[Y]:0.46:::
+Active Evidence: 2.093376
+Evidence: 6.0
+========================
+Token: Silenzio
+ID: silenzio
+L[THEATRE]:0.6666:::L[EMPTY]:0.3334:::
+R[EMPTY]:0.9999:::R[COMPANY]:0.0001:::
+T[THEATRE]:0.6666:::T[OTHER]:0.3333:::T[COMPANY]:0.0001:::
+SW[del]:0.6666:::SW[NULL]:0.3334:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 1.5001134
+Evidence: 3.0
+========================
+Token: Cigale
+ID: cigale
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[EMPTY]:1:::
+T[THEATRE]:0.6666:::T[OTHER]:0.3333:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.5001079
+Evidence: 3.0
+========================
+Token: Populaire
+ID: populaire
+L[EMPTY]:0.333:::L[THEATRE]:0.333:::L[ORGANISATION]:0.333:::L[COMPANY]:0.001:::
+R[EMPTY]:0.9995:::R[COMPANY]:0.0005:::
+T[THEATRE]:0.666:::T[OTHER]:0.333:::T[COMPANY]:0.001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.5014377
+Evidence: 4.0
+========================
+Token: Montparnasse
+ID: montparnasse
+L[THEATRE]:0.6662:::L[EMPTY]:0.3331:::L[PLACE]:0.0006:::L[EVENT]:0.0001:::
+R[EMPTY]:1:::
+T[THEATRE]:0.6662:::T[OTHER]:0.3331:::T[PLACE]:0.0006:::T[BUILDING]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 1.5010558
+Evidence: 4.0
+========================
+Token: Gardzienice
+ID: gardzienice
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[THEATRE]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 1.2152233
+Evidence: 4.2152
+========================
+Token: Courtyard
+ID: courtyard
+L[EMPTY]:1:::
+R[PLACE]:0.5996:::R[EMPTY]:0.3987:::R[BUILDING]:0.0007:::R[COMPANY]:0.0007:::R[PERSON]:0.0002:::R[ORGANISATION]:0.0002:::
+T[THEATRE]:0.5479:::T[OTHER]:0.3987:::T[BUILDING]:0.0518:::T[COMPANY]:0.0013:::T[PLACE]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:0.9469:::DICT[Y]:0.0531:::
+Active Evidence: 1.6720624
+Evidence: 7.0
+========================
+Token: Monnaie
+ID: monnaie
+L[EMPTY]:0.9585:::L[MUSEUM]:0.0277:::L[PERSON]:0.0138:::
+R[EMPTY]:1:::
+T[THEATRE]:0.9585:::T[MUSEUM]:0.0415:::
+SW[NULL]:0.9585:::SW[de]:0.0415:::
+DICT[N]:0.9585:::DICT[Y]:0.0415:::
+Active Evidence: 1.0433002
+Evidence: 2.0
+========================
+Token: Winspear
+ID: winspear
+L[PERSON]:0.5006:::L[THEATRE]:0.4994:::
+R[PLACE]:0.9988:::R[EMPTY]:0.0004:::R[COMPANY]:0.0004:::R[UNIVERSITY]:0.0004:::
+T[THEATRE]:0.9988:::T[MUSEUM]:0.0007:::T[PERSON]:0.0004:::
+SW[and]:0.9988:::SW[for]:0.0007:::SW[NULL]:0.0004:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0010265
+Evidence: 4.0
+========================
+Token: Trianon
+ID: trianon
+L[EMPTY]:0.9368:::L[PERSON]:0.0427:::L[PLACE]:0.0205:::
+R[EMPTY]:1:::
+T[THEATRE]:0.9368:::T[BUILDING]:0.0627:::T[PERSON]:0.0005:::
+SW[NULL]:1:::
+DICT[N]:0.9373:::DICT[Y]:0.0627:::
+Active Evidence: 1.067465
+Evidence: 5.0
+========================
+Token: Pigalle
+ID: pigalle
+L[THEATRE]:0.9993:::L[PERSON]:0.0006:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::
+T[THEATRE]:0.9993:::T[PERSON]:0.0006:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0006571
+Evidence: 5.0
+========================
+Token: Colline
+ID: colline
+L[THEATRE]:0.9998:::L[BUILDING]:0.0001:::L[PERSON]:0.0001:::L[EVENT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[THEATRE]:0.9998:::T[BUILDING]:0.0001:::T[PERSON]:0.0001:::T[EVENT]:0:::
+SW[de]:0.9998:::SW[NULL]:0.0002:::SW[of]:0:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 0.16916107
+Evidence: 4.0
+========================
+Token: Teatret
+ID: teatret
+L[PLACE]:0.9646:::L[PERSON]:0.031:::L[COMPANY]:0.0044:::
+R[EMPTY]:1:::
+T[THEATRE]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.003529765
+Evidence: 3.0
+========================
+Token: Opera and
+ID: opera and
+L[PLACE]:0.659:::L[PERIODICAL_LITERATURE]:0.3252:::L[THEATRE]:0.0147:::L[RIVER]:0.0012:::
+R[THEATRE]:0.3392:::R[COMPANY]:0.1685:::R[PERSON]:0.1626:::R[UNIVERSITY]:0.1626:::R[EVENT]:0.1626:::R[BUILDING]:0.004:::
+T[THEATRE]:0.9971:::T[BUILDING]:0.0017:::T[ORGANISATION]:0.0012:::
+SW[a]:0.9756:::SW[and]:0.0244:::
+DICT[Y]:0.9873:::DICT[N]:0.0127:::
+Active Evidence: 0.0013141762
+Evidence: 7.0
+========================
+Token: Elgin and
+ID: elgin and
+L[EMPTY]:0.9997:::L[PLACE]:0.0003:::
+R[COMPANY]:0.3334:::R[PERSON]:0.3333:::R[PLACE]:0.3332:::R[RIVER]:0.0001:::
+T[THEATRE]:0.9997:::T[PLACE]:0.0003:::
+SW[NULL]:0.9997:::SW[and]:0.0003:::
+DICT[Y]:1:::
+Active Evidence: 9.2313264E-4
+Evidence: 2.0
+========================
+Token: Goodspeed
+ID: goodspeed
+L[EMPTY]:0.9934:::L[PERSON]:0.0066:::
+R[THEATRE]:0.8177:::R[PLACE]:0.1623:::R[BUILDING]:0.0068:::R[EMPTY]:0.0066:::R[AIRPORT]:0.0066:::
+T[THEATRE]:0.8177:::T[BUILDING]:0.1555:::T[PLACE]:0.0136:::T[PERSON]:0.0066:::T[AIRPORT]:0.0066:::
+SW[NULL]:1:::
+DICT[N]:0.8225:::DICT[Y]:0.1775:::
+Active Evidence: 3.6007297E-4
+Evidence: 8.0
+========================
+Token: Sterns
+ID: sterns
+L[EMPTY]:0.994:::L[PERSON]:0.006:::
+R[PLACE]:0.994:::R[EMPTY]:0.006:::
+T[THEATRE]:0.994:::T[PERSON]:0.006:::
+SW[NULL]:1:::
+DICT[Y]:0.994:::DICT[N]:0.006:::
+Active Evidence: 2.0036443E-4
+Evidence: 3.0
+========================
+Token: Clowes
+ID: clowes
+L[EMPTY]:0.9793:::L[PERSON]:0.0207:::
+R[PERSON]:0.4897:::R[BUILDING]:0.4897:::R[EMPTY]:0.0207:::
+T[THEATRE]:0.9793:::T[PERSON]:0.0207:::
+SW[NULL]:1:::
+DICT[Y]:0.9793:::DICT[N]:0.0207:::
+Active Evidence: 1.8314027E-5
+Evidence: 2.0
+========================
+Token: Schnitzer
+ID: schnitzer
+L[PLACE]:1:::
+R[PERSON]:0.4908:::R[THEATRE]:0.4908:::R[EMPTY]:0.0184:::
+T[THEATRE]:0.9816:::T[PERSON]:0.0184:::
+SW[NULL]:1:::
+DICT[Y]:0.9816:::DICT[N]:0.0184:::
+Active Evidence: 1.6762506E-5
+Evidence: 2.0
+========================
+Token: Krakowska
+ID: krakowska
+L[PLACE]:0.9848:::L[PERIODICAL_LITERATURE]:0.0152:::
+R[EMPTY]:1:::
+T[THEATRE]:0.9848:::T[PERIODICAL_LITERATURE]:0.0152:::
+SW[NULL]:1:::
+DICT[Y]:0.9848:::DICT[N]:0.0152:::
+Active Evidence: 1.3626456E-5
+Evidence: 2.0
+========================
+Token: International
+ID: - international
+L[THEATRE]:0.9647:::L[AIRLINE]:0.0246:::L[COMPANY]:0.0107:::
+R[COMPANY]:0.3296:::R[ORGANISATION]:0.3216:::R[EVENT]:0.3216:::R[PERSON]:0.0123:::R[BUILDING]:0.0123:::R[PLACE]:0.0027:::
+T[THEATRE]:0.9647:::T[COMPANY]:0.0353:::
+SW[NULL]:0.9893:::SW[on]:0.0107:::
+DICT[Y]:1:::
+Active Evidence: 1.0026146E-5
+Evidence: 3.0
+========================
+Token: Playwrights
+ID: playwrights
+L[EMPTY]:0.9779:::L[ORGANISATION]:0.0221:::
+R[PLACE]:0.9779:::R[EMPTY]:0.0221:::
+T[THEATRE]:0.6312:::T[COMPANY]:0.3467:::T[ORGANISATION]:0.0221:::
+SW[NULL]:0.9779:::SW[of]:0.0221:::
+DICT[N]:0.9779:::DICT[Y]:0.0221:::
+Active Evidence: 4.8770007E-6
+Evidence: 3.0
+========================
+Token: Aronoff
+ID: aronoff
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[THEATRE]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.6090197E-6
+Evidence: 1.0
+========================
+Token: Leas
+ID: leas
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[THEATRE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9063293E-5
+Evidence: 1.0
+========================
+Token: Llantarnam
+ID: llantarnam
+L[EMPTY]:1:::
+R[PLACE]:0.3333:::R[ORGANISATION]:0.3333:::R[UNIVERSITY]:0.3333:::
+T[THEATRE]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 6.7250124E-7
+Evidence: 1.0
+========================
+Token: Meyerhoff
+ID: meyerhoff
+L[PERSON]:1:::
+R[PERSON]:1:::
+T[THEATRE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.5226052E-6
+Evidence: 1.0
+========================

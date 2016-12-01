@@ -1,0 +1,1310 @@
+Token: Llp
+ID: llp
+L[PERSON]:0.5023:::L[LAWFIRM]:0.2493:::L[COMPANY]:0.1655:::L[PLACE]:0.0497:::L[ORGANISATION]:0.0166:::L[PERIODICAL_LITERATURE]:0.0166:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.6303:::T[COMPANY]:0.3652:::T[PERSON]:0.0045:::
+SW[NULL]:0.9014:::SW[and]:0.0654:::SW[van]:0.0332:::
+DICT[N]:0.6645:::DICT[Y]:0.3355:::
+Active Evidence: 30.083069
+Evidence: 31.0
+========================
+Token: Milbank
+ID: milbank
+L[EMPTY]:0.8806:::L[PERSON]:0.0161:::L[PLACE]:0:::L[BUILDING]:0:::L[COMPANY]:0:::
+R[EMPTY]:0.8818:::R[PERSON]:0.0053:::R[PLACE]:0.0053:::R[LAWFIRM]:0.0053:::R[PERIODICAL_LITERATURE]:0:::R[BUILDING]:0:::
+T[LAWFIRM]:0.8804:::T[PERSON]:0.0161:::T[PERIODICAL_LITERATURE]:0:::T[BUILDING]:0:::T[PLACE]:0:::
+SW[NULL]:1:::SW[and]:0:::SW[of]:0:::
+DICT[N]:0.1196:::DICT[Y]:0.1179:::
+Active Evidence: 8.426326
+Evidence: 18.425
+========================
+Token: Ropes
+ID: ropes
+L[EMPTY]:1:::L[PERSON]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.868:::R[LAWFIRM]:0.0195:::R[RIVER]:0.0003:::R[PLACE]:0:::R[ORGANISATION]:0:::R[BUILDING]:0:::
+T[LAWFIRM]:0.868:::T[OTHER]:0.0195:::T[RIVER]:0.0003:::T[PLACE]:0:::T[PERSON]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.1319:::DICT[N]:0.1303:::
+Active Evidence: 7.677764
+Evidence: 15.6644
+========================
+Token: Offices
+ID: offices
+L[PLACE]:0.3318:::L[PERSON]:0.2904:::L[LAWFIRM]:0.1152:::L[ORGANISATION]:0.0789:::L[BUILDING]:0.0641:::L[PERIODICAL_LITERATURE]:0.0521:::
+R[EMPTY]:0.9187:::R[PLACE]:0.0813:::R[BUILDING]:0:::
+T[LAWFIRM]:0.4608:::T[BUILDING]:0.406:::T[PLACE]:0.1289:::T[COMPANY]:0.0042:::T[ORGANISATION]:0.0001:::
+SW[NULL]:0.9189:::SW[and]:0.0768:::SW[of]:0.0043:::
+DICT[Y]:0.6259:::DICT[N]:0.3741:::
+Active Evidence: 13.018136
+Evidence: 18.0
+========================
+Token: Cravath
+ID: cravath
+L[EMPTY]:0.873:::L[PERSON]:0.0184:::
+R[EMPTY]:0.8767:::R[LAWFIRM]:0.0178:::
+T[LAWFIRM]:0.6605:::T[PERSON]:0.2111:::T[OTHER]:0.003:::
+SW[NULL]:1:::
+DICT[N]:0.2708:::
+Active Evidence: 8.112724
+Evidence: 11.9158
+========================
+Token: Mcandrews
+ID: mcandrews
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.7931:::R[PERSON]:0.0215:::R[LAWFIRM]:0.0215:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.2069:::DICT[N]:0:::
+Active Evidence: 4.8101034
+Evidence: 6.8146
+========================
+Token: Sonnenschein
+ID: sonnenschein
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:0.8106:::R[PERSON]:0.0179:::R[LAWFIRM]:0.0179:::
+T[LAWFIRM]:0.9999:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1895:::DICT[Y]:0:::
+Active Evidence: 5.2765746
+Evidence: 10.2764
+========================
+Token: Orrick
+ID: orrick
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.7889:::R[PERSON]:0.0223:::R[LAWFIRM]:0.0223:::
+T[LAWFIRM]:0.9998:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2112:::
+Active Evidence: 4.731447
+Evidence: 7.7324
+========================
+Token: Sive
+ID: sive
+L[EMPTY]:0.9997:::L[PERSON]:0.0001:::
+R[EMPTY]:0.5744:::R[PERSON]:0.0864:::R[LAWFIRM]:0.0288:::
+T[LAWFIRM]:0.7867:::T[PERSON]:0.0577:::
+SW[NULL]:1:::
+DICT[N]:0.4259:::
+Active Evidence: 4.694685
+Evidence: 5.6952
+========================
+Token: Solicitors
+ID: solicitors
+L[COMPANY]:0.3786:::L[LAWFIRM]:0.3722:::L[PERSON]:0.1638:::L[PLACE]:0.0853:::L[EMPTY]:0:::
+R[EMPTY]:0.9995:::R[COMPANY]:0.0005:::R[GOVAGENCY]:0:::
+T[LAWFIRM]:0.7004:::T[COMPANY]:0.2996:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9995:::DICT[Y]:0.0005:::
+Active Evidence: 5.372955
+Evidence: 8.0
+========================
+Token: Debevoise
+ID: debevoise
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.749:::R[LAWFIRM]:0.063:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2511:::DICT[Y]:0:::
+Active Evidence: 3.9832742
+Evidence: 6.9832
+========================
+Token: Lovells
+ID: lovells
+L[EMPTY]:0.7361:::L[PERSON]:0.0703:::
+R[EMPTY]:0.9996:::R[PLACE]:0.0001:::R[MOUNTAIN]:0:::
+T[LAWFIRM]:0.9996:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.2644:::DICT[N]:0:::
+Active Evidence: 3.745907
+Evidence: 5.7556
+========================
+Token: P.c
+ID: p.c
+L[EMPTY]:0.4584:::L[PERSON]:0.4515:::L[LAWFIRM]:0.0649:::L[COMPANY]:0.0252:::
+R[EMPTY]:0.5896:::R[PERSON]:0.3085:::R[ROAD]:0.1019:::R[AIRLINE]:0:::R[PLACE]:0:::
+T[LAWFIRM]:0.4031:::T[PERSON]:0.3085:::T[COMPANY]:0.1356:::T[ROAD]:0.1019:::T[OTHER]:0.0509:::T[AIRLINE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 9.817996
+Evidence: 16.0
+========================
+Token: Dickstein
+ID: dickstein
+L[EMPTY]:0.9011:::L[PERSON]:0.027:::
+R[EMPTY]:0.7693:::R[PERSON]:0.063:::
+T[LAWFIRM]:0.9011:::T[PERSON]:0.027:::
+SW[NULL]:1:::
+DICT[N]:0.3296:::
+Active Evidence: 3.9672577
+Evidence: 6.6598
+========================
+Token: Drinker
+ID: drinker
+L[EMPTY]:0.9998:::L[PERSON]:0:::
+R[EMPTY]:0.8404:::R[PERSON]:0.014:::R[LAWFIRM]:0.014:::R[PLACE]:0:::
+T[LAWFIRM]:0.6444:::T[OTHER]:0.2662:::T[PERSON]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2453:::DICT[Y]:0:::
+Active Evidence: 6.2402306
+Evidence: 15.7094
+========================
+Token: Lowenstein
+ID: lowenstein
+L[EMPTY]:0.87:::L[PERSON]:0.0285:::
+R[EMPTY]:0.8125:::R[PERSON]:0.0411:::
+T[LAWFIRM]:0.87:::T[PERSON]:0.0285:::
+SW[NULL]:1:::
+DICT[N]:0.3175:::DICT[Y]:0:::
+Active Evidence: 5.2195835
+Evidence: 18.5622
+========================
+Token: Blakes
+ID: blakes
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[BUILDING]:0:::
+T[LAWFIRM]:1:::T[PLACE]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 2.7562866
+Evidence: 4.7562
+========================
+Token: Pillsbury
+ID: pillsbury
+L[EMPTY]:0.9958:::L[PLACE]:0.0007:::L[PERSON]:0.0001:::
+R[EMPTY]:0.7173:::R[BUILDING]:0.0296:::R[PERSON]:0.0249:::R[PLACE]:0.0001:::R[COMPANY]:0:::R[UNIVERSITY]:0:::
+T[LAWFIRM]:0.7003:::T[BUILDING]:0.0267:::T[OTHER]:0.0266:::T[PLACE]:0.0038:::T[RIVER]:0.0007:::T[PERSON]:0.0001:::
+SW[NULL]:0.8624:::SW[a]:0.0266:::
+DICT[Y]:0.2866:::DICT[N]:0.138:::
+Active Evidence: 7.265785
+Evidence: 33.181
+========================
+Token: Wilmer
+ID: wilmer
+L[EMPTY]:0.9943:::L[PERSON]:0.0012:::L[PLACE]:0:::
+R[EMPTY]:0.2013:::R[PERSON]:0.162:::R[PLACE]:0.01:::R[LAWFIRM]:0.003:::R[UNIVERSITY]:0.0004:::R[ORGANISATION]:0.0004:::
+T[LAWFIRM]:0.2496:::T[PERSON]:0.1643:::T[PLACE]:0.0008:::T[ORGANISATION]:0:::
+SW[NULL]:0.9454:::SW[and]:0.0119:::SW[a]:0.0001:::
+DICT[N]:0.5888:::DICT[Y]:0.2156:::
+Active Evidence: 18.120817
+Evidence: 45.5442
+========================
+Token: Phillips
+ID: & phillips
+L[PERSON]:0.4998:::L[COMPANY]:0.3335:::L[LAWFIRM]:0.1667:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.6665:::T[COMPANY]:0.3335:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.9987354
+Evidence: 3.0
+========================
+Token: Beachcroft
+ID: beachcroft
+L[EMPTY]:0.734:::L[LAWFIRM]:0.1071:::L[PERSON]:0.0005:::
+R[EMPTY]:0.703:::R[PERSON]:0.1201:::
+T[LAWFIRM]:0.7017:::T[PERSON]:0.1207:::
+SW[NULL]:1:::
+DICT[N]:0.563:::DICT[Y]:0:::
+Active Evidence: 3.3674245
+Evidence: 6.4716
+========================
+Token: Dechert
+ID: dechert
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 2.450461
+Evidence: 4.4504004
+========================
+Token: Schnader
+ID: schnader
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.5966:::R[PERSON]:0.1632:::R[PLACE]:0:::R[COMPANY]:0:::
+T[LAWFIRM]:1:::T[BUILDING]:0:::T[PERSON]:0:::
+SW[NULL]:1:::SW[a]:0:::
+DICT[Y]:0.4034:::DICT[N]:0:::
+Active Evidence: 2.4662242
+Evidence: 5.4714003
+========================
+Token: Gallop
+ID: gallop
+L[EMPTY]:0.8137:::L[PERSON]:0.0593:::
+R[EMPTY]:0.7966:::R[PERSON]:0.0361:::R[LAWFIRM]:0.0287:::
+T[LAWFIRM]:0.5653:::T[OTHER]:0.0716:::T[PERSON]:0.0593:::T[DISEASE]:0.0074:::
+SW[NULL]:1:::
+DICT[N]:0.5903:::DICT[Y]:0.0244:::
+Active Evidence: 5.555706
+Evidence: 19.1408
+========================
+Token: Bird
+ID: & bird
+L[PERSON]:0.7985:::L[EMPTY]:0.2015:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.7985:::T[OTHER]:0.2015:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.4818397
+Evidence: 3.0
+========================
+Token: Brobeck
+ID: brobeck
+L[EMPTY]:0.9998:::L[PERSON]:0.0001:::
+R[EMPTY]:0.5396:::R[LAWFIRM]:0.212:::
+T[LAWFIRM]:0.9998:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.4606:::
+Active Evidence: 2.1719704
+Evidence: 4.1716
+========================
+Token: Leboeuf
+ID: leboeuf
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:0.5766:::R[PERSON]:0.1177:::R[LAWFIRM]:0.0588:::R[RIVER]:0.0018:::R[PLACE]:0:::
+T[LAWFIRM]:0.9956:::T[RIVER]:0.0018:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.4235:::DICT[N]:0:::
+Active Evidence: 2.3838181
+Evidence: 7.3742
+========================
+Token: Thelen
+ID: thelen
+L[EMPTY]:0.9996:::L[PERSON]:0.0001:::
+R[EMPTY]:0.9999:::R[LAWFIRM]:0:::
+T[LAWFIRM]:0.9996:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.0004:::DICT[Y]:0:::
+Active Evidence: 2.6355455
+Evidence: 12.6344
+========================
+Token: Steptoe
+ID: steptoe
+L[EMPTY]:0.6882:::L[PERSON]:0.3118:::
+R[EMPTY]:0.4566:::R[COMPANY]:0.4008:::R[LAWFIRM]:0.1424:::R[PLACE]:0.0002:::
+T[LAWFIRM]:0.5432:::T[PERSON]:0.3118:::T[OTHER]:0.145:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 3.449026
+Evidence: 10.0
+========================
+Token: Sterne
+ID: sterne
+L[EMPTY]:0.9921:::L[PERSON]:0.003:::
+R[EMPTY]:0.7587:::R[PERSON]:0.0621:::R[LAWFIRM]:0.031:::R[PLACE]:0:::
+T[LAWFIRM]:0.6267:::T[OTHER]:0.141:::T[PERSON]:0.003:::
+SW[NULL]:1:::
+DICT[N]:0.3729:::DICT[Y]:0.2417:::
+Active Evidence: 4.130998
+Evidence: 22.592201
+========================
+Token: Cadwalader
+ID: cadwalader
+L[EMPTY]:0.9991:::L[PERSON]:0.0004:::
+R[EMPTY]:0.5842:::R[PERSON]:0.0878:::R[LAWFIRM]:0.0812:::R[PLACE]:0:::
+T[LAWFIRM]:0.9826:::T[PERSON]:0.007:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.4014:::DICT[N]:0.0153:::
+Active Evidence: 2.5033891
+Evidence: 13.4602
+========================
+Token: Fulbright
+ID: fulbright
+L[EMPTY]:0.5072:::L[PERSON]:0.4928:::
+R[LAWFIRM]:0.5018:::R[EMPTY]:0.4928:::R[PERSON]:0.0037:::R[BUILDING]:0.0017:::R[ORGANISATION]:0.0001:::R[UNIVERSITY]:0:::
+T[LAWFIRM]:0.9865:::T[PERSON]:0.0081:::T[BUILDING]:0.0054:::T[ORGANISATION]:0.0001:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.5019:::DICT[Y]:0.4981:::
+Active Evidence: 1.9928898
+Evidence: 11.0
+========================
+Token: Mintz
+ID: mintz
+L[EMPTY]:0.7296:::L[PERSON]:0.0985:::L[PLACE]:0.0097:::
+R[EMPTY]:0.7195:::R[PERSON]:0.0674:::R[LAWFIRM]:0.0449:::R[MOUNTAIN]:0:::
+T[LAWFIRM]:0.7296:::T[PERSON]:0.1082:::T[PLACE]:0:::
+SW[NULL]:0.7196:::SW[and]:0.1123:::
+DICT[Y]:0.2951:::DICT[N]:0.2557:::
+Active Evidence: 3.335249
+Evidence: 26.498001
+========================
+Token: Wood
+ID: & wood
+L[PERSON]:0.739:::L[PLACE]:0.1766:::L[LAWFIRM]:0.0845:::
+R[LAWFIRM]:0.6545:::R[EMPTY]:0.3455:::
+T[LAWFIRM]:0.8234:::T[PLACE]:0.1766:::
+SW[NULL]:1:::
+DICT[Y]:0.8311:::DICT[N]:0.1689:::
+Active Evidence: 1.5149176
+Evidence: 3.0
+========================
+Token: Littler
+ID: littler
+L[EMPTY]:0.9985:::L[PERSON]:0.0007:::
+R[EMPTY]:0.5383:::R[PERSON]:0.2206:::
+T[LAWFIRM]:0.9985:::T[PERSON]:0.0007:::
+SW[NULL]:1:::
+DICT[N]:0.4631:::DICT[Y]:0.0001:::
+Active Evidence: 2.0357344
+Evidence: 15.0928
+========================
+Token: Martin
+ID: & martin
+L[PERSON]:0.5798:::L[EMPTY]:0.4202:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.5798:::T[OTHER]:0.4202:::
+SW[NULL]:1:::
+DICT[Y]:0.5798:::DICT[N]:0.4202:::
+Active Evidence: 1.6659516
+Evidence: 3.0
+========================
+Token: Nutter
+ID: nutter
+L[EMPTY]:0.892:::L[PERSON]:0.0473:::L[PLACE]:0.006:::
+R[EMPTY]:0.6933:::R[LAWFIRM]:0.1425:::R[PERSON]:0.0082:::R[PLACE]:0.0006:::
+T[LAWFIRM]:0.5854:::T[OTHER]:0.1425:::T[PERSON]:0.0614:::T[PLACE]:0.0006:::
+SW[NULL]:0.9996:::SW[van]:0.0002:::
+DICT[N]:0.357:::DICT[Y]:0.3465:::
+Active Evidence: 3.4621677
+Evidence: 30.0266
+========================
+Token: Schoenherr
+ID: schoenherr
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.6784:::T[OTHER]:0.1565:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3216:::
+Active Evidence: 1.5551075
+Evidence: 4.055
+========================
+Token: Corrs
+ID: corrs
+L[EMPTY]:1:::
+R[EMPTY]:0.3369:::R[PERSON]:0.3315:::R[LAWFIRM]:0.3315:::
+T[LAWFIRM]:0.6631:::T[OTHER]:0.3369:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.4839537
+Evidence: 2.0
+========================
+Token: Stewart and
+ID: stewart and
+L[EMPTY]:1:::
+R[PERSON]:0.75:::R[EMPTY]:0.25:::
+T[LAWFIRM]:0.75:::T[OTHER]:0.25:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3333199
+Evidence: 2.0
+========================
+Token: Willkie
+ID: willkie
+L[EMPTY]:0.999:::L[PERSON]:0.001:::
+R[EMPTY]:0.3536:::R[PERSON]:0.3232:::R[LAWFIRM]:0.3232:::
+T[LAWFIRM]:0.6464:::T[OTHER]:0.3526:::T[PERSON]:0.001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.4181142
+Evidence: 5.0
+========================
+Token: Briesen
+ID: briesen
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[LAWFIRM]:0.9999:::R[EMPTY]:0.0001:::
+T[LAWFIRM]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:0.9999:::SW[von]:0.0001:::
+DICT[N]:1:::
+Active Evidence: 1.000102
+Evidence: 3.0
+========================
+Token: Bernsen
+ID: bernsen
+L[PERSON]:0.5001:::L[LAWFIRM]:0.4999:::
+R[LAWFIRM]:0.9998:::R[EMPTY]:0.0002:::
+T[LAWFIRM]:0.9998:::T[PERSON]:0.0002:::
+SW[del]:0.9998:::SW[NULL]:0.0002:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0001346
+Evidence: 3.0
+========================
+Token: Mourant
+ID: mourant
+L[EMPTY]:1:::L[PERSON]:0:::
+R[LAWFIRM]:1:::R[EMPTY]:0:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::SW[le]:0:::
+DICT[N]:1:::
+Active Evidence: 1.0000491
+Evidence: 3.0
+========================
+Token: Altheimer
+ID: altheimer
+L[EMPTY]:1:::L[PERSON]:0:::
+R[LAWFIRM]:1:::R[EMPTY]:0:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000135
+Evidence: 3.0
+========================
+Token: Surana
+ID: surana
+L[LAWFIRM]:0.9998:::L[PERSON]:0.0002:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9998:::T[PERSON]:0.0002:::
+SW[and]:0.9998:::SW[NULL]:0.0002:::
+DICT[N]:1:::
+Active Evidence: 1.000222
+Evidence: 4.0
+========================
+Token: Haarmann
+ID: haarmann
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[LAWFIRM]:0.9999:::R[EMPTY]:0.0001:::
+T[LAWFIRM]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0001072
+Evidence: 4.0
+========================
+Token: Stroock
+ID: stroock
+L[EMPTY]:1:::L[PERSON]:0:::
+R[LAWFIRM]:1:::R[EMPTY]:0:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000255
+Evidence: 4.0
+========================
+Token: Wessing
+ID: wessing
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9994:::T[PERSON]:0.0006:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.9859507
+Evidence: 2.0
+========================
+Token: Kyriakides
+ID: kyriakides
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9972:::T[PERSON]:0.0028:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.97910875
+Evidence: 4.0
+========================
+Token: Rosenman
+ID: rosenman
+L[LAWFIRM]:0.9995:::L[PERSON]:0.0005:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9995:::T[PERSON]:0.0005:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0005288
+Evidence: 5.0
+========================
+Token: Atsumi
+ID: atsumi
+L[EMPTY]:1:::L[PERSON]:0:::L[PLACE]:0:::L[ORGANISATION]:0:::
+R[LAWFIRM]:1:::R[EMPTY]:0:::R[PLACE]:0:::
+T[LAWFIRM]:1:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000495
+Evidence: 5.0
+========================
+Token: Arter
+ID: arter
+L[EMPTY]:1:::L[PERSON]:0:::L[COMPANY]:0:::
+R[LAWFIRM]:1:::R[EMPTY]:0:::R[PLACE]:0:::
+T[LAWFIRM]:1:::T[PERSON]:0:::T[BUILDING]:0:::T[PLACE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000405
+Evidence: 6.0
+========================
+Token: Wilentz
+ID: wilentz
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[COMPANY]:0.5:::R[LAWFIRM]:0.5:::R[EMPTY]:0.0001:::
+T[LAWFIRM]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.99895036
+Evidence: 6.0
+========================
+Token: Boies
+ID: boies
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[PERSON]:0.504:::R[LAWFIRM]:0.4959:::R[EMPTY]:0.0001:::
+T[LAWFIRM]:0.9917:::T[PERSON]:0.0083:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.99079597
+Evidence: 6.0
+========================
+Token: Sidley
+ID: sidley
+L[EMPTY]:1:::L[MOUNTAIN]:0:::
+R[PERSON]:1:::R[EMPTY]:0:::R[ORGANISATION]:0:::R[EVENT]:0:::
+T[LAWFIRM]:1:::T[MOUNTAIN]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.86156267
+Evidence: 3.0
+========================
+Token: Stites
+ID: stites
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[LAWFIRM]:0.9989:::R[PLACE]:0.001:::R[EMPTY]:0.0001:::R[PERSON]:0:::
+T[LAWFIRM]:0.9989:::T[BUILDING]:0.001:::T[PERSON]:0.0001:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.999:::DICT[Y]:0.001:::
+Active Evidence: 1.0010983
+Evidence: 7.0
+========================
+Token: Mcveagh
+ID: mcveagh
+L[PERSON]:1:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[LAWFIRM]:0.9975:::T[PERSON]:0.0025:::
+SW[NULL]:1:::
+DICT[N]:0.9997:::DICT[Y]:0.0003:::
+Active Evidence: 0.91263986
+Evidence: 5.0
+========================
+Token: Attorneys
+ID: attorneys
+L[COMPANY]:0.2499:::L[PERSON]:0.2499:::L[BUILDING]:0.2499:::L[LAWFIRM]:0.2499:::L[PLACE]:0.0001:::L[ORGANISATION]:0.0001:::
+R[EMPTY]:1:::R[LEGISLATURE]:0:::R[ORGANISATION]:0:::
+T[LAWFIRM]:0.9998:::T[ORGANISATION]:0.0002:::T[UNIVERSITY]:0:::T[GOVAGENCY]:0:::
+SW[and]:0.9998:::SW[of]:0.0002:::SW[NULL]:0:::
+DICT[Y]:1:::
+Active Evidence: 0.8921801
+Evidence: 6.0
+========================
+Token: Policy
+ID: & policy
+L[PLACE]:0.333:::L[BUILDING]:0.3329:::L[LAWFIRM]:0.3329:::L[COMPANY]:0.0004:::L[PERSON]:0.0004:::L[LIBRARY]:0.0004:::
+R[EMPTY]:1:::R[PERIODICAL_LITERATURE]:0:::
+T[LAWFIRM]:0.9988:::T[PERIODICAL_LITERATURE]:0.0012:::T[ORGANISATION]:0:::
+SW[for]:0.9988:::SW[NULL]:0.0011:::SW[of]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0009394
+Evidence: 9.0
+========================
+Token: Bricker
+ID: bricker
+L[EMPTY]:0.9997:::L[PERSON]:0.0003:::
+R[LAWFIRM]:0.9997:::R[EMPTY]:0.0003:::
+T[LAWFIRM]:0.9997:::T[PERSON]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0002887
+Evidence: 9.0
+========================
+Token: Chadbourne
+ID: chadbourne
+L[EMPTY]:0.9996:::L[PERSON]:0.0003:::L[PLACE]:0:::
+R[LAWFIRM]:0.9996:::R[EMPTY]:0.0004:::R[PERSON]:0:::R[UNIVERSITY]:0:::
+T[LAWFIRM]:0.9996:::T[PERSON]:0.0003:::T[BUILDING]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[a]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0003741
+Evidence: 11.0
+========================
+Token: Mccarter
+ID: mccarter
+L[EMPTY]:0.9981:::L[PERSON]:0.0019:::
+R[LAWFIRM]:0.6652:::R[EMPTY]:0.3345:::R[THEATRE]:0.0003:::R[PLACE]:0:::R[PERSON]:0:::
+T[LAWFIRM]:0.6652:::T[OTHER]:0.3326:::T[PERSON]:0.0019:::T[THEATRE]:0.0003:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.50322
+Evidence: 19.0
+========================
+Token: Cliffe
+ID: cliffe
+L[EMPTY]:0.9923:::L[ORGANISATION]:0.0071:::L[PLACE]:0.0003:::L[PERSON]:0.0003:::
+R[PERSON]:0.6978:::R[LAWFIRM]:0.2938:::R[EMPTY]:0.0077:::R[PLACE]:0.0008:::R[MUSEUM]:0:::
+T[LAWFIRM]:0.5875:::T[PLACE]:0.3474:::T[MOUNTAIN]:0.0599:::T[AIRPORT]:0.0049:::T[PERSON]:0.0003:::T[ORGANISATION]:0:::
+SW[NULL]:0.9998:::SW[and]:0.0002:::
+DICT[N]:0.939:::DICT[Y]:0.061:::
+Active Evidence: 1.6491432
+Evidence: 22.0
+========================
+Token: Myers
+ID: & myers
+L[PERSON]:1:::
+R[EMPTY]:1:::R[EVENT]:0:::
+T[LAWFIRM]:0.5397:::T[COMPANY]:0.4603:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5397:::DICT[N]:0.4603:::
+Active Evidence: 0.9375163
+Evidence: 3.0
+========================
+Token: Sycip
+ID: sycip
+L[EMPTY]:0.999:::L[PLACE]:0.0005:::L[DISEASE]:0.0005:::
+R[PERSON]:0.666:::R[LAWFIRM]:0.333:::R[EMPTY]:0.001:::
+T[LAWFIRM]:0.999:::T[PERSON]:0.001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.69848937
+Evidence: 3.0
+========================
+Token: Bonelli
+ID: bonelli
+L[EMPTY]:0.9968:::L[PERSON]:0.0032:::
+R[LAWFIRM]:0.6281:::R[EMPTY]:0.3711:::R[PLACE]:0.0008:::R[RIVER]:0:::
+T[LAWFIRM]:0.6281:::T[OTHER]:0.3679:::T[PERSON]:0.0032:::T[BUILDING]:0.0008:::T[RIVER]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9991:::DICT[Y]:0.0009:::
+Active Evidence: 1.3591484
+Evidence: 16.0
+========================
+Token: Gossett
+ID: gossett
+L[LAWFIRM]:0.9911:::L[PERSON]:0.0089:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[LAWFIRM]:0.9911:::T[PERSON]:0.0089:::
+SW[NULL]:1:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 1.0079205
+Evidence: 14.0
+========================
+Token: Osler
+ID: osler
+L[EMPTY]:0.857:::L[PLACE]:0.1414:::L[PERSON]:0.0014:::L[COMPANY]:0.0001:::
+R[LAWFIRM]:0.8556:::R[EMPTY]:0.1399:::R[PLACE]:0.0035:::R[PERSON]:0.0004:::R[LIBRARY]:0.0004:::R[ORGANISATION]:0.0001:::
+T[LAWFIRM]:0.8556:::T[PERSON]:0.143:::T[LIBRARY]:0.0013:::T[ORGANISATION]:0.0001:::
+SW[NULL]:0.9987:::SW[of]:0.0013:::
+DICT[N]:0.9977:::DICT[Y]:0.0023:::
+Active Evidence: 1.1338308
+Evidence: 17.0
+========================
+Token: Balch
+ID: balch
+L[EMPTY]:0.9963:::L[PERSON]:0.0037:::L[BUILDING]:0:::
+R[EMPTY]:0.5004:::R[LAWFIRM]:0.4967:::R[PLACE]:0.0022:::R[RIVER]:0.0007:::R[PERSON]:0:::R[BUILDING]:0:::
+T[LAWFIRM]:0.4967:::T[OTHER]:0.4967:::T[PERSON]:0.0037:::T[PLACE]:0.0012:::T[BUILDING]:0.001:::T[RIVER]:0.0007:::
+SW[NULL]:1:::SW[a]:0:::SW[and]:0:::
+DICT[N]:0.9978:::DICT[Y]:0.0022:::
+Active Evidence: 2.0132942
+Evidence: 36.0
+========================
+Token: Finnegan
+ID: finnegan
+L[EMPTY]:0.6649:::L[PLACE]:0.3248:::L[PERSON]:0.0103:::
+R[EMPTY]:0.5571:::R[PERSON]:0.2215:::R[LAWFIRM]:0.2215:::
+T[LAWFIRM]:0.4429:::T[PERSON]:0.3351:::T[OTHER]:0.222:::
+SW[NULL]:1:::SW[a]:0:::
+DICT[N]:0.9996:::DICT[Y]:0.0004:::
+Active Evidence: 2.252174
+Evidence: 44.0
+========================
+Token: Ledyard
+ID: ledyard
+L[PERSON]:0.6082:::L[EMPTY]:0.3905:::L[PLACE]:0.0013:::
+R[LAWFIRM]:0.6051:::R[EMPTY]:0.3941:::R[PERSON]:0.0007:::R[BRIDGE]:0.0001:::
+T[LAWFIRM]:0.6051:::T[OTHER]:0.3898:::T[PERSON]:0.005:::T[BRIDGE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 1.282842
+Evidence: 18.0
+========================
+Token: Wentzel
+ID: wentzel
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.8456:::T[PERSON]:0.1544:::
+SW[NULL]:1:::
+DICT[N]:0.9992:::DICT[Y]:0.0008:::
+Active Evidence: 0.7994181
+Evidence: 10.0
+========================
+Token: Schulte
+ID: schulte
+L[EMPTY]:0.6486:::L[PERSON]:0.3514:::
+R[EMPTY]:0.3514:::R[PERSON]:0.3243:::R[LAWFIRM]:0.3243:::
+T[LAWFIRM]:0.6486:::T[PERSON]:0.3514:::
+SW[NULL]:0.9999:::SW[von]:0.0001:::
+DICT[N]:0.9947:::DICT[Y]:0.0053:::
+Active Evidence: 1.4939542
+Evidence: 36.0
+========================
+Token: Lindquist
+ID: lindquist
+L[EMPTY]:0.8873:::L[PERSON]:0.1127:::
+R[LAWFIRM]:0.8858:::R[EMPTY]:0.1127:::R[PLACE]:0.0015:::R[BUILDING]:0:::
+T[LAWFIRM]:0.8858:::T[PERSON]:0.1127:::T[RIVER]:0.0009:::T[ISLAND]:0.0004:::T[PLACE]:0.0001:::T[BUILDING]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.9936:::DICT[Y]:0.0064:::
+Active Evidence: 1.1288891
+Evidence: 29.0
+========================
+Token: Dorfman
+ID: dorfman
+L[PERSON]:1:::
+R[LAWFIRM]:0.9747:::R[EMPTY]:0.0253:::
+T[LAWFIRM]:0.9747:::T[PERSON]:0.0253:::
+SW[NULL]:1:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 0.993186
+Evidence: 27.0
+========================
+Token: Nouel
+ID: nouel
+L[PERSON]:0.5008:::L[LAWFIRM]:0.499:::L[PLACE]:0.0003:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[LAWFIRM]:0.9979:::T[PERSON]:0.0018:::T[PLACE]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.45976147
+Evidence: 5.0
+========================
+Token: Waterhouse
+ID: waterhouse
+L[PERSON]:0.5446:::L[PLACE]:0.4546:::L[MOUNTAIN]:0.0005:::L[EMPTY]:0.0002:::L[EVENT]:0.0001:::L[COMPANY]:0:::
+R[EMPTY]:0.9996:::R[PLACE]:0.0002:::R[MUSEUM]:0.0001:::R[PERSON]:0:::R[EVENT]:0:::R[ORGANISATION]:0:::
+T[LAWFIRM]:0.9084:::T[PERSON]:0.0907:::T[PLACE]:0.0006:::T[MUSEUM]:0.0001:::T[BUILDING]:0.0001:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.941:::DICT[N]:0.059:::
+Active Evidence: 1.0964022
+Evidence: 71.0
+========================
+Token: Hrdlicka
+ID: hrdlicka
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.9999:::DICT[N]:0.0001:::
+Active Evidence: 0.2920402
+Evidence: 3.0
+========================
+Token: Patent and
+ID: patent and
+L[PERSON]:0.4556:::L[COMPANY]:0.4556:::L[PLACE]:0.0443:::L[EVENT]:0.0443:::L[EMPTY]:0.0001:::
+R[BUILDING]:0.5:::R[LAWFIRM]:0.4556:::R[ORGANISATION]:0.0444:::
+T[LAWFIRM]:0.9112:::T[GOVAGENCY]:0.0887:::T[ORGANISATION]:0.0001:::
+SW[and]:0.9999:::SW[NULL]:0.0001:::
+DICT[Y]:1:::
+Active Evidence: 0.11775191
+Evidence: 3.0
+========================
+Token: Westbroek
+ID: westbroek
+L[BUILDING]:0.4963:::L[LAWFIRM]:0.4963:::L[PERSON]:0.0074:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9926:::T[PERSON]:0.0074:::
+SW[NULL]:1:::
+DICT[N]:0.9996:::DICT[Y]:0.0004:::
+Active Evidence: 0.119847596
+Evidence: 5.0
+========================
+Token: Traurig
+ID: traurig
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9996:::T[PERSON]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.10180871
+Evidence: 3.0
+========================
+Token: Womble
+ID: womble
+L[EMPTY]:0.9998:::L[PERSON]:0.0002:::
+R[PERSON]:0.3333:::R[PLACE]:0.3333:::R[LAWFIRM]:0.3333:::R[EMPTY]:0.0002:::
+T[LAWFIRM]:0.9998:::T[PERSON]:0.0002:::
+SW[NULL]:1:::
+DICT[Y]:0.9999:::DICT[N]:0.0001:::
+Active Evidence: 0.08068389
+Evidence: 6.0
+========================
+Token: Proskauer
+ID: proskauer
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[PERSON]:0.9999:::R[EMPTY]:0.0001:::
+T[LAWFIRM]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.9999:::DICT[N]:0.0001:::
+Active Evidence: 0.03906584
+Evidence: 3.0
+========================
+Token: Mawer
+ID: mawer
+L[LAWFIRM]:0.9996:::L[PERSON]:0.0004:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9996:::T[PERSON]:0.0004:::
+SW[NULL]:1:::
+DICT[Y]:0.9996:::DICT[N]:0.0004:::
+Active Evidence: 0.034706127
+Evidence: 5.0
+========================
+Token: Rice
+ID: & rice
+L[PERSON]:0.3488:::L[PLACE]:0.3039:::L[LAWFIRM]:0.3039:::L[COMPANY]:0.0433:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9118:::T[COMPANY]:0.0866:::T[PERSON]:0.0016:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.026463542
+Evidence: 3.0
+========================
+Token: Dla
+ID: dla
+L[EMPTY]:0.9929:::L[ORGANISATION]:0.0071:::
+R[PERSON]:0.9929:::R[MOUNTAIN]:0.0071:::
+T[LAWFIRM]:0.9929:::T[MOUNTAIN]:0.0071:::
+SW[NULL]:1:::
+DICT[Y]:0.8836:::DICT[N]:0.1164:::
+Active Evidence: 0.0105440365
+Evidence: 3.0
+========================
+Token: Westgarth
+ID: westgarth
+L[PERSON]:0.502:::L[LAWFIRM]:0.497:::L[EMPTY]:0.0008:::L[COMPANY]:0.0002:::
+R[EMPTY]:0.999:::R[PERSON]:0.0008:::R[COMPANY]:0.0002:::
+T[LAWFIRM]:0.994:::T[PERSON]:0.0058:::T[COMPANY]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 0.013145073
+Evidence: 8.0
+========================
+Token: Honigman
+ID: honigman
+L[EMPTY]:1:::L[PERSON]:0:::
+R[PERSON]:0.6666:::R[LAWFIRM]:0.3333:::R[EMPTY]:0:::
+T[LAWFIRM]:1:::T[PERSON]:0:::
+SW[and]:1:::SW[NULL]:0:::
+DICT[Y]:1:::
+Active Evidence: 0.00860906
+Evidence: 3.0
+========================
+Token: Hofmeyr
+ID: hofmeyr
+L[PERSON]:0.5112:::L[LAWFIRM]:0.4888:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9777:::T[PERSON]:0.0223:::
+SW[NULL]:1:::
+DICT[N]:0.9921:::DICT[Y]:0.0079:::
+Active Evidence: 0.0053892555
+Evidence: 5.0
+========================
+Token: Sweatman
+ID: sweatman
+L[PERSON]:0.5021:::L[LAWFIRM]:0.4979:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9959:::T[PERSON]:0.0041:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.0051780483
+Evidence: 5.0
+========================
+Token: Grierson
+ID: grierson
+L[PERSON]:0.6687:::L[UNIVERSITY]:0.3309:::L[EMPTY]:0.0004:::L[PLACE]:0:::
+R[EMPTY]:0.9996:::R[ORGANISATION]:0.0004:::
+T[LAWFIRM]:0.6669:::T[PERSON]:0.3328:::T[BUILDING]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.009158968
+Evidence: 16.0
+========================
+Token: Mccutchen
+ID: mccutchen
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9973:::T[PERSON]:0.0027:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.004472051
+Evidence: 4.0
+========================
+Token: Law in
+ID: law in
+L[ORGANISATION]:0.9784:::L[PERIODICAL_LITERATURE]:0.021:::L[UNIVERSITY]:0.0006:::
+R[COMPANY]:0.9782:::R[PLACE]:0.0215:::R[PERSON]:0.0003:::
+T[LAWFIRM]:0.9782:::T[PERIODICAL_LITERATURE]:0.0215:::T[UNIVERSITY]:0.0003:::
+SW[in]:0.9782:::SW[of]:0.0215:::SW[for]:0.0003:::
+DICT[Y]:0.9795:::DICT[N]:0.0205:::
+Active Evidence: 0.003152806
+Evidence: 4.0
+========================
+Token: Tillinghast
+ID: tillinghast
+L[EMPTY]:0.9864:::L[PERSON]:0.0134:::L[PLACE]:0.0003:::
+R[LAWFIRM]:0.9674:::R[PERSON]:0.0191:::R[EMPTY]:0.0124:::R[PLACE]:0.0011:::R[BUILDING]:0.0001:::R[ROAD]:0:::
+T[LAWFIRM]:0.9674:::T[PERSON]:0.0312:::T[BUILDING]:0.0011:::T[PLACE]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:0.9735:::DICT[Y]:0.0265:::
+Active Evidence: 0.0055569615
+Evidence: 18.0
+========================
+Token: Elser
+ID: elser
+L[PERSON]:1:::
+R[PERSON]:0.3334:::R[COMPANY]:0.3332:::R[LAWFIRM]:0.3332:::R[EMPTY]:0.0001:::
+T[LAWFIRM]:0.9996:::T[PERSON]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.0016406426
+Evidence: 3.0
+========================
+Token: Dykema
+ID: dykema
+L[EMPTY]:0.9991:::L[PERSON]:0.0009:::
+R[LAWFIRM]:0.9991:::R[EMPTY]:0.0009:::
+T[LAWFIRM]:0.9991:::T[PERSON]:0.0009:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.0010212748
+Evidence: 3.0
+========================
+Token: Norcross
+ID: norcross
+L[PERSON]:0.9969:::L[EMPTY]:0.0031:::
+R[LAWFIRM]:0.956:::R[EMPTY]:0.0399:::R[PLACE]:0.0024:::R[PERSON]:0.0018:::
+T[LAWFIRM]:0.956:::T[PERSON]:0.0401:::T[BUILDING]:0.004:::
+SW[NULL]:0.9999:::SW[a]:0.0001:::
+DICT[N]:0.9921:::DICT[Y]:0.0079:::
+Active Evidence: 0.0014475855
+Evidence: 16.0
+========================
+Token: Gilfillan
+ID: gilfillan
+L[PERSON]:0.9996:::L[EMPTY]:0.0004:::
+R[EMPTY]:0.9996:::R[PLACE]:0.0004:::
+T[LAWFIRM]:0.9923:::T[PERSON]:0.0073:::T[BUILDING]:0.0004:::
+SW[NULL]:1:::
+DICT[Y]:0.9938:::DICT[N]:0.0062:::
+Active Evidence: 0.001200885
+Evidence: 17.0
+========================
+Token: Sonsini
+ID: sonsini
+L[PERSON]:1:::
+R[PERSON]:0.4989:::R[LAWFIRM]:0.4989:::R[EMPTY]:0.0023:::
+T[LAWFIRM]:0.9977:::T[PERSON]:0.0023:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.1120796E-4
+Evidence: 3.0
+========================
+Token: Englefield
+ID: englefield
+L[PERSON]:0.9669:::L[EMPTY]:0.032:::L[EVENT]:0.0011:::
+R[EMPTY]:0.968:::R[PLACE]:0.032:::
+T[LAWFIRM]:0.9539:::T[BUILDING]:0.0279:::T[PERSON]:0.013:::T[PLACE]:0.0041:::T[EVENT]:0.0011:::
+SW[NULL]:0.9989:::SW[of]:0.0011:::
+DICT[N]:0.966:::DICT[Y]:0.034:::
+Active Evidence: 3.6977106E-4
+Evidence: 10.0
+========================
+Token: Deighton
+ID: deighton
+L[EMPTY]:0.9904:::L[PERSON]:0.0082:::L[PLACE]:0.0012:::L[LAWFIRM]:0.0001:::
+R[PERSON]:0.4961:::R[PLACE]:0.4943:::R[EMPTY]:0.0096:::
+T[LAWFIRM]:0.9887:::T[PLACE]:0.0076:::T[PERSON]:0.0037:::
+SW[NULL]:1:::
+DICT[Y]:0.9984:::DICT[N]:0.0016:::
+Active Evidence: 3.6242872E-4
+Evidence: 10.0
+========================
+Token: Mccambridge
+ID: mccambridge
+L[PERSON]:1:::
+R[PERSON]:0.4963:::R[LAWFIRM]:0.4963:::R[EMPTY]:0.0075:::
+T[LAWFIRM]:0.9925:::T[PERSON]:0.0075:::
+SW[NULL]:1:::
+DICT[N]:0.9972:::DICT[Y]:0.0028:::
+Active Evidence: 2.1003676E-4
+Evidence: 6.0
+========================
+Token: Utz
+ID: utz
+L[PERSON]:0.7017:::L[EMPTY]:0.2983:::
+R[EMPTY]:0.7017:::R[COMPANY]:0.2358:::R[PERSON]:0.0572:::R[PLACE]:0.0053:::
+T[LAWFIRM]:0.6981:::T[COMPANY]:0.2358:::T[PERSON]:0.0608:::T[PLACE]:0.0039:::T[BUILDING]:0.0013:::
+SW[NULL]:1:::
+DICT[N]:0.7589:::DICT[Y]:0.2411:::
+Active Evidence: 1.535365E-4
+Evidence: 6.0
+========================
+Token: Botts
+ID: botts
+L[PERSON]:0.9994:::L[PLACE]:0.0006:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.9939:::T[PERSON]:0.0061:::
+SW[NULL]:1:::
+DICT[N]:0.9977:::DICT[Y]:0.0023:::
+Active Evidence: 1.5371921E-4
+Evidence: 7.0
+========================
+Token: Stockton
+ID: & stockton
+L[PERSON]:0.5018:::L[PLACE]:0.4982:::
+R[EMPTY]:0.9964:::R[PERIODICAL_LITERATURE]:0.0036:::
+T[LAWFIRM]:0.9964:::T[PERIODICAL_LITERATURE]:0.0036:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 9.896843E-5
+Evidence: 2.0
+========================
+Token: Sater
+ID: sater
+L[LAWFIRM]:0.9946:::L[PERSON]:0.0054:::
+R[PERSON]:0.4973:::R[LAWFIRM]:0.4973:::R[EMPTY]:0.0054:::
+T[LAWFIRM]:0.9946:::T[PERSON]:0.0054:::
+SW[and]:0.9946:::SW[NULL]:0.0054:::
+DICT[N]:1:::
+Active Evidence: 9.106529E-5
+Evidence: 2.0
+========================
+Token: Stoel
+ID: stoel
+L[EMPTY]:0.9907:::L[PERSON]:0.0093:::
+R[PERSON]:0.9907:::R[EMPTY]:0.0093:::
+T[LAWFIRM]:0.9907:::T[PERSON]:0.0093:::
+SW[NULL]:0.9968:::SW[van]:0.0032:::
+DICT[N]:1:::
+Active Evidence: 4.7683083E-5
+Evidence: 3.0
+========================
+Token: Gunst
+ID: gunst
+L[PLACE]:0.991:::L[PERSON]:0.009:::
+R[PERSON]:0.4955:::R[ORGANISATION]:0.4955:::R[EMPTY]:0.009:::
+T[LAWFIRM]:0.991:::T[PERSON]:0.009:::
+SW[NULL]:0.9969:::SW[van]:0.0031:::
+DICT[N]:1:::
+Active Evidence: 4.3587857E-5
+Evidence: 3.0
+========================
+Token: Willan
+ID: willan
+L[PERSON]:0.5465:::L[PLACE]:0.4535:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.907:::T[PERSON]:0.093:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.007721E-5
+Evidence: 5.0
+========================
+Token: Lohnes
+ID: lohnes
+L[PERSON]:1:::
+R[EMPTY]:0.9901:::R[PERSON]:0.0099:::
+T[LAWFIRM]:0.9496:::T[PERSON]:0.0504:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.103636E-5
+Evidence: 3.0
+========================
+Token: Proffitt
+ID: proffitt
+L[PERSON]:1:::
+R[LAWFIRM]:0.9502:::R[EMPTY]:0.0498:::
+T[LAWFIRM]:0.9502:::T[PERSON]:0.0498:::
+SW[NULL]:1:::
+DICT[Y]:0.9502:::DICT[N]:0.0498:::
+Active Evidence: 2.7708937E-5
+Evidence: 4.0
+========================
+Token: Bridgett
+ID: bridgett
+L[PERSON]:0.9962:::L[EMPTY]:0.0038:::
+R[EMPTY]:0.9962:::R[PERSON]:0.0038:::
+T[LAWFIRM]:0.9962:::T[PERSON]:0.0038:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.6842717E-5
+Evidence: 2.0
+========================
+Token: West
+ID: & west
+L[PERSON]:0.8137:::L[PLACE]:0.1863:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.8137:::T[COMPANY]:0.1863:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.4119309E-5
+Evidence: 2.0
+========================
+Token: Sokoloff
+ID: sokoloff
+L[PERSON]:1:::
+R[PERSON]:0.4527:::R[LAWFIRM]:0.4527:::R[EMPTY]:0.0946:::
+T[LAWFIRM]:0.9054:::T[PERSON]:0.0946:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.394878E-5
+Evidence: 7.0
+========================
+Token: Schoeneck
+ID: schoeneck
+L[PERSON]:0.8938:::L[PLACE]:0.1062:::
+R[COMPANY]:0.8938:::R[EMPTY]:0.1062:::
+T[LAWFIRM]:0.8938:::T[PERSON]:0.1062:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0019573E-5
+Evidence: 2.0
+========================
+Token: Roberton
+ID: roberton
+L[COMPANY]:0.8765:::L[PERSON]:0.1235:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.8765:::T[PERSON]:0.1235:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 9.50212E-6
+Evidence: 6.0
+========================
+Token: Stewart
+ID: & stewart
+L[PERSON]:0.798:::L[PLACE]:0.202:::
+R[EMPTY]:1:::
+T[LAWFIRM]:0.798:::T[COMPANY]:0.202:::
+SW[NULL]:1:::
+DICT[Y]:0.798:::DICT[N]:0.202:::
+Active Evidence: 4.3286473E-6
+Evidence: 2.0
+========================
+Token: Brownstein
+ID: brownstein
+L[EMPTY]:0.755:::L[ORGANISATION]:0.245:::
+R[PERSON]:0.5033:::R[COMPANY]:0.2517:::R[EMPTY]:0.245:::
+T[LAWFIRM]:0.755:::T[PERSON]:0.245:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.9314277E-6
+Evidence: 2.0
+========================
+Token: Mccamey
+ID: mccamey
+L[PERSON]:1:::
+R[LAWFIRM]:0.8053:::R[EMPTY]:0.1947:::
+T[LAWFIRM]:0.8053:::T[PERSON]:0.1947:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3768024E-6
+Evidence: 2.0
+========================
+Token: Mcglinchey
+ID: mcglinchey
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.36494E-6
+Evidence: 1.0
+========================
+Token: Egorov
+ID: egorov
+L[EMPTY]:1:::
+R[LAWFIRM]:0.6667:::R[COMPANY]:0.3333:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.8981001E-6
+Evidence: 1.0
+========================
+Token: Leason
+ID: leason
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0440673E-6
+Evidence: 1.0
+========================
+Token: Stoneburner
+ID: stoneburner
+L[PERSON]:1:::
+R[PERSON]:0.6667:::R[LAWFIRM]:0.3333:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.3405135E-5
+Evidence: 1.0
+========================
+Token: Rifkind
+ID: rifkind
+L[PERSON]:1:::
+R[PERSON]:0.5:::R[LAWFIRM]:0.5:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.3395144E-7
+Evidence: 1.0
+========================
+Token: Cassels
+ID: cassels
+L[PERSON]:1:::
+R[LAWFIRM]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.9640225E-7
+Evidence: 1.0
+========================
+Token: Bisgaard
+ID: bisgaard
+L[PERSON]:0.5:::L[LAWFIRM]:0.5:::
+R[COMPANY]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.0638324E-7
+Evidence: 1.0
+========================
+Token: Snr
+ID: snr
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.2934537E-7
+Evidence: 1.0
+========================
+Token: Buddle
+ID: buddle
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.828194E-7
+Evidence: 1.0
+========================
+Token: Shagin
+ID: shagin
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[COMPANY]:0.5:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.545567E-6
+Evidence: 1.0
+========================
+Token: Dunst
+ID: dunst
+L[PERSON]:0.6667:::L[PLACE]:0.3333:::
+R[LAWFIRM]:1:::
+T[LAWFIRM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.6291925E-6
+Evidence: 1.0
+========================

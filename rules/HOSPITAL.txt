@@ -1,0 +1,590 @@
+Token: Hospital of
+ID: hospital of
+L[UNIVERSITY]:0.2387:::L[COMPANY]:0.1666:::L[BUILDING]:0.1546:::L[PERSON]:0.0969:::L[EMPTY]:0.0929:::L[PLACE]:0.0827:::
+R[PLACE]:0.5633:::R[PERSON]:0.1415:::R[ORGANISATION]:0.125:::R[HOSPITAL]:0.0668:::R[RIVER]:0.0392:::R[BUILDING]:0.0287:::
+T[HOSPITAL]:0.8979:::T[PLACE]:0.0541:::T[BUILDING]:0.0224:::T[COMPANY]:0.017:::T[OTHER]:0.0085:::
+SW[of]:0.8973:::SW[NULL]:0.0588:::SW[the]:0.0228:::SW[la]:0.0152:::SW[and]:0.0059:::
+DICT[Y]:0.6689:::DICT[N]:0.3311:::
+Active Evidence: 58.649193
+Evidence: 70.0
+========================
+Token: Hospital for
+ID: hospital for
+L[PLACE]:0.3203:::L[PERSON]:0.3048:::L[HOSPITAL]:0.1431:::L[ORGANISATION]:0.073:::L[EMPTY]:0.0576:::L[BUILDING]:0.045:::
+R[ORGANISATION]:0.5842:::R[HOSPITAL]:0.1009:::R[BUILDING]:0.0722:::R[PLACE]:0.0626:::R[PERSON]:0.0551:::R[COMPANY]:0.0448:::
+T[HOSPITAL]:0.7729:::T[BUILDING]:0.1446:::T[ORGANISATION]:0.0299:::T[COMPANY]:0.0297:::T[PLACE]:0.0228:::
+SW[for]:0.8309:::SW[the]:0.0599:::SW[NULL]:0.0576:::SW[and]:0.0516:::
+DICT[Y]:0.9696:::DICT[N]:0.0304:::
+Active Evidence: 33.29486
+Evidence: 36.0
+========================
+Token: Medical
+ID: medical
+L[PLACE]:0.32:::L[PERSON]:0.221:::L[UNIVERSITY]:0.1208:::L[EMPTY]:0.0828:::L[HOSPITAL]:0.0661:::L[ORGANISATION]:0.0589:::
+R[PLACE]:0.6296:::R[UNIVERSITY]:0.1752:::R[PERSON]:0.0511:::R[EMPTY]:0.0421:::R[ORGANISATION]:0.035:::R[COMPANY]:0.0274:::
+T[HOSPITAL]:0.6065:::T[UNIVERSITY]:0.24:::T[COMPANY]:0.0693:::T[ORGANISATION]:0.0442:::T[PERIODICAL_LITERATURE]:0.0177:::T[OTHER]:0.0165:::
+SW[NULL]:0.8507:::SW[of]:0.1088:::SW[and]:0.0251:::SW[for]:0.0056:::SW[in]:0.0031:::SW[at]:0.0029:::
+DICT[Y]:0.6233:::DICT[N]:0.3767:::
+Active Evidence: 632.11725
+Evidence: 1295.0
+========================
+Token: Infirmary
+ID: infirmary
+L[PLACE]:0.7262:::L[PERSON]:0.0647:::L[EVENT]:0.0467:::L[ORGANISATION]:0.0438:::L[RIVER]:0.035:::L[HOSPITAL]:0.032:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.7357:::T[BUILDING]:0.2061:::T[PLACE]:0.0582:::
+SW[NULL]:0.8251:::SW[and]:0.1749:::
+DICT[Y]:0.7898:::DICT[N]:0.2102:::
+Active Evidence: 28.532568
+Evidence: 30.0
+========================
+Token: Sanatorium
+ID: sanatorium
+L[HOSPITAL]:0.4703:::L[PERSON]:0.1733:::L[PLACE]:0.0975:::L[BUILDING]:0.0728:::L[EMPTY]:0.0619:::L[EVENT]:0.0495:::
+R[EMPTY]:0.95:::R[BUILDING]:0.0495:::R[PERSON]:0.0005:::R[PLACE]:0:::
+T[HOSPITAL]:0.8415:::T[BUILDING]:0.099:::T[PLACE]:0.0466:::T[OTHER]:0.0124:::T[AIRPORT]:0.0005:::
+SW[NULL]:1:::
+DICT[N]:0.8515:::DICT[Y]:0.1485:::
+Active Evidence: 20.19699
+Evidence: 23.0
+========================
+Token: Hospital and
+ID: hospital and
+L[PERSON]:0.2466:::L[PLACE]:0.2245:::L[HOSPITAL]:0.1775:::L[UNIVERSITY]:0.0791:::L[BUILDING]:0.0723:::L[ORGANISATION]:0.0598:::
+R[ORGANISATION]:0.2509:::R[PLACE]:0.2337:::R[COMPANY]:0.23:::R[HOSPITAL]:0.0845:::R[GOVAGENCY]:0.0785:::R[UNIVERSITY]:0.0407:::
+T[HOSPITAL]:0.6239:::T[UNIVERSITY]:0.1427:::T[BUILDING]:0.0849:::T[COMPANY]:0.0694:::T[ORGANISATION]:0.0587:::T[AIRPORT]:0.0181:::
+SW[and]:1:::SW[of]:0:::
+DICT[Y]:0.8587:::DICT[N]:0.1413:::
+Active Evidence: 11.753378
+Evidence: 24.0
+========================
+Token: Hospital
+ID: hospital
+L[PLACE]:0.0326:::L[EMPTY]:0.03:::L[PERSON]:0.021:::L[HOSPITAL]:0.0132:::L[BUILDING]:0.0052:::L[EVENT]:0.0043:::
+R[EMPTY]:0.9491:::R[PLACE]:0.003:::R[PERSON]:0.0007:::R[HOSPITAL]:0.0006:::R[ORGANISATION]:0.0001:::R[COMPANY]:0.0001:::
+T[HOSPITAL]:0.0837:::T[PLACE]:0.0234:::T[BUILDING]:0.0038:::T[COMPANY]:0.001:::T[OTHER]:0.001:::T[ORGANISATION]:0.0005:::
+SW[NULL]:0.9809:::SW[and]:0.0016:::SW[de]:0.0001:::SW[of]:0:::SW[a]:0:::SW[del]:0:::
+DICT[Y]:0.5764:::DICT[N]:0.4176:::
+Active Evidence: 1626.256
+Evidence: 2060.8037
+========================
+Token: Children's
+ID: children's
+L[EMPTY]:0.5587:::L[PLACE]:0.1618:::L[PERSON]:0.1375:::L[COMPANY]:0.0442:::L[HOSPITAL]:0.0432:::L[ORGANISATION]:0.0313:::
+R[PLACE]:0.2186:::R[HOSPITAL]:0.2093:::R[EMPTY]:0.1786:::R[PERSON]:0.1226:::R[COMPANY]:0.0851:::R[ORGANISATION]:0.0712:::
+T[HOSPITAL]:0.3471:::T[COMPANY]:0.2326:::T[OTHER]:0.1652:::T[ORGANISATION]:0.0729:::T[BUILDING]:0.0649:::T[MUSEUM]:0.0428:::
+SW[NULL]:0.7156:::SW[of]:0.1477:::SW[and]:0.0507:::SW[at]:0.0473:::SW[for]:0.0228:::SW[is]:0.0134:::
+DICT[Y]:1:::
+Active Evidence: 74.82723
+Evidence: 295.0
+========================
+Token: Hospital De
+ID: hospital de
+L[EMPTY]:1:::
+R[PLACE]:0.4422:::R[HOSPITAL]:0.4047:::R[PERSON]:0.1531:::
+T[HOSPITAL]:0.6938:::T[PLACE]:0.3062:::
+SW[NULL]:0.7687:::SW[de]:0.2313:::
+DICT[N]:0.7687:::DICT[Y]:0.2313:::
+Active Evidence: 4.3239026
+Evidence: 5.0
+========================
+Token: Gosh
+ID: gosh
+L[EMPTY]:0.5227:::L[PERSON]:0.0866:::L[PLACE]:0.0326:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.4092:::T[PERSON]:0.1192:::T[OTHER]:0.0283:::
+SW[NULL]:1:::
+DICT[N]:0.5908:::
+Active Evidence: 7.341812
+Evidence: 9.004
+========================
+Token: Sjukhus
+ID: sjukhus
+L[HOSPITAL]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[HOSPITAL]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6667:::DICT[Y]:0.3333:::
+Active Evidence: 3.000001
+Evidence: 4.0
+========================
+Token: Clinic
+ID: clinic
+L[EMPTY]:0.2163:::L[PERSON]:0.112:::L[PLACE]:0.0635:::L[COMPANY]:0.0364:::L[BUILDING]:0.0184:::L[ORGANISATION]:0.0183:::
+R[EMPTY]:0.9949:::R[PERSON]:0.0008:::R[BUILDING]:0.0008:::R[PERIODICAL_LITERATURE]:0.0003:::R[PLACE]:0:::R[COMPANY]:0:::
+T[HOSPITAL]:0.1025:::T[COMPANY]:0.0913:::T[PERSON]:0.0734:::T[OTHER]:0.0506:::T[ORGANISATION]:0.0365:::T[BUILDING]:0.0276:::
+SW[NULL]:0.9976:::SW[in]:0.0007:::SW[and]:0.0001:::
+DICT[N]:0.6808:::DICT[Y]:0.2718:::
+Active Evidence: 38.48946
+Evidence: 50.826
+========================
+Token: Hamot
+ID: hamot
+L[EMPTY]:0.5704:::L[HOSPITAL]:0.1846:::L[PERSON]:0.0001:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[HOSPITAL]:0.9998:::T[PERSON]:0.0001:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4296:::DICT[Y]:0:::
+Active Evidence: 2.324886
+Evidence: 4.3262
+========================
+Token: Shifa
+ID: shifa
+L[EMPTY]:0.9995:::L[ORGANISATION]:0.0001:::L[PERSON]:0:::
+R[EMPTY]:0.6778:::R[PERSON]:0.1038:::R[UNIVERSITY]:0:::
+T[HOSPITAL]:0.6773:::T[PERSON]:0.1039:::T[ORGANISATION]:0.0001:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.3227:::DICT[Y]:0:::
+Active Evidence: 3.1041822
+Evidence: 6.1026
+========================
+Token: Centegra
+ID: centegra
+L[EMPTY]:1:::
+R[HOSPITAL]:0.9999:::R[COMPANY]:0:::R[GOVAGENCY]:0:::
+T[HOSPITAL]:0.9999:::T[COMPANY]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9506083
+Evidence: 3.0
+========================
+Token: Hoag
+ID: hoag
+L[EMPTY]:0.3915:::L[PERSON]:0.1988:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.2636:::T[PERSON]:0.1601:::T[OTHER]:0.0418:::T[LAWFIRM]:0.0388:::
+SW[NULL]:1:::
+DICT[N]:0.7339:::DICT[Y]:0.0025:::
+Active Evidence: 7.8156476
+Evidence: 21.0602
+========================
+Token: Center and
+ID: center and
+L[PLACE]:0.2409:::L[PERSON]:0.2149:::L[PERIODICAL_LITERATURE]:0.1443:::L[EVENT]:0.0908:::L[ORGANISATION]:0.079:::L[UNIVERSITY]:0.0676:::
+R[PLACE]:0.3773:::R[HOSPITAL]:0.2:::R[MUSEUM]:0.1508:::R[BUILDING]:0.1235:::R[LIBRARY]:0.0896:::R[PERSON]:0.0432:::
+T[HOSPITAL]:0.2507:::T[PLACE]:0.2301:::T[BUILDING]:0.1527:::T[MUSEUM]:0.1462:::T[COMPANY]:0.1289:::T[UNIVERSITY]:0.0906:::
+SW[and]:1:::
+DICT[Y]:0.9991:::DICT[N]:0.0009:::
+Active Evidence: 7.619703
+Evidence: 20.0
+========================
+Token: Universitaire
+ID: universitaire
+L[HOSPITAL]:0.5192:::L[ORGANISATION]:0.4801:::L[UNIVERSITY]:0.0007:::L[PLACE]:0.0001:::
+R[HOSPITAL]:0.7601:::R[PERSON]:0.1198:::R[BUILDING]:0.0599:::R[UNIVERSITY]:0.0599:::R[PLACE]:0.0002:::
+T[HOSPITAL]:0.9999:::T[PLACE]:0.0001:::
+SW[NULL]:0.9993:::SW[de]:0.0007:::
+DICT[Y]:0.7595:::DICT[N]:0.2405:::
+Active Evidence: 1.9262152
+Evidence: 5.0
+========================
+Token: Rehabilitation
+ID: rehabilitation
+L[COMPANY]:0.163:::L[GOVAGENCY]:0.16:::L[PERSON]:0.1568:::L[PERIODICAL_LITERATURE]:0.1401:::L[ORGANISATION]:0.1216:::L[PLACE]:0.0912:::
+R[EMPTY]:0.6654:::R[ORGANISATION]:0.1321:::R[PLACE]:0.0919:::R[UNIVERSITY]:0.029:::R[HOSPITAL]:0.0286:::R[PERIODICAL_LITERATURE]:0.0218:::
+T[HOSPITAL]:0.3827:::T[COMPANY]:0.2475:::T[GOVAGENCY]:0.1536:::T[PERIODICAL_LITERATURE]:0.1061:::T[ORGANISATION]:0.0864:::T[BUILDING]:0.0121:::
+SW[of]:0.2997:::SW[for]:0.2484:::SW[and]:0.2314:::SW[NULL]:0.2204:::
+DICT[Y]:0.8118:::DICT[N]:0.1882:::
+Active Evidence: 8.222037
+Evidence: 54.0
+========================
+Token: Bridges to
+ID: bridges to
+L[EMPTY]:1:::
+R[COMPANY]:0.3999:::R[PLACE]:0.3998:::R[EMPTY]:0.2003:::
+T[HOSPITAL]:0.3999:::T[COMPANY]:0.3998:::T[OTHER]:0.2003:::
+SW[NULL]:1:::
+DICT[N]:0.6001:::DICT[Y]:0.3999:::
+Active Evidence: 2.496268
+Evidence: 3.0
+========================
+Token: Dong-a
+ID: dong-a
+L[EMPTY]:1:::
+R[UNIVERSITY]:0.6795:::R[HOSPITAL]:0.2512:::R[PERIODICAL_LITERATURE]:0.0692:::
+T[HOSPITAL]:0.5024:::T[UNIVERSITY]:0.4283:::T[PERIODICAL_LITERATURE]:0.0692:::
+SW[a]:1:::
+DICT[Y]:0.5024:::DICT[N]:0.4976:::
+Active Evidence: 1.9346203
+Evidence: 3.0
+========================
+Token: Shriners
+ID: shriners
+L[EMPTY]:1:::L[PLACE]:0:::
+R[HOSPITAL]:0.4942:::R[EVENT]:0.2977:::R[ORGANISATION]:0.1948:::R[BUILDING]:0.0133:::R[PLACE]:0:::
+T[HOSPITAL]:0.5136:::T[EVENT]:0.4466:::T[BUILDING]:0.0398:::T[PLACE]:0:::
+SW[for]:0.5518:::SW[NULL]:0.4482:::
+DICT[Y]:1:::
+Active Evidence: 2.2310371
+Evidence: 7.0
+========================
+Token: Palmetto
+ID: palmetto
+L[EMPTY]:0.9991:::L[UNIVERSITY]:0.0008:::L[PLACE]:0:::L[ORGANISATION]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.362:::R[PLACE]:0.2541:::R[GOVAGENCY]:0.2069:::R[BUILDING]:0.0846:::R[UNIVERSITY]:0.0843:::R[MOUNTAIN]:0.0046:::
+T[HOSPITAL]:0.4981:::T[OTHER]:0.3619:::T[PLACE]:0.1316:::T[MOUNTAIN]:0.0046:::T[COMPANY]:0.0033:::T[BUILDING]:0.0004:::
+SW[NULL]:0.9999:::SW[of]:0.0001:::
+DICT[Y]:0.6271:::DICT[N]:0.3729:::
+Active Evidence: 3.6838555
+Evidence: 24.0
+========================
+Token: Tegh
+ID: tegh
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[HOSPITAL]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 1.219804
+Evidence: 2.2198
+========================
+Token: Neurosciences
+ID: neurosciences
+L[UNIVERSITY]:0.3922:::L[HOSPITAL]:0.392:::L[PERSON]:0.1077:::L[AWARD]:0.1077:::L[PERIODICAL_LITERATURE]:0.0003:::L[ORGANISATION]:0.0001:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.7841:::T[AWARD]:0.2154:::T[UNIVERSITY]:0.0005:::T[PERIODICAL_LITERATURE]:0.0001:::
+SW[of]:0.7846:::SW[in]:0.2154:::
+DICT[Y]:1:::
+Active Evidence: 1.2738854
+Evidence: 5.0
+========================
+Token: Northshore
+ID: northshore
+L[EMPTY]:1:::L[PERSON]:0:::
+R[HOSPITAL]:0.5:::R[UNIVERSITY]:0.5:::R[PLACE]:0:::R[PERSON]:0:::R[AIRPORT]:0:::R[ORGANISATION]:0:::
+T[HOSPITAL]:1:::T[PLACE]:0:::T[AIRPORT]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000228
+Evidence: 5.0
+========================
+Token: Gallen
+ID: gallen
+L[BUILDING]:0.326:::L[HOSPITAL]:0.3259:::L[EMPTY]:0.2741:::L[PERSON]:0.074:::L[PLACE]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9999:::R[UNIVERSITY]:0.0001:::R[PERSON]:0:::R[ORGANISATION]:0:::R[PLACE]:0:::
+T[HOSPITAL]:0.6518:::T[OTHER]:0.2741:::T[PERSON]:0.074:::T[UNIVERSITY]:0.0001:::T[PLACE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.4595357
+Evidence: 23.0
+========================
+Token: Ellicott
+ID: ellicott
+L[EMPTY]:0.3344:::L[PERSON]:0.3339:::L[HOSPITAL]:0.3317:::
+R[PLACE]:0.6643:::R[EMPTY]:0.3347:::R[RIVER]:0.0009:::R[PERSON]:0:::R[ORGANISATION]:0:::R[BUILDING]:0:::
+T[HOSPITAL]:0.6633:::T[OTHER]:0.3329:::T[PERSON]:0.0018:::T[RIVER]:0.0009:::T[PLACE]:0.0006:::T[BUILDING]:0.0004:::
+SW[at]:0.6633:::SW[NULL]:0.3367:::
+DICT[Y]:0.6655:::DICT[N]:0.3345:::
+Active Evidence: 1.5020537
+Evidence: 27.0
+========================
+Token: Specialty
+ID: specialty
+L[EMPTY]:0.341:::L[HOSPITAL]:0.3293:::L[PERSON]:0.164:::L[PERIODICAL_LITERATURE]:0.164:::L[PLACE]:0.0012:::L[COMPANY]:0.0003:::
+R[HOSPITAL]:0.8278:::R[PERSON]:0.1707:::R[UNIVERSITY]:0.0011:::R[PLACE]:0.0002:::R[COMPANY]:0.0001:::R[EVENT]:0:::
+T[HOSPITAL]:0.9984:::T[COMPANY]:0.0012:::T[BUILDING]:0.0004:::
+SW[a]:0.6559:::SW[NULL]:0.3441:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 0.6978494
+Evidence: 13.0
+========================
+Token: Traumatology
+ID: traumatology
+L[PLACE]:0.3333:::L[HOSPITAL]:0.3331:::L[UNIVERSITY]:0.3331:::L[ORGANISATION]:0.0003:::L[PERIODICAL_LITERATURE]:0.0003:::
+R[EMPTY]:0.9992:::R[DISEASE]:0.0008:::
+T[HOSPITAL]:0.9992:::T[PERIODICAL_LITERATURE]:0.0008:::
+SW[of]:0.9992:::SW[NULL]:0.0008:::
+DICT[Y]:1:::
+Active Evidence: 0.18412726
+Evidence: 2.0
+========================
+Token: Cardiology
+ID: cardiology
+L[PLACE]:0.4821:::L[UNIVERSITY]:0.4262:::L[PERIODICAL_LITERATURE]:0.0764:::L[EVENT]:0.0095:::L[COMPANY]:0.005:::L[GOVAGENCY]:0.0008:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.8489:::T[PERIODICAL_LITERATURE]:0.1482:::T[UNIVERSITY]:0.0029:::
+SW[of]:0.9125:::SW[NULL]:0.0875:::
+DICT[Y]:0.9172:::DICT[N]:0.0828:::
+Active Evidence: 0.26893654
+Evidence: 13.0
+========================
+Token: Obstetrics and
+ID: obstetrics and
+L[HOSPITAL]:0.9969:::L[PERIODICAL_LITERATURE]:0.0017:::L[PLACE]:0.0014:::L[ORGANISATION]:0:::
+R[HOSPITAL]:0.9969:::R[PERIODICAL_LITERATURE]:0.0031:::R[ORGANISATION]:0:::
+T[HOSPITAL]:0.9969:::T[PERIODICAL_LITERATURE]:0.0031:::T[ORGANISATION]:0:::
+SW[and]:0.9969:::SW[of]:0.0031:::
+DICT[Y]:1:::
+Active Evidence: 0.09909862
+Evidence: 4.0
+========================
+Token: Kebangsaan
+ID: kebangsaan
+L[UNIVERSITY]:0.4922:::L[ORGANISATION]:0.263:::L[HOSPITAL]:0.2448:::
+R[PLACE]:0.7355:::R[ORGANISATION]:0.2631:::R[UNIVERSITY]:0.0007:::R[EMPTY]:0.0003:::R[PERSON]:0.0002:::R[COMPANY]:0.0001:::
+T[HOSPITAL]:0.7344:::T[ORGANISATION]:0.263:::T[UNIVERSITY]:0.0026:::
+SW[NULL]:1:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 0.23387355
+Evidence: 28.0
+========================
+Token: Kent and
+ID: kent and
+L[EMPTY]:0.9999:::L[PLACE]:0.0001:::
+R[PLACE]:0.4994:::R[HOSPITAL]:0.3698:::R[PERIODICAL_LITERATURE]:0.1296:::R[ORGANISATION]:0.0011:::R[BUILDING]:0:::R[ROAD]:0:::
+T[HOSPITAL]:0.7396:::T[PERIODICAL_LITERATURE]:0.2593:::T[ORGANISATION]:0.0011:::T[ROAD]:0.0001:::
+SW[NULL]:0.9999:::SW[and]:0.0001:::
+DICT[Y]:1:::
+Active Evidence: 0.09769276
+Evidence: 4.0
+========================
+Token: Neurosurgery
+ID: neurosurgery
+L[BUILDING]:0.8066:::L[HOSPITAL]:0.1023:::L[ORGANISATION]:0.0574:::L[PLACE]:0.0271:::L[PERIODICAL_LITERATURE]:0.0066:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.96:::T[PERIODICAL_LITERATURE]:0.04:::
+SW[of]:0.8194:::SW[for]:0.1535:::SW[NULL]:0.0271:::
+DICT[Y]:1:::
+Active Evidence: 0.08793679
+Evidence: 5.0
+========================
+Token: Upmc
+ID: upmc
+L[EMPTY]:0.9999:::L[HOSPITAL]:0.0001:::L[COMPANY]:0:::
+R[PLACE]:0.5882:::R[PERSON]:0.3368:::R[BUILDING]:0.0432:::R[HOSPITAL]:0.0317:::R[EMPTY]:0.0001:::R[UNIVERSITY]:0:::
+T[HOSPITAL]:1:::T[UNIVERSITY]:0:::
+SW[NULL]:0.9999:::SW[of]:0.0001:::
+DICT[N]:0.7063:::DICT[Y]:0.2937:::
+Active Evidence: 0.054182008
+Evidence: 6.0
+========================
+Token: Pediatrics
+ID: pediatrics
+L[HOSPITAL]:0.8568:::L[EMPTY]:0.0533:::L[PLACE]:0.0362:::L[UNIVERSITY]:0.0361:::L[PERIODICAL_LITERATURE]:0.0174:::L[ORGANISATION]:0.0001:::
+R[HOSPITAL]:0.8568:::R[EMPTY]:0.0898:::R[COMPANY]:0.0533:::
+T[HOSPITAL]:0.8568:::T[ORGANISATION]:0.0724:::T[PERIODICAL_LITERATURE]:0.0708:::
+SW[and]:0.8568:::SW[of]:0.0738:::SW[NULL]:0.0583:::SW[in]:0.011:::
+DICT[Y]:0.9417:::DICT[N]:0.0583:::
+Active Evidence: 0.036518883
+Evidence: 9.0
+========================
+Token: Women's and
+ID: women's and
+L[EMPTY]:0.4656:::L[ORGANISATION]:0.2994:::L[PERSON]:0.2271:::L[PLACE]:0.0039:::L[UNIVERSITY]:0.0039:::
+R[HOSPITAL]:0.5:::R[COMPANY]:0.5:::
+T[HOSPITAL]:1:::
+SW[and]:0.9922:::SW[of]:0.0078:::
+DICT[Y]:1:::
+Active Evidence: 0.010658475
+Evidence: 4.0
+========================
+Token: Kesteven
+ID: kesteven
+L[HOSPITAL]:0.9985:::L[PERSON]:0.0011:::L[PLACE]:0.0004:::L[COMPANY]:0:::
+R[HOSPITAL]:0.9985:::R[EMPTY]:0.0015:::
+T[HOSPITAL]:0.9985:::T[PERSON]:0.0011:::T[PLACE]:0.0004:::
+SW[and]:0.9985:::SW[NULL]:0.0015:::
+DICT[Y]:0.9989:::DICT[N]:0.0011:::
+Active Evidence: 0.011961154
+Evidence: 7.0
+========================
+Token: Integris
+ID: integris
+L[EMPTY]:1:::
+R[PERSON]:0.4304:::R[GOVAGENCY]:0.4304:::R[PLACE]:0.047:::R[UNIVERSITY]:0.0452:::R[DISEASE]:0.0452:::R[BUILDING]:0.0018:::
+T[HOSPITAL]:1:::
+SW[NULL]:0.8645:::SW[of]:0.1355:::
+DICT[Y]:0.9999:::DICT[N]:0.0001:::
+Active Evidence: 0.0040384675
+Evidence: 5.0
+========================
+Token: Abudwak
+ID: abudwak
+L[EMPTY]:1:::
+R[HOSPITAL]:0.6659:::R[COMPANY]:0.333:::R[AIRPORT]:0.001:::R[PLACE]:0.0001:::
+T[HOSPITAL]:0.9989:::T[AIRPORT]:0.001:::T[PLACE]:0.0001:::
+SW[and]:0.9989:::SW[NULL]:0.0011:::
+DICT[Y]:1:::
+Active Evidence: 0.0035020032
+Evidence: 3.0
+========================
+Token: Devon and
+ID: devon and
+L[PLACE]:0.9843:::L[EMPTY]:0.0157:::
+R[PLACE]:0.502:::R[HOSPITAL]:0.4922:::R[ORGANISATION]:0.0058:::
+T[HOSPITAL]:0.9843:::T[ORGANISATION]:0.0143:::T[PLACE]:0.0014:::
+SW[and]:0.9843:::SW[NULL]:0.0157:::
+DICT[Y]:1:::
+Active Evidence: 4.527364E-4
+Evidence: 4.0
+========================
+Token: Hematology
+ID: hematology
+L[HOSPITAL]:0.7275:::L[PLACE]:0.2702:::L[PERIODICAL_LITERATURE]:0.0014:::L[ORGANISATION]:0.0009:::
+R[HOSPITAL]:0.7275:::R[EMPTY]:0.2725:::
+T[HOSPITAL]:0.7275:::T[PERIODICAL_LITERATURE]:0.2707:::T[ORGANISATION]:0.0018:::
+SW[for]:0.7275:::SW[NULL]:0.2693:::SW[of]:0.0032:::
+DICT[Y]:0.7307:::DICT[N]:0.2693:::
+Active Evidence: 1.1362194E-4
+Evidence: 4.0
+========================
+Token: Ospedale
+ID: ospedale
+L[EMPTY]:1:::
+R[PLACE]:0.2736:::R[PERSON]:0.2421:::R[HOSPITAL]:0.2421:::R[ORGANISATION]:0.2421:::
+T[HOSPITAL]:0.7264:::T[BUILDING]:0.2736:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 9.697299E-5
+Evidence: 2.0
+========================
+Token: Janeway
+ID: janeway
+L[EMPTY]:0.9756:::L[PERSON]:0.0244:::
+R[HOSPITAL]:0.2136:::R[ORGANISATION]:0.2136:::R[COMPANY]:0.2136:::R[PERIODICAL_LITERATURE]:0.2136:::R[DISEASE]:0.1213:::R[EMPTY]:0.0244:::
+T[HOSPITAL]:0.8543:::T[DISEASE]:0.1213:::T[PERSON]:0.0244:::
+SW[and]:0.8543:::SW[NULL]:0.1457:::
+DICT[Y]:0.9756:::DICT[N]:0.0244:::
+Active Evidence: 1.1074124E-4
+Evidence: 8.0
+========================
+Token: Rheumatology
+ID: rheumatology
+L[PERSON]:0.2757:::L[PERIODICAL_LITERATURE]:0.2611:::L[HOSPITAL]:0.2169:::L[ORGANISATION]:0.2169:::L[COMPANY]:0.0294:::
+R[EMPTY]:1:::
+T[HOSPITAL]:0.8677:::T[PERIODICAL_LITERATURE]:0.1323:::
+SW[for]:0.8677:::SW[NULL]:0.127:::SW[of]:0.0053:::
+DICT[Y]:1:::
+Active Evidence: 8.0338104E-5
+Evidence: 4.0
+========================
+Token: Hospital at
+ID: hospital at
+L[PERSON]:0.6187:::L[COMPANY]:0.3502:::L[ORGANISATION]:0.0312:::
+R[PERSON]:0.7685:::R[PLACE]:0.2315:::
+T[HOSPITAL]:1:::
+SW[at]:0.9065:::SW[of]:0.0935:::
+DICT[Y]:1:::
+Active Evidence: 2.8038914E-5
+Evidence: 3.0
+========================
+Token: Pediatric and
+ID: pediatric and
+L[ORGANISATION]:0.491:::L[PERSON]:0.4576:::L[COMPANY]:0.0335:::L[PLACE]:0.009:::L[PERIODICAL_LITERATURE]:0.009:::
+R[PERIODICAL_LITERATURE]:0.497:::R[HOSPITAL]:0.4576:::R[DISEASE]:0.0394:::R[PERSON]:0.006:::
+T[HOSPITAL]:0.9151:::T[COMPANY]:0.0669:::T[PERIODICAL_LITERATURE]:0.0179:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0335336E-5
+Evidence: 3.0
+========================
+Token: Novant
+ID: novant
+L[EMPTY]:1:::
+R[GOVAGENCY]:0.9045:::R[HOSPITAL]:0.0617:::R[PLACE]:0.0253:::R[PERSON]:0.0065:::R[BUILDING]:0.002:::
+T[HOSPITAL]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.311208E-5
+Evidence: 5.0
+========================
+Token: Neurology and
+ID: neurology and
+L[HOSPITAL]:0.4901:::L[ORGANISATION]:0.4901:::L[PLACE]:0.0099:::L[UNIVERSITY]:0.0099:::
+R[HOSPITAL]:0.9802:::R[PERIODICAL_LITERATURE]:0.0198:::
+T[HOSPITAL]:0.9802:::T[ORGANISATION]:0.0198:::
+SW[for]:0.9802:::SW[of]:0.0198:::
+DICT[Y]:1:::
+Active Evidence: 1.04405235E-5
+Evidence: 2.0
+========================
+Token: Bayfront
+ID: bayfront
+L[EMPTY]:0.8262:::L[PERSON]:0.0962:::L[PLACE]:0.0637:::L[ORGANISATION]:0.014:::
+R[PLACE]:0.3729:::R[BUILDING]:0.1769:::R[GOVAGENCY]:0.1769:::R[EMPTY]:0.1599:::R[ROAD]:0.1135:::
+T[HOSPITAL]:0.5306:::T[PLACE]:0.1977:::T[BUILDING]:0.1582:::T[ROAD]:0.1135:::
+SW[NULL]:1:::
+DICT[Y]:0.8558:::DICT[N]:0.1442:::
+Active Evidence: 1.1699532E-5
+Evidence: 8.0
+========================
+Token: Aneurin
+ID: aneurin
+L[PLACE]:1:::
+R[PERSON]:1:::
+T[HOSPITAL]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.8551736E-7
+Evidence: 1.0
+========================
+Token: Belchertown
+ID: belchertown
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[UNIVERSITY]:0.5:::
+T[HOSPITAL]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.8452274E-5
+Evidence: 1.0
+========================
+Token: Juravinski
+ID: juravinski
+L[EMPTY]:1:::
+R[ORGANISATION]:0.5:::R[DISEASE]:0.5:::
+T[HOSPITAL]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.17866286E-7
+Evidence: 1.0
+========================
+Token: Multicare
+ID: multicare
+L[EMPTY]:1:::
+R[PERSON]:0.1667:::R[PLACE]:0.1667:::R[BRIDGE]:0.1667:::R[HOSPITAL]:0.1667:::R[COMPANY]:0.1667:::R[PERIODICAL_LITERATURE]:0.1667:::
+T[HOSPITAL]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9068993E-7
+Evidence: 1.0
+========================
+Token: Pascack
+ID: pascack
+L[PLACE]:0.5:::L[HOSPITAL]:0.25:::L[UNIVERSITY]:0.25:::
+R[PLACE]:1:::
+T[HOSPITAL]:1:::
+SW[at]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9124587E-7
+Evidence: 1.0
+========================
+Token: Portsoy
+ID: portsoy
+L[PERSON]:0.5:::L[HOSPITAL]:0.5:::
+R[EMPTY]:1:::
+T[HOSPITAL]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.203007E-5
+Evidence: 1.0
+========================
+Token: Maudsley
+ID: maudsley
+L[PLACE]:0.5:::L[ORGANISATION]:0.5:::
+R[ORGANISATION]:0.3333:::R[COMPANY]:0.3333:::R[GOVAGENCY]:0.3333:::
+T[HOSPITAL]:1:::
+SW[and]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.6761254E-7
+Evidence: 1.0
+========================
+Token: Bellefonte
+ID: bellefonte
+L[BUILDING]:1:::
+R[HOSPITAL]:1:::
+T[HOSPITAL]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.7033317E-7
+Evidence: 1.0
+========================

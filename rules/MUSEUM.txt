@@ -1,0 +1,1420 @@
+Token: Museum of
+ID: museum of
+L[EMPTY]:0.2879:::L[PLACE]:0.1997:::L[PERSON]:0.1476:::L[ORGANISATION]:0.1388:::L[MUSEUM]:0.0779:::L[COMPANY]:0.0452:::
+R[PLACE]:0.3008:::R[PERSON]:0.2692:::R[PERIODICAL_LITERATURE]:0.1364:::R[MUSEUM]:0.0846:::R[ORGANISATION]:0.0693:::R[COMPANY]:0.0457:::
+T[MUSEUM]:0.8762:::T[BUILDING]:0.0852:::T[PLACE]:0.024:::T[OTHER]:0.004:::T[COMPANY]:0.0036:::T[UNIVERSITY]:0.0024:::
+SW[of]:0.6334:::SW[NULL]:0.1945:::SW[and]:0.0955:::SW[the]:0.0609:::SW[in]:0.0074:::SW[at]:0.0047:::
+DICT[Y]:0.7906:::DICT[N]:0.2094:::
+Active Evidence: 842.44556
+Evidence: 874.0
+========================
+Token: Museo
+ID: museo
+L[EMPTY]:0.999:::L[PERIODICAL_LITERATURE]:0.001:::L[PERSON]:0:::L[PLACE]:0:::
+R[MUSEUM]:0.4288:::R[ORGANISATION]:0.1757:::R[PLACE]:0.1453:::R[PERSON]:0.1368:::R[COMPANY]:0.0562:::R[UNIVERSITY]:0.0171:::
+T[MUSEUM]:0.9875:::T[OTHER]:0.0113:::T[PERIODICAL_LITERATURE]:0.001:::T[PLACE]:0.0003:::
+SW[NULL]:0.5492:::SW[de]:0.3377:::SW[del]:0.046:::SW[van]:0.0225:::SW[da]:0.0225:::SW[di]:0.0221:::
+DICT[N]:0.7094:::DICT[Y]:0.2906:::
+Active Evidence: 44.43422
+Evidence: 48.0
+========================
+Token: Gallery
+ID: gallery
+L[PERSON]:0.4116:::L[PLACE]:0.1665:::L[EMPTY]:0.1147:::L[MUSEUM]:0.1079:::L[ORGANISATION]:0.0653:::L[COMPANY]:0.0498:::
+R[EMPTY]:0.9135:::R[MUSEUM]:0.0282:::R[PLACE]:0.0226:::R[BUILDING]:0.0144:::R[ORGANISATION]:0.0075:::R[PERSON]:0.0069:::
+T[MUSEUM]:0.6653:::T[BUILDING]:0.0821:::T[COMPANY]:0.0668:::T[PERSON]:0.0663:::T[OTHER]:0.0633:::T[PLACE]:0.0453:::
+SW[NULL]:0.9407:::SW[and]:0.0537:::SW[for]:0.0052:::SW[of]:0.0004:::
+DICT[Y]:0.6016:::DICT[N]:0.3984:::
+Active Evidence: 180.09465
+Evidence: 230.0
+========================
+Token: Museo De
+ID: museo de
+L[EMPTY]:1:::
+R[MUSEUM]:0.3974:::R[PERSON]:0.1705:::R[ORGANISATION]:0.1253:::R[PLACE]:0.1119:::R[PERIODICAL_LITERATURE]:0.063:::R[COMPANY]:0.042:::
+T[MUSEUM]:0.9654:::T[BUILDING]:0.0346:::
+SW[NULL]:0.42:::SW[la]:0.2866:::SW[de]:0.2514:::SW[del]:0.042:::
+DICT[N]:0.706:::DICT[Y]:0.294:::
+Active Evidence: 23.807386
+Evidence: 24.0
+========================
+Token: Museum and
+ID: museum and
+L[PLACE]:0.4582:::L[PERSON]:0.217:::L[MUSEUM]:0.125:::L[ORGANISATION]:0.0698:::L[PERIODICAL_LITERATURE]:0.043:::L[COMPANY]:0.0328:::
+R[PLACE]:0.4127:::R[MUSEUM]:0.1451:::R[PERSON]:0.1394:::R[ORGANISATION]:0.1288:::R[BUILDING]:0.0823:::R[COMPANY]:0.0245:::
+T[MUSEUM]:0.722:::T[BUILDING]:0.1589:::T[PLACE]:0.106:::T[MONUMENT]:0.0092:::T[OTHER]:0.0038:::T[ORGANISATION]:0:::
+SW[and]:0.9477:::SW[of]:0.0334:::SW[at]:0.0151:::SW[NULL]:0.0038:::
+DICT[Y]:0.9044:::DICT[N]:0.0956:::
+Active Evidence: 65.27772
+Evidence: 84.0
+========================
+Token: Gallery of
+ID: gallery of
+L[PERSON]:0.5195:::L[PLACE]:0.1429:::L[EMPTY]:0.1413:::L[ORGANISATION]:0.1249:::L[MUSEUM]:0.0357:::L[EVENT]:0.0357:::
+R[PLACE]:0.5358:::R[PERSON]:0.2435:::R[PERIODICAL_LITERATURE]:0.0811:::R[UNIVERSITY]:0.0622:::R[ORGANISATION]:0.0415:::R[EMPTY]:0.0357:::
+T[MUSEUM]:0.9283:::T[PLACE]:0.036:::T[OTHER]:0.0357:::
+SW[of]:0.8587:::SW[NULL]:0.141:::SW[and]:0.0003:::
+DICT[Y]:0.8993:::DICT[N]:0.1007:::
+Active Evidence: 27.995564
+Evidence: 38.0
+========================
+Token: Museum
+ID: museum
+L[PLACE]:0.1077:::L[PERSON]:0.076:::L[MUSEUM]:0.037:::L[ORGANISATION]:0.0337:::L[COMPANY]:0.024:::L[EMPTY]:0.0231:::
+R[EMPTY]:0.9382:::R[PLACE]:0.0124:::R[MUSEUM]:0.005:::R[PERSON]:0.0022:::R[COMPANY]:0.0007:::R[ORGANISATION]:0.0005:::
+T[MUSEUM]:0.2792:::T[BUILDING]:0.0501:::T[PLACE]:0.0425:::T[OTHER]:0.0024:::T[COMPANY]:0.0015:::T[ORGANISATION]:0.0013:::
+SW[NULL]:0.9294:::SW[and]:0.0164:::SW[of]:0.0056:::SW[the]:0.0006:::SW[de]:0.0006:::SW[a]:0.0005:::
+DICT[Y]:0.6653:::DICT[N]:0.3338:::
+Active Evidence: 2177.8196
+Evidence: 2346.8552
+========================
+Token: Steamtown
+ID: steamtown
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.9208:::R[PLACE]:0.0063:::R[BUILDING]:0:::R[ORGANISATION]:0:::
+T[MUSEUM]:1:::T[PLACE]:0:::
+SW[NULL]:0.9208:::SW[a]:0.0063:::SW[at]:0:::
+DICT[Y]:0.0792:::
+Active Evidence: 12.60769
+Evidence: 14.609401
+========================
+Token: Museum at
+ID: museum at
+L[PLACE]:0.2309:::L[PERSON]:0.2098:::L[PERIODICAL_LITERATURE]:0.2026:::L[MUSEUM]:0.1259:::L[EMPTY]:0.084:::L[ORGANISATION]:0.063:::
+R[PLACE]:0.4617:::R[MUSEUM]:0.1605:::R[UNIVERSITY]:0.126:::R[PERSON]:0.1259:::R[RIVER]:0.042:::R[COMPANY]:0.042:::
+T[MUSEUM]:0.9162:::T[PLACE]:0.0838:::
+SW[at]:0.832:::SW[the]:0.084:::SW[NULL]:0.084:::
+DICT[Y]:0.8395:::DICT[N]:0.1605:::
+Active Evidence: 11.906208
+Evidence: 12.0
+========================
+Token: Museu
+ID: museu
+L[EMPTY]:0.9315:::L[LIBRARY]:0.0685:::
+R[MUSEUM]:0.3666:::R[PLACE]:0.234:::R[PERSON]:0.1992:::R[ORGANISATION]:0.143:::R[AIRLINE]:0.0286:::R[PERIODICAL_LITERATURE]:0.0286:::
+T[MUSEUM]:0.9152:::T[PERSON]:0.0848:::
+SW[NULL]:0.6567:::SW[de]:0.2574:::SW[do]:0.0859:::
+DICT[N]:0.6002:::DICT[Y]:0.3998:::
+Active Evidence: 11.646971
+Evidence: 12.0
+========================
+Token: Fame
+ID: fame
+L[BUILDING]:0.235:::L[EMPTY]:0.1887:::L[ORGANISATION]:0.1429:::L[PLACE]:0.1272:::L[MUSEUM]:0.0794:::L[EVENT]:0.0718:::
+R[EMPTY]:0.9744:::R[PLACE]:0.0133:::R[EVENT]:0.0051:::R[MUSEUM]:0.0027:::R[AIRLINE]:0.0023:::R[BUILDING]:0.0009:::
+T[MUSEUM]:0.5852:::T[OTHER]:0.1884:::T[ORGANISATION]:0.0566:::T[AWARD]:0.052:::T[COMPANY]:0.0475:::T[EVENT]:0.0302:::
+SW[of]:0.7352:::SW[NULL]:0.2022:::SW[and]:0.0626:::
+DICT[Y]:0.7978:::DICT[N]:0.2022:::
+Active Evidence: 75.42436
+Evidence: 140.0
+========================
+Token: Museo Del
+ID: museo del
+L[EMPTY]:0.9527:::L[PLACE]:0.0473:::
+R[MUSEUM]:0.3811:::R[PLACE]:0.3331:::R[RIVER]:0.1906:::R[PERSON]:0.0952:::
+T[MUSEUM]:0.9047:::T[PLACE]:0.0953:::
+SW[NULL]:0.8574:::SW[del]:0.1426:::
+DICT[N]:0.9527:::DICT[Y]:0.0473:::
+Active Evidence: 10.495665
+Evidence: 11.0
+========================
+Token: Moma
+ID: moma
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9223:::R[MUSEUM]:0.0071:::R[AIRPORT]:0:::
+T[MUSEUM]:0.8446:::T[OTHER]:0.0143:::T[AIRPORT]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.233:::DICT[Y]:0:::
+Active Evidence: 12.874158
+Evidence: 16.874
+========================
+Token: Kunsthalle
+ID: kunsthalle
+L[EMPTY]:1:::
+R[EMPTY]:0.2519:::R[PLACE]:0.1651:::R[MUSEUM]:0.0827:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[N]:0.4985:::DICT[Y]:0.2496:::
+Active Evidence: 8.013231
+Evidence: 8.0188
+========================
+Token: Beaux-arts De
+ID: beaux-arts de
+L[PERSON]:0.5:::L[MUSEUM]:0.4377:::L[PLACE]:0.0623:::
+R[PLACE]:1:::
+T[MUSEUM]:1:::
+SW[de]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.9962616
+Evidence: 8.0
+========================
+Token: Cooperstown
+ID: cooperstown
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[AIRPORT]:0:::R[EVENT]:0:::R[PLACE]:0:::R[BUILDING]:0:::
+T[MUSEUM]:1:::T[AIRPORT]:0:::T[PLACE]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 9.1618805
+Evidence: 12.161799
+========================
+Token: Museum in
+ID: museum in
+L[COMPANY]:0.2596:::L[PERSON]:0.2561:::L[PLACE]:0.1269:::L[PERIODICAL_LITERATURE]:0.0846:::L[EMPTY]:0.0845:::L[ORGANISATION]:0.0842:::
+R[PLACE]:0.6639:::R[ISLAND]:0.0846:::R[PERSON]:0.0846:::R[ORGANISATION]:0.0845:::R[BUILDING]:0.0824:::
+T[MUSEUM]:0.6715:::T[BUILDING]:0.244:::T[COMPANY]:0.0845:::
+SW[in]:0.9155:::SW[NULL]:0.0845:::
+DICT[Y]:0.5791:::DICT[N]:0.4209:::
+Active Evidence: 11.818562
+Evidence: 12.0
+========================
+Token: Galleries
+ID: galleries
+L[PERSON]:0.5092:::L[PLACE]:0.2856:::L[COMPANY]:0.1075:::L[PERIODICAL_LITERATURE]:0.0408:::L[EMPTY]:0.0291:::L[UNIVERSITY]:0.0204:::
+R[EMPTY]:0.9709:::R[PERSON]:0.0286:::R[PLACE]:0.0003:::R[ORGANISATION]:0.0001:::
+T[MUSEUM]:0.672:::T[COMPANY]:0.1032:::T[PLACE]:0.0819:::T[BUILDING]:0.0798:::T[ORGANISATION]:0.0631:::
+SW[NULL]:1:::
+DICT[Y]:0.5037:::DICT[N]:0.4963:::
+Active Evidence: 12.254227
+Evidence: 16.0
+========================
+Token: Smithsonian
+ID: smithsonian
+L[EMPTY]:1:::
+R[EMPTY]:0.6082:::R[BUILDING]:0.0209:::R[PLACE]:0.0169:::R[MUSEUM]:0.0138:::R[ORGANISATION]:0.0067:::R[COMPANY]:0.0001:::
+T[MUSEUM]:0.8289:::T[OTHER]:0.0188:::T[LIBRARY]:0.0064:::T[ORGANISATION]:0.0002:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2949:::DICT[Y]:0.2233:::
+Active Evidence: 11.870306
+Evidence: 20.7194
+========================
+Token: D'art
+ID: d'art
+L[MUSEUM]:0.7295:::L[BUILDING]:0.1118:::L[COMPANY]:0.0795:::L[ORGANISATION]:0.051:::L[PERSON]:0.0232:::L[UNIVERSITY]:0.0044:::
+R[MUSEUM]:0.4989:::R[PLACE]:0.1842:::R[PERSON]:0.1387:::R[EMPTY]:0.1129:::R[BUILDING]:0.0559:::R[PERIODICAL_LITERATURE]:0.0088:::
+T[MUSEUM]:0.8871:::T[BUILDING]:0.1118:::T[PERIODICAL_LITERATURE]:0.0006:::T[ORGANISATION]:0.0005:::
+SW[de]:0.5575:::SW[NULL]:0.4425:::
+DICT[Y]:1:::
+Active Evidence: 8.90045
+Evidence: 13.0
+========================
+Token: Stedelijk
+ID: stedelijk
+L[EMPTY]:1:::
+R[EMPTY]:0.8699:::R[PLACE]:0.0156:::R[MUSEUM]:0.0004:::R[UNIVERSITY]:0.0001:::
+T[MUSEUM]:0.8761:::T[PLACE]:0.0152:::T[UNIVERSITY]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.1228:::DICT[Y]:0.0073:::
+Active Evidence: 8.142846
+Evidence: 12.0836
+========================
+Token: Hermitage
+ID: hermitage
+L[EMPTY]:0.9179:::L[PLACE]:0.0023:::L[PERSON]:0.0019:::L[BUILDING]:0.0004:::L[MUSEUM]:0:::
+R[EMPTY]:0.9177:::R[PLACE]:0.0041:::R[BUILDING]:0.0004:::R[PERSON]:0:::R[COMPANY]:0:::R[MOUNTAIN]:0:::
+T[MUSEUM]:0.3944:::T[BUILDING]:0.141:::T[OTHER]:0.0731:::T[PLACE]:0.0543:::T[PERSON]:0.0019:::T[COMPANY]:0:::
+SW[NULL]:0.9986:::SW[of]:0.0001:::SW[and]:0:::
+DICT[N]:0.3835:::DICT[Y]:0.0636:::
+Active Evidence: 30.074682
+Evidence: 57.6298
+========================
+Token: Mosi
+ID: mosi
+L[EMPTY]:0.8382:::L[PERSON]:0.0292:::
+R[EMPTY]:0.8975:::R[PERSON]:0.0185:::R[AWARD]:0:::
+T[MUSEUM]:0.7357:::T[PERSON]:0.0477:::T[AWARD]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2643:::DICT[Y]:0:::
+Active Evidence: 6.1786795
+Evidence: 7.5456
+========================
+Token: Contemporary
+ID: contemporary
+L[EMPTY]:0.4115:::L[MUSEUM]:0.1504:::L[PLACE]:0.1388:::L[ORGANISATION]:0.1138:::L[UNIVERSITY]:0.0845:::L[PERIODICAL_LITERATURE]:0.0453:::
+R[PERSON]:0.3597:::R[EMPTY]:0.2525:::R[PLACE]:0.1494:::R[PERIODICAL_LITERATURE]:0.0691:::R[ORGANISATION]:0.053:::R[EVENT]:0.0324:::
+T[MUSEUM]:0.6069:::T[PERIODICAL_LITERATURE]:0.1832:::T[OTHER]:0.1296:::T[BUILDING]:0.0729:::T[ORGANISATION]:0.0038:::T[AWARD]:0.0029:::
+SW[NULL]:0.5547:::SW[of]:0.2058:::SW[for]:0.1461:::SW[in]:0.0318:::SW[and]:0.0316:::SW[a]:0.03:::
+DICT[Y]:0.6615:::DICT[N]:0.3385:::
+Active Evidence: 33.301823
+Evidence: 134.0
+========================
+Token: Guggenheim
+ID: guggenheim
+L[EMPTY]:0.9954:::L[PERSON]:0.0004:::
+R[EMPTY]:0.9965:::R[MUSEUM]:0.0001:::R[PLACE]:0.0001:::R[BUILDING]:0.0001:::R[PERSON]:0.0001:::R[COMPANY]:0:::
+T[MUSEUM]:0.9942:::T[PERSON]:0.0004:::T[BUILDING]:0.0001:::T[COMPANY]:0:::
+SW[NULL]:1:::SW[a]:0:::
+DICT[N]:0.0057:::DICT[Y]:0.0024:::
+Active Evidence: 9.734648
+Evidence: 36.6558
+========================
+Token: Kunstmuseum
+ID: kunstmuseum
+L[EMPTY]:0.7468:::L[MUSEUM]:0.2532:::
+R[PLACE]:0.7468:::R[EMPTY]:0.2532:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.94917
+Evidence: 4.0
+========================
+Token: Sculpture
+ID: sculpture
+L[PERSON]:0.4451:::L[PLACE]:0.2367:::L[EMPTY]:0.1316:::L[MUSEUM]:0.0795:::L[EVENT]:0.0414:::L[BUILDING]:0.0292:::
+R[PLACE]:0.4878:::R[EMPTY]:0.4617:::R[EVENT]:0.0489:::R[MUSEUM]:0.0016:::R[AWARD]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[MUSEUM]:0.4702:::T[PLACE]:0.2337:::T[OTHER]:0.1316:::T[MONUMENT]:0.0584:::T[BUILDING]:0.0572:::T[EVENT]:0.0489:::
+SW[NULL]:0.5951:::SW[and]:0.3569:::SW[de]:0.0445:::SW[of]:0.0035:::SW[for]:0:::
+DICT[Y]:0.7547:::DICT[N]:0.2453:::
+Active Evidence: 17.100782
+Evidence: 38.0
+========================
+Token: Nga
+ID: nga
+L[EMPTY]:0.749:::L[PERSON]:0.0225:::L[PLACE]:0.0083:::L[UNIVERSITY]:0:::L[COMPANY]:0:::
+R[EMPTY]:0.9114:::R[PLACE]:0.0057:::R[PERSON]:0.0051:::R[ORGANISATION]:0:::R[UNIVERSITY]:0:::R[COMPANY]:0:::
+T[MUSEUM]:0.5691:::T[PERSON]:0.033:::T[OTHER]:0.0115:::T[PLACE]:0.0083:::T[UNIVERSITY]:0:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4307:::DICT[Y]:0.0002:::
+Active Evidence: 12.57277
+Evidence: 29.155201
+========================
+Token: Beaney
+ID: beaney
+L[EMPTY]:0.9998:::L[PERSON]:0:::
+R[EMPTY]:0.9987:::R[MUSEUM]:0.0001:::R[ORGANISATION]:0.0001:::R[LEGISLATURE]:0.0001:::
+T[MUSEUM]:0.9998:::T[PERSON]:0:::
+SW[NULL]:0.9987:::SW[of]:0.0002:::
+DICT[Y]:0.0014:::DICT[N]:0:::
+Active Evidence: 4.693285
+Evidence: 8.686399
+========================
+Token: Museum for
+ID: museum for
+L[EMPTY]:0.6153:::L[PLACE]:0.2356:::L[MUSEUM]:0.1283:::L[ORGANISATION]:0.0136:::L[EVENT]:0.0072:::
+R[PLACE]:0.3915:::R[PERSON]:0.2325:::R[COMPANY]:0.1326:::R[EVENT]:0.1042:::R[PERIODICAL_LITERATURE]:0.0694:::R[BUILDING]:0.0663:::
+T[MUSEUM]:0.7919:::T[BUILDING]:0.2081:::
+SW[NULL]:0.6153:::SW[for]:0.3847:::
+DICT[Y]:0.6728:::DICT[N]:0.3272:::
+Active Evidence: 4.7974935
+Evidence: 7.0
+========================
+Token: Ica
+ID: ica
+L[EMPTY]:1:::
+R[EMPTY]:0.8636:::R[COMPANY]:0.0152:::R[PLACE]:0.0051:::
+T[MUSEUM]:0.4419:::T[COMPANY]:0.2099:::T[OTHER]:0.0391:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3991:::DICT[Y]:0:::
+Active Evidence: 9.515112
+Evidence: 14.717401
+========================
+Token: Arnolfini
+ID: arnolfini
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.8722:::T[OTHER]:0.0289:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1278:::
+Active Evidence: 3.9147189
+Evidence: 5.4144
+========================
+Token: Gallery at
+ID: gallery at
+L[PERSON]:0.5416:::L[EMPTY]:0.4584:::
+R[PLACE]:0.4545:::R[ORGANISATION]:0.2738:::R[UNIVERSITY]:0.1477:::R[PERSON]:0.124:::
+T[MUSEUM]:0.5416:::T[PLACE]:0.4584:::
+SW[NULL]:0.4584:::SW[at]:0.3702:::SW[the]:0.1714:::
+DICT[Y]:1:::
+Active Evidence: 5.3740916
+Evidence: 6.0
+========================
+Token: Planetarium of
+ID: planetarium of
+L[EMPTY]:1:::
+R[MUSEUM]:0.6667:::R[PLACE]:0.3333:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.999989
+Evidence: 3.0
+========================
+Token: Planetarium and
+ID: planetarium and
+L[PERSON]:0.6664:::L[MUSEUM]:0.3336:::
+R[PERSON]:0.5:::R[PLACE]:0.5:::
+T[MUSEUM]:1:::
+SW[and]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.9874651
+Evidence: 3.0
+========================
+Token: Planetarium
+ID: planetarium
+L[EMPTY]:0.1885:::L[PERSON]:0.1196:::L[PLACE]:0.101:::L[UNIVERSITY]:0.0152:::L[BUILDING]:0.0062:::L[ROAD]:0.0051:::
+R[EMPTY]:0.9768:::R[PLACE]:0.0071:::R[UNIVERSITY]:0:::
+T[MUSEUM]:0.2054:::T[PLACE]:0.1136:::T[BUILDING]:0.0424:::T[OTHER]:0.0229:::
+SW[NULL]:0.9572:::SW[and]:0.0131:::
+DICT[N]:0.7957:::DICT[Y]:0.0907:::
+Active Evidence: 20.024881
+Evidence: 28.2742
+========================
+Token: Museums
+ID: museums
+L[EMPTY]:0.1988:::L[ORGANISATION]:0.1171:::L[PLACE]:0.0942:::L[AWARD]:0.0286:::L[COMPANY]:0.0239:::L[PERSON]:0.023:::
+R[EMPTY]:0.9292:::R[PLACE]:0.0281:::R[GOVAGENCY]:0.0035:::R[ORGANISATION]:0.0009:::R[PERIODICAL_LITERATURE]:0.0003:::R[LEGISLATURE]:0.0003:::
+T[MUSEUM]:0.2949:::T[COMPANY]:0.0869:::T[ORGANISATION]:0.0739:::T[OTHER]:0.031:::T[BUILDING]:0.017:::T[GOVAGENCY]:0.0021:::
+SW[NULL]:0.6905:::SW[of]:0.1259:::SW[and]:0.0184:::
+DICT[Y]:0.5654:::DICT[N]:0.3644:::
+Active Evidence: 16.300499
+Evidence: 33.1442
+========================
+Token: Udvar-hazy
+ID: udvar-hazy
+L[EMPTY]:0.9994:::L[PERSON]:0.0002:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::
+T[MUSEUM]:0.9995:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.0006:::
+Active Evidence: 3.0887666
+Evidence: 5.0868
+========================
+Token: Museums of
+ID: museums of
+L[EMPTY]:0.5758:::L[PERSON]:0.2682:::L[PLACE]:0.1465:::L[ORGANISATION]:0.0095:::L[COMPANY]:0:::L[PERIODICAL_LITERATURE]:0:::
+R[PLACE]:0.6158:::R[COMPANY]:0.2864:::R[PERSON]:0.0488:::R[MUSEUM]:0.0488:::R[THEATRE]:0:::R[UNIVERSITY]:0:::
+T[MUSEUM]:0.7318:::T[BUILDING]:0.2682:::T[ORGANISATION]:0:::
+SW[of]:0.4242:::SW[the]:0.2894:::SW[NULL]:0.2864:::
+DICT[N]:0.5546:::DICT[Y]:0.4454:::
+Active Evidence: 3.406975
+Evidence: 6.0
+========================
+Token: Galerie
+ID: galerie
+L[EMPTY]:0.9296:::L[PERIODICAL_LITERATURE]:0.0507:::L[MUSEUM]:0.0197:::
+R[PERSON]:0.4872:::R[PLACE]:0.2295:::R[MUSEUM]:0.2117:::R[COMPANY]:0.0408:::R[ORGANISATION]:0.0253:::R[PERIODICAL_LITERATURE]:0.0055:::
+T[MUSEUM]:0.4862:::T[BUILDING]:0.293:::T[PLACE]:0.2098:::T[PERSON]:0.011:::
+SW[NULL]:1:::
+DICT[N]:0.7255:::DICT[Y]:0.2745:::
+Active Evidence: 4.724318
+Evidence: 8.0
+========================
+Token: Universum
+ID: universum
+L[EMPTY]:1:::L[PERIODICAL_LITERATURE]:0:::
+R[EMPTY]:1:::R[COMPANY]:0:::R[EVENT]:0:::
+T[MUSEUM]:0.9999:::T[COMPANY]:0:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 2.5087297
+Evidence: 4.5086
+========================
+Token: Correr
+ID: correr
+L[EMPTY]:0.9999:::L[PERSON]:0:::L[MUSEUM]:0:::
+R[EMPTY]:1:::
+T[MUSEUM]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0001:::
+Active Evidence: 2.457353
+Evidence: 5.4572
+========================
+Token: Art in
+ID: art in
+L[EMPTY]:0.9999:::L[MUSEUM]:0.0001:::L[COMPANY]:0:::
+R[EVENT]:0.2113:::R[PLACE]:0.2113:::R[EMPTY]:0.1549:::R[MUSEUM]:0.1057:::R[PERSON]:0.1056:::R[BUILDING]:0.1056:::
+T[MUSEUM]:0.4226:::T[PERIODICAL_LITERATURE]:0.2113:::T[ORGANISATION]:0.2112:::T[OTHER]:0.1549:::
+SW[NULL]:0.9999:::SW[of]:0.0001:::
+DICT[Y]:0.6338:::DICT[N]:0.3662:::
+Active Evidence: 4.733661
+Evidence: 9.0
+========================
+Token: Pinacoteca
+ID: pinacoteca
+L[EMPTY]:0.9551:::L[PERSON]:0.0224:::L[PLACE]:0.0224:::
+R[MUSEUM]:0.4776:::R[PERSON]:0.239:::R[PLACE]:0.2385:::R[EMPTY]:0.0449:::
+T[MUSEUM]:1:::
+SW[NULL]:0.5229:::SW[di]:0.4771:::
+DICT[N]:0.9551:::DICT[Y]:0.0449:::
+Active Evidence: 2.0916882
+Evidence: 3.0
+========================
+Token: Art and
+ID: art and
+L[MUSEUM]:0.3104:::L[EMPTY]:0.267:::L[PLACE]:0.1796:::L[UNIVERSITY]:0.0702:::L[LEGISLATURE]:0.0577:::L[PERSON]:0.0573:::
+R[COMPANY]:0.2666:::R[PERIODICAL_LITERATURE]:0.2042:::R[EMPTY]:0.1559:::R[ORGANISATION]:0.1164:::R[PLACE]:0.1139:::R[PERSON]:0.081:::
+T[MUSEUM]:0.7205:::T[OTHER]:0.1559:::T[UNIVERSITY]:0.0959:::T[PLACE]:0.0262:::T[ORGANISATION]:0.0009:::T[PERIODICAL_LITERATURE]:0.0002:::
+SW[of]:0.5625:::SW[and]:0.2547:::SW[NULL]:0.1559:::SW[the]:0.0262:::SW[for]:0.0005:::SW[a]:0.0002:::
+DICT[Y]:0.8209:::DICT[N]:0.1791:::
+Active Evidence: 8.615039
+Evidence: 79.0
+========================
+Token: Muzeum
+ID: muzeum
+L[EMPTY]:1:::
+R[MUSEUM]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.5:::DICT[N]:0.5:::
+Active Evidence: 2.0
+Evidence: 2.0
+========================
+Token: Fairhall
+ID: fairhall
+L[EMPTY]:0.6379:::L[PERSON]:0.1303:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[MUSEUM]:0.6379:::T[PERSON]:0.1303:::T[RIVER]:0:::
+SW[NULL]:1:::
+DICT[N]:0.362:::DICT[Y]:0.0001:::
+Active Evidence: 2.7873871
+Evidence: 5.7782
+========================
+Token: Naturale Di
+ID: naturale di
+L[MUSEUM]:1:::
+R[PLACE]:1:::
+T[MUSEUM]:1:::
+SW[di]:1:::
+DICT[N]:1:::
+Active Evidence: 1.8386756
+Evidence: 3.0
+========================
+Token: Collection of
+ID: collection of
+L[PERSON]:0.4888:::L[EMPTY]:0.3538:::L[MUSEUM]:0.072:::L[LIBRARY]:0.0718:::L[ORGANISATION]:0.0109:::L[UNIVERSITY]:0.0026:::
+R[EMPTY]:0.3102:::R[PERIODICAL_LITERATURE]:0.192:::R[PERSON]:0.1823:::R[PLACE]:0.0806:::R[ORGANISATION]:0.0743:::R[BUILDING]:0.0718:::
+T[MUSEUM]:0.4741:::T[OTHER]:0.3102:::T[LIBRARY]:0.2155:::T[PLACE]:0.0001:::T[ORGANISATION]:0:::
+SW[of]:0.4262:::SW[NULL]:0.3538:::SW[and]:0.22:::
+DICT[Y]:0.6872:::DICT[N]:0.3128:::
+Active Evidence: 4.590846
+Evidence: 16.0
+========================
+Token: Namal
+ID: namal
+L[EMPTY]:0.7165:::L[PERSON]:0.113:::
+R[EMPTY]:0.7115:::R[PERSON]:0.1149:::R[PLACE]:0.0001:::R[UNIVERSITY]:0:::
+T[MUSEUM]:0.4279:::T[PERSON]:0.2279:::T[RIVER]:0.0001:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5718:::DICT[Y]:0.0003:::
+Active Evidence: 3.5267773
+Evidence: 7.5092
+========================
+Token: Maison De
+ID: maison de
+L[EMPTY]:1:::
+R[MUSEUM]:0.2608:::R[PERIODICAL_LITERATURE]:0.2409:::R[BUILDING]:0.2378:::R[PLACE]:0.1303:::R[THEATRE]:0.1303:::
+T[MUSEUM]:0.2608:::T[THEATRE]:0.2605:::T[PLACE]:0.2409:::T[BUILDING]:0.2378:::
+SW[la]:1:::
+DICT[Y]:0.5015:::DICT[N]:0.4985:::
+Active Evidence: 3.8348203
+Evidence: 4.0
+========================
+Token: Watershed
+ID: watershed
+L[EMPTY]:0.9029:::L[PLACE]:0.0232:::L[PERSON]:0.0042:::L[BUILDING]:0.002:::L[GOVAGENCY]:0:::L[RIVER]:0:::
+R[EMPTY]:0.9982:::R[DISEASE]:0.0004:::R[UNIVERSITY]:0.0001:::R[PLACE]:0:::R[COMPANY]:0:::R[LEGISLATURE]:0:::
+T[MUSEUM]:0.74:::T[OTHER]:0.0489:::T[RIVER]:0.017:::T[BUILDING]:0.0084:::T[PLACE]:0.0041:::T[DISEASE]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:0.1611:::DICT[Y]:0.0989:::
+Active Evidence: 3.1033983
+Evidence: 14.2966
+========================
+Token: Ramm
+ID: ramm
+L[EMPTY]:0.5362:::L[PERSON]:0.1416:::
+R[EMPTY]:0.9982:::R[PERSON]:0.0005:::
+T[MUSEUM]:0.5349:::T[PERSON]:0.142:::
+SW[NULL]:0.765:::SW[von]:0.0717:::
+DICT[N]:0.4639:::DICT[Y]:0.0012:::
+Active Evidence: 4.2550282
+Evidence: 19.276001
+========================
+Token: Skansen
+ID: skansen
+L[EMPTY]:1:::
+R[EMPTY]:0.6453:::R[COMPANY]:0.1427:::R[PLACE]:0:::R[BRIDGE]:0:::
+T[MUSEUM]:0.5271:::T[COMPANY]:0.1427:::T[OTHER]:0.0476:::T[PLACE]:0:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4729:::DICT[Y]:0:::
+Active Evidence: 2.8194556
+Evidence: 6.486
+========================
+Token: Kunsten
+ID: kunsten
+L[EMPTY]:0.9685:::L[ORGANISATION]:0.003:::L[PLACE]:0.003:::L[MUSEUM]:0.003:::L[UNIVERSITY]:0.0018:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::R[PLACE]:0:::R[PERSON]:0:::R[MUSEUM]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[MUSEUM]:0.9685:::T[PLACE]:0.0107:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[de]:0:::SW[of]:0:::
+DICT[Y]:0.0315:::DICT[N]:0:::
+Active Evidence: 2.0035613
+Evidence: 6.9404
+========================
+Token: Danmarks
+ID: danmarks
+L[EMPTY]:0.6875:::L[COMPANY]:0.3125:::
+R[MUSEUM]:0.3125:::R[COMPANY]:0.3125:::R[UNIVERSITY]:0.3125:::R[EMPTY]:0.0625:::
+T[MUSEUM]:0.3125:::T[COMPANY]:0.3125:::T[UNIVERSITY]:0.3125:::T[OTHER]:0.0625:::
+SW[NULL]:0.6875:::SW[for]:0.3125:::
+DICT[N]:0.6875:::DICT[Y]:0.3125:::
+Active Evidence: 3.2
+Evidence: 4.0
+========================
+Token: Catacombs of
+ID: catacombs of
+L[EMPTY]:1:::
+R[PLACE]:0.6667:::R[EMPTY]:0.2:::R[MONUMENT]:0.1333:::
+T[MUSEUM]:0.4001:::T[MONUMENT]:0.3999:::T[OTHER]:0.2:::
+SW[NULL]:1:::
+DICT[N]:0.6001:::DICT[Y]:0.3999:::
+Active Evidence: 2.4996426
+Evidence: 3.0
+========================
+Token: Air and
+ID: air and
+L[PLACE]:0.5622:::L[EMPTY]:0.4103:::L[ORGANISATION]:0.027:::L[EVENT]:0.0003:::L[MOUNTAIN]:0.0001:::L[BUILDING]:0.0001:::
+R[EMPTY]:0.3403:::R[PLACE]:0.3067:::R[PERSON]:0.2958:::R[COMPANY]:0.0234:::R[ORGANISATION]:0.0196:::R[AIRLINE]:0.0119:::
+T[MUSEUM]:0.3481:::T[OTHER]:0.3403:::T[AIRPORT]:0.1798:::T[ORGANISATION]:0.1318:::
+SW[and]:0.5893:::SW[NULL]:0.4103:::SW[the]:0.0004:::
+DICT[Y]:0.624:::DICT[N]:0.376:::
+Active Evidence: 5.5615053
+Evidence: 25.0
+========================
+Token: Civilisation
+ID: civilisation
+L[MUSEUM]:0.3471:::L[UNIVERSITY]:0.3346:::L[EMPTY]:0.3182:::
+R[EMPTY]:0.6654:::R[ORGANISATION]:0.1673:::R[UNIVERSITY]:0.1673:::
+T[MUSEUM]:0.3471:::T[UNIVERSITY]:0.3346:::T[OTHER]:0.3182:::
+SW[de]:0.6818:::SW[NULL]:0.3182:::
+DICT[N]:1:::
+Active Evidence: 2.8806286
+Evidence: 5.0
+========================
+Token: Hash
+ID: hash
+L[EMPTY]:0.79:::L[PERSON]:0.0951:::
+R[EMPTY]:0.6219:::R[PERSON]:0.1438:::R[COMPANY]:0.0258:::R[PLACE]:0.0012:::R[MUSEUM]:0.0003:::R[BUILDING]:0:::
+T[MUSEUM]:0.2452:::T[PERSON]:0.0968:::T[PLACE]:0.0911:::T[COMPANY]:0.0775:::T[OTHER]:0.0763:::T[BUILDING]:0:::
+SW[NULL]:0.8288:::SW[a]:0.0775:::
+DICT[Y]:0.3788:::DICT[N]:0.3767:::
+Active Evidence: 4.944058
+Evidence: 13.2092
+========================
+Token: L'homme
+ID: l'homme
+L[MUSEUM]:0.3719:::L[ORGANISATION]:0.2758:::L[EMPTY]:0.2604:::L[PERSON]:0.0919:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.3719:::T[ORGANISATION]:0.3677:::T[OTHER]:0.2604:::
+SW[de]:0.7396:::SW[NULL]:0.2604:::
+DICT[Y]:1:::
+Active Evidence: 2.6886806
+Evidence: 5.0
+========================
+Token: Gemeentemuseum
+ID: gemeentemuseum
+L[EMPTY]:0.5088:::L[PLACE]:0.2443:::
+R[EMPTY]:0.9875:::R[PERSON]:0.0031:::R[ORGANISATION]:0.0031:::
+T[MUSEUM]:0.5088:::T[PLACE]:0.2443:::
+SW[NULL]:1:::
+DICT[N]:0.4912:::DICT[Y]:0.0125:::
+Active Evidence: 2.0358837
+Evidence: 3.0104
+========================
+Token: Naturalis
+ID: naturalis
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.6676:::T[OTHER]:0.1531:::
+SW[NULL]:1:::
+DICT[N]:0.3324:::
+Active Evidence: 1.7547334
+Evidence: 3.1714
+========================
+Token: Bartholdi
+ID: bartholdi
+L[MUSEUM]:0.4487:::L[PERSON]:0.3269:::L[EMPTY]:0.2244:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[MUSEUM]:0.4487:::T[PERSON]:0.3269:::T[OTHER]:0.2244:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.2284398
+Evidence: 4.0
+========================
+Token: Photography
+ID: photography
+L[COMPANY]:0.5066:::L[EMPTY]:0.1502:::L[MUSEUM]:0.1244:::L[BUILDING]:0.1199:::L[AWARD]:0.0689:::L[ORGANISATION]:0.0136:::
+R[EMPTY]:0.8296:::R[MUSEUM]:0.0566:::R[BUILDING]:0.0566:::R[THEATRE]:0.0566:::R[ORGANISATION]:0.0006:::R[EVENT]:0:::
+T[MUSEUM]:0.2866:::T[ORGANISATION]:0.1966:::T[AWARD]:0.1723:::T[PERIODICAL_LITERATURE]:0.1545:::T[OTHER]:0.1502:::T[COMPANY]:0.0383:::
+SW[of]:0.4689:::SW[NULL]:0.3427:::SW[for]:0.1884:::
+DICT[Y]:0.6595:::DICT[N]:0.3405:::
+Active Evidence: 5.5469923
+Evidence: 25.0
+========================
+Token: Station of
+ID: station of
+L[PERSON]:0.4999:::L[EMPTY]:0.4998:::L[PLACE]:0.0002:::L[BUILDING]:0.0002:::
+R[PLACE]:0.5:::R[PERSON]:0.4999:::R[COMPANY]:0.0001:::
+T[MUSEUM]:0.4999:::T[ORGANISATION]:0.4998:::T[BUILDING]:0.0003:::
+SW[the]:0.5:::SW[of]:0.5:::
+DICT[Y]:1:::
+Active Evidence: 2.0003114
+Evidence: 4.0
+========================
+Token: Technological
+ID: technological
+L[EMPTY]:0.9446:::L[PERSON]:0.0115:::L[ORGANISATION]:0.0007:::L[UNIVERSITY]:0.0001:::L[COMPANY]:0.0001:::L[BUILDING]:0.0001:::
+R[EMPTY]:0.4943:::R[UNIVERSITY]:0.0785:::R[PLACE]:0.0205:::R[PERSON]:0.0156:::R[ORGANISATION]:0:::R[COMPANY]:0:::
+T[MUSEUM]:0.4605:::T[UNIVERSITY]:0.1146:::T[OTHER]:0.0076:::T[ORGANISATION]:0:::T[PLACE]:0:::T[GOVAGENCY]:0:::
+SW[NULL]:0.9473:::SW[of]:0.0118:::SW[and]:0.0001:::
+DICT[N]:0.4882:::DICT[Y]:0.0512:::
+Active Evidence: 7.410756
+Evidence: 87.413
+========================
+Token: Memorial in
+ID: memorial in
+L[EMPTY]:0.5048:::L[PERSON]:0.2475:::L[PLACE]:0.2475:::L[BUILDING]:0.0002:::
+R[PLACE]:0.6213:::R[MUSEUM]:0.3786:::R[PERSON]:0:::R[BUILDING]:0:::
+T[MUSEUM]:0.5048:::T[BUILDING]:0.4952:::
+SW[of]:0.5048:::SW[in]:0.4952:::
+DICT[N]:0.5048:::DICT[Y]:0.4952:::
+Active Evidence: 1.9805797
+Evidence: 5.0
+========================
+Token: Decade of
+ID: decade of
+L[MUSEUM]:0.5572:::L[EMPTY]:0.4428:::
+R[EMPTY]:0.4428:::R[THEATRE]:0.2786:::R[PERIODICAL_LITERATURE]:0.2786:::
+T[MUSEUM]:0.5572:::T[OTHER]:0.4428:::
+SW[a]:0.5572:::SW[NULL]:0.4428:::
+DICT[N]:1:::
+Active Evidence: 1.7876943
+Evidence: 4.0
+========================
+Token: Laboral
+ID: laboral
+L[EMPTY]:0.5024:::L[ORGANISATION]:0.3981:::L[PLACE]:0.0995:::L[COMPANY]:0:::
+R[EMPTY]:0.4976:::R[MUSEUM]:0.2009:::R[COMPANY]:0.1006:::R[ORGANISATION]:0.1004:::R[UNIVERSITY]:0.1004:::
+T[MUSEUM]:0.5022:::T[ORGANISATION]:0.4976:::T[COMPANY]:0.0002:::
+SW[de]:0.9998:::SW[NULL]:0.0002:::
+DICT[Y]:0.9998:::DICT[N]:0.0002:::
+Active Evidence: 1.8594671
+Evidence: 4.0
+========================
+Token: Archaeological
+ID: archaeological
+L[EMPTY]:0.6129:::L[MUSEUM]:0.1439:::L[PLACE]:0.1201:::L[PERSON]:0.072:::L[ORGANISATION]:0.0501:::L[COMPANY]:0.0007:::
+R[PLACE]:0.4453:::R[MUSEUM]:0.1571:::R[PERSON]:0.1399:::R[BUILDING]:0.1203:::R[PERIODICAL_LITERATURE]:0.0764:::R[GOVAGENCY]:0.0345:::
+T[MUSEUM]:0.5021:::T[PLACE]:0.147:::T[PERIODICAL_LITERATURE]:0.1221:::T[BUILDING]:0.1218:::T[ORGANISATION]:0.0843:::T[OTHER]:0.0203:::
+SW[NULL]:0.4882:::SW[of]:0.2802:::SW[from]:0.1214:::SW[and]:0.1101:::
+DICT[Y]:0.8531:::DICT[N]:0.1469:::
+Active Evidence: 8.22924
+Evidence: 127.0
+========================
+Token: Moderna
+ID: moderna
+L[EMPTY]:0.529:::L[PERSON]:0.4356:::L[PLACE]:0.0114:::L[MUSEUM]:0.0114:::L[ORGANISATION]:0.0095:::L[LIBRARY]:0.0019:::
+R[MUSEUM]:0.5289:::R[EMPTY]:0.4655:::R[PLACE]:0.0056:::R[COMPANY]:0:::
+T[MUSEUM]:0.5631:::T[PERIODICAL_LITERATURE]:0.4369:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5302:::DICT[Y]:0.4698:::
+Active Evidence: 1.8905796
+Evidence: 6.0
+========================
+Token: Filmmakers
+ID: filmmakers
+L[PLACE]:0.5135:::L[PERIODICAL_LITERATURE]:0.2929:::L[EMPTY]:0.1936:::
+R[EMPTY]:0.7064:::R[PLACE]:0.1464:::R[ORGANISATION]:0.1464:::R[COMPANY]:0.0003:::R[UNIVERSITY]:0.0003:::R[EVENT]:0.0001:::
+T[MUSEUM]:0.5128:::T[ORGANISATION]:0.2929:::T[OTHER]:0.1936:::T[UNIVERSITY]:0.0007:::
+SW[NULL]:0.7064:::SW[of]:0.2936:::
+DICT[N]:0.7064:::DICT[Y]:0.2936:::
+Active Evidence: 1.7220098
+Evidence: 4.0
+========================
+Token: Pays De
+ID: pays de
+L[EMPTY]:0.5709:::L[MUSEUM]:0.4262:::L[EVENT]:0.0021:::L[PLACE]:0.0008:::L[UNIVERSITY]:0:::
+R[PLACE]:0.427:::R[RIVER]:0.4089:::R[EMPTY]:0.1631:::R[EVENT]:0.0011:::R[UNIVERSITY]:0:::
+T[MUSEUM]:0.4262:::T[PLACE]:0.4086:::T[OTHER]:0.1631:::T[EVENT]:0.0021:::T[UNIVERSITY]:0:::
+SW[du]:0.427:::SW[la]:0.4078:::SW[NULL]:0.1631:::SW[de]:0.0021:::SW[of]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 2.043879
+Evidence: 6.0
+========================
+Token: D'arte
+ID: d'arte
+L[MUSEUM]:0.8876:::L[PLACE]:0.0562:::L[ORGANISATION]:0.0411:::L[LIBRARY]:0.0151:::
+R[MUSEUM]:0.9849:::R[PLACE]:0.0151:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.1266505
+Evidence: 3.0
+========================
+Token: D'aquitaine
+ID: d'aquitaine
+L[MUSEUM]:0.7948:::L[EMPTY]:0.1987:::L[PERSON]:0.0065:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.7948:::T[OTHER]:0.1987:::T[BRIDGE]:0.0065:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.2581519
+Evidence: 3.0
+========================
+Token: Catacombs
+ID: catacombs
+L[MUSEUM]:0.9062:::L[PLACE]:0.0906:::L[BUILDING]:0.0031:::
+R[EMPTY]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[N]:0.9969:::DICT[Y]:0.0031:::
+Active Evidence: 1.1034756
+Evidence: 3.0
+========================
+Token: Sadu
+ID: sadu
+L[EMPTY]:0.9999:::L[PLACE]:0.0001:::
+R[PLACE]:0.6546:::R[EMPTY]:0.3453:::R[RIVER]:0.0001:::
+T[MUSEUM]:0.6546:::T[OTHER]:0.3452:::T[PLACE]:0.0001:::T[RIVER]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.6548:::DICT[N]:0.3452:::
+Active Evidence: 1.448227
+Evidence: 5.0
+========================
+Token: Museo Di
+ID: museo di
+L[EMPTY]:0.9787:::L[MUSEUM]:0.0213:::
+R[MUSEUM]:0.9718:::R[PLACE]:0.0282:::
+T[MUSEUM]:1:::
+SW[NULL]:0.9153:::SW[di]:0.0847:::
+DICT[N]:1:::
+Active Evidence: 1.0689187
+Evidence: 3.0
+========================
+Token: Industry of
+ID: industry of
+L[MUSEUM]:0.6386:::L[COMPANY]:0.2337:::L[EMPTY]:0.1277:::L[GOVAGENCY]:0:::L[ORGANISATION]:0:::L[LEGISLATURE]:0:::
+R[DISEASE]:0.6385:::R[COMPANY]:0.253:::R[PLACE]:0.1085:::R[BUILDING]:0:::
+T[MUSEUM]:0.6385:::T[COMPANY]:0.3614:::T[BUILDING]:0.0001:::T[GOVAGENCY]:0:::
+SW[an]:0.6385:::SW[of]:0.2338:::SW[and]:0.1277:::
+DICT[Y]:0.8747:::DICT[N]:0.1253:::
+Active Evidence: 1.5659355
+Evidence: 7.0
+========================
+Token: Tren
+ID: tren
+L[EMPTY]:1:::L[PERSON]:0:::
+R[MUSEUM]:0.9455:::R[PERSON]:0.0545:::R[EMPTY]:0:::
+T[MUSEUM]:0.9455:::T[ORGANISATION]:0.0545:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0576965
+Evidence: 3.0
+========================
+Token: Center in
+ID: center in
+L[PLACE]:0.3266:::L[MUSEUM]:0.3233:::L[EVENT]:0.3233:::L[PERIODICAL_LITERATURE]:0.0101:::L[PERSON]:0.0066:::L[HOSPITAL]:0.0033:::
+R[PLACE]:1:::
+T[MUSEUM]:0.97:::T[HOSPITAL]:0.0199:::T[ORGANISATION]:0.0101:::
+SW[in]:0.9899:::SW[and]:0.0101:::
+DICT[Y]:1:::
+Active Evidence: 1.0289013
+Evidence: 3.0
+========================
+Token: Joanneum
+ID: joanneum
+L[MUSEUM]:0.992:::L[UNIVERSITY]:0.0074:::L[EMPTY]:0.0006:::
+R[EMPTY]:0.9994:::R[COMPANY]:0.0006:::
+T[MUSEUM]:0.992:::T[UNIVERSITY]:0.0074:::T[COMPANY]:0.0006:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0081056
+Evidence: 3.0
+========================
+Token: Erro
+ID: erro
+L[PERSON]:0.4133:::L[EMPTY]:0.38:::L[MUSEUM]:0.2066:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.6199:::T[OTHER]:0.38:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3156673
+Evidence: 4.0
+========================
+Token: Ramezay
+ID: ramezay
+L[MUSEUM]:0.9999:::L[PERSON]:0.0001:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:0.9999:::SW[de]:0.0001:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 1.000082
+Evidence: 3.0
+========================
+Token: Mathare
+ID: mathare
+L[EMPTY]:1:::
+R[ORGANISATION]:0.3333:::R[PERSON]:0.3333:::R[MUSEUM]:0.3333:::R[EVENT]:0:::
+T[MUSEUM]:1:::T[ORGANISATION]:0:::
+SW[for]:1:::SW[NULL]:0:::
+DICT[Y]:1:::
+Active Evidence: 0.99768215
+Evidence: 3.0
+========================
+Token: Jostedalsbreen
+ID: jostedalsbreen
+L[EMPTY]:1:::
+R[MUSEUM]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[MUSEUM]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000073
+Evidence: 2.0
+========================
+Token: Wiratama
+ID: wiratama
+L[PLACE]:0.9998:::L[PERSON]:0.0002:::
+R[EMPTY]:1:::R[MUSEUM]:0:::
+T[MUSEUM]:0.9998:::T[PERSON]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.9578569
+Evidence: 3.0
+========================
+Token: Abita
+ID: abita
+L[EMPTY]:0.9969:::L[PLACE]:0.0031:::
+R[EMPTY]:0.3767:::R[PLACE]:0.3119:::R[ORGANISATION]:0.3113:::R[RIVER]:0:::R[COMPANY]:0:::
+T[MUSEUM]:0.6226:::T[OTHER]:0.3736:::T[RIVER]:0.0032:::T[PLACE]:0.0007:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.6257:::DICT[N]:0.3743:::
+Active Evidence: 1.338341
+Evidence: 6.0
+========================
+Token: D'orsay
+ID: d'orsay
+L[MUSEUM]:0.8653:::L[PERSON]:0.1347:::
+R[EMPTY]:0.9999:::R[PERSON]:0.0001:::
+T[MUSEUM]:0.8653:::T[PERSON]:0.1347:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.1556973
+Evidence: 7.0
+========================
+Token: Unstable
+ID: unstable
+L[MUSEUM]:0.3791:::L[ORGANISATION]:0.3791:::L[EMPTY]:0.2419:::
+R[COMPANY]:0.7581:::R[EMPTY]:0.2418:::R[DISEASE]:0.0001:::
+T[MUSEUM]:0.7581:::T[OTHER]:0.2418:::T[DISEASE]:0.0001:::
+SW[for]:0.7581:::SW[NULL]:0.2419:::
+DICT[Y]:0.7581:::DICT[N]:0.2419:::
+Active Evidence: 1.0338867
+Evidence: 3.0
+========================
+Token: Mains
+ID: mains
+L[EMPTY]:0.7547:::L[PLACE]:0.2451:::L[PERSON]:0.0002:::L[ORGANISATION]:0:::
+R[MUSEUM]:0.7547:::R[EMPTY]:0.2453:::
+T[MUSEUM]:0.7547:::T[PLACE]:0.2451:::T[PERSON]:0.0002:::
+SW[NULL]:1:::
+DICT[Y]:0.7547:::DICT[N]:0.2453:::
+Active Evidence: 1.3250958
+Evidence: 11.0
+========================
+Token: Folklore
+ID: folklore
+L[LEGISLATURE]:0.4835:::L[ORGANISATION]:0.3552:::L[EMPTY]:0.1414:::L[BUILDING]:0.0079:::L[MUSEUM]:0.0079:::L[PLACE]:0.0021:::
+R[EMPTY]:0.9991:::R[EVENT]:0.0003:::R[PLACE]:0.0003:::R[UNIVERSITY]:0.0003:::R[COMPANY]:0:::R[ORGANISATION]:0:::
+T[MUSEUM]:0.4835:::T[PERIODICAL_LITERATURE]:0.3552:::T[OTHER]:0.1414:::T[BUILDING]:0.0189:::T[UNIVERSITY]:0.0006:::T[EVENT]:0.0003:::
+SW[of]:0.5025:::SW[NULL]:0.4975:::
+DICT[Y]:0.858:::DICT[N]:0.142:::
+Active Evidence: 1.4139287
+Evidence: 11.0
+========================
+Token: Ellert
+ID: ellert
+L[EMPTY]:0.9996:::L[PERSON]:0.0004:::
+R[PLACE]:0.4998:::R[MUSEUM]:0.4998:::R[EMPTY]:0.0004:::
+T[MUSEUM]:0.9996:::T[PERSON]:0.0004:::
+SW[NULL]:1:::
+DICT[Y]:0.9996:::DICT[N]:0.0004:::
+Active Evidence: 0.4563636
+Evidence: 3.0
+========================
+Token: Ayalon
+ID: ayalon
+L[UNIVERSITY]:0.9957:::L[PLACE]:0.0032:::L[PERSON]:0.0011:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[MUSEUM]:0.9957:::T[PLACE]:0.0032:::T[PERSON]:0.0011:::T[RIVER]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9996:::DICT[Y]:0.0004:::
+Active Evidence: 0.15163644
+Evidence: 6.0
+========================
+Token: Antiquities
+ID: antiquities
+L[MUSEUM]:0.5231:::L[PERIODICAL_LITERATURE]:0.2252:::L[ORGANISATION]:0.1602:::L[EVENT]:0.0801:::L[GOVAGENCY]:0.0076:::L[COMPANY]:0.0038:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.7483:::T[GOVAGENCY]:0.2403:::T[COMPANY]:0.0114:::
+SW[of]:0.9886:::SW[for]:0.0114:::
+DICT[Y]:1:::
+Active Evidence: 0.02383151
+Evidence: 5.0
+========================
+Token: Capodimonte
+ID: capodimonte
+L[MUSEUM]:0.9992:::L[PLACE]:0.0008:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.9992:::T[BUILDING]:0.0008:::
+SW[di]:0.9992:::SW[of]:0.0008:::
+DICT[N]:0.9992:::DICT[Y]:0.0008:::
+Active Evidence: 0.02160134
+Evidence: 2.0
+========================
+Token: Landmarks
+ID: landmarks
+L[PLACE]:0.9995:::L[ORGANISATION]:0.0003:::L[PERSON]:0.0002:::L[PERIODICAL_LITERATURE]:0:::
+R[EMPTY]:0.9999:::R[COMPANY]:0.0001:::
+T[MUSEUM]:0.9993:::T[PLACE]:0.0006:::T[ORGANISATION]:0.0002:::
+SW[NULL]:0.9998:::SW[for]:0.0001:::SW[and]:0.0001:::
+DICT[N]:0.9993:::DICT[Y]:0.0007:::
+Active Evidence: 0.016231908
+Evidence: 4.0
+========================
+Token: Olympic and
+ID: olympic and
+L[EMPTY]:0.9861:::L[ORGANISATION]:0.0085:::L[PLACE]:0.0054:::
+R[PERSON]:0.5925:::R[ORGANISATION]:0.2047:::R[MUSEUM]:0.1972:::R[EVENT]:0.0056:::
+T[MUSEUM]:0.9861:::T[ORGANISATION]:0.0139:::
+SW[NULL]:0.9861:::SW[of]:0.0093:::SW[for]:0.0036:::SW[and]:0.001:::
+DICT[Y]:1:::
+Active Evidence: 0.0056084013
+Evidence: 4.0
+========================
+Token: Wolford
+ID: wolford
+L[EMPTY]:0.9994:::L[PERSON]:0.0005:::L[PLACE]:0:::
+R[PLACE]:0.9993:::R[EMPTY]:0.0006:::R[RIVER]:0.0001:::R[LIBRARY]:0:::R[UNIVERSITY]:0:::
+T[MUSEUM]:0.9991:::T[PERSON]:0.0006:::T[RIVER]:0.0002:::T[PLACE]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.9997:::DICT[N]:0.0003:::
+Active Evidence: 0.0044256463
+Evidence: 8.0
+========================
+Token: Waterpark
+ID: waterpark
+L[BUILDING]:0.2992:::L[MUSEUM]:0.2992:::L[EVENT]:0.2992:::L[PERSON]:0.0507:::L[PLACE]:0.0168:::L[ORGANISATION]:0.0168:::
+R[EMPTY]:0.9988:::R[UNIVERSITY]:0.0012:::
+T[MUSEUM]:0.8977:::T[COMPANY]:0.1009:::T[UNIVERSITY]:0.0012:::T[PERSON]:0.0003:::
+SW[and]:0.8977:::SW[NULL]:0.1023:::
+DICT[Y]:1:::
+Active Evidence: 0.0016809371
+Evidence: 5.0
+========================
+Token: Trammell
+ID: trammell
+L[EMPTY]:0.9482:::L[PLACE]:0.0516:::L[PERSON]:0.0003:::
+R[PERSON]:0.3813:::R[MUSEUM]:0.3779:::R[PERIODICAL_LITERATURE]:0.1889:::R[EMPTY]:0.0518:::R[PLACE]:0.0001:::
+T[MUSEUM]:0.9447:::T[PERSON]:0.0551:::T[BUILDING]:0.0002:::
+SW[of]:0.9447:::SW[NULL]:0.0553:::
+DICT[Y]:0.9997:::DICT[N]:0.0003:::
+Active Evidence: 0.0015733828
+Evidence: 5.0
+========================
+Token: Sandtoft
+ID: sandtoft
+L[MUSEUM]:0.991:::L[EMPTY]:0.009:::
+R[EMPTY]:0.991:::R[BUILDING]:0.0063:::R[PLACE]:0.0028:::
+T[MUSEUM]:0.991:::T[BUILDING]:0.0063:::T[AIRPORT]:0.0028:::
+SW[at]:0.991:::SW[NULL]:0.009:::
+DICT[Y]:1:::
+Active Evidence: 9.267949E-4
+Evidence: 3.0
+========================
+Token: Tuckerton
+ID: tuckerton
+L[EMPTY]:0.9815:::L[PERSON]:0.0185:::
+R[PLACE]:0.9815:::R[EMPTY]:0.0185:::
+T[MUSEUM]:0.9815:::T[PLACE]:0.0185:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.499602E-4
+Evidence: 2.0
+========================
+Token: Beaux-arts
+ID: beaux-arts
+L[PERSON]:0.5:::L[MUSEUM]:0.5:::
+R[PERSON]:0.8194:::R[BUILDING]:0.1806:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.954214E-4
+Evidence: 2.0
+========================
+Token: Trolleybus
+ID: trolleybus
+L[EMPTY]:0.5898:::L[PLACE]:0.4102:::
+R[MUSEUM]:0.5898:::R[BUILDING]:0.4102:::
+T[MUSEUM]:0.5898:::T[BUILDING]:0.4102:::
+SW[at]:0.5898:::SW[NULL]:0.4102:::
+DICT[Y]:1:::
+Active Evidence: 2.2813359E-4
+Evidence: 3.0
+========================
+Token: Kalyna
+ID: kalyna
+L[EMPTY]:1:::
+R[PLACE]:0.9901:::R[PERSON]:0.0099:::
+T[MUSEUM]:0.9901:::T[PERSON]:0.0099:::
+SW[NULL]:1:::
+DICT[Y]:0.9901:::DICT[N]:0.0099:::
+Active Evidence: 7.500817E-5
+Evidence: 2.0
+========================
+Token: Maele
+ID: maele
+L[MUSEUM]:0.5649:::L[PERSON]:0.4351:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.7061:::T[PERSON]:0.2939:::
+SW[van]:1:::
+DICT[Y]:0.7061:::DICT[N]:0.2939:::
+Active Evidence: 7.164225E-5
+Evidence: 4.0
+========================
+Token: Rosenbach
+ID: rosenbach
+L[EMPTY]:0.7692:::L[PERSON]:0.2308:::
+R[MUSEUM]:0.3846:::R[LIBRARY]:0.3846:::R[EMPTY]:0.2308:::
+T[MUSEUM]:0.7692:::T[PERSON]:0.2308:::
+SW[NULL]:0.9958:::SW[von]:0.0042:::
+DICT[Y]:0.7692:::DICT[N]:0.2308:::
+Active Evidence: 5.2827156E-5
+Evidence: 4.0
+========================
+Token: Powel
+ID: powel
+L[EMPTY]:0.995:::L[PERSON]:0.005:::
+R[PLACE]:0.995:::R[EMPTY]:0.005:::
+T[MUSEUM]:0.995:::T[PERSON]:0.005:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.3826683E-5
+Evidence: 2.0
+========================
+Token: Bridgeman
+ID: bridgeman
+L[EMPTY]:0.9681:::L[PERSON]:0.0311:::L[MUSEUM]:0.0008:::
+R[PLACE]:0.4883:::R[PERSON]:0.4798:::R[EMPTY]:0.0319:::
+T[MUSEUM]:0.9597:::T[PERSON]:0.0319:::T[ISLAND]:0.0059:::T[PLACE]:0.0025:::
+SW[NULL]:1:::
+DICT[Y]:0.9826:::DICT[N]:0.0174:::
+Active Evidence: 8.4154955E-5
+Evidence: 16.0
+========================
+Token: Fanshawe
+ID: fanshawe
+L[EMPTY]:0.9582:::L[PERSON]:0.0209:::L[GOVAGENCY]:0.0209:::
+R[PLACE]:0.4826:::R[COMPANY]:0.4756:::R[EMPTY]:0.0418:::
+T[MUSEUM]:0.9513:::T[PERSON]:0.0418:::T[RIVER]:0.007:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.0209141E-5
+Evidence: 3.0
+========================
+Token: Calamar
+ID: calamar
+L[MUSEUM]:0.9879:::L[PERSON]:0.0121:::
+R[COMPANY]:0.9879:::R[EMPTY]:0.0121:::
+T[MUSEUM]:0.9879:::T[PERSON]:0.0121:::
+SW[del]:0.9879:::SW[NULL]:0.0121:::
+DICT[N]:1:::
+Active Evidence: 2.6531843E-5
+Evidence: 2.0
+========================
+Token: Dadiani
+ID: dadiani
+L[EMPTY]:0.5501:::L[PERSON]:0.4499:::
+R[BUILDING]:0.5501:::R[EMPTY]:0.4499:::
+T[MUSEUM]:0.5501:::T[PERSON]:0.4499:::
+SW[NULL]:1:::
+DICT[Y]:0.697:::DICT[N]:0.303:::
+Active Evidence: 2.0350886E-5
+Evidence: 6.0
+========================
+Token: Soares Dos
+ID: soares dos
+L[EMPTY]:0.6361:::L[PERSON]:0.3639:::
+R[PERSON]:0.5759:::R[MUSEUM]:0.212:::R[ORGANISATION]:0.212:::
+T[MUSEUM]:0.6361:::T[PERSON]:0.3639:::
+SW[NULL]:0.6361:::SW[dos]:0.3639:::
+DICT[Y]:0.9827:::DICT[N]:0.0173:::
+Active Evidence: 1.6294616E-5
+Evidence: 4.0
+========================
+Token: Magie
+ID: magie
+L[PLACE]:0.8343:::L[EMPTY]:0.1561:::L[PERSON]:0.0096:::
+R[MUSEUM]:0.8343:::R[PERSON]:0.1561:::R[EMPTY]:0.0096:::
+T[MUSEUM]:0.8343:::T[PERSON]:0.1657:::
+SW[de]:0.8343:::SW[NULL]:0.1657:::
+DICT[N]:1:::
+Active Evidence: 1.0973382E-5
+Evidence: 3.0
+========================
+Token: Repos
+ID: repos
+L[PERSON]:0.9499:::L[PLACE]:0.0501:::
+R[PLACE]:0.5921:::R[EMPTY]:0.3813:::R[PERSON]:0.0133:::R[AWARD]:0.0133:::
+T[MUSEUM]:0.5921:::T[PLACE]:0.4079:::
+SW[NULL]:0.8999:::SW[de]:0.1001:::
+DICT[Y]:0.9734:::DICT[N]:0.0266:::
+Active Evidence: 7.258277E-6
+Evidence: 4.0
+========================
+Token: Nikkei
+ID: nikkei
+L[EMPTY]:0.9789:::L[ORGANISATION]:0.0211:::
+R[ORGANISATION]:0.5246:::R[BUILDING]:0.371:::R[PERIODICAL_LITERATURE]:0.0767:::R[COMPANY]:0.0138:::R[UNIVERSITY]:0.0138:::
+T[MUSEUM]:0.5566:::T[ORGANISATION]:0.2624:::T[COMPANY]:0.181:::
+SW[NULL]:1:::
+DICT[Y]:0.6053:::DICT[N]:0.3947:::
+Active Evidence: 5.7149828E-6
+Evidence: 5.0
+========================
+Token: Headlands
+ID: headlands
+L[EMPTY]:0.9277:::L[PLACE]:0.0723:::
+R[UNIVERSITY]:0.4639:::R[ORGANISATION]:0.4505:::R[PLACE]:0.0428:::R[BUILDING]:0.0361:::R[PERSON]:0.0067:::
+T[MUSEUM]:0.9011:::T[PLACE]:0.0723:::T[UNIVERSITY]:0.0267:::
+SW[for]:0.9011:::SW[and]:0.0989:::
+DICT[N]:0.9011:::DICT[Y]:0.0989:::
+Active Evidence: 4.6632053E-6
+Evidence: 3.0
+========================
+Token: Comunale
+ID: comunale
+L[PLACE]:0.8506:::L[PERSON]:0.1494:::
+R[MUSEUM]:0.5671:::R[PLACE]:0.3582:::R[PERSON]:0.0747:::
+T[MUSEUM]:0.8506:::T[BUILDING]:0.1494:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.52864E-6
+Evidence: 2.0
+========================
+Token: Culture
+ID: & culture
+L[PERSON]:0.4273:::L[PERIODICAL_LITERATURE]:0.1918:::L[PLACE]:0.1424:::L[ORGANISATION]:0.1424:::L[GOVAGENCY]:0.0959:::
+R[EMPTY]:1:::
+T[MUSEUM]:0.7122:::T[PERIODICAL_LITERATURE]:0.2878:::
+SW[for]:0.7122:::SW[NULL]:0.2878:::
+DICT[Y]:1:::
+Active Evidence: 3.5281278E-6
+Evidence: 2.0
+========================
+Token: Bucerius
+ID: bucerius
+L[EMPTY]:0.7549:::L[PERSON]:0.2451:::
+R[ORGANISATION]:0.3775:::R[PERSON]:0.2605:::R[EMPTY]:0.2451:::R[MUSEUM]:0.0585:::R[PERIODICAL_LITERATURE]:0.0585:::
+T[MUSEUM]:0.4039:::T[COMPANY]:0.351:::T[PERSON]:0.2451:::
+SW[NULL]:0.649:::SW[for]:0.351:::
+DICT[Y]:0.7549:::DICT[N]:0.2451:::
+Active Evidence: 3.0189735E-6
+Evidence: 3.0
+========================
+Token: Rollright
+ID: rollright
+L[EMPTY]:0.7867:::L[PLACE]:0.2133:::
+R[PLACE]:0.7867:::R[EMPTY]:0.2133:::
+T[MUSEUM]:0.7867:::T[PLACE]:0.2133:::
+SW[NULL]:1:::
+DICT[N]:0.7867:::DICT[Y]:0.2133:::
+Active Evidence: 5.44418E-7
+Evidence: 2.0
+========================
+Token: Mid-america
+ID: mid-america
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[MUSEUM]:0.5:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.551685E-7
+Evidence: 1.0
+========================
+Token: Baeck
+ID: baeck
+L[PERSON]:1:::
+R[PERSON]:0.3333:::R[ORGANISATION]:0.3333:::R[UNIVERSITY]:0.3333:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.2713456E-7
+Evidence: 1.0
+========================
+Token: Hillwood
+ID: hillwood
+L[EMPTY]:1:::
+R[PLACE]:0.3333:::R[MUSEUM]:0.3333:::R[PERIODICAL_LITERATURE]:0.3333:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.25057E-7
+Evidence: 1.0
+========================
+Token: Lefferts
+ID: lefferts
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[BUILDING]:0.5:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.03705624E-7
+Evidence: 1.0
+========================
+Token: Ashbridge
+ID: ashbridge
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.6967712E-6
+Evidence: 1.0
+========================
+Token: Ethnography
+ID: ethnography
+L[MUSEUM]:0.5:::L[PLACE]:0.25:::L[ORGANISATION]:0.25:::
+R[EMPTY]:1:::
+T[MUSEUM]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.4640552E-6
+Evidence: 1.0
+========================
+Token: Zimmerli
+ID: zimmerli
+L[EMPTY]:1:::
+R[UNIVERSITY]:0.5:::R[PERSON]:0.25:::R[MUSEUM]:0.25:::
+T[MUSEUM]:1:::
+SW[at]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.7982886E-7
+Evidence: 1.0
+========================
+Token: Murney
+ID: murney
+L[EMPTY]:1:::
+R[BUILDING]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.42008E-5
+Evidence: 1.0
+========================
+Token: Salisbury and
+ID: salisbury and
+L[EMPTY]:1:::
+R[PERSON]:0.3333:::R[PLACE]:0.3333:::R[MUSEUM]:0.3333:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.6156817E-7
+Evidence: 1.0
+========================
+Token: Nanhai
+ID: nanhai
+L[EMPTY]:1:::
+R[UNIVERSITY]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.6222962E-6
+Evidence: 1.0
+========================
+Token: Rhinebeck
+ID: rhinebeck
+L[BUILDING]:1:::
+R[AIRPORT]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.504751E-6
+Evidence: 1.0
+========================
+Token: Numismatic
+ID: numismatic
+L[ORGANISATION]:0.3333:::L[PERIODICAL_LITERATURE]:0.3333:::L[EVENT]:0.3333:::
+R[UNIVERSITY]:1:::
+T[MUSEUM]:1:::
+SW[for]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.6142742E-7
+Evidence: 1.0
+========================
+Token: Polhill
+ID: polhill
+L[EMPTY]:1:::
+R[BUILDING]:0.5:::R[MUSEUM]:0.5:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.808787E-7
+Evidence: 1.0
+========================
+Token: Skowhegan
+ID: skowhegan
+L[EMPTY]:1:::
+R[PERSON]:0.5:::R[UNIVERSITY]:0.5:::
+T[MUSEUM]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.003796415
+Evidence: 1.0
+========================
+Token: Eckley
+ID: eckley
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[ORGANISATION]:0.5:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.1884907E-5
+Evidence: 1.0
+========================
+Token: Art
+ID: & art
+L[PLACE]:0.3333:::L[UNIVERSITY]:0.3333:::L[PERIODICAL_LITERATURE]:0.3333:::
+R[EMPTY]:1:::
+T[MUSEUM]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.3680376E-6
+Evidence: 1.0
+========================
+Token: Muttart
+ID: muttart
+L[EMPTY]:1:::
+R[UNIVERSITY]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.8593397E-7
+Evidence: 1.0
+========================
+Token: Helmcken
+ID: helmcken
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.993812E-4
+Evidence: 1.0
+========================
+Token: Casula
+ID: casula
+L[EMPTY]:1:::
+R[BUILDING]:1:::
+T[MUSEUM]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.182315E-6
+Evidence: 1.0
+========================
