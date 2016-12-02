@@ -25,7 +25,7 @@ SW[NULL]:1:::SW[and]:0:::
 DICT[N]:0.5889:::DICT[Y]:0.4111:::  
 Active Evidence: 309.1601  
 Evidence: 325.0  
-========================
+\========================
 `
 As the first line says, the rules corresponds to the token: *Airways*, in other words, the rule is active when this token is observed.  
 ID in the second line is a canonicalized version of *Token*.  
@@ -58,7 +58,7 @@ SW[NULL]:0.977:::SW[and]:0.0024:::SW[on]:0.0005:::SW[at]:0.0003:::SW[le]:0.0003:
 DICT[N]:0.6327:::DICT[Y]:0.3622:::  
 Active Evidence: 1011.4912  
 Evidence: 2797.174  
-========================
+\========================
 `
 
 The rule block above that is auto inferred does not seem correct, especially the likelihood of left semantic type.
