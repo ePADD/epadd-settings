@@ -1,0 +1,410 @@
+Token: Legislature
+ID: legislature
+L[PLACE]:0.6344:::L[LEGISLATURE]:0.2848:::L[ORGANISATION]:0.042:::L[UNIVERSITY]:0.0146:::L[EVENT]:0.0113:::L[PERSON]:0.0081:::
+R[EMPTY]:1:::R[BUILDING]:0:::
+T[LEGISLATURE]:1:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6699:::DICT[Y]:0.3301:::
+Active Evidence: 102.985085
+Evidence: 104.0
+========================
+Token: Parliament of
+ID: parliament of
+L[EMPTY]:0.9724:::L[ORGANISATION]:0.0212:::L[BUILDING]:0.0063:::L[LEGISLATURE]:0.0001:::L[PLACE]:0:::
+R[PLACE]:0.8187:::R[ORGANISATION]:0.0539:::R[PERSON]:0.0472:::R[LEGISLATURE]:0.0164:::R[EVENT]:0.0164:::R[UNIVERSITY]:0.0109:::
+T[LEGISLATURE]:0.9781:::T[OTHER]:0.0109:::T[ORGANISATION]:0.0108:::T[BUILDING]:0.0002:::T[PLACE]:0:::
+SW[NULL]:0.776:::SW[the]:0.1746:::SW[of]:0.0276:::SW[and]:0.0219:::
+DICT[N]:0.7391:::DICT[Y]:0.2609:::
+Active Evidence: 91.516335
+Evidence: 98.0
+========================
+Token: Assembly of
+ID: assembly of
+L[EVENT]:0.4715:::L[EMPTY]:0.2007:::L[ORGANISATION]:0.1216:::L[PLACE]:0.0803:::L[LEGISLATURE]:0.0757:::L[PERSON]:0.0226:::
+R[PLACE]:0.7604:::R[PERSON]:0.0822:::R[ORGANISATION]:0.0679:::R[LEGISLATURE]:0.0353:::R[COMPANY]:0.0175:::R[BUILDING]:0.0113:::
+T[LEGISLATURE]:0.8807:::T[BUILDING]:0.0571:::T[ORGANISATION]:0.0462:::T[GOVAGENCY]:0.0114:::T[PLACE]:0.0045:::T[EVENT]:0:::
+SW[of]:0.6991:::SW[the]:0.1594:::SW[NULL]:0.107:::SW[and]:0.023:::SW[in]:0.011:::SW[do]:0.0004:::
+DICT[Y]:0.595:::DICT[N]:0.405:::
+Active Evidence: 84.60994
+Evidence: 120.0
+========================
+Token: Senate of
+ID: senate of
+L[EMPTY]:1:::L[UNIVERSITY]:0:::L[ORGANISATION]:0:::
+R[PLACE]:0.8614:::R[PERSON]:0.0625:::R[UNIVERSITY]:0.0208:::R[BUILDING]:0.0138:::R[ORGANISATION]:0.0138:::R[COMPANY]:0.0138:::
+T[LEGISLATURE]:0.9169:::T[UNIVERSITY]:0.0415:::T[PLACE]:0.0415:::
+SW[NULL]:0.8334:::SW[the]:0.1666:::SW[of]:0:::
+DICT[N]:0.7087:::DICT[Y]:0.2913:::
+Active Evidence: 23.987923
+Evidence: 25.0
+========================
+Token: Assembly
+ID: assembly
+L[PLACE]:0.0581:::L[EVENT]:0.0439:::L[ORGANISATION]:0.0338:::L[PERSON]:0.0261:::L[EMPTY]:0.0245:::L[LEGISLATURE]:0.0083:::
+R[EMPTY]:0.9978:::R[EVENT]:0.0004:::R[PLACE]:0:::R[PERSON]:0:::R[ORGANISATION]:0:::R[BUILDING]:0:::
+T[LEGISLATURE]:0.5433:::T[PERSON]:0.0732:::T[ORGANISATION]:0.0034:::T[OTHER]:0.0022:::T[COMPANY]:0.0016:::T[BUILDING]:0.0009:::
+SW[NULL]:0.9965:::SW[and]:0.0005:::SW[of]:0.0002:::SW[the]:0:::
+DICT[Y]:0.7418:::DICT[N]:0.2459:::
+Active Evidence: 364.95914
+Evidence: 608.5116
+========================
+Token: Representative
+ID: representative
+L[EMPTY]:1:::L[ORGANISATION]:0:::L[LEGISLATURE]:0:::L[PERSON]:0:::L[PLACE]:0:::
+R[EMPTY]:1:::R[LEGISLATURE]:0:::R[PLACE]:0:::R[BUILDING]:0:::
+T[LEGISLATURE]:0.9541:::T[OTHER]:0.0025:::T[GOVAGENCY]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::SW[in]:0:::
+DICT[N]:0.0459:::DICT[Y]:0:::
+Active Evidence: 18.175154
+Evidence: 25.3418
+========================
+Token: Landtag of
+ID: landtag of
+L[EMPTY]:1:::
+R[PLACE]:0.6666:::R[PERSON]:0.1667:::R[LEGISLATURE]:0.1111:::R[EVENT]:0.0556:::
+T[LEGISLATURE]:1:::
+SW[NULL]:0.889:::SW[the]:0.111:::
+DICT[Y]:0.5555:::DICT[N]:0.4445:::
+Active Evidence: 8.998572
+Evidence: 9.0
+========================
+Token: Directory
+ID: directory
+L[EMPTY]:0.8537:::L[PERSON]:0.0068:::L[DISEASE]:0.0037:::L[PLACE]:0.0019:::L[ORGANISATION]:0.0002:::L[COMPANY]:0:::
+R[EMPTY]:1:::
+T[LEGISLATURE]:0.6382:::T[OTHER]:0.0233:::T[COMPANY]:0.0041:::T[PERIODICAL_LITERATURE]:0.0038:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3256:::DICT[Y]:0.0913:::
+Active Evidence: 18.173727
+Evidence: 30.5984
+========================
+Token: Council
+ID: council
+L[PLACE]:0.2319:::L[ORGANISATION]:0.0344:::L[PERSON]:0.0339:::L[COMPANY]:0.0302:::L[EVENT]:0.014:::L[EMPTY]:0.0111:::
+R[EMPTY]:0.8839:::R[EVENT]:0.0415:::R[PLACE]:0.0019:::R[PERSON]:0.0008:::R[ORGANISATION]:0.0008:::R[BUILDING]:0.0002:::
+T[LEGISLATURE]:0.1908:::T[PLACE]:0.0901:::T[ORGANISATION]:0.0791:::T[EVENT]:0.0421:::T[COMPANY]:0.0275:::T[GOVAGENCY]:0.0128:::
+SW[NULL]:0.9452:::SW[and]:0.02:::SW[on]:0.0009:::SW[of]:0.0008:::SW[in]:0:::
+DICT[Y]:0.835:::DICT[N]:0.1633:::
+Active Evidence: 898.8704
+Evidence: 1179.5364
+========================
+Token: Oireachtas
+ID: oireachtas
+L[EMPTY]:1:::L[BUILDING]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::
+T[LEGISLATURE]:0.9298:::T[OTHER]:0.0092:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.0702:::DICT[Y]:0:::
+Active Evidence: 7.124461
+Evidence: 8.6244
+========================
+Token: Deputies
+ID: deputies
+L[LEGISLATURE]:0.8344:::L[EVENT]:0.1069:::L[PLACE]:0.0587:::
+R[EMPTY]:1:::
+T[LEGISLATURE]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.2785873
+Evidence: 10.0
+========================
+Token: Legislature of
+ID: legislature of
+L[EMPTY]:0.9983:::L[PLACE]:0.0017:::
+R[PLACE]:0.8004:::R[COMPANY]:0.0998:::R[PERSON]:0.0998:::
+T[LEGISLATURE]:1:::
+SW[the]:0.5989:::SW[NULL]:0.3993:::SW[of]:0.0017:::
+DICT[N]:0.5989:::DICT[Y]:0.4011:::
+Active Evidence: 5.008635
+Evidence: 6.0
+========================
+Token: Congress
+ID: congress
+L[EMPTY]:0.342:::L[PLACE]:0.0086:::L[ORGANISATION]:0.0066:::L[EVENT]:0.0019:::L[PERSON]:0.0016:::L[PERIODICAL_LITERATURE]:0.001:::
+R[EMPTY]:0.9808:::R[ORGANISATION]:0.0003:::R[COMPANY]:0.0003:::R[PLACE]:0:::R[MONUMENT]:0:::R[EVENT]:0:::
+T[LEGISLATURE]:0.334:::T[ORGANISATION]:0.0166:::T[PLACE]:0.0148:::T[OTHER]:0.0019:::T[COMPANY]:0.0014:::T[EVENT]:0.0006:::
+SW[NULL]:0.9861:::SW[of]:0.0003:::SW[for]:0.0002:::SW[and]:0:::
+DICT[N]:0.4472:::DICT[Y]:0.2892:::
+Active Evidence: 113.51622
+Evidence: 267.9176
+========================
+Token: House of
+ID: house of
+L[EMPTY]:0.5508:::L[PLACE]:0.3351:::L[EVENT]:0.0414:::L[PERSON]:0.0309:::L[COMPANY]:0.0141:::L[ORGANISATION]:0.0077:::
+R[EVENT]:0.3769:::R[EMPTY]:0.2162:::R[PLACE]:0.1332:::R[PERSON]:0.0944:::R[LEGISLATURE]:0.0587:::R[ORGANISATION]:0.0572:::
+T[LEGISLATURE]:0.2996:::T[OTHER]:0.2162:::T[EVENT]:0.1951:::T[BUILDING]:0.1186:::T[ORGANISATION]:0.0647:::T[PLACE]:0.057:::
+SW[of]:0.4718:::SW[NULL]:0.4586:::SW[the]:0.0417:::SW[in]:0.0138:::SW[at]:0.0067:::SW[von]:0.0034:::
+DICT[N]:0.7466:::DICT[Y]:0.2534:::
+Active Evidence: 293.41632
+Evidence: 763.0
+========================
+Token: Knesset
+ID: knesset
+L[EMPTY]:1:::
+R[EMPTY]:0.819:::R[BUILDING]:0.0327:::R[ORGANISATION]:0:::
+T[LEGISLATURE]:0.819:::T[BUILDING]:0.0327:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.181:::DICT[Y]:0:::
+Active Evidence: 5.526172
+Evidence: 6.526
+========================
+Token: Sejm of
+ID: sejm of
+L[EMPTY]:1:::
+R[PLACE]:0.8748:::R[LEGISLATURE]:0.1252:::
+T[LEGISLATURE]:1:::
+SW[the]:0.7497:::SW[NULL]:0.2503:::
+DICT[N]:0.5003:::DICT[Y]:0.4997:::
+Active Evidence: 3.9947608
+Evidence: 4.0
+========================
+Token: Parliament
+ID: parliament
+L[EMPTY]:0.186:::L[PLACE]:0.1228:::L[ORGANISATION]:0.0648:::L[PERSON]:0.0479:::L[EVENT]:0.0464:::L[LEGISLATURE]:0.0324:::
+R[EMPTY]:0.8619:::R[PLACE]:0.0514:::R[EVENT]:0.0044:::R[ORGANISATION]:0.0038:::R[PERSON]:0.0006:::R[LAWFIRM]:0.0001:::
+T[LEGISLATURE]:0.666:::T[BUILDING]:0.0589:::T[ORGANISATION]:0.0515:::T[OTHER]:0.0153:::T[COMPANY]:0.0102:::T[EVENT]:0.0049:::
+SW[NULL]:0.9795:::SW[of]:0.0089:::SW[for]:0:::
+DICT[N]:0.5708:::DICT[Y]:0.3977:::
+Active Evidence: 40.843414
+Evidence: 215.2876
+========================
+Token: Supervisors
+ID: supervisors
+L[PLACE]:0.5129:::L[ORGANISATION]:0.3135:::L[PERSON]:0.1608:::L[EVENT]:0.0124:::L[UNIVERSITY]:0.0003:::L[COMPANY]:0:::
+R[EMPTY]:0.9994:::R[ORGANISATION]:0.0006:::
+T[LEGISLATURE]:0.9495:::T[GOVAGENCY]:0.0496:::T[ORGANISATION]:0.0009:::
+SW[of]:1:::SW[and]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 5.0646243
+Evidence: 9.0
+========================
+Token: Senate
+ID: senate
+L[EMPTY]:0.1051:::L[PLACE]:0.0996:::L[ORGANISATION]:0.0046:::L[BUILDING]:0.004:::L[PERSON]:0.0038:::L[UNIVERSITY]:0.003:::
+R[EMPTY]:0.92:::R[EVENT]:0.0096:::R[PLACE]:0.0005:::R[ORGANISATION]:0.0005:::R[COMPANY]:0:::R[PERSON]:0:::
+T[LEGISLATURE]:0.5108:::T[PLACE]:0.0562:::T[EVENT]:0.0096:::T[BUILDING]:0.0019:::T[ORGANISATION]:0.0009:::T[OTHER]:0.0007:::
+SW[NULL]:1:::SW[in]:0:::
+DICT[N]:0.5737:::DICT[Y]:0.3264:::
+Active Evidence: 65.91667
+Evidence: 304.58722
+========================
+Token: Soviet of
+ID: soviet of
+L[COMPANY]:0.7448:::L[EMPTY]:0.2552:::
+R[PLACE]:0.6249:::R[ORGANISATION]:0.2477:::R[EVENT]:0.1228:::R[LEGISLATURE]:0.0046:::
+T[LEGISLATURE]:1:::
+SW[the]:0.746:::SW[of]:0.2494:::SW[NULL]:0.0046:::
+DICT[Y]:0.9954:::DICT[N]:0.0046:::
+Active Evidence: 3.9900599
+Evidence: 5.0
+========================
+Token: Estates of
+ID: estates of
+L[EMPTY]:1:::
+R[PLACE]:0.5741:::R[LEGISLATURE]:0.2839:::R[PERSON]:0.142:::
+T[LEGISLATURE]:0.8518:::T[PLACE]:0.1482:::
+SW[NULL]:1:::
+DICT[N]:0.8518:::DICT[Y]:0.1482:::
+Active Evidence: 3.521964
+Evidence: 4.0
+========================
+Token: Inquisition
+ID: inquisition
+L[EMPTY]:0.4377:::L[EVENT]:0.3748:::L[PLACE]:0.1875:::
+R[EMPTY]:1:::
+T[LEGISLATURE]:0.5623:::T[OTHER]:0.4377:::T[BUILDING]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 5.331135
+Evidence: 8.0
+========================
+Token: Sangsad
+ID: sangsad
+L[EMPTY]:1:::L[ORGANISATION]:0:::L[BUILDING]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::R[BUILDING]:0:::R[PLACE]:0:::
+T[LEGISLATURE]:1:::T[ORGANISATION]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 3.4017067
+Evidence: 6.4016
+========================
+Token: Chamber of
+ID: chamber of
+L[EMPTY]:0.4142:::L[PLACE]:0.3949:::L[EVENT]:0.0877:::L[ORGANISATION]:0.0315:::L[PERSON]:0.0293:::L[COMPANY]:0.0245:::
+R[PLACE]:0.2613:::R[COMPANY]:0.2141:::R[LEGISLATURE]:0.1816:::R[ORGANISATION]:0.1794:::R[EMPTY]:0.0965:::R[PERSON]:0.0305:::
+T[LEGISLATURE]:0.3514:::T[ORGANISATION]:0.2747:::T[COMPANY]:0.2441:::T[OTHER]:0.0965:::T[BUILDING]:0.0213:::T[EVENT]:0.008:::
+SW[of]:0.4871:::SW[NULL]:0.289:::SW[in]:0.1104:::SW[and]:0.103:::SW[de]:0.0105:::
+DICT[Y]:0.6528:::DICT[N]:0.3472:::
+Active Evidence: 31.945082
+Evidence: 115.0
+========================
+Token: Kabataan
+ID: kabataan
+L[EVENT]:0.4496:::L[PLACE]:0.282:::L[EMPTY]:0.1155:::L[PERSON]:0.1151:::L[ORGANISATION]:0.0379:::
+R[EMPTY]:0.7268:::R[EVENT]:0.2732:::
+T[LEGISLATURE]:0.6114:::T[EVENT]:0.2732:::T[OTHER]:0.1155:::
+SW[NULL]:0.5752:::SW[and]:0.2732:::SW[of]:0.1516:::
+DICT[N]:0.8484:::DICT[Y]:0.1516:::
+Active Evidence: 4.330441
+Evidence: 6.0
+========================
+Token: Majlis
+ID: majlis
+L[EMPTY]:0.9972:::L[ORGANISATION]:0.0007:::
+R[EMPTY]:0.5249:::R[ORGANISATION]:0.0699:::R[GOVAGENCY]:0.0262:::R[PERSON]:0.0175:::R[PERIODICAL_LITERATURE]:0.0087:::R[COMPANY]:0.0063:::
+T[LEGISLATURE]:0.5249:::T[GOVAGENCY]:0.0698:::T[ORGANISATION]:0.0524:::T[ROAD]:0.0063:::
+SW[NULL]:1:::
+DICT[N]:0.2581:::DICT[Y]:0.2198:::
+Active Evidence: 5.1627564
+Evidence: 7.6956
+========================
+Token: Deputy
+ID: deputy
+L[EMPTY]:0.9992:::L[PERSON]:0.0002:::L[ORGANISATION]:0:::L[PLACE]:0:::L[EVENT]:0:::
+R[EMPTY]:0.9998:::R[ORGANISATION]:0:::R[PLACE]:0:::R[EVENT]:0:::R[GOVAGENCY]:0:::R[LEGISLATURE]:0:::
+T[LEGISLATURE]:0.4401:::T[OTHER]:0.1231:::T[PERSON]:0.0002:::T[ORGANISATION]:0:::T[GOVAGENCY]:0:::T[EVENT]:0:::
+SW[NULL]:0.9998:::SW[of]:0:::
+DICT[N]:0.5598:::DICT[Y]:0.0001:::
+Active Evidence: 8.050284
+Evidence: 23.5426
+========================
+Token: Fono
+ID: fono
+L[EMPTY]:0.656:::L[PERSON]:0.1181:::
+R[EMPTY]:1:::
+T[LEGISLATURE]:0.656:::T[PERSON]:0.1181:::
+SW[NULL]:1:::
+DICT[N]:0.344:::
+Active Evidence: 2.9148662
+Evidence: 3.9122
+========================
+Token: Folketing
+ID: folketing
+L[EMPTY]:0.9994:::L[EVENT]:0.0001:::
+R[EMPTY]:0.9994:::R[EVENT]:0.0001:::R[PERSON]:0:::R[PLACE]:0:::
+T[LEGISLATURE]:0.9994:::T[EVENT]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.0005:::DICT[Y]:0.0001:::
+Active Evidence: 4.2029257
+Evidence: 32.2004
+========================
+Token: Diet of
+ID: diet of
+L[EMPTY]:1:::
+R[LEGISLATURE]:0.4555:::R[PLACE]:0.4534:::R[EMPTY]:0.0911:::
+T[LEGISLATURE]:0.4555:::T[ORGANISATION]:0.4534:::T[OTHER]:0.0911:::
+SW[NULL]:0.5445:::SW[and]:0.4555:::
+DICT[N]:1:::
+Active Evidence: 2.1953745
+Evidence: 3.0
+========================
+Token: Government in
+ID: government in
+L[PLACE]:0.2979:::L[PERIODICAL_LITERATURE]:0.2884:::L[ORGANISATION]:0.1485:::L[EVENT]:0.1482:::L[EMPTY]:0.1169:::L[UNIVERSITY]:0.0002:::
+R[PLACE]:0.5869:::R[PERIODICAL_LITERATURE]:0.2957:::R[EMPTY]:0.1169:::R[GOVAGENCY]:0.0005:::R[ORGANISATION]:0:::
+T[LEGISLATURE]:0.2972:::T[PLACE]:0.2969:::T[ORGANISATION]:0.2884:::T[OTHER]:0.1169:::T[COMPANY]:0.0005:::T[GOVAGENCY]:0:::
+SW[in]:0.5942:::SW[the]:0.2884:::SW[NULL]:0.1169:::SW[of]:0.0005:::
+DICT[Y]:0.8831:::DICT[N]:0.1169:::
+Active Evidence: 3.3599532
+Evidence: 8.0
+========================
+Token: Seimas
+ID: seimas
+L[EMPTY]:0.8425:::L[LEGISLATURE]:0.0567:::L[COMPANY]:0.0189:::L[ORGANISATION]:0.0022:::
+R[EMPTY]:0.9972:::R[BUILDING]:0.0014:::
+T[LEGISLATURE]:0.9972:::T[BUILDING]:0.0014:::
+SW[NULL]:1:::
+DICT[Y]:0.1603:::
+Active Evidence: 1.2188209
+Evidence: 4.0234003
+========================
+Token: Consulate
+ID: consulate
+L[PERSON]:0.8678:::L[EMPTY]:0.1322:::
+R[EMPTY]:0.8678:::R[PLACE]:0.0658:::R[PERSON]:0.0445:::R[EVENT]:0.0219:::
+T[LEGISLATURE]:0.8678:::T[BUILDING]:0.1322:::
+SW[NULL]:0.8678:::SW[of]:0.1322:::
+DICT[N]:0.8678:::DICT[Y]:0.1322:::
+Active Evidence: 1.1510174
+Evidence: 3.0
+========================
+Token: Nationalities
+ID: nationalities
+L[LEGISLATURE]:0.8769:::L[PLACE]:0.0666:::L[UNIVERSITY]:0.0563:::L[ORGANISATION]:0.0002:::L[EMPTY]:0:::L[PERIODICAL_LITERATURE]:0:::
+R[EMPTY]:1:::R[PERIODICAL_LITERATURE]:0:::R[UNIVERSITY]:0:::R[ORGANISATION]:0:::R[COMPANY]:0:::R[PLACE]:0:::
+T[LEGISLATURE]:0.8769:::T[UNIVERSITY]:0.1228:::T[ORGANISATION]:0.0003:::T[PERIODICAL_LITERATURE]:0:::T[PLACE]:0:::
+SW[of]:0.877:::SW[for]:0.123:::SW[NULL]:0:::
+DICT[Y]:0.9687:::DICT[N]:0.0313:::
+Active Evidence: 1.1207533
+Evidence: 14.0
+========================
+Token: Politburo of
+ID: politburo of
+L[EMPTY]:1:::
+R[ORGANISATION]:0.7097:::R[EVENT]:0.1518:::R[PERSON]:0.1197:::R[PLACE]:0.0188:::
+T[LEGISLATURE]:1:::
+SW[the]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.26615995
+Evidence: 4.0
+========================
+Token: Delegates
+ID: delegates
+L[PLACE]:0.3599:::L[LEGISLATURE]:0.3599:::L[PERSON]:0.2802:::
+R[EMPTY]:1:::
+T[LEGISLATURE]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.0026180597
+Evidence: 3.0
+========================
+Token: Valencianes
+ID: valencianes
+L[EVENT]:1:::
+R[EMPTY]:0.771:::R[EVENT]:0.229:::
+T[LEGISLATURE]:0.771:::T[EVENT]:0.229:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 7.7631447E-4
+Evidence: 3.0
+========================
+Token: Batasang
+ID: batasang
+L[LEGISLATURE]:0.814:::L[EMPTY]:0.186:::
+R[EVENT]:0.8489:::R[PERSON]:0.1162:::R[PLACE]:0.0349:::
+T[LEGISLATURE]:0.9303:::T[BUILDING]:0.0697:::
+SW[NULL]:1:::
+DICT[Y]:0.8838:::DICT[N]:0.1162:::
+Active Evidence: 1.5594334E-4
+Evidence: 3.0
+========================
+Token: Deputies of
+ID: deputies of
+L[LEGISLATURE]:0.9496:::L[ORGANISATION]:0.0504:::
+R[PLACE]:0.8751:::R[COMPANY]:0.0521:::R[LEGISLATURE]:0.0521:::R[ORGANISATION]:0.0206:::
+T[LEGISLATURE]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.3119616E-5
+Evidence: 5.0
+========================
+Token: Municipalities
+ID: municipalities
+L[ORGANISATION]:0.3909:::L[EVENT]:0.3077:::L[LEGISLATURE]:0.2181:::L[PERSON]:0.0833:::
+R[EMPTY]:0.8209:::R[PLACE]:0.1791:::
+T[LEGISLATURE]:0.6544:::T[PLACE]:0.1791:::T[ORGANISATION]:0.1665:::
+SW[of]:1:::
+DICT[N]:0.8335:::DICT[Y]:0.1665:::
+Active Evidence: 1.8056363E-6
+Evidence: 3.0
+========================
+Token: Commons of
+ID: commons of
+L[LEGISLATURE]:1:::
+R[PLACE]:0.5:::R[ISLAND]:0.5:::
+T[LEGISLATURE]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.9879592E-7
+Evidence: 1.0
+========================

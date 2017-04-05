@@ -1,0 +1,1150 @@
+Token: Airways
+ID: airways
+L[PLACE]:0.2857:::L[PERSON]:0.1923:::L[AIRLINE]:0.1555:::L[COMPANY]:0.1352:::L[ORGANISATION]:0.1117:::L[EVENT]:0.0607:::
+R[EMPTY]:0.9313:::R[COMPANY]:0.0526:::R[PLACE]:0.0161:::R[ORGANISATION]:0:::R[EVENT]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[AIRLINE]:0.9834:::T[COMPANY]:0.0118:::T[OTHER]:0.0027:::T[PLACE]:0.0016:::T[EVENT]:0.0004:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.5889:::DICT[Y]:0.4111:::
+Active Evidence: 309.1601
+Evidence: 325.0
+========================
+Token: Linhas
+ID: linhas
+L[PERSON]:0.2813:::L[AIRLINE]:0.2813:::L[PLACE]:0.2187:::L[EMPTY]:0.125:::L[ORGANISATION]:0.0313:::L[COMPANY]:0.0313:::
+R[AIRLINE]:0.9609:::R[PERSON]:0.0156:::R[PLACE]:0.0156:::R[COMPANY]:0.0078:::
+T[AIRLINE]:1:::
+SW[a]:1:::
+DICT[N]:0.5941:::DICT[Y]:0.4059:::
+Active Evidence: 31.970474
+Evidence: 32.0
+========================
+Token: Biman
+ID: biman
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PERSON]:0:::R[PLACE]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 27.509363
+Evidence: 31.509201
+========================
+Token: Panam
+ID: panam
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.9919:::T[OTHER]:0.0003:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0081:::
+Active Evidence: 24.604826
+Evidence: 26.4048
+========================
+Token: Klm
+ID: klm
+L[EMPTY]:0.9593:::L[PLACE]:0.0018:::
+R[EMPTY]:0.9285:::R[AIRLINE]:0.0018:::R[COMPANY]:0.0013:::R[PLACE]:0:::R[EVENT]:0:::
+T[AIRLINE]:0.9591:::T[PLACE]:0.0018:::T[COMPANY]:0:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1121:::DICT[Y]:0.0001:::
+Active Evidence: 24.549782
+Evidence: 26.7952
+========================
+Token: Ryanair
+ID: ryanair
+L[EMPTY]:1:::
+R[EMPTY]:0.9962:::R[PERSON]:0.0001:::R[PERIODICAL_LITERATURE]:0.0001:::
+T[AIRLINE]:0.9718:::T[OTHER]:0.0012:::T[EVENT]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:0.0243:::DICT[Y]:0.0038:::
+Active Evidence: 20.551847
+Evidence: 22.973
+========================
+Token: Qantas
+ID: qantas
+L[EMPTY]:1:::L[AWARD]:0:::
+R[EMPTY]:0.9816:::R[COMPANY]:0.0009:::R[ORGANISATION]:0:::R[AWARD]:0:::
+T[AIRLINE]:1:::T[AWARD]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0184:::
+Active Evidence: 20.694195
+Evidence: 24.312801
+========================
+Token: Cargo
+ID: cargo
+L[AIRLINE]:0.4098:::L[PLACE]:0.1479:::L[PERSON]:0.1236:::L[EMPTY]:0.1211:::L[COMPANY]:0.1121:::L[ORGANISATION]:0.0373:::
+R[EMPTY]:0.8747:::R[AIRLINE]:0.0526:::R[PLACE]:0.029:::R[COMPANY]:0.0236:::R[ORGANISATION]:0.0113:::R[PERSON]:0.0044:::
+T[AIRLINE]:0.7437:::T[COMPANY]:0.1088:::T[OTHER]:0.0911:::T[PERSON]:0.028:::T[ORGANISATION]:0.0139:::T[EVENT]:0.0131:::
+SW[NULL]:0.9869:::SW[in]:0.0131:::SW[of]:0:::
+DICT[Y]:0.5511:::DICT[N]:0.4489:::
+Active Evidence: 71.93564
+Evidence: 117.0
+========================
+Token: Lufthansa
+ID: lufthansa
+L[EMPTY]:0.9863:::L[COMPANY]:0.0008:::L[EVENT]:0:::
+R[EMPTY]:0.8112:::R[PLACE]:0.0053:::R[AIRLINE]:0.0027:::R[EVENT]:0.0013:::R[PERIODICAL_LITERATURE]:0.0013:::R[ORGANISATION]:0:::
+T[AIRLINE]:0.9525:::T[EVENT]:0.0027:::T[ORGANISATION]:0:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1087:::DICT[Y]:0.0939:::
+Active Evidence: 20.930727
+Evidence: 25.6912
+========================
+Token: Egyptair
+ID: egyptair
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[COMPANY]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 16.8111
+Evidence: 18.8092
+========================
+Token: Transportes
+ID: transportes
+L[EMPTY]:0.388:::L[AIRLINE]:0.1762:::L[PLACE]:0.1726:::L[COMPANY]:0.1125:::L[ORGANISATION]:0.0862:::L[PERSON]:0.0646:::
+R[AIRLINE]:0.7573:::R[PLACE]:0.1289:::R[ORGANISATION]:0.0649:::R[COMPANY]:0.043:::R[EMPTY]:0.0058:::R[PERSON]:0.0001:::
+T[AIRLINE]:0.8697:::T[COMPANY]:0.0869:::T[ORGANISATION]:0.0435:::
+SW[a]:0.7753:::SW[de]:0.1816:::SW[do]:0.0431:::SW[NULL]:0:::
+DICT[N]:0.8645:::DICT[Y]:0.1355:::
+Active Evidence: 23.193737
+Evidence: 28.0
+========================
+Token: Airasia
+ID: airasia
+L[EMPTY]:0.7936:::L[PLACE]:0.0163:::L[EVENT]:0.0081:::
+R[EMPTY]:0.7231:::R[AIRLINE]:0.0164:::R[PLACE]:0.0164:::R[ORGANISATION]:0:::
+T[AIRLINE]:0.9997:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3448:::DICT[Y]:0.1386:::
+Active Evidence: 14.412357
+Evidence: 15.445801
+========================
+Token: Braathens
+ID: braathens
+L[EMPTY]:0.9267:::L[ORGANISATION]:0.0069:::
+R[EMPTY]:0.8447:::R[AIRLINE]:0.0076:::R[PLACE]:0.0071:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.1538:::DICT[Y]:0.0748:::
+Active Evidence: 12.425479
+Evidence: 12.585
+========================
+Token: Ansett
+ID: ansett
+L[EMPTY]:1:::L[PERSON]:0:::L[EVENT]:0:::
+R[EMPTY]:0.8754:::R[PLACE]:0.0071:::R[ORGANISATION]:0.002:::R[COMPANY]:0:::R[EVENT]:0:::
+T[AIRLINE]:0.9998:::T[COMPANY]:0:::T[PERSON]:0:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0689:::DICT[Y]:0.0557:::
+Active Evidence: 14.505141
+Evidence: 18.6972
+========================
+Token: Bmi
+ID: bmi
+L[EMPTY]:1:::
+R[EMPTY]:0.9271:::R[PLACE]:0.0057:::R[COMPANY]:0:::
+T[AIRLINE]:1:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0729:::DICT[N]:0:::
+Active Evidence: 12.819759
+Evidence: 14.885
+========================
+Token: Airlines
+ID: airlines
+L[PLACE]:0.0898:::L[AIRLINE]:0.0609:::L[PERSON]:0.0398:::L[COMPANY]:0.0232:::L[ORGANISATION]:0.0224:::L[EVENT]:0.0084:::
+R[EMPTY]:0.9841:::R[PLACE]:0.0027:::R[PERSON]:0.0007:::R[COMPANY]:0.0007:::R[ORGANISATION]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:0.2612:::T[ORGANISATION]:0.0074:::T[COMPANY]:0.0004:::T[BUILDING]:0:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:0.9957:::SW[van]:0.0004:::SW[and]:0.0004:::SW[an]:0.0003:::SW[of]:0:::
+DICT[N]:0.6003:::DICT[Y]:0.3956:::
+Active Evidence: 679.8001
+Evidence: 718.7942
+========================
+Token: Alitalia
+ID: alitalia
+L[EMPTY]:1:::
+R[EMPTY]:0.9093:::R[AIRLINE]:0.0082:::R[COMPANY]:0:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.0906:::DICT[Y]:0.0001:::
+Active Evidence: 11.04112
+Evidence: 12.0398
+========================
+Token: Skyways
+ID: skyways
+L[EMPTY]:0.7353:::L[PLACE]:0.0108:::L[UNIVERSITY]:0.0108:::L[AIRLINE]:0.0102:::
+R[EMPTY]:0.9289:::R[COMPANY]:0.006:::R[AIRLINE]:0.0026:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.203:::DICT[Y]:0.1328:::
+Active Evidence: 10.996856
+Evidence: 12.3043995
+========================
+Token: Braniff
+ID: braniff
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[COMPANY]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 12.314214
+Evidence: 17.314
+========================
+Token: Twa
+ID: twa
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[PERIODICAL_LITERATURE]:0:::R[BUILDING]:0:::R[PERSON]:0:::
+T[AIRLINE]:0.7996:::T[OTHER]:0.1447:::T[PLACE]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0694:::DICT[Y]:0:::
+Active Evidence: 14.891147
+Evidence: 18.8578
+========================
+Token: Airlink
+ID: airlink
+L[EMPTY]:0.3192:::L[PLACE]:0.0598:::L[EVENT]:0.0299:::L[COMPANY]:0.0299:::L[AIRLINE]:0.0299:::L[PERSON]:0.0295:::
+R[EMPTY]:1:::R[COMPANY]:0:::R[UNIVERSITY]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:1:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5688:::DICT[Y]:0.1121:::
+Active Evidence: 8.787022
+Evidence: 9.8044
+========================
+Token: Aviation
+ID: aviation
+L[PLACE]:0.2514:::L[AIRLINE]:0.185:::L[COMPANY]:0.1532:::L[PERSON]:0.1413:::L[EMPTY]:0.0802:::L[ORGANISATION]:0.0796:::
+R[EMPTY]:0.8182:::R[ORGANISATION]:0.0598:::R[COMPANY]:0.0549:::R[PLACE]:0.0531:::R[PERSON]:0.0048:::R[MUSEUM]:0.0031:::
+T[AIRLINE]:0.5605:::T[COMPANY]:0.1949:::T[ORGANISATION]:0.1404:::T[OTHER]:0.071:::T[PERIODICAL_LITERATURE]:0.0113:::T[MUSEUM]:0.0064:::
+SW[NULL]:0.9724:::SW[of]:0.0184:::SW[and]:0.0092:::SW[the]:0:::SW[in]:0:::SW[for]:0:::
+DICT[Y]:0.5102:::DICT[N]:0.4898:::
+Active Evidence: 216.34244
+Evidence: 577.0
+========================
+Token: Avianca
+ID: avianca
+L[EMPTY]:1:::
+R[EMPTY]:0.235:::R[PLACE]:0.1709:::R[PERSON]:0.0531:::R[AIRLINE]:0.0001:::R[BUILDING]:0:::R[COMPANY]:0:::
+T[AIRLINE]:0.9025:::T[PERSON]:0.0285:::T[BUILDING]:0:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5707:::DICT[Y]:0.1943:::
+Active Evidence: 10.266539
+Evidence: 13.4128
+========================
+Token: Sabena
+ID: sabena
+L[EMPTY]:1:::
+R[EMPTY]:0.9994:::R[COMPANY]:0.0001:::R[UNIVERSITY]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[AIRLINE]:0.9453:::T[OTHER]:0.0056:::T[COMPANY]:0.0001:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0547:::DICT[Y]:0:::
+Active Evidence: 9.234918
+Evidence: 11.729601
+========================
+Token: Tigerair
+ID: tigerair
+L[EMPTY]:1:::
+R[EMPTY]:0.4472:::R[PLACE]:0.098:::R[PERSON]:0.0326:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.5528:::
+Active Evidence: 7.2214556
+Evidence: 7.2296
+========================
+Token: Allegiant
+ID: allegiant
+L[EMPTY]:1:::
+R[EMPTY]:0.9997:::R[AIRLINE]:0:::R[COMPANY]:0:::
+T[AIRLINE]:0.9718:::T[OTHER]:0.0029:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0282:::DICT[Y]:0.0003:::
+Active Evidence: 8.870453
+Evidence: 11.6182
+========================
+Token: Aeropostal
+ID: aeropostal
+L[EMPTY]:1:::
+R[EMPTY]:0.5535:::R[AIRLINE]:0.0789:::R[PLACE]:0.0158:::
+T[AIRLINE]:1:::
+SW[NULL]:0.5535:::SW[de]:0.0946:::
+DICT[N]:0.2976:::DICT[Y]:0.1489:::
+Active Evidence: 6.7179537
+Evidence: 6.7184
+========================
+Token: Thy
+ID: thy
+L[EMPTY]:0.8971:::L[PERSON]:0.0075:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[AIRLINE]:0.649:::T[OTHER]:0.018:::T[PERSON]:0.0075:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3002:::DICT[Y]:0.0508:::
+Active Evidence: 19.678814
+Evidence: 33.771202
+========================
+Token: Jetstar
+ID: jetstar
+L[EMPTY]:1:::
+R[EMPTY]:0.7772:::R[PLACE]:0.0171:::R[PERSON]:0.0151:::R[AIRLINE]:0:::R[ORGANISATION]:0:::
+T[AIRLINE]:0.9395:::T[OTHER]:0.0087:::
+SW[NULL]:1:::
+DICT[N]:0.1788:::DICT[Y]:0.1045:::
+Active Evidence: 8.267215
+Evidence: 11.9254
+========================
+Token: Mas
+ID: mas
+L[EMPTY]:0.7598:::L[PERSON]:0.0076:::L[PLACE]:0.0013:::L[AIRLINE]:0.0012:::L[ORGANISATION]:0.0012:::L[COMPANY]:0:::
+R[EMPTY]:0.9047:::R[PERSON]:0.0025:::R[ORGANISATION]:0.0012:::R[PLACE]:0.0008:::R[COMPANY]:0:::R[UNIVERSITY]:0:::
+T[AIRLINE]:0.5112:::T[BUILDING]:0.0479:::T[PERSON]:0.01:::T[OTHER]:0.0048:::T[ORGANISATION]:0.0032:::T[PLACE]:0.0025:::
+SW[NULL]:0.9437:::SW[de]:0.0014:::SW[bin]:0.0012:::SW[du]:0:::
+DICT[N]:0.4386:::DICT[Y]:0.0264:::
+Active Evidence: 37.960316
+Evidence: 81.309
+========================
+Token: Saudia
+ID: saudia
+L[EMPTY]:1:::
+R[EMPTY]:0.9998:::R[PERSON]:0:::R[COMPANY]:0:::R[UNIVERSITY]:0:::
+T[AIRLINE]:0.9998:::T[PERSON]:0:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0002:::DICT[Y]:0:::
+Active Evidence: 6.170155
+Evidence: 8.1688
+========================
+Token: Comair
+ID: comair
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[AIRLINE]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 5.759676
+Evidence: 6.7596
+========================
+Token: Emirates
+ID: emirates
+L[EMPTY]:0.9308:::L[PLACE]:0.0016:::L[ORGANISATION]:0.0009:::L[PERIODICAL_LITERATURE]:0.0006:::L[EVENT]:0.0004:::L[BUILDING]:0:::
+R[EMPTY]:0.8156:::R[COMPANY]:0.0026:::R[AIRLINE]:0.0022:::R[PLACE]:0.002:::R[PERIODICAL_LITERATURE]:0.0012:::R[UNIVERSITY]:0.001:::
+T[AIRLINE]:0.6968:::T[COMPANY]:0.0058:::T[OTHER]:0.0043:::T[ORGANISATION]:0.0018:::T[PERIODICAL_LITERATURE]:0.0017:::T[BUILDING]:0.0012:::
+SW[NULL]:0.9652:::SW[of]:0.0018:::SW[for]:0:::SW[in]:0:::
+DICT[Y]:0.1823:::DICT[N]:0.1564:::
+Active Evidence: 28.195559
+Evidence: 86.6456
+========================
+Token: Aegean
+ID: aegean
+L[EMPTY]:0.9993:::L[EVENT]:0.0001:::L[ISLAND]:0:::L[PLACE]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.9991:::R[ORGANISATION]:0.0001:::R[AIRLINE]:0:::R[PLACE]:0:::R[EVENT]:0:::R[COMPANY]:0:::
+T[AIRLINE]:0.917:::T[OTHER]:0.0079:::T[PLACE]:0.0001:::T[EVENT]:0:::T[ORGANISATION]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:0.9993:::SW[in]:0:::SW[of]:0:::
+DICT[N]:0.0825:::DICT[Y]:0.0006:::
+Active Evidence: 10.223927
+Evidence: 24.3746
+========================
+Token: Mokulele
+ID: mokulele
+L[EMPTY]:0.8187:::L[PERSON]:0.0337:::
+R[EMPTY]:0.9959:::R[PLACE]:0.0008:::R[AIRLINE]:0:::
+T[AIRLINE]:0.9959:::T[ROAD]:0.0008:::
+SW[NULL]:1:::
+DICT[Y]:0.1854:::DICT[N]:0:::
+Active Evidence: 5.3682075
+Evidence: 7.373
+========================
+Token: Scoot
+ID: scoot
+L[EMPTY]:1:::
+R[EMPTY]:0.836:::R[PERSON]:0.0266:::R[PLACE]:0:::
+T[AIRLINE]:0.836:::T[PERSON]:0.0266:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1638:::DICT[Y]:0.0002:::
+Active Evidence: 6.16142
+Evidence: 8.151
+========================
+Token: Denim
+ID: denim
+L[EMPTY]:0.9994:::L[PERSON]:0.0001:::
+R[EMPTY]:0.8638:::R[PERIODICAL_LITERATURE]:0.0203:::R[AIRLINE]:0.0001:::
+T[AIRLINE]:0.7694:::T[PERIODICAL_LITERATURE]:0.0203:::T[OTHER]:0.0142:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.1362:::DICT[N]:0.0948:::
+Active Evidence: 7.391782
+Evidence: 11.6842
+========================
+Token: Azal
+ID: azal
+L[EMPTY]:1:::
+R[EMPTY]:0.999:::R[ORGANISATION]:0.0001:::R[AIRLINE]:0:::R[PLACE]:0:::
+T[AIRLINE]:0.6982:::T[OTHER]:0.0378:::T[ORGANISATION]:0.0001:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3018:::DICT[Y]:0:::
+Active Evidence: 9.974367
+Evidence: 19.964
+========================
+Token: Alia
+ID: alia
+L[EMPTY]:0.9603:::L[PERSON]:0.0033:::L[PLACE]:0.0001:::
+R[EMPTY]:0.5554:::R[PERSON]:0.0379:::R[AIRPORT]:0:::R[COMPANY]:0:::
+T[AIRLINE]:0.2999:::T[PERSON]:0.2454:::T[COMPANY]:0.0493:::T[OTHER]:0.0054:::T[PLACE]:0:::T[AIRPORT]:0:::
+SW[NULL]:0.9983:::SW[a]:0.0001:::
+DICT[N]:0.5037:::DICT[Y]:0.044:::
+Active Evidence: 23.702162
+Evidence: 30.721199
+========================
+Token: Liat
+ID: liat
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.999:::R[PERSON]:0.0002:::
+T[AIRLINE]:0.999:::T[PERSON]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:0.001:::DICT[Y]:0:::
+Active Evidence: 4.739111
+Evidence: 7.7344
+========================
+Token: Tap
+ID: tap
+L[EMPTY]:0.8453:::L[COMPANY]:0.0077:::L[PLACE]:0.0068:::L[PERSON]:0.006:::L[EVENT]:0:::
+R[EMPTY]:0.8871:::R[PLACE]:0.0142:::R[PERSON]:0.0007:::R[COMPANY]:0:::R[AWARD]:0:::
+T[AIRLINE]:0.438:::T[OTHER]:0.0466:::T[PLACE]:0.013:::T[COMPANY]:0.0077:::T[BUILDING]:0.0067:::T[PERSON]:0.0004:::
+SW[NULL]:0.9421:::SW[for]:0.0077:::
+DICT[N]:0.5717:::DICT[Y]:0.0482:::
+Active Evidence: 17.26651
+Evidence: 35.5638
+========================
+Token: Sey
+ID: sey
+L[EMPTY]:0.9701:::L[MOUNTAIN]:0.0051:::L[PERSON]:0:::
+R[EMPTY]:0.841:::R[PLACE]:0.0139:::R[PERSON]:0.0135:::
+T[AIRLINE]:0.8111:::T[PLACE]:0.0325:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1882:::DICT[Y]:0.0007:::
+Active Evidence: 5.9292173
+Evidence: 10.8092
+========================
+Token: Aer
+ID: aer
+L[EMPTY]:1:::
+R[AIRLINE]:0.5074:::R[COMPANY]:0.1843:::R[PLACE]:0.166:::R[EMPTY]:0.1423:::
+T[AIRLINE]:0.6734:::T[COMPANY]:0.1843:::T[OTHER]:0.1423:::
+SW[NULL]:1:::
+DICT[N]:0.8363:::DICT[Y]:0.1637:::
+Active Evidence: 5.8577332
+Evidence: 8.0
+========================
+Token: Lot
+ID: lot
+L[EMPTY]:0.9998:::L[PERSON]:0:::L[PLACE]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.2759:::R[PLACE]:0.0389:::R[AIRLINE]:0.0006:::R[PERSON]:0.0005:::R[ORGANISATION]:0.0005:::R[BUILDING]:0:::
+T[AIRLINE]:0.1613:::T[PLACE]:0.0994:::T[RIVER]:0.0111:::T[OTHER]:0.0056:::T[PERSON]:0.0005:::T[BUILDING]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.8153:::DICT[Y]:0.0088:::
+Active Evidence: 96.179146
+Evidence: 128.9226
+========================
+Token: Awa
+ID: awa
+L[EMPTY]:0.945:::L[PERSON]:0.0068:::
+R[EMPTY]:0.651:::R[PERSON]:0.0431:::R[PERIODICAL_LITERATURE]:0:::
+T[AIRLINE]:0.2758:::T[PERSON]:0.1654:::T[OTHER]:0.1134:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6008:::
+Active Evidence: 17.778343
+Evidence: 26.097
+========================
+Token: Wizz
+ID: wizz
+L[EMPTY]:1:::
+R[EMPTY]:0.9174:::R[AIRLINE]:0.0087:::R[PLACE]:0.0083:::R[PERSON]:0:::
+T[AIRLINE]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0825:::DICT[N]:0:::
+Active Evidence: 4.2208433
+Evidence: 8.8724
+========================
+Token: Lan
+ID: lan
+L[EMPTY]:0.6067:::L[PERSON]:0.0389:::L[PLACE]:0.0102:::L[MOUNTAIN]:0:::L[COMPANY]:0:::
+R[EMPTY]:0.5203:::R[PERSON]:0.0378:::R[PLACE]:0.0194:::R[AIRLINE]:0.0023:::R[ORGANISATION]:0.0003:::R[COMPANY]:0:::
+T[AIRLINE]:0.224:::T[PERSON]:0.0805:::T[PLACE]:0.0143:::T[OTHER]:0.0019:::T[MOUNTAIN]:0.0002:::T[COMPANY]:0:::
+SW[NULL]:0.9813:::SW[le]:0.0023:::SW[of]:0:::
+DICT[N]:0.6655:::DICT[Y]:0.2038:::
+Active Evidence: 53.595192
+Evidence: 114.0052
+========================
+Token: Envoy
+ID: envoy
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[AIRLINE]:0:::R[BUILDING]:0:::
+T[AIRLINE]:0.5643:::T[OTHER]:0.0933:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4357:::DICT[Y]:0.0001:::
+Active Evidence: 6.5030823
+Evidence: 11.6692
+========================
+Token: Tam
+ID: tam
+L[EMPTY]:0.7534:::L[PERSON]:0.0207:::L[PLACE]:0.0019:::L[RIVER]:0.0018:::L[ORGANISATION]:0.0018:::L[AIRLINE]:0.0009:::
+R[EMPTY]:0.4403:::R[PERSON]:0.0426:::R[PLACE]:0.0149:::R[AIRLINE]:0.0027:::R[ORGANISATION]:0.0009:::R[UNIVERSITY]:0.0003:::
+T[AIRLINE]:0.1586:::T[PERSON]:0.0701:::T[PLACE]:0.0146:::T[OTHER]:0.0058:::T[RIVER]:0.0018:::T[ORGANISATION]:0:::
+SW[NULL]:0.9895:::SW[a]:0.0011:::
+DICT[N]:0.646:::DICT[Y]:0.2224:::
+Active Evidence: 61.752712
+Evidence: 101.125595
+========================
+Token: Condor
+ID: condor
+L[EMPTY]:0.9682:::L[PLACE]:0.0026:::L[PERSON]:0.0003:::L[MOUNTAIN]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9037:::R[AIRLINE]:0.0053:::R[PERSON]:0.0026:::R[PLACE]:0.0007:::R[COMPANY]:0.0002:::R[ORGANISATION]:0:::
+T[AIRLINE]:0.2357:::T[PLACE]:0.0691:::T[OTHER]:0.0506:::T[COMPANY]:0.0338:::T[PERSON]:0.0027:::T[PERIODICAL_LITERATURE]:0.0026:::
+SW[NULL]:1:::SW[del]:0:::
+DICT[N]:0.7118:::DICT[Y]:0.0004:::
+Active Evidence: 34.66618
+Evidence: 76.974396
+========================
+Token: Servicios
+ID: servicios
+L[COMPANY]:0.3996:::L[PLACE]:0.2003:::L[AIRLINE]:0.1999:::L[EMPTY]:0.1999:::L[PERSON]:0.0002:::
+R[AIRLINE]:0.6001:::R[COMPANY]:0.3992:::R[ORGANISATION]:0.0005:::R[EMPTY]:0.0002:::
+T[AIRLINE]:0.5998:::T[COMPANY]:0.3992:::T[ORGANISATION]:0.0008:::T[BUILDING]:0.0002:::
+SW[a]:0.5998:::SW[NULL]:0.399:::SW[de]:0.0012:::
+DICT[Y]:0.601:::DICT[N]:0.399:::
+Active Evidence: 5.0016584
+Evidence: 8.0
+========================
+Token: Flyg
+ID: flyg
+L[AIRLINE]:0.6735:::L[PERSON]:0.3265:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.6735:::DICT[N]:0.3265:::
+Active Evidence: 2.9697094
+Evidence: 4.0
+========================
+Token: Air
+ID: air
+L[EMPTY]:0.4777:::L[PLACE]:0.036:::L[PERSON]:0.0322:::L[AIRLINE]:0.0218:::L[COMPANY]:0.01:::L[ORGANISATION]:0.0099:::
+R[EMPTY]:0.4992:::R[PLACE]:0.0557:::R[ORGANISATION]:0.0149:::R[COMPANY]:0.0143:::R[AIRLINE]:0.0122:::R[PERSON]:0.0096:::
+T[AIRLINE]:0.1741:::T[OTHER]:0.0235:::T[PLACE]:0.0194:::T[ORGANISATION]:0.0108:::T[AIRPORT]:0.0079:::T[COMPANY]:0.0051:::
+SW[NULL]:0.9928:::SW[a]:0.0004:::SW[and]:0.0003:::SW[of]:0.0002:::SW[on]:0.0002:::SW[the]:0.0002:::
+DICT[N]:0.6058:::DICT[Y]:0.3909:::
+Active Evidence: 1035.8965
+Evidence: 3775.345
+========================
+Token: Airline
+ID: airline
+L[EMPTY]:0.1863:::L[AIRLINE]:0.0702:::L[PERSON]:0.0555:::L[PLACE]:0.0554:::L[BUILDING]:0.0111:::L[ISLAND]:0.0056:::
+R[EMPTY]:0.9986:::R[PLACE]:0.0003:::R[ORGANISATION]:0:::R[COMPANY]:0:::R[MUSEUM]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[AIRLINE]:0.2144:::T[ORGANISATION]:0.1181:::T[OTHER]:0.0176:::T[ROAD]:0.0003:::T[COMPANY]:0:::T[MUSEUM]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.4892:::DICT[Y]:0.3927:::
+Active Evidence: 23.670128
+Evidence: 43.7942
+========================
+Token: Jex
+ID: jex
+L[EMPTY]:0.9998:::L[PERSON]:0:::
+R[EMPTY]:0.7312:::R[COMPANY]:0.0723:::
+T[AIRLINE]:0.731:::T[COMPANY]:0.0723:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2689:::DICT[Y]:0.0001:::
+Active Evidence: 3.720019
+Evidence: 5.7194004
+========================
+Token: Utair
+ID: utair
+L[EMPTY]:1:::
+R[EMPTY]:0.9998:::R[COMPANY]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.0002:::DICT[N]:0:::
+Active Evidence: 3.0404222
+Evidence: 6.0398
+========================
+Token: Airone
+ID: airone
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.5404:::T[PERIODICAL_LITERATURE]:0.2519:::T[OTHER]:0.0497:::
+SW[NULL]:1:::
+DICT[N]:0.2077:::
+Active Evidence: 4.0117335
+Evidence: 5.1784
+========================
+Token: Indigo
+ID: indigo
+L[EMPTY]:0.9288:::L[BUILDING]:0.0034:::L[ORGANISATION]:0.0031:::L[RIVER]:0:::L[PLACE]:0:::
+R[EMPTY]:0.9803:::R[COMPANY]:0.0017:::R[PLACE]:0.0001:::R[PERIODICAL_LITERATURE]:0:::R[ORGANISATION]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:0.2325:::T[PERSON]:0.1549:::T[COMPANY]:0.1261:::T[OTHER]:0.0391:::T[PERIODICAL_LITERATURE]:0.0001:::T[RIVER]:0:::
+SW[NULL]:0.9834:::SW[and]:0.0015:::SW[of]:0:::
+DICT[N]:0.4259:::DICT[Y]:0.0891:::
+Active Evidence: 20.316957
+Evidence: 49.854
+========================
+Token: Rockhopper
+ID: rockhopper
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[COMPANY]:0:::
+T[AIRLINE]:0.7076:::T[OTHER]:0.0855:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2923:::DICT[Y]:0:::
+Active Evidence: 3.4209316
+Evidence: 6.4208
+========================
+Token: Expresso
+ID: expresso
+L[EMPTY]:0.6:::L[AIRLINE]:0.4:::
+R[EMPTY]:0.8001:::R[PERSON]:0.1:::R[PERIODICAL_LITERATURE]:0.1:::
+T[AIRLINE]:0.4:::T[OTHER]:0.4:::T[PERIODICAL_LITERATURE]:0.1999:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.9996233
+Evidence: 7.0
+========================
+Token: Cimber
+ID: cimber
+L[EMPTY]:0.6719:::L[PERSON]:0.1487:::
+R[EMPTY]:0.7226:::R[PERSON]:0.1257:::
+T[AIRLINE]:0.6719:::T[PERSON]:0.1487:::
+SW[NULL]:1:::
+DICT[N]:0.3281:::DICT[Y]:0.2774:::
+Active Evidence: 3.0578132
+Evidence: 4.2062
+========================
+Token: Privilege
+ID: privilege
+L[EMPTY]:1:::
+R[EMPTY]:0.6339:::R[ORGANISATION]:0.1721:::
+T[AIRLINE]:0.8052:::T[OTHER]:0.0916:::
+SW[NULL]:1:::
+DICT[Y]:0.3661:::DICT[N]:0.1948:::
+Active Evidence: 2.5667346
+Evidence: 3.1269999
+========================
+Token: Austrian
+ID: austrian
+L[EMPTY]:0.9095:::L[EVENT]:0.0091:::L[PLACE]:0:::L[PERSON]:0:::L[PERIODICAL_LITERATURE]:0:::L[COMPANY]:0:::
+R[EMPTY]:0.6391:::R[EVENT]:0.017:::R[ORGANISATION]:0.0167:::R[PLACE]:0.0017:::R[PERSON]:0.0005:::R[BUILDING]:0.0002:::
+T[AIRLINE]:0.3716:::T[OTHER]:0.0271:::T[ORGANISATION]:0.0176:::T[EVENT]:0.0157:::T[LIBRARY]:0.001:::T[PLACE]:0.0009:::
+SW[NULL]:0.9999:::SW[of]:0:::SW[for]:0:::SW[in]:0:::
+DICT[N]:0.4309:::DICT[Y]:0.1981:::
+Active Evidence: 24.002102
+Evidence: 138.9046
+========================
+Token: Jaz
+ID: jaz
+L[EMPTY]:0.7555:::L[PLACE]:0.0676:::
+R[EMPTY]:0.7556:::R[PERSON]:0.0676:::R[PLACE]:0:::
+T[AIRLINE]:0.4533:::T[PLACE]:0.0676:::T[PERSON]:0.0676:::T[OTHER]:0.016:::
+SW[NULL]:1:::
+DICT[N]:0.3647:::DICT[Y]:0.182:::
+Active Evidence: 5.769633
+Evidence: 15.615601
+========================
+Token: Ryn
+ID: ryn
+L[EMPTY]:0.6968:::L[PERSON]:0.1028:::L[PLACE]:0:::
+R[EMPTY]:0.8434:::R[PLACE]:0.0531:::
+T[AIRLINE]:0.3054:::T[PERSON]:0.1558:::T[PLACE]:0.0531:::T[OTHER]:0.0265:::
+SW[NULL]:0.5403:::SW[van]:0.1558:::
+DICT[N]:0.6946:::DICT[Y]:0.0001:::
+Active Evidence: 6.3872895
+Evidence: 10.950399
+========================
+Token: Argentinas
+ID: argentinas
+L[AIRLINE]:0.6678:::L[PERSON]:0.3322:::L[PLACE]:0:::L[AIRPORT]:0:::
+R[EMPTY]:1:::R[AIRPORT]:0:::R[COMPANY]:0:::
+T[AIRLINE]:0.6678:::T[ORGANISATION]:0.3322:::T[PLACE]:0:::T[AIRPORT]:0:::
+SW[NULL]:0.6661:::SW[a]:0.3339:::
+DICT[N]:0.6661:::DICT[Y]:0.3339:::
+Active Evidence: 2.9949386
+Evidence: 5.0
+========================
+Token: Aerosur
+ID: aerosur
+L[EMPTY]:0.9243:::L[EVENT]:0.0253:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.4029:::T[OTHER]:0.174:::T[ORGANISATION]:0.0253:::
+SW[NULL]:1:::
+DICT[N]:0.5971:::
+Active Evidence: 4.955139
+Evidence: 10.9966
+========================
+Token: Meridiana
+ID: meridiana
+L[EMPTY]:0.9999:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.3662:::T[OTHER]:0.2319:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6338:::
+Active Evidence: 4.733551
+Evidence: 8.7332
+========================
+Token: Carga
+ID: carga
+L[AIRLINE]:0.9948:::L[PERSON]:0.0052:::
+R[AIRLINE]:0.9948:::R[EMPTY]:0.0052:::
+T[AIRLINE]:0.9948:::T[COMPANY]:0.0052:::
+SW[a]:0.9948:::SW[NULL]:0.0052:::
+DICT[N]:1:::
+Active Evidence: 2.010395
+Evidence: 3.0
+========================
+Token: Ecuatorial
+ID: ecuatorial
+L[AIRLINE]:0.5833:::L[PLACE]:0.4167:::
+R[EMPTY]:1:::R[AIRLINE]:0:::
+T[AIRLINE]:1:::
+SW[a]:0.5:::SW[de]:0.5:::SW[NULL]:0:::
+DICT[Y]:1:::
+Active Evidence: 2.000007
+Evidence: 3.0
+========================
+Token: Charter
+ID: charter
+L[AIRLINE]:0.3078:::L[EMPTY]:0.2948:::L[COMPANY]:0.1247:::L[PERSON]:0.101:::L[PLACE]:0.0472:::L[RIVER]:0.0449:::
+R[EMPTY]:0.7773:::R[ORGANISATION]:0.1017:::R[PLACE]:0.0597:::R[PERSON]:0.0581:::R[UNIVERSITY]:0.0017:::R[COMPANY]:0.0015:::
+T[AIRLINE]:0.556:::T[ORGANISATION]:0.1879:::T[OTHER]:0.1277:::T[PLACE]:0.1095:::T[UNIVERSITY]:0.0123:::T[COMPANY]:0.0033:::
+SW[NULL]:1:::SW[of]:0:::SW[at]:0:::SW[to]:0:::SW[and]:0:::SW[for]:0:::
+DICT[Y]:0.7098:::DICT[N]:0.2902:::
+Active Evidence: 22.191507
+Evidence: 274.0
+========================
+Token: Corsair
+ID: corsair
+L[EMPTY]:0.969:::L[PERSON]:0.0021:::L[PLACE]:0.0021:::L[UNIVERSITY]:0.0021:::
+R[EMPTY]:0.9105:::R[COMPANY]:0.0175:::R[PERSON]:0.0002:::R[PLACE]:0:::
+T[AIRLINE]:0.1683:::T[PERSON]:0.1312:::T[COMPANY]:0.1055:::T[OTHER]:0.1029:::T[PERIODICAL_LITERATURE]:0.0062:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6054:::DICT[Y]:0.0323:::
+Active Evidence: 11.118164
+Evidence: 23.0282
+========================
+Token: Commuter
+ID: commuter
+L[EMPTY]:0.3315:::L[PLACE]:0.18:::L[ORGANISATION]:0.144:::L[AIRLINE]:0.1003:::L[PERSON]:0.0854:::L[BUILDING]:0.074:::
+R[EMPTY]:0.9739:::R[ORGANISATION]:0.0258:::R[COMPANY]:0.0003:::R[AIRLINE]:0:::R[PLACE]:0:::R[BUILDING]:0:::
+T[AIRLINE]:0.4894:::T[OTHER]:0.3315:::T[COMPANY]:0.1531:::T[ORGANISATION]:0.0255:::T[PLACE]:0.0005:::
+SW[NULL]:1:::
+DICT[N]:0.6314:::DICT[Y]:0.3686:::
+Active Evidence: 6.535474
+Evidence: 37.0
+========================
+Token: Maldivian
+ID: maldivian
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:0.6216:::R[EVENT]:0.0487:::R[PLACE]:0.0312:::R[PERSON]:0.0312:::R[COMPANY]:0.0103:::R[AIRLINE]:0.0103:::
+T[AIRLINE]:0.4641:::T[OTHER]:0.0754:::T[ORGANISATION]:0.0625:::T[EVENT]:0.0487:::T[COMPANY]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.3782:::DICT[N]:0.2167:::
+Active Evidence: 4.6178093
+Evidence: 16.8704
+========================
+Token: Voe
+ID: voe
+L[EMPTY]:0.9645:::L[AIRPORT]:0.0062:::L[ORGANISATION]:0.0062:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.9645:::T[AIRPORT]:0.0124:::T[PERSON]:0:::
+SW[NULL]:1:::SW[de]:0:::
+DICT[N]:0.0355:::DICT[Y]:0:::
+Active Evidence: 1.9301343
+Evidence: 4.8616
+========================
+Token: Kendell
+ID: kendell
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:0.3269:::R[PERSON]:0.257:::R[AIRLINE]:0.0001:::
+T[AIRLINE]:0.327:::T[PERSON]:0.2571:::
+SW[NULL]:1:::
+DICT[N]:0.6065:::DICT[Y]:0.0666:::
+Active Evidence: 4.9496036
+Evidence: 13.6178
+========================
+Token: Eurofly
+ID: eurofly
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.3418:::T[OTHER]:0.3035:::
+SW[NULL]:1:::
+DICT[N]:0.6582:::
+Active Evidence: 3.4183998
+Evidence: 7.1684
+========================
+Token: Baboo
+ID: baboo
+L[EMPTY]:0.9998:::L[PERSON]:0.0001:::
+R[EMPTY]:0.9884:::R[PERSON]:0.0046:::
+T[AIRLINE]:0.9882:::T[PERSON]:0.0047:::
+SW[NULL]:1:::
+DICT[N]:0.0117:::DICT[Y]:0.0001:::
+Active Evidence: 1.5223168
+Evidence: 4.5044003
+========================
+Token: Seaplanes
+ID: seaplanes
+L[AIRLINE]:0.5641:::L[EMPTY]:0.2875:::L[RIVER]:0.0737:::L[MOUNTAIN]:0.0737:::L[PLACE]:0.0009:::
+R[EMPTY]:1:::
+T[AIRLINE]:0.7125:::T[OTHER]:0.2875:::
+SW[NULL]:1:::
+DICT[N]:0.9982:::DICT[Y]:0.0018:::
+Active Evidence: 1.7388592
+Evidence: 4.0
+========================
+Token: Tyrolean
+ID: tyrolean
+L[EMPTY]:0.9998:::L[PLACE]:0.0001:::
+R[EMPTY]:0.9997:::R[ORGANISATION]:0.0001:::R[EVENT]:0:::R[PERSON]:0:::R[COMPANY]:0:::R[AIRLINE]:0:::
+T[AIRLINE]:0.8226:::T[OTHER]:0.0695:::T[ORGANISATION]:0.0001:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1771:::DICT[Y]:0.0003:::
+Active Evidence: 1.8818433
+Evidence: 8.548
+========================
+Token: Calima
+ID: calima
+L[EMPTY]:1:::
+R[AIRLINE]:0.6665:::R[EMPTY]:0.3332:::R[PLACE]:0.0003:::
+T[AIRLINE]:0.6665:::T[OTHER]:0.3332:::T[RIVER]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:0.9997:::DICT[Y]:0.0003:::
+Active Evidence: 1.5004748
+Evidence: 3.0
+========================
+Token: Faucett
+ID: faucett
+L[EMPTY]:1:::L[PERSON]:0:::
+R[AIRLINE]:0.6666:::R[EMPTY]:0.3334:::R[PLACE]:0:::
+T[AIRLINE]:0.6666:::T[OTHER]:0.3333:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.6666:::DICT[N]:0.3334:::
+Active Evidence: 1.5000738
+Evidence: 4.0
+========================
+Token: Cata
+ID: cata
+L[EMPTY]:1:::L[PERSON]:0:::L[PLACE]:0:::
+R[AIRLINE]:0.6666:::R[EMPTY]:0.3334:::
+T[AIRLINE]:0.6666:::T[OTHER]:0.3333:::T[PERSON]:0:::
+SW[a]:0.6666:::SW[NULL]:0.3334:::
+DICT[Y]:0.6667:::DICT[N]:0.3333:::
+Active Evidence: 1.5000496
+Evidence: 4.0
+========================
+Token: Transporte
+ID: transporte
+L[AIRLINE]:0.7176:::L[PERSON]:0.267:::L[ORGANISATION]:0.0079:::L[PLACE]:0.0037:::L[COMPANY]:0.0037:::
+R[AIRLINE]:0.891:::R[UNIVERSITY]:0.0899:::R[EMPTY]:0.0191:::
+T[AIRLINE]:0.9809:::T[ORGANISATION]:0.0191:::
+SW[de]:0.8202:::SW[a]:0.1798:::
+DICT[Y]:0.9995:::DICT[N]:0.0005:::
+Active Evidence: 1.2261273
+Evidence: 4.0
+========================
+Token: Skybridge
+ID: skybridge
+L[EMPTY]:0.9263:::L[PLACE]:0.025:::L[ORGANISATION]:0.025:::L[PERSON]:0.0237:::
+R[AIRLINE]:0.7488:::R[PLACE]:0.1771:::R[EMPTY]:0.0737:::R[COMPANY]:0.0004:::
+T[AIRLINE]:0.7488:::T[BUILDING]:0.1771:::T[ROAD]:0.05:::T[BRIDGE]:0.0237:::T[COMPANY]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:0.9259:::DICT[Y]:0.0741:::
+Active Evidence: 1.3353908
+Evidence: 5.0
+========================
+Token: Technical and
+ID: technical and
+L[EMPTY]:0.9854:::L[UNIVERSITY]:0.0141:::L[PLACE]:0.0005:::L[ORGANISATION]:0:::L[RIVER]:0:::L[PERSON]:0:::
+R[COMPANY]:0.4132:::R[AIRLINE]:0.254:::R[UNIVERSITY]:0.1734:::R[ORGANISATION]:0.1591:::R[PLACE]:0.0002:::
+T[AIRLINE]:0.5081:::T[GOVAGENCY]:0.4773:::T[UNIVERSITY]:0.0145:::T[ORGANISATION]:0:::
+SW[NULL]:0.9854:::SW[and]:0.0145:::SW[for]:0:::SW[of]:0:::
+DICT[N]:0.9995:::DICT[Y]:0.0005:::
+Active Evidence: 1.9659859
+Evidence: 10.0
+========================
+Token: Noroeste
+ID: noroeste
+L[AIRLINE]:0.7588:::L[ORGANISATION]:0.1331:::L[PLACE]:0.1081:::L[MOUNTAIN]:0:::L[PERSON]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::R[PERSON]:0:::
+T[AIRLINE]:0.7588:::T[ORGANISATION]:0.1331:::T[PLACE]:0.1081:::T[MOUNTAIN]:0:::
+SW[del]:0.8918:::SW[NULL]:0.1082:::
+DICT[N]:0.8919:::DICT[Y]:0.1081:::
+Active Evidence: 1.3179486
+Evidence: 6.0
+========================
+Token: Airtran
+ID: airtran
+L[EMPTY]:1:::
+R[AIRLINE]:1:::R[COMPANY]:0:::
+T[AIRLINE]:1:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0000458
+Evidence: 3.0
+========================
+Token: Grands
+ID: grands
+L[EMPTY]:1:::L[PERSON]:0:::L[MOUNTAIN]:0:::
+R[COMPANY]:0.4285:::R[AIRLINE]:0.4285:::R[EMPTY]:0.143:::R[MOUNTAIN]:0:::R[PLACE]:0:::
+T[AIRLINE]:0.857:::T[OTHER]:0.143:::T[MOUNTAIN]:0:::
+SW[a]:0.857:::SW[NULL]:0.143:::
+DICT[Y]:0.857:::DICT[N]:0.143:::
+Active Evidence: 1.1658558
+Evidence: 5.0
+========================
+Token: Nacionales
+ID: nacionales
+L[AIRLINE]:0.9994:::L[PERSON]:0.0006:::
+R[PERSON]:0.9993:::R[EMPTY]:0.0007:::
+T[AIRLINE]:1:::
+SW[a]:0.9994:::SW[NULL]:0.0006:::
+DICT[Y]:0.9993:::DICT[N]:0.0007:::
+Active Evidence: 0.9947484
+Evidence: 3.0
+========================
+Token: Aerolift
+ID: aerolift
+L[EMPTY]:1:::
+R[PLACE]:0.5937:::R[EMPTY]:0.4063:::
+T[AIRLINE]:0.5937:::T[OTHER]:0.4063:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.2306799
+Evidence: 2.0
+========================
+Token: Logistic
+ID: logistic
+L[AIRLINE]:0.9979:::L[PLACE]:0.0015:::L[COMPANY]:0.0005:::L[EMPTY]:0:::L[ORGANISATION]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9979:::R[PLACE]:0.0015:::R[PERSON]:0.0005:::R[AIRLINE]:0:::R[ORGANISATION]:0:::
+T[AIRLINE]:0.998:::T[COMPANY]:0.002:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.002063
+Evidence: 8.0
+========================
+Token: Apsa
+ID: apsa
+L[EMPTY]:1:::
+R[PLACE]:0.5506:::R[EMPTY]:0.4494:::
+T[AIRLINE]:0.5506:::T[OTHER]:0.4494:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.11268
+Evidence: 2.0
+========================
+Token: Charters
+ID: charters
+L[AIRLINE]:0.781:::L[ORGANISATION]:0.1549:::L[COMPANY]:0.0458:::L[PLACE]:0.0172:::L[PERSON]:0.0011:::L[EMPTY]:0.0001:::
+R[EMPTY]:0.9999:::R[BUILDING]:0.0001:::R[UNIVERSITY]:0:::R[PLACE]:0:::R[AIRPORT]:0:::
+T[AIRLINE]:0.9989:::T[PERSON]:0.0011:::T[PLACE]:0.0001:::T[UNIVERSITY]:0:::T[AIRPORT]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.8974:::DICT[Y]:0.1026:::
+Active Evidence: 1.2956916
+Evidence: 21.0
+========================
+Token: Transavia
+ID: transavia
+L[EMPTY]:1:::
+R[PLACE]:0.5898:::R[EMPTY]:0.4096:::R[COMPANY]:0.0006:::
+T[AIRLINE]:0.5898:::T[OTHER]:0.4096:::T[COMPANY]:0.0006:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.8138892
+Evidence: 3.0
+========================
+Token: Airlift
+ID: airlift
+L[AIRLINE]:0.5641:::L[PLACE]:0.2025:::L[EMPTY]:0.1918:::L[ORGANISATION]:0.0351:::L[PERSON]:0.0063:::L[COMPANY]:0.0002:::
+R[EMPTY]:0.7792:::R[COMPANY]:0.1922:::R[ORGANISATION]:0.0286:::R[PERSON]:0:::R[PLACE]:0:::R[AIRPORT]:0:::
+T[AIRLINE]:0.7685:::T[EVENT]:0.2025:::T[ORGANISATION]:0.029:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9585:::DICT[Y]:0.0415:::
+Active Evidence: 1.772692
+Evidence: 243.0
+========================
+Token: Aviation and
+ID: aviation and
+L[EMPTY]:0.4124:::L[ORGANISATION]:0.3719:::L[AIRLINE]:0.2156:::L[PLACE]:0:::L[EVENT]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.4118:::R[COMPANY]:0.3721:::R[GOVAGENCY]:0.2156:::R[ORGANISATION]:0.0003:::R[PLACE]:0.0001:::R[UNIVERSITY]:0.0001:::
+T[AIRLINE]:0.5875:::T[OTHER]:0.4118:::T[ORGANISATION]:0.0007:::T[MUSEUM]:0:::T[UNIVERSITY]:0:::
+SW[and]:0.5882:::SW[NULL]:0.4118:::SW[of]:0:::
+DICT[N]:0.6273:::DICT[Y]:0.3727:::
+Active Evidence: 0.404765
+Evidence: 7.0
+========================
+Token: Freighters
+ID: freighters
+L[PERSON]:0.9249:::L[AIRLINE]:0.056:::L[COMPANY]:0.0112:::L[PLACE]:0.0079:::
+R[EMPTY]:0.9966:::R[PLACE]:0.0034:::
+T[AIRLINE]:0.9842:::T[COMPANY]:0.0158:::
+SW[NULL]:1:::
+DICT[Y]:0.9842:::DICT[N]:0.0158:::
+Active Evidence: 0.20201555
+Evidence: 4.0
+========================
+Token: Aerovias
+ID: aerovias
+L[EMPTY]:1:::
+R[PLACE]:0.9679:::R[PERSON]:0.0321:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.9679:::DICT[Y]:0.0321:::
+Active Evidence: 0.13320962
+Evidence: 3.0
+========================
+Token: Kalitta
+ID: kalitta
+L[EMPTY]:0.9996:::L[PERSON]:0.0004:::
+R[AIRLINE]:0.9996:::R[EMPTY]:0.0004:::
+T[AIRLINE]:0.9996:::T[PERSON]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 0.059364878
+Evidence: 5.0
+========================
+Token: Groninger
+ID: groninger
+L[EMPTY]:1:::
+R[COMPANY]:0.4998:::R[AIRLINE]:0.4998:::R[MUSEUM]:0.0004:::R[ORGANISATION]:0.0001:::R[PLACE]:0:::
+T[AIRLINE]:0.9995:::T[MUSEUM]:0.0004:::T[ORGANISATION]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.9995:::DICT[Y]:0.0005:::
+Active Evidence: 0.0012219131
+Evidence: 3.0
+========================
+Token: Rossair
+ID: rossair
+L[EMPTY]:1:::
+R[PLACE]:0.9993:::R[AIRLINE]:0.0005:::R[COMPANY]:0.0002:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.9993:::DICT[Y]:0.0007:::
+Active Evidence: 7.484848E-4
+Evidence: 2.0
+========================
+Token: Ltu
+ID: ltu
+L[EMPTY]:1:::
+R[COMPANY]:0.8802:::R[PLACE]:0.1198:::
+T[AIRLINE]:0.9998:::T[COMPANY]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 6.581489E-4
+Evidence: 3.0
+========================
+Token: Gading
+ID: gading
+L[EMPTY]:0.9729:::L[PERSON]:0.0154:::L[UNIVERSITY]:0.0071:::L[PLACE]:0.0029:::L[MUSEUM]:0.0017:::
+R[PLACE]:0.9763:::R[EMPTY]:0.019:::R[ORGANISATION]:0.0024:::R[UNIVERSITY]:0.0024:::
+T[AIRLINE]:0.9729:::T[PLACE]:0.02:::T[UNIVERSITY]:0.0071:::
+SW[NULL]:1:::
+DICT[Y]:0.9739:::DICT[N]:0.0261:::
+Active Evidence: 5.037235E-4
+Evidence: 6.0
+========================
+Token: Chc
+ID: chc
+L[EMPTY]:1:::
+R[PERSON]:0.49:::R[AIRLINE]:0.49:::R[COMPANY]:0.02:::
+T[AIRLINE]:0.98:::T[COMPANY]:0.02:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.8659913E-4
+Evidence: 2.0
+========================
+Token: Skybus
+ID: skybus
+L[PLACE]:0.452:::L[ISLAND]:0.452:::L[EMPTY]:0.096:::
+R[EMPTY]:0.904:::R[ORGANISATION]:0.048:::R[COMPANY]:0.048:::
+T[AIRLINE]:0.904:::T[COMPANY]:0.096:::
+SW[of]:0.904:::SW[NULL]:0.096:::
+DICT[N]:0.904:::DICT[Y]:0.096:::
+Active Evidence: 2.8547362E-5
+Evidence: 2.0
+========================
+Token: Png
+ID: png
+L[AIRLINE]:0.7094:::L[EMPTY]:0.2906:::
+R[EMPTY]:0.7094:::R[PERSON]:0.2906:::
+T[AIRLINE]:0.7094:::T[PERSON]:0.2906:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.2437775E-5
+Evidence: 2.0
+========================
+Token: Layang
+ID: layang
+L[AIRLINE]:0.9899:::L[ROAD]:0.0101:::
+R[COMPANY]:0.9798:::R[EMPTY]:0.0202:::
+T[AIRLINE]:0.9798:::T[ROAD]:0.0202:::
+SW[NULL]:1:::
+DICT[Y]:0.9798:::DICT[N]:0.0202:::
+Active Evidence: 8.511271E-6
+Evidence: 2.0
+========================
+Token: Helikopter
+ID: helikopter
+L[AIRLINE]:1:::
+R[PERSON]:1:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.1337121E-6
+Evidence: 2.0
+========================
+Token: Sverdlovsk
+ID: sverdlovsk
+L[AIRLINE]:0.7703:::L[EMPTY]:0.2297:::
+R[PLACE]:0.3852:::R[AIRLINE]:0.3852:::R[COMPANY]:0.1148:::R[EVENT]:0.1148:::
+T[AIRLINE]:0.7703:::T[COMPANY]:0.2297:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.275958E-7
+Evidence: 2.0
+========================
+Token: Wex
+ID: wex
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.046648E-6
+Evidence: 1.0
+========================
+Token: Sunwest
+ID: sunwest
+L[COMPANY]:1:::
+R[AIRLINE]:1:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.4278454E-6
+Evidence: 1.0
+========================
+Token: Vlm
+ID: vlm
+L[EMPTY]:1:::
+R[AIRLINE]:1:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.456096E-7
+Evidence: 1.0
+========================
+Token: Kusten
+ID: kusten
+L[AIRLINE]:1:::
+R[AIRLINE]:1:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.1761583E-7
+Evidence: 1.0
+========================
+Token: Vieques
+ID: vieques
+L[EMPTY]:1:::
+R[COMPANY]:0.5:::R[AIRLINE]:0.5:::
+T[AIRLINE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.5801536E-6
+Evidence: 1.0
+========================

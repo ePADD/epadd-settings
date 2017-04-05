@@ -1,0 +1,460 @@
+Token: Viaduct
+ID: viaduct
+L[BRIDGE]:0.3904:::L[PLACE]:0.2962:::L[PERSON]:0.1433:::L[RIVER]:0.0528:::L[BUILDING]:0.0367:::L[UNIVERSITY]:0.0254:::
+R[EMPTY]:0.9966:::R[PLACE]:0.0017:::R[BRIDGE]:0.0017:::
+T[BRIDGE]:0.9032:::T[BUILDING]:0.0712:::T[PLACE]:0.0192:::T[ROAD]:0.0063:::T[MONUMENT]:0:::
+SW[NULL]:0.971:::SW[and]:0.0218:::SW[de]:0.0073:::
+DICT[N]:0.7283:::DICT[Y]:0.2717:::
+Active Evidence: 137.7374
+Evidence: 143.0
+========================
+Token: Bridge
+ID: bridge
+L[PLACE]:0.1344:::L[PERSON]:0.1121:::L[BRIDGE]:0.0766:::L[BUILDING]:0.0525:::L[RIVER]:0.0189:::L[ORGANISATION]:0.0163:::
+R[EMPTY]:0.9685:::R[PLACE]:0.0074:::R[BRIDGE]:0.0017:::R[BUILDING]:0.0014:::R[ORGANISATION]:0.0013:::R[PERSON]:0.0012:::
+T[BRIDGE]:0.3225:::T[BUILDING]:0.0813:::T[PLACE]:0.0773:::T[PERSON]:0.0039:::T[OTHER]:0.0037:::T[ROAD]:0.0007:::
+SW[NULL]:0.9863:::SW[and]:0.0019:::SW[of]:0.0013:::SW[de]:0.001:::SW[a]:0.0007:::SW[to]:0.0003:::
+DICT[Y]:0.5379:::DICT[N]:0.4618:::
+Active Evidence: 4052.7144
+Evidence: 4531.2305
+========================
+Token: Ponte De
+ID: ponte de
+L[EMPTY]:1:::
+R[BRIDGE]:0.5714:::R[PERSON]:0.2143:::R[PLACE]:0.2143:::R[RIVER]:0:::
+T[BRIDGE]:0.9048:::T[PLACE]:0.0952:::T[RIVER]:0:::
+SW[NULL]:0.9048:::SW[de]:0.0952:::
+DICT[N]:0.9047:::DICT[Y]:0.0953:::
+Active Evidence: 20.999727
+Evidence: 22.0
+========================
+Token: Pont De
+ID: pont de
+L[EMPTY]:0.9991:::L[PERSON]:0.0009:::L[BUILDING]:0:::L[PLACE]:0:::
+R[BRIDGE]:0.5639:::R[PLACE]:0.2817:::R[PERSON]:0.0772:::R[COMPANY]:0.0514:::R[EMPTY]:0.0257:::R[BUILDING]:0:::
+T[BRIDGE]:0.9219:::T[PLACE]:0.0515:::T[OTHER]:0.0257:::T[PERSON]:0.0009:::T[BUILDING]:0:::
+SW[NULL]:0.8447:::SW[la]:0.1544:::SW[du]:0.0009:::SW[de]:0:::
+DICT[N]:0.7471:::DICT[Y]:0.2529:::
+Active Evidence: 19.429276
+Evidence: 23.0
+========================
+Token: Footbridge
+ID: footbridge
+L[PLACE]:0.4421:::L[PERSON]:0.1914:::L[BRIDGE]:0.1639:::L[BUILDING]:0.0868:::L[AIRPORT]:0.0578:::L[ORGANISATION]:0.0289:::
+R[EMPTY]:1:::
+T[BRIDGE]:0.8679:::T[BUILDING]:0.1157:::T[PLACE]:0.0164:::
+SW[NULL]:1:::
+DICT[Y]:0.6529:::DICT[N]:0.3471:::
+Active Evidence: 17.28265
+Evidence: 18.0
+========================
+Token: Causeway
+ID: causeway
+L[PERSON]:0.3247:::L[PLACE]:0.3176:::L[EMPTY]:0.134:::L[BRIDGE]:0.1227:::L[EVENT]:0.0289:::L[BUILDING]:0.0288:::
+R[EMPTY]:0.9647:::R[PLACE]:0.0353:::R[COMPANY]:0:::R[ROAD]:0:::R[LEGISLATURE]:0:::R[UNIVERSITY]:0:::
+T[BRIDGE]:0.6928:::T[PLACE]:0.1703:::T[ROAD]:0.0578:::T[OTHER]:0.0409:::T[BUILDING]:0.0289:::T[HOSPITAL]:0.0094:::
+SW[NULL]:0.9815:::SW[and]:0.0185:::SW[of]:0:::
+DICT[N]:0.6855:::DICT[Y]:0.3145:::
+Active Evidence: 34.627304
+Evidence: 49.0
+========================
+Token: Ponte Do
+ID: ponte do
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[BRIDGE]:0.2496:::R[PERSON]:0.1502:::R[MUSEUM]:0.1001:::
+T[BRIDGE]:1:::
+SW[NULL]:0.8012:::SW[de]:0.1001:::SW[do]:0.0987:::
+DICT[N]:0.8999:::DICT[Y]:0.1001:::
+Active Evidence: 9.985331
+Evidence: 10.0
+========================
+Token: Ponte
+ID: ponte
+L[EMPTY]:0.66:::L[PERSON]:0.2941:::L[PLACE]:0.0315:::L[BUILDING]:0.0113:::L[ORGANISATION]:0.0032:::
+R[EMPTY]:0.3388:::R[PLACE]:0.2591:::R[PERSON]:0.1908:::R[BRIDGE]:0.1494:::R[ORGANISATION]:0.023:::R[ISLAND]:0.0112:::
+T[BRIDGE]:0.4033:::T[PERSON]:0.3097:::T[PLACE]:0.2823:::T[OTHER]:0.0037:::T[ORGANISATION]:0.0007:::T[BUILDING]:0.0002:::
+SW[NULL]:0.7002:::SW[da]:0.1479:::SW[de]:0.0742:::SW[do]:0.0372:::SW[del]:0.0294:::SW[di]:0.0112:::
+DICT[N]:0.8558:::DICT[Y]:0.1442:::
+Active Evidence: 89.20029
+Evidence: 108.0
+========================
+Token: Setu
+ID: setu
+L[PERSON]:0.4287:::L[EMPTY]:0.2144:::L[BRIDGE]:0.1788:::L[UNIVERSITY]:0.1781:::
+R[EMPTY]:0.7856:::R[PERSON]:0.2144:::
+T[BRIDGE]:0.7141:::T[PERSON]:0.2859:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 13.983684
+Evidence: 14.0
+========================
+Token: Bridge at
+ID: bridge at
+L[PLACE]:0.4027:::L[EMPTY]:0.1524:::L[BRIDGE]:0.145:::L[BUILDING]:0.1092:::L[RIVER]:0.0638:::L[ORGANISATION]:0.0561:::
+R[PLACE]:0.3959:::R[BRIDGE]:0.1728:::R[RIVER]:0.1579:::R[PERSON]:0.1071:::R[EMPTY]:0.0673:::R[BUILDING]:0.0592:::
+T[BRIDGE]:0.4686:::T[BUILDING]:0.3817:::T[PLACE]:0.0824:::T[OTHER]:0.0673:::
+SW[at]:0.4251:::SW[the]:0.2111:::SW[NULL]:0.1524:::SW[of]:0.0762:::SW[on]:0.0425:::SW[de]:0.0423:::
+DICT[Y]:0.7627:::DICT[N]:0.2373:::
+Active Evidence: 23.514664
+Evidence: 27.0
+========================
+Token: Ponte Da
+ID: ponte da
+L[EMPTY]:1:::
+R[BRIDGE]:0.7072:::R[PERSON]:0.1464:::R[RIVER]:0.1414:::R[PLACE]:0.005:::
+T[BRIDGE]:0.9901:::T[PLACE]:0.0099:::
+SW[NULL]:0.7172:::SW[de]:0.2828:::
+DICT[N]:1:::
+Active Evidence: 7.06974
+Evidence: 8.0
+========================
+Token: Trestle
+ID: trestle
+L[PLACE]:0.4791:::L[PERSON]:0.2601:::L[BRIDGE]:0.1668:::L[BUILDING]:0.0626:::L[COMPANY]:0.0313:::L[EMPTY]:0.0002:::
+R[EMPTY]:0.9998:::R[THEATRE]:0.0002:::R[BRIDGE]:0:::R[PLACE]:0:::R[BUILDING]:0:::R[ORGANISATION]:0:::
+T[BRIDGE]:0.8747:::T[BUILDING]:0.1251:::T[COMPANY]:0.0002:::T[EVENT]:0:::
+SW[NULL]:1:::SW[and]:0:::SW[of]:0:::
+DICT[Y]:0.6246:::DICT[N]:0.3754:::
+Active Evidence: 7.978736
+Evidence: 12.0
+========================
+Token: Tubby
+ID: tubby
+L[EMPTY]:0.9997:::L[PERSON]:0:::
+R[EMPTY]:0.8858:::R[PERSON]:0.0126:::R[PLACE]:0:::
+T[BRIDGE]:0.8148:::T[PERSON]:0.0126:::T[OTHER]:0.0078:::
+SW[NULL]:1:::
+DICT[N]:0.1847:::DICT[Y]:0.0005:::
+Active Evidence: 9.89738
+Evidence: 24.064
+========================
+Token: Overpass
+ID: overpass
+L[PERSON]:0.414:::L[PLACE]:0.2404:::L[BRIDGE]:0.1964:::L[BUILDING]:0.0998:::L[EMPTY]:0.0492:::L[ORGANISATION]:0.0002:::
+R[EMPTY]:1:::
+T[BRIDGE]:0.7076:::T[BUILDING]:0.2427:::T[OTHER]:0.0492:::T[PLACE]:0.0005:::
+SW[NULL]:1:::
+DICT[N]:0.638:::DICT[Y]:0.362:::
+Active Evidence: 6.780512
+Evidence: 9.0
+========================
+Token: Ponte Di
+ID: ponte di
+L[EMPTY]:1:::
+R[BRIDGE]:0.3648:::R[PLACE]:0.3251:::R[PERSON]:0.2736:::R[EMPTY]:0.0365:::
+T[BRIDGE]:0.7296:::T[PLACE]:0.2339:::T[OTHER]:0.0365:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 5.4824944
+Evidence: 7.0
+========================
+Token: Passerelle
+ID: passerelle
+L[EMPTY]:1:::
+R[BRIDGE]:0.75:::R[EMPTY]:0.25:::
+T[BRIDGE]:0.75:::T[PERIODICAL_LITERATURE]:0.25:::
+SW[NULL]:0.75:::SW[de]:0.25:::
+DICT[N]:0.75:::DICT[Y]:0.25:::
+Active Evidence: 4.0
+Evidence: 4.0
+========================
+Token: Pont Du
+ID: pont du
+L[EMPTY]:0.9991:::L[ORGANISATION]:0.0009:::
+R[PLACE]:0.6733:::R[BUILDING]:0.2227:::R[BRIDGE]:0.104:::
+T[BRIDGE]:0.772:::T[PLACE]:0.2271:::T[ORGANISATION]:0.0009:::
+SW[NULL]:0.9991:::SW[du]:0.0009:::
+DICT[N]:0.9948:::DICT[Y]:0.0052:::
+Active Evidence: 4.490295
+Evidence: 7.0
+========================
+Token: Drawbridge
+ID: drawbridge
+L[PLACE]:0.2745:::L[EMPTY]:0.2005:::L[PERSON]:0.0499:::L[BUILDING]:0.025:::L[RIVER]:0.025:::L[BRIDGE]:0.025:::
+R[EMPTY]:0.9998:::R[PLACE]:0:::R[MOUNTAIN]:0:::R[AWARD]:0:::
+T[BRIDGE]:0.2995:::T[COMPANY]:0.1003:::T[BUILDING]:0.0999:::T[PERIODICAL_LITERATURE]:0.05:::T[PLACE]:0:::T[MOUNTAIN]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.4997:::DICT[N]:0.4001:::
+Active Evidence: 9.987625
+Evidence: 13.0014
+========================
+Token: Crossover
+ID: crossover
+L[BRIDGE]:0.4326:::L[EMPTY]:0.274:::L[PLACE]:0.2586:::L[ORGANISATION]:0.0349:::L[AIRPORT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[BRIDGE]:0:::
+T[BRIDGE]:0.5191:::T[OTHER]:0.274:::T[ORGANISATION]:0.2069:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 5.779365
+Evidence: 11.0
+========================
+Token: Baluarte
+ID: baluarte
+L[EMPTY]:1:::L[PERSON]:0:::L[PLACE]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:1:::R[BRIDGE]:0:::R[RIVER]:0:::
+T[BRIDGE]:1:::T[UNIVERSITY]:0:::T[RIVER]:0:::
+SW[NULL]:1:::SW[del]:0:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 2.928226
+Evidence: 5.9282
+========================
+Token: Ponte Del
+ID: ponte del
+L[EMPTY]:1:::
+R[BRIDGE]:0.4003:::R[PLACE]:0.3996:::R[EMPTY]:0.2001:::
+T[BRIDGE]:0.7999:::T[OTHER]:0.2001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.498291
+Evidence: 3.0
+========================
+Token: Newbridge
+ID: newbridge
+L[EMPTY]:0.9954:::L[PLACE]:0.0008:::L[ROAD]:0.0008:::
+R[EMPTY]:0.4704:::R[COMPANY]:0.0803:::R[RIVER]:0.0796:::R[PLACE]:0.0114:::R[BUILDING]:0.0068:::R[UNIVERSITY]:0.0005:::
+T[BRIDGE]:0.7021:::T[COMPANY]:0.0905:::T[PLACE]:0.0087:::T[UNIVERSITY]:0.0013:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5308:::DICT[N]:0.0034:::
+Active Evidence: 4.2212787
+Evidence: 17.9664
+========================
+Token: Diable
+ID: diable
+L[BRIDGE]:0.434:::L[MOUNTAIN]:0.2831:::L[PERSON]:0.1414:::L[BUILDING]:0.1414:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[BRIDGE]:0.434:::T[MOUNTAIN]:0.2831:::T[BUILDING]:0.2829:::T[PLACE]:0:::
+SW[du]:0.434:::SW[del]:0.2831:::SW[de]:0.2829:::SW[NULL]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 3.5324874
+Evidence: 5.0
+========================
+Token: Bridge and
+ID: bridge and
+L[PLACE]:0.5264:::L[BUILDING]:0.1702:::L[PERSON]:0.1449:::L[EMPTY]:0.1142:::L[RIVER]:0.0443:::
+R[BUILDING]:0.4243:::R[PERSON]:0.2314:::R[PLACE]:0.1542:::R[EMPTY]:0.1142:::R[ROAD]:0.025:::R[COMPANY]:0.0204:::
+T[BRIDGE]:0.686:::T[BUILDING]:0.1997:::T[OTHER]:0.1142:::T[PLACE]:0:::T[COMPANY]:0:::
+SW[and]:0.7837:::SW[NULL]:0.1142:::SW[the]:0.102:::
+DICT[Y]:0.8858:::DICT[N]:0.1142:::
+Active Evidence: 2.9182615
+Evidence: 11.0
+========================
+Token: Skywalk
+ID: skywalk
+L[EMPTY]:0.5316:::L[PLACE]:0.2194:::
+R[EMPTY]:1:::R[COMPANY]:0:::
+T[BRIDGE]:0.5316:::T[PLACE]:0.2194:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4684:::DICT[Y]:0:::
+Active Evidence: 2.1350045
+Evidence: 3.135
+========================
+Token: D'austerlitz
+ID: d'austerlitz
+L[BRIDGE]:0.5117:::L[PERSON]:0.4883:::L[PLACE]:0.0001:::
+R[EMPTY]:1:::
+T[BRIDGE]:0.5155:::T[ROAD]:0.4844:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9544536
+Evidence: 4.0
+========================
+Token: Puente Del
+ID: puente del
+L[EMPTY]:1:::L[PLACE]:0:::
+R[BRIDGE]:0.9159:::R[PLACE]:0.0841:::
+T[BRIDGE]:0.9159:::T[PLACE]:0.0841:::
+SW[NULL]:1:::SW[del]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0917839
+Evidence: 3.0
+========================
+Token: Shore and
+ID: shore and
+L[PLACE]:1:::L[PERSON]:0:::
+R[PLACE]:0.3334:::R[BRIDGE]:0.3333:::R[UNIVERSITY]:0.1667:::R[ORGANISATION]:0.1666:::
+T[BRIDGE]:0.9999:::T[BUILDING]:0.0001:::T[PLACE]:0:::
+SW[and]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.87697554
+Evidence: 3.0
+========================
+Token: Magalloway
+ID: magalloway
+L[EMPTY]:1:::
+R[PLACE]:0.2001:::R[RIVER]:0.2:::R[ROAD]:0.2:::R[BRIDGE]:0.2:::R[EVENT]:0.2:::
+T[BRIDGE]:0.9998:::T[PLACE]:0.0002:::
+SW[the]:0.9998:::SW[NULL]:0.0002:::
+DICT[Y]:1:::
+Active Evidence: 0.88734746
+Evidence: 2.0
+========================
+Token: Seabrook
+ID: seabrook
+L[EMPTY]:0.5755:::L[PERSON]:0.3794:::L[PLACE]:0.0451:::
+R[EMPTY]:0.568:::R[BRIDGE]:0.4301:::R[PLACE]:0.0019:::R[PERSON]:0:::R[ORGANISATION]:0:::R[UNIVERSITY]:0:::
+T[BRIDGE]:0.4301:::T[PERSON]:0.4244:::T[OTHER]:0.1436:::T[PLACE]:0.0019:::T[BUILDING]:0.0001:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5244:::DICT[Y]:0.4756:::
+Active Evidence: 2.3210344
+Evidence: 29.0
+========================
+Token: Viaducts
+ID: viaducts
+L[PLACE]:0.6884:::L[PERSON]:0.2976:::L[BRIDGE]:0.0139:::
+R[EMPTY]:1:::
+T[BRIDGE]:1:::
+SW[NULL]:1:::
+DICT[N]:0.9861:::DICT[Y]:0.0139:::
+Active Evidence: 0.0068389163
+Evidence: 3.0
+========================
+Token: Floodgate
+ID: floodgate
+L[BRIDGE]:0.9943:::L[EMPTY]:0.0057:::
+R[EMPTY]:0.9943:::R[COMPANY]:0.0057:::
+T[BRIDGE]:0.9943:::T[COMPANY]:0.0057:::
+SW[NULL]:1:::
+DICT[N]:0.9994:::DICT[Y]:0.0006:::
+Active Evidence: 0.0018506888
+Evidence: 3.0
+========================
+Token: Fabricius
+ID: fabricius
+L[PERSON]:1:::
+R[EMPTY]:0.9995:::R[PERSON]:0.0005:::
+T[BRIDGE]:0.773:::T[PERSON]:0.227:::
+SW[NULL]:1:::
+DICT[N]:0.9927:::DICT[Y]:0.0073:::
+Active Evidence: 0.0014271011
+Evidence: 19.0
+========================
+Token: Mckeesport
+ID: mckeesport
+L[BRIDGE]:0.9504:::L[EMPTY]:0.0491:::L[PLACE]:0.0005:::
+R[BRIDGE]:0.9504:::R[PLACE]:0.0246:::R[ORGANISATION]:0.0246:::R[EMPTY]:0.0005:::
+T[BRIDGE]:0.9504:::T[BUILDING]:0.0491:::T[PLACE]:0.0005:::
+SW[le]:0.9504:::SW[NULL]:0.0496:::
+DICT[Y]:1:::
+Active Evidence: 2.3693767E-4
+Evidence: 3.0
+========================
+Token: Philadelphia and
+ID: philadelphia and
+L[EMPTY]:1:::
+R[PLACE]:0.3771:::R[ORGANISATION]:0.1999:::R[BRIDGE]:0.188:::R[PERSON]:0.1637:::R[BUILDING]:0.0243:::R[RIVER]:0.0243:::
+T[BRIDGE]:0.9399:::T[BUILDING]:0.0291:::T[ROAD]:0.0217:::T[ORGANISATION]:0.0093:::
+SW[at]:0.8187:::SW[NULL]:0.1813:::
+DICT[Y]:1:::
+Active Evidence: 1.797999E-4
+Evidence: 5.0
+========================
+Token: Rivanna
+ID: rivanna
+L[EMPTY]:1:::
+R[PLACE]:0.519:::R[BRIDGE]:0.4797:::R[RIVER]:0.0013:::
+T[BRIDGE]:0.9593:::T[BUILDING]:0.0394:::T[RIVER]:0.0013:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0727006E-4
+Evidence: 3.0
+========================
+Token: Wilmington and
+ID: wilmington and
+L[PLACE]:1:::
+R[ORGANISATION]:0.3986:::R[BRIDGE]:0.3963:::R[PLACE]:0.2005:::R[BUILDING]:0.0023:::R[COMPANY]:0.0023:::
+T[BRIDGE]:0.9908:::T[BUILDING]:0.0092:::
+SW[and]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.9066148E-5
+Evidence: 2.0
+========================
+Token: Ligovsky
+ID: ligovsky
+L[EMPTY]:1:::
+R[BRIDGE]:0.628:::R[RIVER]:0.2251:::R[PLACE]:0.1468:::
+T[BRIDGE]:0.628:::T[RIVER]:0.2251:::T[PLACE]:0.1468:::
+SW[NULL]:1:::
+DICT[N]:0.7749:::DICT[Y]:0.2251:::
+Active Evidence: 2.6522617E-5
+Evidence: 4.0
+========================
+Token: Streatley
+ID: streatley
+L[BRIDGE]:0.9633:::L[PLACE]:0.0367:::
+R[BRIDGE]:0.9633:::R[PLACE]:0.0183:::R[ORGANISATION]:0.0183:::
+T[BRIDGE]:0.9633:::T[PLACE]:0.0367:::
+SW[and]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.835968E-6
+Evidence: 2.0
+========================
+Token: Plunketts
+ID: plunketts
+L[EMPTY]:1:::
+R[BRIDGE]:0.4161:::R[RIVER]:0.3758:::R[ORGANISATION]:0.2081:::
+T[BRIDGE]:0.8322:::T[RIVER]:0.1678:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.854623E-6
+Evidence: 2.0
+========================
+Token: Kingsmead
+ID: kingsmead
+L[EMPTY]:1:::
+R[BRIDGE]:0.477:::R[PLACE]:0.3468:::R[COMPANY]:0.0881:::R[UNIVERSITY]:0.0881:::
+T[BRIDGE]:0.477:::T[PLACE]:0.3468:::T[UNIVERSITY]:0.1763:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.0999203E-6
+Evidence: 3.0
+========================
+Token: Rosellini
+ID: rosellini
+L[PERSON]:0.6667:::L[GOVAGENCY]:0.3333:::
+R[PLACE]:0.5:::R[BRIDGE]:0.5:::
+T[BRIDGE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0686358E-6
+Evidence: 1.0
+========================
+Token: Sestroretsk
+ID: sestroretsk
+L[BRIDGE]:1:::
+R[EMPTY]:1:::
+T[BRIDGE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.73558056
+Evidence: 1.0
+========================
+Token: Nonthaburi
+ID: nonthaburi
+L[PERSON]:0.5:::L[BRIDGE]:0.5:::
+R[COMPANY]:0.5:::R[ROAD]:0.25:::R[BRIDGE]:0.25:::
+T[BRIDGE]:1:::
+SW[at]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.5881212E-6
+Evidence: 1.0
+========================
+Token: Snp
+ID: snp
+L[PLACE]:1:::
+R[EMPTY]:1:::
+T[BRIDGE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.553455E-7
+Evidence: 1.0
+========================
+Token: Urangan
+ID: urangan
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[BRIDGE]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.2776464E-5
+Evidence: 1.0
+========================

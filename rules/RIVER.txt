@@ -1,0 +1,6000 @@
+Token: River
+ID: river
+L[RIVER]:0.5836:::L[PERSON]:0.1715:::L[PLACE]:0.1631:::L[EMPTY]:0.0332:::L[COMPANY]:0.0106:::L[ORGANISATION]:0.0101:::
+R[EMPTY]:0.9675:::R[PLACE]:0.0118:::R[PERSON]:0.0093:::R[RIVER]:0.0079:::R[ORGANISATION]:0.001:::R[COMPANY]:0.0008:::
+T[RIVER]:0.9717:::T[PLACE]:0.0184:::T[OTHER]:0.007:::T[BUILDING]:0.001:::T[ORGANISATION]:0.0007:::T[EVENT]:0.0004:::
+SW[NULL]:0.9918:::SW[de]:0.004:::SW[do]:0.0011:::SW[of]:0.0006:::SW[la]:0.0005:::SW[a]:0.0004:::
+DICT[N]:0.763:::DICT[Y]:0.237:::
+Active Evidence: 19106.137
+Evidence: 20729.0
+========================
+Token: Lac De
+ID: lac de
+L[EMPTY]:0.9939:::L[PLACE]:0.0061:::
+R[RIVER]:0.7145:::R[PERSON]:0.1896:::R[PLACE]:0.0927:::R[BUILDING]:0.0031:::
+T[RIVER]:0.9937:::T[PLACE]:0.0063:::
+SW[NULL]:0.8939:::SW[la]:0.0625:::SW[de]:0.0373:::SW[and]:0.0063:::
+DICT[N]:0.8252:::DICT[Y]:0.1748:::
+Active Evidence: 159.9664
+Evidence: 160.0
+========================
+Token: Lago Di
+ID: lago di
+L[EMPTY]:0.9965:::L[COMPANY]:0.0035:::L[PLACE]:0:::L[PERSON]:0:::
+R[RIVER]:0.5849:::R[PLACE]:0.2183:::R[PERSON]:0.1697:::R[EVENT]:0.0108:::R[ISLAND]:0.0108:::R[COMPANY]:0.0054:::
+T[RIVER]:0.9965:::T[COMPANY]:0.0035:::T[PLACE]:0:::
+SW[NULL]:0.9748:::SW[del]:0.0143:::SW[di]:0.0108:::
+DICT[N]:0.9675:::DICT[Y]:0.0325:::
+Active Evidence: 92.32347
+Evidence: 94.0
+========================
+Token: Loch
+ID: loch
+L[EMPTY]:0.6662:::L[RIVER]:0.1616:::L[PERSON]:0.1008:::L[PLACE]:0.0538:::L[ORGANISATION]:0.0081:::L[COMPANY]:0.0052:::
+R[EMPTY]:0.3759:::R[RIVER]:0.2249:::R[PERSON]:0.182:::R[PLACE]:0.1383:::R[MOUNTAIN]:0.0347:::R[ORGANISATION]:0.0215:::
+T[RIVER]:0.8193:::T[OTHER]:0.0801:::T[PLACE]:0.0531:::T[PERSON]:0.0346:::T[BUILDING]:0.0052:::T[AIRLINE]:0.0038:::
+SW[NULL]:0.9784:::SW[a]:0.0156:::SW[le]:0.0052:::SW[and]:0.0008:::SW[at]:0:::
+DICT[N]:0.8243:::DICT[Y]:0.1757:::
+Active Evidence: 192.29144
+Evidence: 265.0
+========================
+Token: Bach
+ID: bach
+L[RIVER]:0.5402:::L[PERSON]:0.4228:::L[EMPTY]:0.0179:::L[MOUNTAIN]:0.0079:::L[PLACE]:0.0073:::L[ORGANISATION]:0.0038:::
+R[EMPTY]:0.9943:::R[RIVER]:0.0038:::R[PERSON]:0.001:::R[PLACE]:0.0005:::R[BUILDING]:0.0004:::R[UNIVERSITY]:0.0001:::
+T[RIVER]:0.5921:::T[PERSON]:0.3747:::T[OTHER]:0.0133:::T[MOUNTAIN]:0.0113:::T[PLACE]:0.0077:::T[BUILDING]:0.0008:::
+SW[NULL]:0.996:::SW[von]:0.0033:::SW[at]:0.0008:::
+DICT[N]:0.9219:::DICT[Y]:0.0781:::
+Active Evidence: 265.163
+Evidence: 302.0
+========================
+Token: Lough
+ID: lough
+L[EMPTY]:0.807:::L[RIVER]:0.1148:::L[PLACE]:0.0576:::L[MOUNTAIN]:0.0191:::L[PERSON]:0.0014:::L[COMPANY]:0:::
+R[PERSON]:0.3256:::R[RIVER]:0.2967:::R[EMPTY]:0.2343:::R[PLACE]:0.1052:::R[BUILDING]:0.0191:::R[COMPANY]:0.0191:::
+T[RIVER]:0.9569:::T[OTHER]:0.0223:::T[PLACE]:0.0191:::T[PERSON]:0.0016:::T[COMPANY]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.847:::DICT[Y]:0.153:::
+Active Evidence: 52.24482
+Evidence: 68.0
+========================
+Token: Quta
+ID: quta
+L[RIVER]:0.4594:::L[MOUNTAIN]:0.2514:::L[PLACE]:0.2042:::L[PERSON]:0.085:::
+R[EMPTY]:1:::
+T[RIVER]:0.966:::T[PLACE]:0.034:::T[MOUNTAIN]:0:::
+SW[NULL]:0.9518:::SW[a]:0.0482:::
+DICT[N]:0.8308:::DICT[Y]:0.1692:::
+Active Evidence: 29.386375
+Evidence: 31.0
+========================
+Token: Canal
+ID: canal
+L[PLACE]:0.3578:::L[EMPTY]:0.2333:::L[RIVER]:0.1563:::L[PERSON]:0.1214:::L[BUILDING]:0.0483:::L[ORGANISATION]:0.0347:::
+R[EMPTY]:0.7696:::R[ORGANISATION]:0.1297:::R[PLACE]:0.0615:::R[PERSON]:0.0208:::R[COMPANY]:0.0086:::R[AIRPORT]:0.0027:::
+T[RIVER]:0.5626:::T[ORGANISATION]:0.1776:::T[BUILDING]:0.1116:::T[PLACE]:0.0726:::T[OTHER]:0.0467:::T[PERSON]:0.0227:::
+SW[NULL]:0.8551:::SW[and]:0.1194:::SW[de]:0.0092:::SW[to]:0.0054:::SW[dos]:0.0027:::SW[du]:0.0027:::
+DICT[N]:0.6558:::DICT[Y]:0.3442:::
+Active Evidence: 373.08432
+Evidence: 489.0
+========================
+Token: Lac Du
+ID: lac du
+L[EMPTY]:0.9998:::L[UNIVERSITY]:0.0001:::L[BUILDING]:0.0001:::
+R[RIVER]:0.4125:::R[PERSON]:0.3762:::R[PLACE]:0.1718:::R[MOUNTAIN]:0.0266:::R[AIRPORT]:0.013:::
+T[RIVER]:0.825:::T[PLACE]:0.1225:::T[AIRPORT]:0.0525:::
+SW[NULL]:0.9732:::SW[du]:0.0266:::SW[at]:0.0002:::
+DICT[N]:0.7984:::DICT[Y]:0.2016:::
+Active Evidence: 37.57632
+Evidence: 39.0
+========================
+Token: Llyn
+ID: llyn
+L[EMPTY]:0.9485:::L[PERSON]:0.0223:::L[PLACE]:0.0172:::L[RIVER]:0.0069:::L[MOUNTAIN]:0.0051:::
+R[RIVER]:0.4162:::R[PLACE]:0.2305:::R[PERSON]:0.1994:::R[MOUNTAIN]:0.0681:::R[EMPTY]:0.0481:::R[BUILDING]:0.0206:::
+T[RIVER]:0.7628:::T[PLACE]:0.2063:::T[PERSON]:0.0206:::T[MOUNTAIN]:0.0103:::
+SW[NULL]:1:::SW[a]:0:::
+DICT[N]:0.9075:::DICT[Y]:0.0925:::
+Active Evidence: 48.4421
+Evidence: 53.0
+========================
+Token: Afon
+ID: afon
+L[EMPTY]:0.9655:::L[PLACE]:0.0345:::
+R[RIVER]:0.4833:::R[PERSON]:0.2065:::R[PLACE]:0.1983:::R[MOUNTAIN]:0.069:::R[EMPTY]:0.0345:::R[UNIVERSITY]:0.0084:::
+T[RIVER]:0.8282:::T[PLACE]:0.1718:::
+SW[NULL]:1:::
+DICT[N]:0.9312:::DICT[Y]:0.0688:::
+Active Evidence: 28.969212
+Evidence: 30.0
+========================
+Token: Adriatic
+ID: adriatic
+L[EMPTY]:1:::L[AIRLINE]:0:::L[UNIVERSITY]:0:::L[PLACE]:0:::L[EVENT]:0:::
+R[EMPTY]:0.9822:::R[ORGANISATION]:0.0005:::R[AIRLINE]:0:::R[PERSON]:0:::R[PLACE]:0:::R[EVENT]:0:::
+T[RIVER]:0.9367:::T[OTHER]:0.0018:::T[ORGANISATION]:0:::T[BUILDING]:0:::T[PLACE]:0:::T[AIRLINE]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.0633:::DICT[Y]:0.0177:::
+Active Evidence: 36.986725
+Evidence: 51.993603
+========================
+Token: Parrett
+ID: parrett
+L[EMPTY]:1:::L[RIVER]:0:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[COMPANY]:0:::R[AIRPORT]:0:::
+T[RIVER]:1:::T[PERSON]:0:::T[PLACE]:0:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 22.980669
+Evidence: 29.9804
+========================
+Token: Lago Del
+ID: lago del
+L[EMPTY]:1:::
+R[RIVER]:0.8333:::R[PLACE]:0.1:::R[PERSON]:0.0667:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.9333:::DICT[Y]:0.0667:::
+Active Evidence: 14.999951
+Evidence: 15.0
+========================
+Token: Loch of
+ID: loch of
+L[EMPTY]:1:::
+R[RIVER]:0.6667:::R[PLACE]:0.2:::R[PERSON]:0.1333:::
+T[RIVER]:1:::
+SW[NULL]:0.9333:::SW[the]:0.0667:::
+DICT[N]:0.9333:::DICT[Y]:0.0667:::
+Active Evidence: 14.999507
+Evidence: 15.0
+========================
+Token: Lake of
+ID: lake of
+L[EMPTY]:0.946:::L[PERSON]:0.0524:::L[PLACE]:0.0016:::L[ORGANISATION]:0:::L[EVENT]:0:::
+R[PERSON]:0.2659:::R[PLACE]:0.2259:::R[RIVER]:0.21:::R[ORGANISATION]:0.1356:::R[EMPTY]:0.0744:::R[MOUNTAIN]:0.0489:::
+T[RIVER]:0.7368:::T[PLACE]:0.1656:::T[OTHER]:0.0744:::T[BUILDING]:0.0232:::T[UNIVERSITY]:0:::T[ORGANISATION]:0:::
+SW[the]:0.5039:::SW[NULL]:0.4421:::SW[of]:0.054:::SW[and]:0:::
+DICT[N]:0.7012:::DICT[Y]:0.2988:::
+Active Evidence: 38.077263
+Evidence: 47.0
+========================
+Token: Yangtse
+ID: yangtse
+L[EMPTY]:1:::L[COMPANY]:0:::
+R[EMPTY]:1:::R[COMPANY]:0:::R[PERIODICAL_LITERATURE]:0:::R[PLACE]:0:::
+T[RIVER]:1:::T[COMPANY]:0:::T[PERIODICAL_LITERATURE]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 17.093414
+Evidence: 20.093
+========================
+Token: Lagoon
+ID: lagoon
+L[RIVER]:0.3319:::L[PLACE]:0.308:::L[PERSON]:0.1721:::L[EMPTY]:0.0853:::L[EVENT]:0.0353:::L[ORGANISATION]:0.0296:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::R[ORGANISATION]:0:::R[COMPANY]:0:::R[PERSON]:0:::R[AIRPORT]:0:::
+T[RIVER]:0.6453:::T[PLACE]:0.2215:::T[OTHER]:0.0853:::T[ISLAND]:0.0148:::T[BUILDING]:0.0148:::T[MOUNTAIN]:0.0148:::
+SW[NULL]:0.9998:::SW[and]:0.0002:::SW[of]:0:::
+DICT[N]:0.7971:::DICT[Y]:0.2029:::
+Active Evidence: 67.42746
+Evidence: 98.0
+========================
+Token: Estero
+ID: estero
+L[EMPTY]:0.9589:::L[COMPANY]:0.0401:::L[PLACE]:0.0007:::L[ORGANISATION]:0.0003:::L[UNIVERSITY]:0:::L[AIRPORT]:0:::
+R[RIVER]:0.6415:::R[PLACE]:0.1637:::R[PERSON]:0.0802:::R[EMPTY]:0.0745:::R[UNIVERSITY]:0.0401:::R[ORGANISATION]:0:::
+T[RIVER]:0.9221:::T[COMPANY]:0.0401:::T[OTHER]:0.0334:::T[PLACE]:0.0034:::T[ORGANISATION]:0.001:::T[UNIVERSITY]:0:::
+SW[NULL]:0.9589:::SW[del]:0.0401:::SW[de]:0.001:::SW[of]:0:::
+DICT[N]:0.9155:::DICT[Y]:0.0845:::
+Active Evidence: 24.941591
+Evidence: 38.0
+========================
+Token: Kleine
+ID: kleine
+L[EMPTY]:0.9991:::L[PERSON]:0.0009:::
+R[RIVER]:0.4348:::R[PLACE]:0.2438:::R[PERSON]:0.1183:::R[MOUNTAIN]:0.0887:::R[EMPTY]:0.0706:::R[COMPANY]:0.0414:::
+T[RIVER]:0.6634:::T[PLACE]:0.2216:::T[OTHER]:0.0697:::T[MOUNTAIN]:0.0444:::T[PERSON]:0.0009:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.8669:::DICT[Y]:0.1331:::
+Active Evidence: 45.069107
+Evidence: 67.0
+========================
+Token: Yangtze
+ID: yangtze
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[UNIVERSITY]:0:::R[RIVER]:0:::R[COMPANY]:0:::R[PERSON]:0:::R[PLACE]:0:::
+T[RIVER]:0.9535:::T[OTHER]:0.0026:::T[UNIVERSITY]:0:::T[AIRLINE]:0:::T[COMPANY]:0:::T[PLACE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.0465:::DICT[Y]:0:::
+Active Evidence: 17.926697
+Evidence: 26.093
+========================
+Token: Mayu
+ID: mayu
+L[EMPTY]:0.4185:::L[RIVER]:0.2328:::L[MOUNTAIN]:0.1742:::L[PERSON]:0.1163:::L[PLACE]:0.0291:::L[COMPANY]:0.0291:::
+R[EMPTY]:0.6106:::R[PERSON]:0.3894:::
+T[RIVER]:0.5524:::T[PERSON]:0.3894:::T[PLACE]:0.0291:::T[OTHER]:0.0291:::
+SW[NULL]:1:::
+DICT[N]:0.9127:::DICT[Y]:0.0873:::
+Active Evidence: 34.37004
+Evidence: 36.0
+========================
+Token: Aeri
+ID: aeri
+L[PLACE]:0.5456:::L[RIVER]:0.2729:::L[PERSON]:0.1815:::
+R[EMPTY]:0.9094:::R[PLACE]:0.0906:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 10.994455
+Evidence: 11.0
+========================
+Token: Narmada
+ID: narmada
+L[EMPTY]:1:::
+R[EMPTY]:0.9372:::R[PERSON]:0.0041:::R[PLACE]:0:::R[COMPANY]:0:::R[GOVAGENCY]:0:::
+T[RIVER]:0.8154:::T[PERSON]:0.1335:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0628:::DICT[Y]:0:::
+Active Evidence: 15.379902
+Evidence: 16.414001
+========================
+Token: Wasser
+ID: wasser
+L[RIVER]:0.9178:::L[PERSON]:0.0822:::
+R[EMPTY]:1:::
+T[RIVER]:0.9884:::T[PERSON]:0.0116:::
+SW[NULL]:1:::
+DICT[N]:0.9288:::DICT[Y]:0.0712:::
+Active Evidence: 14.16479
+Evidence: 19.0
+========================
+Token: Lai Da
+ID: lai da
+L[EMPTY]:1:::
+R[RIVER]:0.8889:::R[PERSON]:0.0556:::R[PERIODICAL_LITERATURE]:0.0556:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.7778:::DICT[Y]:0.2222:::
+Active Evidence: 8.99999
+Evidence: 9.0
+========================
+Token: Jawira
+ID: jawira
+L[MOUNTAIN]:0.8936:::L[RIVER]:0.1064:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[a]:0.5745:::SW[NULL]:0.4255:::
+DICT[N]:1:::
+Active Evidence: 9.397648
+Evidence: 10.0
+========================
+Token: Aru
+ID: aru
+L[RIVER]:0.5342:::L[PERSON]:0.1794:::L[PLACE]:0.1187:::L[EMPTY]:0.1083:::L[DISEASE]:0.0594:::L[MUSEUM]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::R[ORGANISATION]:0:::R[PLACE]:0:::
+T[RIVER]:0.89:::T[OTHER]:0.1083:::T[PERSON]:0.0017:::T[ORGANISATION]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.8223:::DICT[Y]:0.1777:::
+Active Evidence: 16.846449
+Evidence: 27.0
+========================
+Token: Lac
+ID: lac
+L[EMPTY]:0.9512:::L[PERSON]:0.0101:::L[PLACE]:0.0038:::L[BUILDING]:0.0031:::L[ORGANISATION]:0.0031:::L[MOUNTAIN]:0:::
+R[RIVER]:0.1927:::R[PERSON]:0.1417:::R[EMPTY]:0.0477:::R[PLACE]:0.0437:::R[BUILDING]:0.0047:::R[COMPANY]:0.0026:::
+T[RIVER]:0.3609:::T[PERSON]:0.0212:::T[PLACE]:0.0194:::T[AIRPORT]:0.0099:::T[OTHER]:0.004:::T[BUILDING]:0.0031:::
+SW[NULL]:0.9608:::SW[de]:0.0063:::SW[du]:0.0062:::SW[la]:0.0036:::SW[of]:0:::
+DICT[N]:0.6185:::DICT[Y]:0.3707:::
+Active Evidence: 132.32964
+Evidence: 173.4258
+========================
+Token: Euphrates
+ID: euphrates
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.7706:::T[OTHER]:0.0188:::
+SW[NULL]:1:::
+DICT[N]:0.2294:::
+Active Evidence: 14.529133
+Evidence: 18.1958
+========================
+Token: Mediterranea
+ID: mediterranea
+L[EMPTY]:0.9149:::L[PERIODICAL_LITERATURE]:0.003:::L[AIRLINE]:0.0025:::L[UNIVERSITY]:0.0002:::
+R[EMPTY]:1:::R[PERSON]:0:::R[PLACE]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.6419:::T[OTHER]:0.0181:::T[PERIODICAL_LITERATURE]:0.003:::T[AIRLINE]:0.0025:::T[UNIVERSITY]:0.0002:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.3581:::
+Active Evidence: 21.983488
+Evidence: 30.111801
+========================
+Token: Neretva
+ID: neretva
+L[EMPTY]:1:::L[ORGANISATION]:0:::L[PLACE]:0:::L[EVENT]:0:::
+R[EMPTY]:1:::R[EVENT]:0:::
+T[RIVER]:0.9674:::T[OTHER]:0.003:::T[ORGANISATION]:0:::T[PLACE]:0:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0326:::DICT[Y]:0:::
+Active Evidence: 10.229359
+Evidence: 13.896
+========================
+Token: Gulf of
+ID: gulf of
+L[EMPTY]:0.9776:::L[EVENT]:0.0149:::L[ORGANISATION]:0.0036:::L[PERSON]:0.0022:::L[PLACE]:0.0015:::L[COMPANY]:0.0002:::
+R[PLACE]:0.6769:::R[RIVER]:0.0921:::R[PERSON]:0.0908:::R[EVENT]:0.0586:::R[UNIVERSITY]:0.0489:::R[EMPTY]:0.0153:::
+T[RIVER]:0.7364:::T[EVENT]:0.1372:::T[PLACE]:0.1001:::T[OTHER]:0.0153:::T[ORGANISATION]:0.011:::
+SW[NULL]:0.9671:::SW[of]:0.0148:::SW[the]:0.0105:::SW[in]:0.0076:::
+DICT[N]:0.8054:::DICT[Y]:0.1946:::
+Active Evidence: 21.726664
+Evidence: 38.0
+========================
+Token: Dunav
+ID: dunav
+L[EMPTY]:0.9999:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9171:::R[COMPANY]:0.007:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.9005:::T[COMPANY]:0.007:::T[OTHER]:0.0014:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0995:::DICT[Y]:0:::
+Active Evidence: 12.067893
+Evidence: 17.867199
+========================
+Token: Mekong
+ID: mekong
+L[EMPTY]:0.9336:::L[COMPANY]:0.0049:::L[AIRLINE]:0:::L[PERIODICAL_LITERATURE]:0:::L[BUILDING]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9999:::R[AIRLINE]:0:::R[COMPANY]:0:::R[RIVER]:0:::R[GOVAGENCY]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.834:::T[OTHER]:0.0073:::T[COMPANY]:0.0049:::T[AIRLINE]:0:::T[BUILDING]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.166:::DICT[Y]:0:::
+Active Evidence: 15.067302
+Evidence: 24.566
+========================
+Token: Pietros
+ID: pietros
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.875:::DICT[N]:0.125:::
+Active Evidence: 8.000015
+Evidence: 9.0
+========================
+Token: Qucha
+ID: qucha
+L[RIVER]:0.7503:::L[MOUNTAIN]:0.1249:::L[PERSON]:0.1248:::
+R[EMPTY]:1:::
+T[RIVER]:0.9999:::T[MOUNTAIN]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.5003:::DICT[N]:0.4997:::
+Active Evidence: 7.9973707
+Evidence: 9.0
+========================
+Token: Jumna
+ID: jumna
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.8488:::T[OTHER]:0.0161:::
+SW[NULL]:1:::
+DICT[N]:0.1512:::
+Active Evidence: 9.920401
+Evidence: 11.420401
+========================
+Token: Bayou
+ID: bayou
+L[EMPTY]:0.3493:::L[PERSON]:0.2958:::L[PLACE]:0.2435:::L[RIVER]:0.0376:::L[COMPANY]:0.0376:::L[MOUNTAIN]:0.0188:::
+R[EMPTY]:0.7197:::R[PLACE]:0.1708:::R[PERSON]:0.0614:::R[ORGANISATION]:0.0208:::R[COMPANY]:0.0194:::R[BUILDING]:0.0079:::
+T[RIVER]:0.4624:::T[PLACE]:0.3735:::T[OTHER]:0.101:::T[PERSON]:0.0375:::T[ORGANISATION]:0.0179:::T[BUILDING]:0.0077:::
+SW[NULL]:0.9938:::SW[and]:0.0062:::SW[the]:0:::SW[of]:0:::
+DICT[Y]:0.5136:::DICT[N]:0.4864:::
+Active Evidence: 53.149952
+Evidence: 83.0
+========================
+Token: Laguna De
+ID: laguna de
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[PLACE]:0.3852:::R[RIVER]:0.3835:::R[PERSON]:0.1917:::R[ORGANISATION]:0.0384:::R[PERIODICAL_LITERATURE]:0.0012:::
+T[RIVER]:0.6903:::T[PLACE]:0.3097:::T[ORGANISATION]:0:::
+SW[NULL]:0.9233:::SW[la]:0.0767:::SW[de]:0:::
+DICT[N]:0.9196:::DICT[Y]:0.0804:::
+Active Evidence: 13.036882
+Evidence: 15.0
+========================
+Token: Alte
+ID: alte
+L[EMPTY]:0.8672:::L[RIVER]:0.0664:::L[COMPANY]:0.0664:::
+R[RIVER]:0.3982:::R[PLACE]:0.1912:::R[EMPTY]:0.155:::R[MUSEUM]:0.1328:::R[PERSON]:0.1228:::
+T[RIVER]:0.597:::T[PLACE]:0.1816:::T[MUSEUM]:0.1328:::T[COMPANY]:0.0664:::T[OTHER]:0.0221:::
+SW[NULL]:1:::
+DICT[N]:0.9336:::DICT[Y]:0.0664:::
+Active Evidence: 15.056846
+Evidence: 16.0
+========================
+Token: Darent
+ID: darent
+L[EMPTY]:1:::L[RIVER]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[HOSPITAL]:0:::
+T[RIVER]:0.9718:::T[OTHER]:0.0029:::T[HOSPITAL]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0282:::DICT[Y]:0:::
+Active Evidence: 8.861587
+Evidence: 11.611401
+========================
+Token: Eisbach
+ID: eisbach
+L[EMPTY]:0.8583:::L[RIVER]:0.0201:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.1417:::
+Active Evidence: 7.0562
+Evidence: 7.0562
+========================
+Token: Sec
+ID: sec
+L[RIVER]:0.8964:::L[EMPTY]:0.1034:::L[PERSON]:0.0001:::L[UNIVERSITY]:0:::L[PLACE]:0:::L[COMPANY]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::R[ORGANISATION]:0:::R[UNIVERSITY]:0:::R[PLACE]:0:::
+T[RIVER]:0.8964:::T[OTHER]:0.1034:::T[PERSON]:0.0001:::T[ORGANISATION]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.8964:::DICT[N]:0.1036:::
+Active Evidence: 14.502457
+Evidence: 28.0
+========================
+Token: Cu
+ID: cu
+L[RIVER]:0.8942:::L[EMPTY]:0.1057:::L[PERSON]:0.0002:::
+R[RIVER]:0.7695:::R[PERSON]:0.1262:::R[EMPTY]:0.0626:::R[ORGANISATION]:0.0417:::R[COMPANY]:0:::R[PLACE]:0:::
+T[RIVER]:0.8942:::T[OTHER]:0.0626:::T[ORGANISATION]:0.043:::T[PLACE]:0.0002:::T[UNIVERSITY]:0:::
+SW[NULL]:0.8582:::SW[ap]:0.1418:::
+DICT[Y]:0.8529:::DICT[N]:0.1471:::
+Active Evidence: 23.959532
+Evidence: 66.0
+========================
+Token: Reservoir
+ID: reservoir
+L[PLACE]:0.0298:::L[RIVER]:0.0278:::L[PERSON]:0.0226:::L[EMPTY]:0.0171:::L[BUILDING]:0.0018:::L[COMPANY]:0.0016:::
+R[EMPTY]:0.9979:::R[PLACE]:0.0001:::R[DISEASE]:0.0001:::R[PERSON]:0:::R[ORGANISATION]:0:::R[BUILDING]:0:::
+T[RIVER]:0.1758:::T[PLACE]:0.0709:::T[BUILDING]:0.0005:::T[OTHER]:0.0002:::T[EVENT]:0:::
+SW[NULL]:0.9931:::SW[de]:0.0002:::SW[and]:0.0001:::SW[on]:0.0001:::SW[a]:0.0001:::SW[del]:0.0001:::
+DICT[N]:0.6851:::DICT[Y]:0.3014:::
+Active Evidence: 752.93665
+Evidence: 796.2084
+========================
+Token: Tarn
+ID: tarn
+L[EMPTY]:0.188:::L[RIVER]:0.0603:::L[PLACE]:0.0451:::L[PERSON]:0.0253:::L[ORGANISATION]:0.02:::L[UNIVERSITY]:0.0185:::
+R[EMPTY]:0.9588:::R[RIVER]:0.01:::R[PERSON]:0:::R[PLACE]:0:::R[MOUNTAIN]:0:::
+T[RIVER]:0.5345:::T[PLACE]:0.1126:::T[OTHER]:0.005:::T[PERSON]:0.0003:::T[MOUNTAIN]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5466:::DICT[Y]:0.327:::
+Active Evidence: 24.387682
+Evidence: 36.0812
+========================
+Token: Baggersee
+ID: baggersee
+L[RIVER]:0.7197:::L[EMPTY]:0.2803:::
+R[EMPTY]:0.7197:::R[PERSON]:0.1404:::R[PLACE]:0.1399:::
+T[RIVER]:1:::
+SW[NULL]:1:::SW[du]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 6.947294
+Evidence: 8.0
+========================
+Token: Tahoe
+ID: tahoe
+L[EMPTY]:0.9999:::L[PLACE]:0:::L[PERSON]:0:::L[MOUNTAIN]:0:::
+R[EMPTY]:0.9945:::R[PERSON]:0.0002:::R[EVENT]:0.0001:::R[PLACE]:0:::R[AIRLINE]:0:::R[COMPANY]:0:::
+T[RIVER]:0.841:::T[OTHER]:0.099:::T[PLACE]:0.0003:::T[AIRLINE]:0:::T[BUILDING]:0:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0653:::DICT[Y]:0.0049:::
+Active Evidence: 15.49232
+Evidence: 34.4056
+========================
+Token: Thames
+ID: thames
+L[EMPTY]:0.8731:::L[PLACE]:0.0032:::L[COMPANY]:0.0016:::L[PERSON]:0.0012:::L[RIVER]:0:::L[BRIDGE]:0:::
+R[EMPTY]:0.9537:::R[COMPANY]:0.0014:::R[PLACE]:0.0007:::R[ORGANISATION]:0:::R[PERSON]:0:::R[DISEASE]:0:::
+T[RIVER]:0.6781:::T[OTHER]:0.007:::T[PLACE]:0.0038:::T[COMPANY]:0.0031:::T[PERSON]:0.0012:::T[ORGANISATION]:0.0001:::
+SW[NULL]:0.9326:::SW[on]:0.0032:::SW[of]:0:::SW[the]:0:::SW[and]:0:::SW[a]:0:::
+DICT[N]:0.3177:::DICT[Y]:0.0043:::
+Active Evidence: 29.69666
+Evidence: 74.1356
+========================
+Token: Grande De
+ID: grande de
+L[RIVER]:0.7135:::L[PLACE]:0.2865:::L[EMPTY]:0:::
+R[PLACE]:0.4192:::R[RIVER]:0.3583:::R[ISLAND]:0.0897:::R[ORGANISATION]:0.0864:::R[PERSON]:0.0463:::R[MOUNTAIN]:0:::
+T[RIVER]:0.803:::T[PLACE]:0.1966:::T[ISLAND]:0.0004:::
+SW[de]:0.9983:::SW[la]:0.0013:::SW[del]:0.0004:::SW[NULL]:0:::
+DICT[Y]:0.8601:::DICT[N]:0.1399:::
+Active Evidence: 11.162728
+Evidence: 18.0
+========================
+Token: Navigation
+ID: navigation
+L[RIVER]:0.2691:::L[PLACE]:0.2407:::L[PERSON]:0.2013:::L[COMPANY]:0.1191:::L[EMPTY]:0.0781:::L[ORGANISATION]:0.0521:::
+R[EMPTY]:0.9957:::R[COMPANY]:0.0042:::R[PLACE]:0.0001:::R[RIVER]:0:::R[AWARD]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.6748:::T[COMPANY]:0.1299:::T[OTHER]:0.0781:::T[ORGANISATION]:0.0396:::T[PLACE]:0.039:::T[BUILDING]:0.0385:::
+SW[NULL]:0.6362:::SW[and]:0.2733:::SW[of]:0.0781:::SW[de]:0.0123:::SW[at]:0.0001:::
+DICT[N]:0.8299:::DICT[Y]:0.1701:::
+Active Evidence: 25.619259
+Evidence: 61.0
+========================
+Token: Laguna Del
+ID: laguna del
+L[EMPTY]:1:::
+R[PERSON]:0.6416:::R[PLACE]:0.1962:::R[RIVER]:0.1283:::R[ORGANISATION]:0.0339:::
+T[RIVER]:0.7699:::T[MOUNTAIN]:0.1283:::T[PLACE]:0.1018:::
+SW[NULL]:1:::
+DICT[N]:0.7699:::DICT[Y]:0.2301:::
+Active Evidence: 7.7923684
+Evidence: 8.0
+========================
+Token: Danube
+ID: danube
+L[EMPTY]:1:::L[PLACE]:0:::L[RIVER]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9712:::R[PLACE]:0.001:::R[UNIVERSITY]:0.0007:::R[ORGANISATION]:0.0002:::R[COMPANY]:0:::R[BRIDGE]:0:::
+T[RIVER]:0.6715:::T[PLACE]:0.1009:::T[PERSON]:0.0812:::T[OTHER]:0.008:::T[UNIVERSITY]:0.0015:::T[AIRLINE]:0.0002:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.1461:::DICT[Y]:0.0011:::
+Active Evidence: 16.183704
+Evidence: 29.8016
+========================
+Token: Vistula
+ID: vistula
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[UNIVERSITY]:0:::R[BUILDING]:0:::
+T[RIVER]:0.8892:::T[OTHER]:0.0123:::T[PLACE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.1108:::DICT[Y]:0:::
+Active Evidence: 9.028774
+Evidence: 15.028399
+========================
+Token: Bayside
+ID: bayside
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.9523:::R[PERSON]:0.0029:::R[PLACE]:0.0002:::R[ORGANISATION]:0:::R[BUILDING]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.622:::T[PLACE]:0.3153:::T[OTHER]:0.0021:::T[ORGANISATION]:0:::T[BUILDING]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[and]:0:::SW[of]:0:::
+DICT[Y]:0.0467:::DICT[N]:0.0335:::
+Active Evidence: 15.387031
+Evidence: 25.152802
+========================
+Token: Loire
+ID: loire
+L[EMPTY]:0.9266:::L[EVENT]:0.0015:::L[ORGANISATION]:0.0015:::L[MUSEUM]:0.0003:::L[PERSON]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.9663:::R[PERSON]:0.0015:::R[PLACE]:0:::R[EVENT]:0:::R[ORGANISATION]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:0.4442:::T[PLACE]:0.207:::T[PERSON]:0.068:::T[OTHER]:0.0081:::T[EVENT]:0.0015:::T[ORGANISATION]:0.0015:::
+SW[NULL]:0.9606:::SW[de]:0.0018:::SW[du]:0:::
+DICT[N]:0.2869:::DICT[Y]:0:::
+Active Evidence: 29.657063
+Evidence: 47.147
+========================
+Token: Bay of
+ID: bay of
+L[EMPTY]:0.9723:::L[COMPANY]:0.0259:::L[EVENT]:0.0018:::L[ORGANISATION]:0:::L[PERSON]:0:::L[PLACE]:0:::
+R[PLACE]:0.6095:::R[RIVER]:0.1326:::R[PERSON]:0.0663:::R[COMPANY]:0.0443:::R[BUILDING]:0.0442:::R[ISLAND]:0.0419:::
+T[RIVER]:0.4421:::T[PLACE]:0.3939:::T[ORGANISATION]:0.046:::T[EVENT]:0.0459:::T[PERIODICAL_LITERATURE]:0.0436:::T[COMPANY]:0.0259:::
+SW[NULL]:0.9722:::SW[of]:0.0259:::SW[in]:0.0018:::SW[for]:0.0001:::SW[and]:0:::
+DICT[N]:0.554:::DICT[Y]:0.446:::
+Active Evidence: 22.618294
+Evidence: 31.0
+========================
+Token: Yamuna
+ID: yamuna
+L[EMPTY]:1:::L[ORGANISATION]:0:::L[PLACE]:0:::
+R[EMPTY]:0.8881:::R[PERSON]:0.0119:::R[PLACE]:0:::R[ORGANISATION]:0:::R[ROAD]:0:::R[BRIDGE]:0:::
+T[RIVER]:0.8881:::T[PERSON]:0.0119:::T[PLACE]:0:::T[ROAD]:0:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1118:::DICT[Y]:0.0001:::
+Active Evidence: 9.4810915
+Evidence: 17.4204
+========================
+Token: Balkhash
+ID: balkhash
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[AIRPORT]:0:::
+T[RIVER]:0.7297:::T[PLACE]:0.2205:::T[OTHER]:0.0047:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0499:::DICT[Y]:0:::
+Active Evidence: 10.027154
+Evidence: 14.5268
+========================
+Token: Nedre
+ID: nedre
+L[EMPTY]:1:::
+R[RIVER]:0.5987:::R[PLACE]:0.4013:::
+T[RIVER]:0.5987:::T[PLACE]:0.3962:::T[BUILDING]:0.0051:::
+SW[NULL]:1:::
+DICT[N]:0.8951:::DICT[Y]:0.1049:::
+Active Evidence: 10.021286
+Evidence: 11.0
+========================
+Token: Baikal
+ID: baikal
+L[EMPTY]:0.9966:::L[COMPANY]:0.0002:::L[PLACE]:0:::
+R[EMPTY]:0.9998:::R[PLACE]:0:::R[AIRLINE]:0:::R[MOUNTAIN]:0:::
+T[RIVER]:0.5295:::T[OTHER]:0.3028:::T[PERIODICAL_LITERATURE]:0.0002:::T[ROAD]:0:::T[AIRLINE]:0:::T[MOUNTAIN]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2486:::DICT[Y]:0.0035:::
+Active Evidence: 18.44144
+Evidence: 29.7918
+========================
+Token: Sence
+ID: sence
+L[EMPTY]:0.8694:::L[PERSON]:0.0178:::L[RIVER]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.8259:::T[PERSON]:0.0178:::T[OTHER]:0.0059:::
+SW[NULL]:1:::
+DICT[N]:0.1741:::DICT[Y]:0:::
+Active Evidence: 7.6600437
+Evidence: 10.3266
+========================
+Token: Rivulet
+ID: rivulet
+L[RIVER]:0.5987:::L[PLACE]:0.3118:::L[EMPTY]:0.0748:::L[ORGANISATION]:0.0146:::
+R[EMPTY]:1:::R[PLACE]:0:::R[BUILDING]:0:::
+T[RIVER]:0.9252:::T[OTHER]:0.0748:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9708:::DICT[Y]:0.0292:::
+Active Evidence: 6.6809134
+Evidence: 9.0
+========================
+Token: Brahmaputra
+ID: brahmaputra
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[EVENT]:0:::
+T[RIVER]:0.9213:::T[OTHER]:0.0115:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0786:::DICT[Y]:0:::
+Active Evidence: 6.357908
+Evidence: 7.8576
+========================
+Token: Titicaca
+ID: titicaca
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.8146:::T[OTHER]:0.0244:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1854:::DICT[Y]:0:::
+Active Evidence: 8.092169
+Evidence: 11.591801
+========================
+Token: Crucii
+ID: crucii
+L[RIVER]:0.8567:::L[PLACE]:0.1433:::L[PERSON]:0:::
+R[EMPTY]:0.8597:::R[RIVER]:0.1403:::
+T[RIVER]:0.8567:::T[PLACE]:0.1433:::
+SW[NULL]:1:::
+DICT[Y]:0.8567:::DICT[N]:0.1433:::
+Active Evidence: 6.9792676
+Evidence: 9.0
+========================
+Token: Graben
+ID: graben
+L[PERSON]:0.4001:::L[RIVER]:0.2457:::L[PLACE]:0.2454:::L[MOUNTAIN]:0.1088:::
+R[EMPTY]:1:::
+T[RIVER]:0.5182:::T[PERSON]:0.2365:::T[PLACE]:0.1635:::T[MOUNTAIN]:0.0818:::
+SW[NULL]:0.7635:::SW[von]:0.2365:::
+DICT[N]:0.9289:::DICT[Y]:0.0711:::
+Active Evidence: 12.2093315
+Evidence: 14.0
+========================
+Token: Stroudwater
+ID: stroudwater
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[RIVER]:0:::R[PLACE]:0:::R[BUILDING]:0:::
+T[RIVER]:1:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0001:::DICT[Y]:0:::
+Active Evidence: 5.9797006
+Evidence: 7.9792004
+========================
+Token: Wash
+ID: wash
+L[PLACE]:0.2906:::L[PERSON]:0.2617:::L[EMPTY]:0.2387:::L[RIVER]:0.1119:::L[COMPANY]:0.0426:::L[AIRPORT]:0.0321:::
+R[EMPTY]:0.8764:::R[PERSON]:0.0775:::R[EVENT]:0.0237:::R[PLACE]:0.0224:::R[MOUNTAIN]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.3852:::T[PLACE]:0.2916:::T[OTHER]:0.1267:::T[PERSON]:0.109:::T[COMPANY]:0.0874:::T[MOUNTAIN]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.5547:::DICT[Y]:0.4453:::
+Active Evidence: 31.130291
+Evidence: 47.0
+========================
+Token: Zambezi
+ID: zambezi
+L[EMPTY]:1:::L[AIRLINE]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9721:::R[PERSON]:0.0025:::R[AIRLINE]:0:::R[PLACE]:0:::R[COMPANY]:0:::R[GOVAGENCY]:0:::
+T[RIVER]:0.6612:::T[PERSON]:0.0767:::T[OTHER]:0.0213:::T[PLACE]:0.0025:::T[AIRLINE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2621:::DICT[Y]:0:::
+Active Evidence: 13.516919
+Evidence: 24.9736
+========================
+Token: Timok
+ID: timok
+L[EMPTY]:0.2757:::L[RIVER]:0.1447:::L[PLACE]:0.1433:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::
+T[RIVER]:1:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7243:::
+Active Evidence: 5.4960566
+Evidence: 6.5152
+========================
+Token: Beeke
+ID: beeke
+L[RIVER]:0.9225:::L[EMPTY]:0.0769:::L[PERSON]:0.0006:::
+R[EMPTY]:1:::
+T[RIVER]:0.9225:::T[OTHER]:0.0769:::T[PERSON]:0.0006:::
+SW[NULL]:1:::
+DICT[N]:0.8462:::DICT[Y]:0.1538:::
+Active Evidence: 6.5037947
+Evidence: 9.0
+========================
+Token: Lacs De
+ID: lacs de
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 5.0
+Evidence: 5.0
+========================
+Token: Kiessee
+ID: kiessee
+L[RIVER]:0.6001:::L[EMPTY]:0.3999:::
+R[EMPTY]:0.6001:::R[RIVER]:0.3:::R[PLACE]:0.0999:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.99898
+Evidence: 5.0
+========================
+Token: Caprei
+ID: caprei
+L[RIVER]:0.8571:::L[PLACE]:0.1429:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.8571:::T[PLACE]:0.1429:::
+SW[NULL]:1:::
+DICT[Y]:0.8571:::DICT[N]:0.1429:::
+Active Evidence: 7.0000033
+Evidence: 10.0
+========================
+Token: Flowage
+ID: flowage
+L[RIVER]:0.4011:::L[PLACE]:0.2996:::L[PERSON]:0.2001:::L[BUILDING]:0.0992:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.6011:::DICT[Y]:0.3989:::
+Active Evidence: 4.9862814
+Evidence: 5.0
+========================
+Token: Porcului
+ID: porcului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.8571:::DICT[N]:0.1429:::
+Active Evidence: 7.0000234
+Evidence: 13.0
+========================
+Token: Sindhu
+ID: sindhu
+L[EMPTY]:0.9976:::L[PERSON]:0.0002:::L[PERIODICAL_LITERATURE]:0:::
+R[EMPTY]:0.8581:::R[PERSON]:0.0154:::R[BUILDING]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.8556:::T[PERSON]:0.0156:::T[PERIODICAL_LITERATURE]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1443:::DICT[Y]:0:::
+Active Evidence: 9.621647
+Evidence: 20.232601
+========================
+Token: Laber
+ID: laber
+L[RIVER]:0.9553:::L[PERSON]:0.0447:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.9553:::T[PERSON]:0.0447:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 6.1877027
+Evidence: 9.0
+========================
+Token: Erie
+ID: erie
+L[EMPTY]:0.9855:::L[PLACE]:0.0002:::L[COMPANY]:0.0002:::L[MOUNTAIN]:0:::L[MUSEUM]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.9423:::R[ORGANISATION]:0.0006:::R[PERIODICAL_LITERATURE]:0.0006:::R[PLACE]:0.0002:::R[BUILDING]:0.0001:::R[PERSON]:0:::
+T[RIVER]:0.5659:::T[PLACE]:0.2335:::T[OTHER]:0.0035:::T[ORGANISATION]:0.0008:::T[PERIODICAL_LITERATURE]:0.0006:::T[AIRPORT]:0.0001:::
+SW[NULL]:1:::SW[and]:0:::SW[of]:0:::
+DICT[N]:0.1846:::DICT[Y]:0.0211:::
+Active Evidence: 46.48027
+Evidence: 148.9218
+========================
+Token: Bach an
+ID: bach an
+L[EMPTY]:1:::
+R[PERSON]:0.5:::R[RIVER]:0.4923:::R[PLACE]:0.0077:::
+T[RIVER]:0.9845:::T[PLACE]:0.0155:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 5.078553
+Evidence: 6.0
+========================
+Token: Stausee
+ID: stausee
+L[EMPTY]:0.6:::L[RIVER]:0.4:::L[PLACE]:0:::
+R[RIVER]:0.6:::R[EMPTY]:0.4:::R[PLACE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 5.0000114
+Evidence: 6.0
+========================
+Token: Tyresta
+ID: tyresta
+L[RIVER]:1:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6:::DICT[Y]:0.4:::
+Active Evidence: 5.000003
+Evidence: 6.0
+========================
+Token: Negru
+ID: negru
+L[RIVER]:0.8933:::L[EMPTY]:0.0893:::L[COMPANY]:0.0144:::L[PERSON]:0.003:::L[PLACE]:0:::
+R[EMPTY]:0.9107:::R[PLACE]:0.0893:::R[RIVER]:0:::
+T[RIVER]:0.8933:::T[PLACE]:0.0893:::T[PERSON]:0.0174:::
+SW[NULL]:1:::SW[di]:0:::
+DICT[Y]:0.8933:::DICT[N]:0.1067:::
+Active Evidence: 11.195075
+Evidence: 32.0
+========================
+Token: Qattara
+ID: qattara
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.8448:::R[DISEASE]:0.0299:::R[PLACE]:0:::
+T[RIVER]:0.91:::T[OTHER]:0.0173:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.1552:::DICT[N]:0.09:::
+Active Evidence: 5.5565877
+Evidence: 7.1942
+========================
+Token: Pond
+ID: pond
+L[PERSON]:0.0882:::L[PLACE]:0.0706:::L[EMPTY]:0.0593:::L[RIVER]:0.024:::L[BUILDING]:0.0073:::L[ORGANISATION]:0.0043:::
+R[EMPTY]:0.9863:::R[PLACE]:0.0013:::R[PERSON]:0.001:::R[ORGANISATION]:0.0004:::R[COMPANY]:0.0003:::R[EVENT]:0.0001:::
+T[RIVER]:0.1704:::T[PLACE]:0.1377:::T[OTHER]:0.0099:::T[PERSON]:0.0089:::T[BUILDING]:0.0014:::T[MOUNTAIN]:0:::
+SW[NULL]:0.9968:::SW[on]:0.0007:::SW[the]:0:::SW[and]:0:::
+DICT[Y]:0.5435:::DICT[N]:0.4458:::
+Active Evidence: 328.7827
+Evidence: 456.5244
+========================
+Token: Draw
+ID: draw
+L[PLACE]:0.2679:::L[EMPTY]:0.2544:::L[PERSON]:0.1897:::L[COMPANY]:0.126:::L[EVENT]:0.0438:::L[RIVER]:0.0422:::
+R[EMPTY]:0.9963:::R[EVENT]:0.0027:::R[PLACE]:0.0004:::R[ORGANISATION]:0.0004:::R[PERSON]:0.0002:::R[RIVER]:0:::
+T[RIVER]:0.4182:::T[OTHER]:0.2544:::T[BRIDGE]:0.2107:::T[PLACE]:0.0799:::T[BUILDING]:0.034:::T[EVENT]:0.0027:::
+SW[NULL]:1:::
+DICT[N]:0.7597:::DICT[Y]:0.2403:::
+Active Evidence: 23.716799
+Evidence: 42.0
+========================
+Token: Kaveri
+ID: kaveri
+L[EMPTY]:1:::
+R[EMPTY]:0.8668:::R[PERSON]:0.0182:::
+T[RIVER]:0.6753:::T[PERSON]:0.235:::
+SW[NULL]:1:::
+DICT[N]:0.1332:::
+Active Evidence: 7.2825785
+Evidence: 9.312201
+========================
+Token: Cauvery
+ID: cauvery
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.831:::T[OTHER]:0.0286:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.169:::DICT[Y]:0:::
+Active Evidence: 5.918205
+Evidence: 7.9182
+========================
+Token: Vacii
+ID: vacii
+L[RIVER]:1:::
+R[EMPTY]:0.8001:::R[RIVER]:0.1999:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.999572
+Evidence: 7.0
+========================
+Token: Alb
+ID: alb
+L[EMPTY]:0.2024:::L[RIVER]:0.1913:::L[PLACE]:0.0191:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.5559:::T[OTHER]:0.1021:::T[PLACE]:0.0191:::
+SW[NULL]:1:::
+DICT[Y]:0.7976:::
+Active Evidence: 13.791113
+Evidence: 26.791
+========================
+Token: Idel
+ID: idel
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:0.5366:::R[PERSON]:0.0832:::R[PLACE]:0:::
+T[RIVER]:0.5366:::T[PERSON]:0.0832:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4634:::
+Active Evidence: 8.515986
+Evidence: 9.5696
+========================
+Token: Valea
+ID: valea
+L[EMPTY]:1:::L[PLACE]:0:::L[BUILDING]:0:::
+R[RIVER]:0.8304:::R[PLACE]:0.1572:::R[PERSON]:0.0123:::R[COMPANY]:0.0001:::R[BUILDING]:0:::
+T[RIVER]:0.8135:::T[PLACE]:0.1865:::T[BUILDING]:0:::
+SW[NULL]:0.9528:::SW[ap]:0.021:::SW[a]:0.0162:::SW[le]:0.0055:::SW[du]:0.0045:::
+DICT[Y]:0.864:::DICT[N]:0.136:::
+Active Evidence: 154.16762
+Evidence: 1245.0
+========================
+Token: Rece
+ID: rece
+L[RIVER]:1:::L[EMPTY]:0:::L[PERSON]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::R[PERSON]:0:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 9.000189
+Evidence: 28.0
+========================
+Token: Schwarzer
+ID: schwarzer
+L[EMPTY]:0.9997:::L[PERSON]:0.0003:::
+R[PERSON]:0.652:::R[RIVER]:0.2449:::R[MOUNTAIN]:0.0553:::R[EMPTY]:0.0478:::
+T[RIVER]:0.6712:::T[MOUNTAIN]:0.281:::T[OTHER]:0.0475:::T[PERSON]:0.0003:::
+SW[NULL]:1:::
+DICT[Y]:0.5573:::DICT[N]:0.4427:::
+Active Evidence: 10.523275
+Evidence: 22.0
+========================
+Token: Neva
+ID: neva
+L[EMPTY]:0.9768:::L[PLACE]:0.0021:::
+R[EMPTY]:0.7934:::R[PERSON]:0.0188:::R[PLACE]:0.0002:::R[ORGANISATION]:0:::
+T[RIVER]:0.494:::T[OTHER]:0.1325:::T[PERSON]:0.019:::T[PLACE]:0.0021:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4149:::DICT[Y]:0.0018:::
+Active Evidence: 16.940243
+Evidence: 34.8806
+========================
+Token: Eurotas
+ID: eurotas
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.8922:::T[OTHER]:0.021:::
+SW[NULL]:1:::
+DICT[N]:0.1078:::
+Active Evidence: 4.6372004
+Evidence: 5.1372004
+========================
+Token: Lej Da
+ID: lej da
+L[EMPTY]:1:::
+R[RIVER]:0.75:::R[PLACE]:0.25:::
+T[RIVER]:1:::
+SW[NULL]:0.75:::SW[la]:0.25:::
+DICT[N]:1:::
+Active Evidence: 3.9999967
+Evidence: 4.0
+========================
+Token: Bach Von
+ID: bach von
+L[EMPTY]:1:::
+R[PERSON]:0.625:::R[RIVER]:0.375:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.75:::DICT[Y]:0.25:::
+Active Evidence: 3.9999242
+Evidence: 4.0
+========================
+Token: Rein Da
+ID: rein da
+L[EMPTY]:1:::
+R[RIVER]:0.5:::R[PLACE]:0.25:::R[PERSON]:0.25:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.999781
+Evidence: 4.0
+========================
+Token: Etang De
+ID: etang de
+L[EMPTY]:1:::
+R[RIVER]:0.875:::R[ORGANISATION]:0.125:::
+T[RIVER]:1:::
+SW[la]:0.7501:::SW[NULL]:0.2499:::
+DICT[N]:1:::
+Active Evidence: 3.9997187
+Evidence: 4.0
+========================
+Token: Millpond
+ID: millpond
+L[PLACE]:0.2812:::L[RIVER]:0.2189:::L[COMPANY]:0.2188:::L[PERSON]:0.2186:::L[BUILDING]:0.0624:::
+R[EMPTY]:1:::
+T[RIVER]:0.8752:::T[PLACE]:0.1248:::
+SW[NULL]:0.8752:::SW[and]:0.1248:::
+DICT[N]:0.6563:::DICT[Y]:0.3437:::
+Active Evidence: 4.5675545
+Evidence: 5.0
+========================
+Token: Ursului
+ID: ursului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.9998:::T[PLACE]:0.0002:::
+SW[NULL]:1:::
+DICT[Y]:0.8887:::DICT[N]:0.1113:::
+Active Evidence: 9.002206
+Evidence: 32.0
+========================
+Token: Canalul
+ID: canalul
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.9880438
+Evidence: 4.0
+========================
+Token: Bisericii
+ID: bisericii
+L[RIVER]:0.9998:::L[EMPTY]:0.0002:::
+R[EMPTY]:0.9998:::R[RIVER]:0.0002:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.0009947
+Evidence: 9.0
+========================
+Token: Meuse
+ID: meuse
+L[EMPTY]:0.8586:::L[PERSON]:0.0215:::L[PLACE]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::
+T[RIVER]:0.6119:::T[PLACE]:0.1761:::T[PERSON]:0.0215:::T[OTHER]:0.0107:::
+SW[NULL]:0.8589:::SW[de]:0.0214:::
+DICT[N]:0.212:::
+Active Evidence: 7.085455
+Evidence: 9.583401
+========================
+Token: Mulde
+ID: mulde
+L[PERSON]:0.5092:::L[RIVER]:0.2502:::L[PLACE]:0.2406:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.5092:::DICT[N]:0.4908:::
+Active Evidence: 3.9057562
+Evidence: 4.0
+========================
+Token: Bistrica
+ID: bistrica
+L[EMPTY]:0.2191:::L[PLACE]:0.1736:::L[RIVER]:0.081:::L[PERSON]:0.0203:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9221:::R[PLACE]:0.0274:::R[ORGANISATION]:0:::
+T[RIVER]:0.4479:::T[PLACE]:0.1943:::T[ORGANISATION]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.8588:::DICT[Y]:0:::
+Active Evidence: 13.041628
+Evidence: 21.8416
+========================
+Token: Onega
+ID: onega
+L[EMPTY]:0.8939:::L[PERSON]:0.0153:::L[PLACE]:0:::
+R[EMPTY]:0.8941:::R[AIRPORT]:0.0153:::R[RIVER]:0:::
+T[RIVER]:0.4982:::T[OTHER]:0.1821:::T[PERSON]:0.0153:::T[AIRPORT]:0.0153:::
+SW[NULL]:1:::
+DICT[N]:0.3709:::DICT[Y]:0:::
+Active Evidence: 9.438906
+Evidence: 13.937601
+========================
+Token: Weiher
+ID: weiher
+L[RIVER]:0.749:::L[PERSON]:0.251:::
+R[EMPTY]:1:::
+T[RIVER]:0.9987:::T[PERSON]:0.0013:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.005199
+Evidence: 5.0
+========================
+Token: Scurt
+ID: scurt
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.000001
+Evidence: 5.0
+========================
+Token: Indus
+ID: indus
+L[EMPTY]:0.9948:::L[ORGANISATION]:0.0005:::L[PERSON]:0:::L[AIRLINE]:0:::
+R[EMPTY]:0.8814:::R[COMPANY]:0.0077:::R[BUILDING]:0.0037:::R[PERSON]:0.0014:::R[AIRLINE]:0:::R[PLACE]:0:::
+T[RIVER]:0.5881:::T[OTHER]:0.0312:::T[COMPANY]:0.0119:::T[PERSON]:0.0014:::T[ROAD]:0:::T[PLACE]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.4068:::DICT[Y]:0.0052:::
+Active Evidence: 13.999345
+Evidence: 38.2326
+========================
+Token: Manimahesh
+ID: manimahesh
+L[EMPTY]:0.9247:::L[RIVER]:0.0149:::
+R[EMPTY]:0.9246:::R[PLACE]:0.0149:::R[MOUNTAIN]:0:::
+T[RIVER]:1:::T[MOUNTAIN]:0:::
+SW[NULL]:0.9247:::SW[and]:0.0149:::
+DICT[Y]:0.0754:::
+Active Evidence: 4.3989854
+Evidence: 7.0672
+========================
+Token: Trasimeno
+ID: trasimeno
+L[EMPTY]:0.7921:::L[PLACE]:0.0413:::
+R[EMPTY]:1:::
+T[RIVER]:0.7922:::T[PLACE]:0.0412:::
+SW[NULL]:1:::
+DICT[N]:0.2078:::DICT[Y]:0.0001:::
+Active Evidence: 5.099219
+Evidence: 7.039
+========================
+Token: Sacramento
+ID: sacramento
+L[EMPTY]:0.9001:::L[PERSON]:0.0032:::L[PLACE]:0.0012:::L[UNIVERSITY]:0.0001:::L[BUILDING]:0:::L[RIVER]:0:::
+R[EMPTY]:0.849:::R[ORGANISATION]:0.0034:::R[PERSON]:0.0019:::R[PLACE]:0.0008:::R[PERIODICAL_LITERATURE]:0.0006:::R[RIVER]:0:::
+T[RIVER]:0.4321:::T[PLACE]:0.1277:::T[OTHER]:0.0091:::T[ORGANISATION]:0.0048:::T[PERSON]:0.0024:::T[PERIODICAL_LITERATURE]:0.0019:::
+SW[NULL]:0.9997:::SW[del]:0:::SW[of]:0:::
+DICT[N]:0.3099:::DICT[Y]:0.1415:::
+Active Evidence: 38.567623
+Evidence: 125.1578
+========================
+Token: Odra
+ID: odra
+L[EMPTY]:1:::
+R[EMPTY]:0.5479:::R[PLACE]:0.0661:::R[ORGANISATION]:0.0364:::
+T[RIVER]:0.5479:::T[ORGANISATION]:0.0661:::T[PLACE]:0.0364:::
+SW[NULL]:1:::
+DICT[N]:0.4521:::
+Active Evidence: 6.227993
+Evidence: 6.4122
+========================
+Token: Chott
+ID: chott
+L[EMPTY]:0.9999:::L[PLACE]:0:::L[PERSON]:0:::
+R[PLACE]:0.5:::R[RIVER]:0.4017:::R[PERSON]:0.0983:::R[EMPTY]:0.0001:::
+T[RIVER]:0.7991:::T[PLACE]:0.2009:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.6025:::DICT[N]:0.3975:::
+Active Evidence: 4.9792438
+Evidence: 7.0
+========================
+Token: Satului
+ID: satului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.0000377
+Evidence: 23.0
+========================
+Token: Tso
+ID: tso
+L[EMPTY]:0.4827:::L[PERSON]:0.2439:::L[RIVER]:0.1825:::L[PLACE]:0.0909:::
+R[EMPTY]:0.6389:::R[PERSON]:0.1813:::R[RIVER]:0.0912:::R[PLACE]:0.0885:::
+T[RIVER]:0.4512:::T[PERSON]:0.4272:::T[OTHER]:0.1216:::
+SW[NULL]:1:::
+DICT[N]:0.8118:::DICT[Y]:0.1882:::
+Active Evidence: 10.960528
+Evidence: 18.0
+========================
+Token: Mediterranean
+ID: mediterranean
+L[EMPTY]:0.9978:::L[EVENT]:0.0001:::L[PLACE]:0:::L[ORGANISATION]:0:::L[AIRPORT]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.9823:::R[ORGANISATION]:0.0006:::R[EVENT]:0.0001:::R[AIRLINE]:0:::R[COMPANY]:0:::R[PLACE]:0:::
+T[RIVER]:0.4058:::T[EVENT]:0.3188:::T[OTHER]:0.0101:::T[ORGANISATION]:0:::T[AIRLINE]:0:::T[BUILDING]:0:::
+SW[NULL]:0.9998:::SW[at]:0:::SW[of]:0:::SW[for]:0:::SW[in]:0:::SW[and]:0:::
+DICT[N]:0.2694:::DICT[Y]:0.0156:::
+Active Evidence: 35.53284
+Evidence: 108.405
+========================
+Token: Repede
+ID: repede
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.0000095
+Evidence: 6.0
+========================
+Token: Sulm
+ID: sulm
+L[EMPTY]:0.9977:::L[PERSON]:0.0002:::L[PLACE]:0.0002:::
+R[EMPTY]:1:::
+T[RIVER]:0.9977:::T[PLACE]:0.0005:::
+SW[NULL]:0.9977:::SW[an]:0.0005:::
+DICT[N]:0.0023:::
+Active Evidence: 3.749557
+Evidence: 4.7408
+========================
+Token: Morii
+ID: morii
+L[RIVER]:0.7319:::L[EMPTY]:0.1569:::L[PLACE]:0.1046:::L[PERSON]:0.0067:::
+R[EMPTY]:0.9999:::R[PLACE]:0.0001:::R[RIVER]:0:::
+T[RIVER]:0.732:::T[OTHER]:0.1568:::T[PLACE]:0.1046:::T[PERSON]:0.0067:::
+SW[NULL]:1:::
+DICT[Y]:0.732:::DICT[N]:0.268:::
+Active Evidence: 9.564543
+Evidence: 29.0
+========================
+Token: Drin
+ID: drin
+L[EMPTY]:0.4825:::L[PERSON]:0.2048:::
+R[EMPTY]:1:::
+T[RIVER]:0.9135:::T[OTHER]:0.0342:::
+SW[NULL]:1:::
+DICT[Y]:0.5175:::DICT[N]:0.0865:::
+Active Evidence: 3.8553145
+Evidence: 4.527
+========================
+Token: Baltic
+ID: baltic
+L[EMPTY]:0.981:::L[PERSON]:0.0011:::L[ORGANISATION]:0.0002:::L[COMPANY]:0:::L[EVENT]:0:::L[PLACE]:0:::
+R[EMPTY]:0.8864:::R[PLACE]:0.003:::R[ORGANISATION]:0.002:::R[EVENT]:0.0013:::R[AIRLINE]:0.0013:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:0.5041:::T[PLACE]:0.0441:::T[OTHER]:0.024:::T[EVENT]:0.0026:::T[COMPANY]:0.0011:::T[ORGANISATION]:0.0002:::
+SW[NULL]:1:::SW[in]:0:::SW[and]:0:::SW[of]:0:::
+DICT[N]:0.4161:::DICT[Y]:0.0692:::
+Active Evidence: 26.555117
+Evidence: 99.6678
+========================
+Token: Potomac
+ID: potomac
+L[EMPTY]:0.9999:::L[PERSON]:0:::L[PLACE]:0:::L[BUILDING]:0:::L[ORGANISATION]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.8768:::R[PLACE]:0.0059:::R[RIVER]:0.0019:::R[ORGANISATION]:0.0014:::R[PERSON]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:0.5333:::T[ORGANISATION]:0.109:::T[OTHER]:0.0938:::T[BUILDING]:0.004:::T[PLACE]:0.0038:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:0.9999:::SW[on]:0:::SW[of]:0:::SW[and]:0:::
+DICT[N]:0.2448:::DICT[Y]:0.0513:::
+Active Evidence: 17.56468
+Evidence: 57.3646
+========================
+Token: Olt
+ID: olt
+L[EMPTY]:0.6453:::L[PERSON]:0.0425:::L[RIVER]:0.0425:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9176:::R[COMPANY]:0.0099:::R[PLACE]:0.0098:::R[ORGANISATION]:0:::R[RIVER]:0:::
+T[RIVER]:0.7403:::T[PERSON]:0.0425:::T[AIRLINE]:0.0197:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.437:::DICT[N]:0:::
+Active Evidence: 5.6399164
+Evidence: 10.1751995
+========================
+Token: Lui
+ID: lui
+L[RIVER]:0.2827:::L[EMPTY]:0.1567:::L[PERSON]:0.049:::L[PLACE]:0.0097:::L[ORGANISATION]:0.0059:::L[MOUNTAIN]:0.0056:::
+R[EMPTY]:0.1783:::R[PERSON]:0.1782:::R[RIVER]:0.1406:::R[PLACE]:0.0143:::R[MOUNTAIN]:0.0056:::R[ORGANISATION]:0.0056:::
+T[RIVER]:0.2825:::T[PERSON]:0.0899:::T[PERIODICAL_LITERATURE]:0.0186:::T[MOUNTAIN]:0.0161:::T[OTHER]:0.0094:::T[PLACE]:0.0068:::
+SW[NULL]:0.9732:::SW[on]:0.0056:::SW[to]:0.0056:::
+DICT[Y]:0.735:::DICT[N]:0.2464:::
+Active Evidence: 74.566185
+Evidence: 204.386
+========================
+Token: Winnipesaukee
+ID: winnipesaukee
+L[EMPTY]:0.9999:::L[PLACE]:0:::
+R[EMPTY]:1:::R[THEATRE]:0:::
+T[RIVER]:1:::T[THEATRE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 3.8260357
+Evidence: 5.8258
+========================
+Token: Wensum
+ID: wensum
+L[EMPTY]:1:::L[RIVER]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 3.809867
+Evidence: 5.8098
+========================
+Token: Chattahoochee
+ID: chattahoochee
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::R[ORGANISATION]:0:::R[PERIODICAL_LITERATURE]:0:::R[UNIVERSITY]:0:::R[RIVER]:0:::
+T[RIVER]:0.8524:::T[OTHER]:0.0218:::T[PLACE]:0:::T[ORGANISATION]:0:::T[PERIODICAL_LITERATURE]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1475:::DICT[Y]:0:::
+Active Evidence: 6.779758
+Evidence: 19.7794
+========================
+Token: Lagoa Da
+ID: lagoa da
+L[EMPTY]:1:::
+R[PLACE]:0.6652:::R[RIVER]:0.268:::R[PERSON]:0.0668:::
+T[RIVER]:0.6028:::T[PLACE]:0.3972:::
+SW[NULL]:0.5984:::SW[dos]:0.2012:::SW[de]:0.2004:::
+DICT[N]:1:::
+Active Evidence: 4.969959
+Evidence: 5.0
+========================
+Token: Godavari
+ID: godavari
+L[EMPTY]:1:::L[UNIVERSITY]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.8206:::R[ORGANISATION]:0.0356:::R[PLACE]:0:::R[BRIDGE]:0:::R[BUILDING]:0:::
+T[RIVER]:0.7301:::T[ORGANISATION]:0.0356:::T[OTHER]:0.018:::T[PLACE]:0:::T[BRIDGE]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2699:::DICT[Y]:0:::
+Active Evidence: 5.5251737
+Evidence: 10.034
+========================
+Token: Lupului
+ID: lupului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 6.0002785
+Evidence: 21.0
+========================
+Token: Snowy
+ID: snowy
+L[EMPTY]:1:::L[EVENT]:0:::L[BUILDING]:0:::L[PERSON]:0:::L[PLACE]:0:::
+R[EMPTY]:0.7928:::R[PERSON]:0.0206:::R[ORGANISATION]:0.0036:::R[MOUNTAIN]:0.0001:::R[PLACE]:0.0001:::R[RIVER]:0:::
+T[RIVER]:0.4551:::T[OTHER]:0.0399:::T[PERSON]:0.0099:::T[ORGANISATION]:0.0072:::T[COMPANY]:0.007:::T[ROAD]:0.0002:::
+SW[NULL]:1:::SW[de]:0:::
+DICT[N]:0.4051:::DICT[Y]:0.1398:::
+Active Evidence: 16.384928
+Evidence: 46.457
+========================
+Token: Garonne
+ID: garonne
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 3.4052002
+Evidence: 4.4052
+========================
+Token: Clear
+ID: clear
+L[EMPTY]:0.9098:::L[PERSON]:0.0477:::L[PLACE]:0.0424:::L[MOUNTAIN]:0.0001:::L[AIRPORT]:0:::L[EVENT]:0:::
+R[PLACE]:0.4416:::R[EMPTY]:0.2835:::R[RIVER]:0.1935:::R[PERSON]:0.0364:::R[BUILDING]:0.0211:::R[COMPANY]:0.0124:::
+T[RIVER]:0.3458:::T[PLACE]:0.3186:::T[OTHER]:0.1939:::T[PERSON]:0.072:::T[COMPANY]:0.063:::T[MOUNTAIN]:0.0028:::
+SW[NULL]:0.997:::SW[le]:0.003:::SW[a]:0:::SW[and]:0:::
+DICT[Y]:0.7375:::DICT[N]:0.2625:::
+Active Evidence: 40.13335
+Evidence: 126.0
+========================
+Token: Aluta
+ID: aluta
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.7605:::T[OTHER]:0.0574:::
+SW[NULL]:1:::
+DICT[N]:0.2395:::
+Active Evidence: 4.1752
+Evidence: 5.1752
+========================
+Token: Pielinen
+ID: pielinen
+L[EMPTY]:1:::
+R[EMPTY]:0.9989:::R[PLACE]:0.0002:::
+T[RIVER]:0.8682:::T[OTHER]:0.0302:::T[PLACE]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:0.1318:::
+Active Evidence: 3.82526
+Evidence: 5.3212
+========================
+Token: Morava
+ID: morava
+L[EMPTY]:0.3409:::L[PLACE]:0.1462:::L[PERSON]:0.0523:::L[RIVER]:0.0521:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9964:::R[PLACE]:0.0014:::R[EVENT]:0:::R[AIRPORT]:0:::R[ORGANISATION]:0:::R[PERSON]:0:::
+T[RIVER]:0.6807:::T[PLACE]:0.0777:::T[OTHER]:0.0434:::T[PERSON]:0.0003:::T[EVENT]:0:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4561:::DICT[Y]:0.3207:::
+Active Evidence: 7.2998414
+Evidence: 19.6294
+========================
+Token: Mahakam
+ID: mahakam
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[BRIDGE]:0:::R[PLACE]:0:::
+T[RIVER]:1:::T[BRIDGE]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 3.4006019
+Evidence: 5.4006004
+========================
+Token: Adyar
+ID: adyar
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[UNIVERSITY]:0:::R[DISEASE]:0:::R[PERSON]:0:::
+T[RIVER]:0.9999:::T[HOSPITAL]:0:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 3.399082
+Evidence: 5.3988
+========================
+Token: Popii
+ID: popii
+L[RIVER]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.0000114
+Evidence: 16.0
+========================
+Token: Maas
+ID: maas
+L[EMPTY]:0.1584:::L[PERSON]:0.133:::L[RIVER]:0.0136:::L[PLACE]:0.0111:::L[BUILDING]:0:::
+R[EMPTY]:0.9989:::R[PERSON]:0.0002:::R[PLACE]:0:::
+T[RIVER]:0.2886:::T[PERSON]:0.1332:::T[PLACE]:0.0001:::T[BUILDING]:0:::T[COMPANY]:0:::
+SW[NULL]:0.9999:::SW[de]:0:::SW[van]:0:::
+DICT[N]:0.7152:::DICT[Y]:0.1274:::
+Active Evidence: 27.547552
+Evidence: 65.3354
+========================
+Token: Au
+ID: au
+L[EMPTY]:0.6225:::L[RIVER]:0.2182:::L[PERSON]:0.053:::L[PLACE]:0.0468:::L[DISEASE]:0.0219:::L[THEATRE]:0.0218:::
+R[EMPTY]:0.4829:::R[PERSON]:0.1895:::R[PLACE]:0.1774:::R[COMPANY]:0.058:::R[ORGANISATION]:0.0467:::R[THEATRE]:0.0218:::
+T[RIVER]:0.2614:::T[PERSON]:0.2279:::T[OTHER]:0.181:::T[PLACE]:0.1425:::T[COMPANY]:0.0697:::T[BUILDING]:0.0681:::
+SW[NULL]:0.9516:::SW[de]:0.0265:::SW[du]:0.0218:::SW[in]:0:::SW[la]:0:::SW[and]:0:::
+DICT[N]:0.6415:::DICT[Y]:0.3585:::
+Active Evidence: 45.772163
+Evidence: 120.0
+========================
+Token: Seine
+ID: seine
+L[EMPTY]:0.7555:::L[PERSON]:0.0133:::L[EVENT]:0.01:::L[PLACE]:0.0083:::L[BUILDING]:0.0083:::L[RIVER]:0.005:::
+R[EMPTY]:0.9982:::R[RIVER]:0.0002:::R[DISEASE]:0.0002:::R[PERSON]:0:::R[COMPANY]:0:::
+T[RIVER]:0.4751:::T[OTHER]:0.057:::T[EVENT]:0.025:::T[BUILDING]:0.025:::T[PLACE]:0.0004:::
+SW[NULL]:0.7555:::SW[to]:0.025:::SW[de]:0.025:::
+DICT[N]:0.2786:::DICT[Y]:0.2464:::
+Active Evidence: 8.176985
+Evidence: 15.8848
+========================
+Token: Nahal
+ID: nahal
+L[EMPTY]:0.5488:::L[PLACE]:0.2964:::L[ORGANISATION]:0.1548:::
+R[EMPTY]:0.4512:::R[RIVER]:0.3096:::R[PERSON]:0.2392:::R[ORGANISATION]:0:::R[PLACE]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:0.4644:::T[PLACE]:0.2392:::T[ORGANISATION]:0.1548:::T[PERSON]:0.1416:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 6.460429
+Evidence: 9.0
+========================
+Token: Mersey
+ID: mersey
+L[EMPTY]:0.9879:::L[PERSON]:0.0019:::L[PLACE]:0:::L[RIVER]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.8428:::R[ORGANISATION]:0.0136:::R[PLACE]:0.0117:::R[PERSON]:0:::R[RIVER]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.4371:::T[OTHER]:0.0637:::T[ORGANISATION]:0.0195:::T[BRIDGE]:0.0059:::T[PLACE]:0.002:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.5256:::DICT[Y]:0.0373:::
+Active Evidence: 11.854508
+Evidence: 29.181
+========================
+Token: Hanveden
+ID: hanveden
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.6667:::DICT[Y]:0.3333:::
+Active Evidence: 3.0
+Evidence: 3.0
+========================
+Token: Fagului
+ID: fagului
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.0
+Evidence: 3.0
+========================
+Token: Noroios
+ID: noroios
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.0
+Evidence: 3.0
+========================
+Token: Fleuth
+ID: fleuth
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.0
+Evidence: 3.0
+========================
+Token: Lag Da
+ID: lag da
+L[EMPTY]:1:::
+R[RIVER]:0.6667:::R[PLACE]:0.3333:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.999986
+Evidence: 3.0
+========================
+Token: Warme
+ID: warme
+L[EMPTY]:1:::
+R[RIVER]:0.6669:::R[PLACE]:0.3331:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.998816
+Evidence: 3.0
+========================
+Token: Missouri
+ID: missouri
+L[EMPTY]:0.9794:::L[PLACE]:0.0003:::L[PERIODICAL_LITERATURE]:0:::L[COMPANY]:0:::L[UNIVERSITY]:0:::L[MOUNTAIN]:0:::
+R[EMPTY]:0.9445:::R[ORGANISATION]:0.0003:::R[PLACE]:0.0003:::R[PERSON]:0.0003:::R[EVENT]:0:::R[DISEASE]:0:::
+T[RIVER]:0.3685:::T[PLACE]:0.3492:::T[OTHER]:0.0262:::T[PERSON]:0.0002:::T[ORGANISATION]:0.0002:::T[EVENT]:0.0001:::
+SW[NULL]:0.9899:::SW[van]:0.0002:::SW[of]:0:::SW[and]:0:::SW[for]:0:::
+DICT[N]:0.2296:::DICT[Y]:0.0574:::
+Active Evidence: 83.26579
+Evidence: 409.3702
+========================
+Token: Bodensee
+ID: bodensee
+L[EMPTY]:0.9615:::L[PLACE]:0.0088:::
+R[EMPTY]:1:::
+T[RIVER]:0.838:::T[OTHER]:0.0281:::T[PLACE]:0.0088:::
+SW[NULL]:1:::
+DICT[N]:0.1236:::DICT[Y]:0.0385:::
+Active Evidence: 4.0469227
+Evidence: 7.3912
+========================
+Token: Ijssel
+ID: ijssel
+L[EMPTY]:0.3965:::L[PLACE]:0.0703:::L[PERSON]:0.0597:::L[BUILDING]:0.0467:::
+R[EMPTY]:0.9998:::R[PLACE]:0.0001:::
+T[RIVER]:0.6938:::T[PLACE]:0.0896:::T[PERSON]:0:::
+SW[NULL]:0.9999:::SW[a]:0:::SW[de]:0:::SW[van]:0:::
+DICT[Y]:0.3062:::DICT[N]:0.2976:::
+Active Evidence: 6.099549
+Evidence: 15.417
+========================
+Token: Muntelui
+ID: muntelui
+L[RIVER]:0.9974:::L[PLACE]:0.0026:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.0210404
+Evidence: 10.0
+========================
+Token: Youghiogheny
+ID: youghiogheny
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[COMPANY]:0:::R[RIVER]:0:::
+T[RIVER]:1:::T[BUILDING]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0:::
+Active Evidence: 3.2414172
+Evidence: 5.2414002
+========================
+Token: Lauter
+ID: lauter
+L[PERSON]:0.4926:::L[PLACE]:0.2712:::L[RIVER]:0.2362:::
+R[EMPTY]:1:::
+T[RIVER]:0.624:::T[PERSON]:0.2037:::T[PLACE]:0.1723:::
+SW[NULL]:0.8277:::SW[an]:0.1723:::
+DICT[N]:0.602:::DICT[Y]:0.398:::
+Active Evidence: 5.1521964
+Evidence: 9.0
+========================
+Token: Odden
+ID: odden
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 3.5923116
+Evidence: 7.5922003
+========================
+Token: Zasavica
+ID: zasavica
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 3.0374494
+Evidence: 4.0374002
+========================
+Token: Siepen
+ID: siepen
+L[RIVER]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.9999:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.00015
+Evidence: 4.0
+========================
+Token: Frumos
+ID: frumos
+L[RIVER]:0.5439:::L[PLACE]:0.1813:::L[PERIODICAL_LITERATURE]:0.1813:::L[EVENT]:0.0624:::L[COMPANY]:0.0311:::L[PERSON]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.5439:::T[PLACE]:0.1813:::T[PERIODICAL_LITERATURE]:0.1813:::T[EVENT]:0.0935:::T[PERSON]:0:::
+SW[NULL]:0.9065:::SW[of]:0.0935:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 5.5156636
+Evidence: 9.0
+========================
+Token: Tanganyika
+ID: tanganyika
+L[EMPTY]:1:::L[PLACE]:0:::L[COMPANY]:0:::L[UNIVERSITY]:0:::L[EVENT]:0:::
+R[EMPTY]:0.9991:::R[ORGANISATION]:0.0002:::R[EVENT]:0:::R[PLACE]:0:::
+T[RIVER]:0.6301:::T[OTHER]:0.07:::T[ORGANISATION]:0.0002:::T[UNIVERSITY]:0:::T[PLACE]:0:::T[EVENT]:0:::
+SW[NULL]:1:::SW[of]:0:::SW[for]:0:::
+DICT[N]:0.3699:::DICT[Y]:0.0001:::
+Active Evidence: 6.7751565
+Evidence: 18.2686
+========================
+Token: Tisza
+ID: tisza
+L[EMPTY]:0.4623:::L[PERSON]:0.1194:::L[PLACE]:0.0168:::
+R[EMPTY]:1:::
+T[RIVER]:0.4629:::T[PERSON]:0.136:::
+SW[NULL]:1:::
+DICT[Y]:0.3142:::DICT[N]:0.2235:::
+Active Evidence: 6.3779783
+Evidence: 9.9488
+========================
+Token: Poienii
+ID: poienii
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.0000134
+Evidence: 11.0
+========================
+Token: Ladoga
+ID: ladoga
+L[EMPTY]:0.9975:::L[PLACE]:0.0005:::L[BUILDING]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.7801:::T[OTHER]:0.0474:::T[PLACE]:0.0005:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2198:::DICT[Y]:0.0002:::
+Active Evidence: 4.597981
+Evidence: 10.5866
+========================
+Token: Oder
+ID: oder
+L[EMPTY]:0.6627:::L[PERSON]:0.0382:::L[PLACE]:0.0381:::L[RIVER]:0.0002:::L[EVENT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.5738:::T[PERSON]:0.0382:::T[PLACE]:0.0381:::T[OTHER]:0.0203:::T[EVENT]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.2589:::DICT[Y]:0.168:::
+Active Evidence: 5.9538474
+Evidence: 12.4122
+========================
+Token: Mic
+ID: mic
+L[EMPTY]:0.425:::L[RIVER]:0.4192:::L[PLACE]:0.1078:::L[PERSON]:0.0479:::L[EVENT]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.7127:::R[PERSON]:0.27:::R[PLACE]:0.0172:::R[RIVER]:0:::R[COMPANY]:0:::
+T[RIVER]:0.4312:::T[PERSON]:0.3232:::T[OTHER]:0.1377:::T[PLACE]:0.1078:::T[ORGANISATION]:0:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.5328:::DICT[Y]:0.4672:::
+Active Evidence: 27.829468
+Evidence: 128.0
+========================
+Token: Ocmulgee
+ID: ocmulgee
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 2.8974469
+Evidence: 3.8974001
+========================
+Token: Abai
+ID: abai
+L[EMPTY]:1:::
+R[EMPTY]:0.7617:::R[PERSON]:0.0616:::R[UNIVERSITY]:0:::R[PLACE]:0:::
+T[RIVER]:0.6823:::T[PERSON]:0.0616:::T[OTHER]:0.0205:::T[UNIVERSITY]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3177:::DICT[Y]:0:::
+Active Evidence: 4.1992574
+Evidence: 6.8652
+========================
+Token: Mahanadi
+ID: mahanadi
+L[EMPTY]:1:::L[EVENT]:0:::
+R[EMPTY]:1:::R[BRIDGE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.8962:::T[OTHER]:0.0268:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1038:::DICT[Y]:0:::
+Active Evidence: 3.2117333
+Evidence: 4.8784
+========================
+Token: Tief
+ID: tief
+L[RIVER]:0.9997:::L[PERSON]:0.0003:::
+R[EMPTY]:1:::
+T[RIVER]:0.9997:::T[PERSON]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.0009623
+Evidence: 5.0
+========================
+Token: Pangani
+ID: pangani
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[COMPANY]:0:::
+T[RIVER]:0.4449:::T[PLACE]:0.1619:::T[OTHER]:0.0769:::
+SW[NULL]:1:::
+DICT[N]:0.3932:::DICT[Y]:0:::
+Active Evidence: 6.7822127
+Evidence: 12.1154
+========================
+Token: Bow
+ID: bow
+L[EMPTY]:0.9135:::L[PERSON]:0.0032:::L[ORGANISATION]:0.0004:::L[PLACE]:0.0002:::L[BUILDING]:0:::L[RIVER]:0:::
+R[EMPTY]:0.8489:::R[PLACE]:0.0035:::R[PERSON]:0.0016:::R[ORGANISATION]:0.0009:::R[BRIDGE]:0.0005:::R[RIVER]:0:::
+T[RIVER]:0.2368:::T[UNIVERSITY]:0.1886:::T[PLACE]:0.1263:::T[OTHER]:0.0103:::T[BUILDING]:0.0021:::T[PERSON]:0.0004:::
+SW[NULL]:1:::SW[of]:0:::SW[de]:0:::
+DICT[N]:0.3212:::DICT[Y]:0.1758:::
+Active Evidence: 43.75259
+Evidence: 121.0084
+========================
+Token: Untere
+ID: untere
+L[EMPTY]:1:::
+R[RIVER]:0.9999:::R[BUILDING]:0.0001:::
+T[RIVER]:0.9999:::T[BUILDING]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.6387:::DICT[Y]:0.3613:::
+Active Evidence: 2.7689552
+Evidence: 4.0
+========================
+Token: Tisa
+ID: tisa
+L[EMPTY]:0.6634:::L[PLACE]:0.0422:::L[RIVER]:0.0422:::L[ORGANISATION]:0.0005:::L[PERSON]:0.0002:::
+R[EMPTY]:0.8285:::R[ORGANISATION]:0.0422:::R[PERSON]:0.0012:::R[RIVER]:0:::
+T[RIVER]:0.6588:::T[ORGANISATION]:0.043:::T[PLACE]:0.0422:::T[PERSON]:0.0012:::
+SW[NULL]:0.8332:::SW[la]:0.0422:::
+DICT[N]:0.3383:::DICT[Y]:0.1698:::
+Active Evidence: 5.994261
+Evidence: 17.9488
+========================
+Token: Isala
+ID: isala
+L[EMPTY]:1:::
+R[EMPTY]:0.7446:::R[PLACE]:0.0747:::R[BUILDING]:0:::
+T[RIVER]:0.617:::T[PLACE]:0.0747:::T[OTHER]:0.0374:::T[THEATRE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.383:::
+Active Evidence: 3.9176357
+Evidence: 5.417
+========================
+Token: Irtysh
+ID: irtysh
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[AIRLINE]:0:::
+T[RIVER]:0.9999:::T[AIRLINE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 2.7005677
+Evidence: 3.7001998
+========================
+Token: Corbului
+ID: corbului
+L[RIVER]:0.9999:::L[PLACE]:0.0001:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.9999:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:0.9999:::DICT[N]:0.0001:::
+Active Evidence: 3.0001771
+Evidence: 6.0
+========================
+Token: Prut
+ID: prut
+L[EMPTY]:0.7195:::L[PLACE]:0.0786:::L[PERSON]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::
+T[RIVER]:0.7195:::T[PLACE]:0.0786:::T[PERSON]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2805:::
+Active Evidence: 3.5661364
+Evidence: 5.566
+========================
+Token: Severn
+ID: severn
+L[EMPTY]:0.8545:::L[PLACE]:0.0147:::L[PERSON]:0.0054:::L[RIVER]:0:::L[EVENT]:0:::L[BUILDING]:0:::
+R[EMPTY]:0.826:::R[PERSON]:0.0167:::R[COMPANY]:0.0071:::R[PLACE]:0.0001:::R[ORGANISATION]:0:::R[BRIDGE]:0:::
+T[RIVER]:0.334:::T[OTHER]:0.0404:::T[PLACE]:0.0149:::T[PERSON]:0.0147:::T[COMPANY]:0.0143:::T[ORGANISATION]:0.0073:::
+SW[NULL]:0.8934:::SW[on]:0.0147:::SW[and]:0:::
+DICT[N]:0.664:::DICT[Y]:0.002:::
+Active Evidence: 18.759104
+Evidence: 60.265602
+========================
+Token: Drina
+ID: drina
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9978:::R[PLACE]:0.0004:::R[PERSON]:0.0001:::R[ORGANISATION]:0:::
+T[RIVER]:0.7655:::T[OTHER]:0.0541:::T[PLACE]:0.0004:::T[PERSON]:0.0001:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2345:::DICT[Y]:0:::
+Active Evidence: 4.304205
+Evidence: 11.2948
+========================
+Token: Pittwater
+ID: pittwater
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[LEGISLATURE]:0:::R[PLACE]:0:::R[ROAD]:0:::
+T[RIVER]:0.9999:::T[PLACE]:0:::T[ROAD]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 2.9197612
+Evidence: 5.9194
+========================
+Token: Speyerbach
+ID: speyerbach
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 2.5494
+Evidence: 2.5494
+========================
+Token: Ennerdale
+ID: ennerdale
+L[EMPTY]:1:::
+R[EMPTY]:0.9141:::R[PLACE]:0.0268:::
+T[RIVER]:0.8313:::T[OTHER]:0.0526:::
+SW[NULL]:1:::
+DICT[N]:0.1687:::DICT[Y]:0.0859:::
+Active Evidence: 2.9636793
+Evidence: 4.209
+========================
+Token: Forebay
+ID: forebay
+L[PLACE]:0.4415:::L[PERSON]:0.2935:::L[RIVER]:0.265:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.7053:::T[PLACE]:0.2947:::
+SW[NULL]:1:::
+DICT[N]:0.5597:::DICT[Y]:0.4403:::
+Active Evidence: 3.393389
+Evidence: 5.0
+========================
+Token: Feather
+ID: feather
+L[EMPTY]:0.7362:::L[PERSON]:0.0197:::L[PLACE]:0.0082:::
+R[EMPTY]:0.9982:::R[RIVER]:0.0001:::R[ORGANISATION]:0.0001:::R[PLACE]:0:::R[PERSON]:0:::R[BUILDING]:0:::
+T[RIVER]:0.1971:::T[PERSON]:0.1788:::T[OTHER]:0.0481:::T[ORGANISATION]:0.0002:::T[PLACE]:0:::T[HOSPITAL]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6241:::DICT[Y]:0.0971:::
+Active Evidence: 30.358313
+Evidence: 67.4646
+========================
+Token: Bradului
+ID: bradului
+L[RIVER]:0.9998:::L[PLACE]:0.0002:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.9998:::T[PLACE]:0.0002:::
+SW[NULL]:1:::
+DICT[Y]:0.9998:::DICT[N]:0.0002:::
+Active Evidence: 3.0005844
+Evidence: 7.0
+========================
+Token: Snake
+ID: snake
+L[EMPTY]:0.992:::L[PERSON]:0.0004:::
+R[EMPTY]:0.9747:::R[PERSON]:0.0013:::R[PLACE]:0:::R[MOUNTAIN]:0:::R[EVENT]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:0.1612:::T[OTHER]:0.0403:::T[PERSON]:0.0017:::T[PLACE]:0:::T[BUILDING]:0:::T[COMPANY]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.8358:::DICT[Y]:0.0031:::
+Active Evidence: 117.79699
+Evidence: 329.9838
+========================
+Token: Teifi
+ID: teifi
+L[EMPTY]:0.582:::L[PERSON]:0.068:::L[PLACE]:0.0508:::L[UNIVERSITY]:0.0018:::L[RIVER]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:0.582:::T[PERSON]:0.068:::T[PLACE]:0.0526:::
+SW[NULL]:0.8239:::SW[a]:0.0508:::
+DICT[N]:0.418:::DICT[Y]:0:::
+Active Evidence: 4.242511
+Evidence: 7.469
+========================
+Token: Troms
+ID: troms
+L[RIVER]:0.3994:::L[EMPTY]:0.2014:::L[ISLAND]:0.1997:::L[MOUNTAIN]:0.1996:::
+R[EMPTY]:0.7986:::R[COMPANY]:0.1997:::R[PERSON]:0.0017:::
+T[RIVER]:0.3994:::T[ISLAND]:0.3993:::T[COMPANY]:0.2014:::
+SW[NULL]:1:::
+DICT[N]:0.7986:::DICT[Y]:0.2014:::
+Active Evidence: 5.007885
+Evidence: 6.0
+========================
+Token: Agno
+ID: agno
+L[EMPTY]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 2.5318167
+Evidence: 3.5318
+========================
+Token: Sutlej
+ID: sutlej
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:0.5429:::T[OTHER]:0.1354:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4571:::
+Active Evidence: 4.375801
+Evidence: 7.3758
+========================
+Token: Orne
+ID: orne
+L[EMPTY]:0.9963:::L[PERSON]:0.0007:::
+R[EMPTY]:1:::R[PLACE]:0:::R[PERSON]:0:::
+T[RIVER]:0.6708:::T[PLACE]:0.3255:::T[PERSON]:0.0007:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0037:::DICT[Y]:0:::
+Active Evidence: 4.1262383
+Evidence: 9.1108
+========================
+Token: Stikine
+ID: stikine
+L[EMPTY]:1:::
+R[EMPTY]:0.7401:::R[PLACE]:0.077:::R[MOUNTAIN]:0.0003:::R[RIVER]:0:::
+T[RIVER]:0.6108:::T[PLACE]:0.0773:::T[OTHER]:0.0385:::
+SW[NULL]:1:::
+DICT[N]:0.3892:::DICT[Y]:0:::
+Active Evidence: 3.8647094
+Evidence: 6.3604
+========================
+Token: Schelde
+ID: schelde
+L[EMPTY]:0.9997:::L[PERSON]:0.0001:::
+R[EMPTY]:0.9997:::R[PERSON]:0.0001:::
+T[RIVER]:0.8288:::T[OTHER]:0.0499:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.1712:::
+Active Evidence: 2.9245732
+Evidence: 4.4238
+========================
+Token: Orinoco
+ID: orinoco
+L[EMPTY]:0.8192:::L[PERIODICAL_LITERATURE]:0.0464:::L[EVENT]:0:::
+R[EMPTY]:0.9096:::R[PERSON]:0.0232:::R[PLACE]:0:::
+T[RIVER]:0.2618:::T[OTHER]:0.1198:::T[PERIODICAL_LITERATURE]:0.0464:::T[PERSON]:0.0232:::T[PLACE]:0:::T[BRIDGE]:0:::
+SW[NULL]:0.8192:::SW[del]:0.0464:::
+DICT[N]:0.7382:::DICT[Y]:0:::
+Active Evidence: 11.063673
+Evidence: 19.897
+========================
+Token: Ural
+ID: ural
+L[EMPTY]:0.9984:::L[ORGANISATION]:0.0002:::L[PERSON]:0:::L[PLACE]:0:::
+R[EMPTY]:0.7332:::R[PERSON]:0.0349:::R[PLACE]:0.0002:::R[AIRLINE]:0:::R[MOUNTAIN]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.3371:::T[COMPANY]:0.1994:::T[PERSON]:0.0349:::T[OTHER]:0.0259:::T[ORGANISATION]:0.0002:::T[AIRLINE]:0:::
+SW[NULL]:1:::SW[and]:0:::SW[of]:0:::
+DICT[N]:0.4635:::DICT[Y]:0:::
+Active Evidence: 12.292534
+Evidence: 34.5952
+========================
+Token: Riachuelo
+ID: riachuelo
+L[EMPTY]:0.9864:::L[COMPANY]:0.0064:::L[PLACE]:0:::
+R[EMPTY]:0.2757:::R[RIVER]:0.2705:::R[PLACE]:0.0676:::R[ORGANISATION]:0:::
+T[RIVER]:0.3381:::T[OTHER]:0.2621:::T[COMPANY]:0.0064:::T[PLACE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.8345:::DICT[Y]:0:::
+Active Evidence: 6.9024835
+Evidence: 11.1424
+========================
+Token: Schwarze
+ID: schwarze
+L[EMPTY]:0.726:::L[MOUNTAIN]:0.2695:::L[PERSON]:0.0044:::
+R[RIVER]:0.3958:::R[MOUNTAIN]:0.2695:::R[EMPTY]:0.2672:::R[ORGANISATION]:0.066:::R[PERSON]:0.0015:::R[PLACE]:0:::
+T[RIVER]:0.3973:::T[MOUNTAIN]:0.3355:::T[PERSON]:0.1392:::T[OTHER]:0.128:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7969:::DICT[Y]:0.2031:::
+Active Evidence: 7.4207125
+Evidence: 17.0
+========================
+Token: Kalte
+ID: kalte
+L[EMPTY]:1:::
+R[RIVER]:0.5714:::R[MOUNTAIN]:0.2857:::R[EMPTY]:0.1429:::
+T[RIVER]:0.5714:::T[MOUNTAIN]:0.2857:::T[OTHER]:0.1429:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.5
+Evidence: 4.0
+========================
+Token: Tulbure
+ID: tulbure
+L[RIVER]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.000027
+Evidence: 8.0
+========================
+Token: Nistru
+ID: nistru
+L[EMPTY]:0.7663:::L[PLACE]:0.0772:::L[ORGANISATION]:0:::
+R[EMPTY]:0.7663:::R[ORGANISATION]:0.0772:::
+T[RIVER]:0.4741:::T[ORGANISATION]:0.0772:::T[PLACE]:0.0772:::T[OTHER]:0.0193:::
+SW[NULL]:1:::
+DICT[N]:0.5259:::
+Active Evidence: 4.278431
+Evidence: 6.0284
+========================
+Token: Pliva
+ID: pliva
+L[EMPTY]:0.6695:::L[PERSON]:0.1092:::
+R[EMPTY]:1:::
+T[RIVER]:0.6695:::T[PERSON]:0.1092:::
+SW[NULL]:1:::
+DICT[N]:0.3305:::
+Active Evidence: 3.026
+Evidence: 3.026
+========================
+Token: Bhagirathi
+ID: bhagirathi
+L[EMPTY]:1:::
+R[EMPTY]:0.615:::R[PERSON]:0.1271:::
+T[RIVER]:0.615:::T[PERSON]:0.1271:::
+SW[NULL]:1:::
+DICT[N]:0.385:::
+Active Evidence: 3.2983744
+Evidence: 4.0285997
+========================
+Token: Loch an
+ID: loch an
+L[EMPTY]:1:::
+R[RIVER]:0.6667:::R[PLACE]:0.3333:::
+T[RIVER]:0.6667:::T[PLACE]:0.3333:::
+SW[NULL]:1:::
+DICT[N]:0.6667:::DICT[Y]:0.3333:::
+Active Evidence: 3.0
+Evidence: 3.0
+========================
+Token: Etang
+ID: etang
+L[EMPTY]:1:::
+R[PERSON]:0.6667:::R[RIVER]:0.3333:::
+T[RIVER]:0.6667:::T[PERSON]:0.3333:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.9999986
+Evidence: 3.0
+========================
+Token: Kuskokwim
+ID: kuskokwim
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.766:::T[OTHER]:0.0735:::
+SW[NULL]:1:::
+DICT[N]:0.234:::
+Active Evidence: 2.8492665
+Evidence: 4.1826
+========================
+Token: Tees
+ID: tees
+L[EMPTY]:0.8043:::L[COMPANY]:0.0449:::L[ORGANISATION]:0.0004:::L[PLACE]:0.0003:::L[RIVER]:0:::L[PERSON]:0:::
+R[EMPTY]:0.704:::R[PLACE]:0.0525:::R[ORGANISATION]:0.0166:::R[BRIDGE]:0:::R[AIRPORT]:0:::R[COMPANY]:0:::
+T[RIVER]:0.4737:::T[ORGANISATION]:0.077:::T[COMPANY]:0.0337:::T[OTHER]:0.0084:::T[BRIDGE]:0.0027:::T[PLACE]:0.0011:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0.2964:::DICT[N]:0.23:::
+Active Evidence: 6.934542
+Evidence: 21.284199
+========================
+Token: Babei
+ID: babei
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.6667:::DICT[Y]:0.3333:::
+Active Evidence: 3.0000012
+Evidence: 9.0
+========================
+Token: Sepik
+ID: sepik
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.7903:::T[OTHER]:0.0656:::
+SW[NULL]:1:::
+DICT[N]:0.2097:::
+Active Evidence: 2.7813332
+Evidence: 4.198
+========================
+Token: Boului
+ID: boului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.0000124
+Evidence: 19.0
+========================
+Token: Dranse
+ID: dranse
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.5682:::R[RIVER]:0.1865:::R[PLACE]:0:::R[ORGANISATION]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::SW[de]:0:::
+DICT[Y]:0.4318:::
+Active Evidence: 2.315803
+Evidence: 3.3158002
+========================
+Token: Mease
+ID: mease
+L[EMPTY]:1:::L[RIVER]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9999:::R[HOSPITAL]:0:::R[ORGANISATION]:0:::R[PLACE]:0:::
+T[RIVER]:0.9999:::T[HOSPITAL]:0:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::DICT[N]:0:::
+Active Evidence: 2.6806068
+Evidence: 6.6804
+========================
+Token: Liard
+ID: liard
+L[EMPTY]:0.8263:::L[PERSON]:0.0308:::L[PLACE]:0:::L[MOUNTAIN]:0:::
+R[EMPTY]:0.9795:::R[PLACE]:0.0036:::R[RIVER]:0:::R[ORGANISATION]:0:::R[AIRPORT]:0:::
+T[RIVER]:0.4663:::T[OTHER]:0.3395:::T[PERSON]:0.0308:::T[PLACE]:0.0034:::T[ROAD]:0.0002:::T[ISLAND]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.1737:::DICT[Y]:0.0205:::
+Active Evidence: 5.76415
+Evidence: 14.6446
+========================
+Token: Water of
+ID: water of
+L[EMPTY]:1:::
+R[EMPTY]:0.4:::R[PERSON]:0.3:::R[PLACE]:0.3:::
+T[RIVER]:0.6:::T[OTHER]:0.4:::
+SW[NULL]:1:::
+DICT[N]:0.7:::DICT[Y]:0.3:::
+Active Evidence: 3.3333206
+Evidence: 5.0
+========================
+Token: Obere
+ID: obere
+L[EMPTY]:1:::
+R[RIVER]:0.4773:::R[MOUNTAIN]:0.2613:::R[PLACE]:0.2613:::R[BUILDING]:0.0001:::
+T[RIVER]:0.4773:::T[MOUNTAIN]:0.2613:::T[PLACE]:0.2613:::T[BUILDING]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.7386:::DICT[Y]:0.2614:::
+Active Evidence: 3.8271217
+Evidence: 5.0
+========================
+Token: Conchos
+ID: conchos
+L[EMPTY]:0.7558:::L[PLACE]:0.1046:::L[PERSON]:0.0007:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.5947:::T[OTHER]:0.1734:::T[PLACE]:0.0014:::
+SW[NULL]:0.9969:::SW[de]:0.0014:::
+DICT[N]:0.6464:::
+Active Evidence: 3.7295547
+Evidence: 7.3188
+========================
+Token: Ems
+ID: ems
+L[EMPTY]:0.8182:::L[RIVER]:0.0461:::L[PLACE]:0.0001:::L[PERSON]:0:::L[EVENT]:0:::
+R[EMPTY]:0.805:::R[ORGANISATION]:0.0465:::R[PLACE]:0.0021:::R[PERIODICAL_LITERATURE]:0.0009:::R[COMPANY]:0:::
+T[RIVER]:0.4753:::T[OTHER]:0.2374:::T[PLACE]:0.0478:::T[COMPANY]:0.0018:::T[PERSON]:0:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:1:::SW[von]:0:::
+DICT[N]:0.4518:::DICT[Y]:0.0157:::
+Active Evidence: 5.513131
+Evidence: 13.935801
+========================
+Token: Havel
+ID: havel
+L[EMPTY]:0.4098:::L[PERSON]:0.1509:::L[PLACE]:0.004:::L[AIRPORT]:0:::
+R[EMPTY]:0.9993:::R[PERSON]:0.0002:::R[AIRPORT]:0:::
+T[RIVER]:0.4091:::T[PERSON]:0.147:::T[PLACE]:0.008:::T[AIRPORT]:0:::
+SW[NULL]:0.9694:::SW[an]:0.008:::
+DICT[N]:0.2992:::DICT[Y]:0.2917:::
+Active Evidence: 6.8715887
+Evidence: 18.8112
+========================
+Token: Brazos
+ID: brazos
+L[EMPTY]:0.8411:::L[PLACE]:0.0425:::L[BUILDING]:0:::L[BRIDGE]:0:::L[ORGANISATION]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9655:::R[PLACE]:0.0092:::R[COMPANY]:0:::R[RIVER]:0:::R[GOVAGENCY]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.6332:::T[OTHER]:0.0889:::T[PLACE]:0.0092:::T[COMPANY]:0.0001:::T[ORGANISATION]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::SW[at]:0:::SW[of]:0:::
+DICT[N]:0.4912:::DICT[Y]:0.0345:::
+Active Evidence: 5.768009
+Evidence: 24.7358
+========================
+Token: Tiber
+ID: tiber
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:0.9999:::R[COMPANY]:0:::R[PLACE]:0:::
+T[RIVER]:0.8772:::T[OTHER]:0.0362:::T[PLACE]:0:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1227:::DICT[Y]:0.0001:::
+Active Evidence: 2.7186544
+Evidence: 6.3848
+========================
+Token: Cerbului
+ID: cerbului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.0000224
+Evidence: 11.0
+========================
+Token: Calului
+ID: calului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.0000036
+Evidence: 11.0
+========================
+Token: Hotarului
+ID: hotarului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.0000033
+Evidence: 11.0
+========================
+Token: Tombigbee
+ID: tombigbee
+L[EMPTY]:1:::
+R[EMPTY]:0.9997:::R[PLACE]:0.0001:::R[ORGANISATION]:0:::
+T[RIVER]:0.6768:::T[OTHER]:0.1043:::T[BUILDING]:0.0001:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3229:::DICT[Y]:0.0003:::
+Active Evidence: 3.0970001
+Evidence: 6.0962
+========================
+Token: Cruce
+ID: cruce
+L[RIVER]:0.6167:::L[PERSON]:0.3833:::
+R[EMPTY]:1:::
+T[RIVER]:0.6167:::T[PERSON]:0.3833:::
+SW[de]:0.9976:::SW[NULL]:0.0024:::
+DICT[Y]:0.6184:::DICT[N]:0.3816:::
+Active Evidence: 3.2431078
+Evidence: 6.0
+========================
+Token: Ullswater
+ID: ullswater
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.5395:::T[PLACE]:0.4605:::T[PERSON]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 3.615842
+Evidence: 6.6158
+========================
+Token: Turlough
+ID: turlough
+L[EMPTY]:0.5107:::L[RIVER]:0.4893:::
+R[PERSON]:0.5107:::R[EMPTY]:0.4893:::
+T[RIVER]:0.4893:::T[PERSON]:0.4603:::T[MOUNTAIN]:0.0504:::
+SW[NULL]:1:::
+DICT[N]:0.6094:::DICT[Y]:0.3906:::
+Active Evidence: 4.087134
+Evidence: 8.0
+========================
+Token: Prahova
+ID: prahova
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:0.6471:::R[ORGANISATION]:0.1245:::
+T[RIVER]:0.6471:::T[ORGANISATION]:0.1245:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.3529:::
+Active Evidence: 2.8338485
+Evidence: 3.8338
+========================
+Token: Sudbrook
+ID: sudbrook
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.6696:::R[PLACE]:0.0638:::R[BUILDING]:0.044:::R[UNIVERSITY]:0:::
+T[RIVER]:0.6696:::T[BUILDING]:0.1078:::T[PERSON]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.3304:::DICT[N]:0:::
+Active Evidence: 3.0851655
+Evidence: 6.0657997
+========================
+Token: Volta
+ID: volta
+L[EMPTY]:0.6599:::L[PERSON]:0.2987:::L[PLACE]:0.0414:::
+R[EMPTY]:0.4587:::R[PLACE]:0.324:::R[PERSON]:0.0902:::R[THEATRE]:0.0678:::R[EVENT]:0.0452:::R[COMPANY]:0.0137:::
+T[RIVER]:0.2075:::T[PLACE]:0.2035:::T[EVENT]:0.2031:::T[OTHER]:0.1187:::T[COMPANY]:0.0779:::T[THEATRE]:0.0678:::
+SW[NULL]:0.9319:::SW[de]:0.0678:::SW[and]:0.0003:::SW[of]:0:::
+DICT[N]:0.6728:::DICT[Y]:0.3272:::
+Active Evidence: 14.74713
+Evidence: 34.0
+========================
+Token: Guadalquivir
+ID: guadalquivir
+L[EMPTY]:0.9999:::L[PLACE]:0:::L[EVENT]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.9999:::T[PLACE]:0:::T[EVENT]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0.0001:::DICT[N]:0:::
+Active Evidence: 2.3572698
+Evidence: 5.3570004
+========================
+Token: Kinzig
+ID: kinzig
+L[EMPTY]:1:::L[RIVER]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 2.1388166
+Evidence: 3.1388001
+========================
+Token: Queich
+ID: queich
+L[EMPTY]:0.9972:::L[PERSON]:0.0005:::L[PLACE]:0.0005:::
+R[EMPTY]:0.6453:::R[PERSON]:0.0631:::R[PLACE]:0.0631:::
+T[RIVER]:0.6425:::T[PERSON]:0.1263:::T[PLACE]:0.001:::
+SW[NULL]:0.9972:::SW[an]:0.001:::
+DICT[Y]:0.3547:::DICT[N]:0.0028:::
+Active Evidence: 2.8150554
+Evidence: 3.8086
+========================
+Token: Moravica
+ID: moravica
+L[RIVER]:0.5714:::L[EMPTY]:0.4285:::L[PLACE]:0.0001:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.5714:::T[OTHER]:0.4285:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 3.5004098
+Evidence: 7.0
+========================
+Token: Wetland
+ID: wetland
+L[RIVER]:0.5704:::L[PLACE]:0.3558:::L[MOUNTAIN]:0.0707:::L[PERSON]:0.0032:::L[ORGANISATION]:0:::L[MUSEUM]:0:::
+R[EMPTY]:0.9953:::R[ORGANISATION]:0.0031:::R[PLACE]:0.0011:::R[COMPANY]:0.0005:::R[PERSON]:0:::
+T[RIVER]:0.5704:::T[PLACE]:0.4272:::T[PERSON]:0.0024:::T[COMPANY]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.8585:::DICT[Y]:0.1415:::
+Active Evidence: 7.0258255
+Evidence: 35.0
+========================
+Token: O the
+ID: o the
+L[PLACE]:0.7024:::L[EMPTY]:0.2976:::
+R[EMPTY]:0.2948:::R[PERSON]:0.2221:::R[RIVER]:0.221:::R[PLACE]:0.2099:::R[MOUNTAIN]:0.0254:::R[BRIDGE]:0.0254:::
+T[RIVER]:0.4309:::T[OTHER]:0.2948:::T[BUILDING]:0.2206:::T[BRIDGE]:0.0508:::T[PERIODICAL_LITERATURE]:0.0029:::
+SW[the]:0.7024:::SW[NULL]:0.2976:::
+DICT[Y]:0.7052:::DICT[N]:0.2948:::
+Active Evidence: 4.5231285
+Evidence: 9.0
+========================
+Token: Gier
+ID: gier
+L[EMPTY]:0.9989:::L[PERSON]:0.0004:::
+R[EMPTY]:0.7546:::R[PERSON]:0.0799:::
+T[RIVER]:0.5081:::T[PERSON]:0.1602:::
+SW[NULL]:1:::SW[de]:0:::
+DICT[N]:0.4919:::DICT[Y]:0.0001:::
+Active Evidence: 4.07522
+Evidence: 9.0706005
+========================
+Token: Aach
+ID: aach
+L[RIVER]:0.6666:::L[EMPTY]:0.3333:::L[PERSON]:0.0002:::
+R[EMPTY]:0.6667:::R[PERSON]:0.1666:::R[MOUNTAIN]:0.1666:::
+T[RIVER]:0.6666:::T[MOUNTAIN]:0.3333:::T[PERSON]:0.0002:::
+SW[NULL]:1:::SW[von]:0:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 3.000448
+Evidence: 6.0
+========================
+Token: Kolyma
+ID: kolyma
+L[EMPTY]:0.9999:::L[ROAD]:0:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::
+T[RIVER]:0.7932:::T[OTHER]:0.0709:::T[ROAD]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2068:::DICT[Y]:0.0001:::
+Active Evidence: 2.4179373
+Evidence: 3.9178
+========================
+Token: Biwa
+ID: biwa
+L[EMPTY]:0.9999:::L[PERSON]:0:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.8021:::T[OTHER]:0.0654:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1979:::DICT[Y]:0:::
+Active Evidence: 2.5269928
+Evidence: 5.0268
+========================
+Token: Chenab
+ID: chenab
+L[EMPTY]:0.8558:::L[PLACE]:0.0526:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.4674:::R[UNIVERSITY]:0.1149:::R[PLACE]:0.0793:::R[COMPANY]:0:::R[BRIDGE]:0:::R[RIVER]:0:::
+T[RIVER]:0.2511:::T[UNIVERSITY]:0.1942:::T[PLACE]:0.0526:::T[OTHER]:0.0263:::T[COMPANY]:0:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5326:::DICT[N]:0.2162:::
+Active Evidence: 6.936947
+Evidence: 11.742001
+========================
+Token: Luzin
+ID: luzin
+L[RIVER]:0.7994:::L[EMPTY]:0.1998:::L[PERSON]:0.0008:::
+R[EMPTY]:1:::
+T[RIVER]:0.7994:::T[OTHER]:0.1998:::T[PERSON]:0.0008:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.5020075
+Evidence: 5.0
+========================
+Token: Nuur
+ID: nuur
+L[RIVER]:0.6409:::L[PLACE]:0.3204:::L[PERSON]:0.0387:::
+R[EMPTY]:0.9993:::R[PERSON]:0.0007:::
+T[RIVER]:0.6409:::T[PLACE]:0.3204:::T[PERSON]:0.0387:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.1207948
+Evidence: 7.0
+========================
+Token: Landgraben
+ID: landgraben
+L[RIVER]:0.9897:::L[MOUNTAIN]:0.0103:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.0208495
+Evidence: 3.0
+========================
+Token: Prawa
+ID: prawa
+L[RIVER]:0.9972:::L[PLACE]:0.0028:::
+R[EMPTY]:1:::
+T[RIVER]:0.9972:::T[PLACE]:0.0028:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.0055785
+Evidence: 3.0
+========================
+Token: Creek
+ID: creek
+L[PLACE]:0.0218:::L[EMPTY]:0.0201:::L[PERSON]:0.0199:::L[RIVER]:0.0103:::L[BUILDING]:0.002:::L[COMPANY]:0.002:::
+R[EMPTY]:0.9981:::R[PLACE]:0.0001:::R[COMPANY]:0:::R[ORGANISATION]:0:::R[PERSON]:0:::R[EVENT]:0:::
+T[RIVER]:0.0448:::T[OTHER]:0.0201:::T[PLACE]:0.0146:::T[BUILDING]:0.0002:::T[COMPANY]:0.0001:::T[PERIODICAL_LITERATURE]:0:::
+SW[NULL]:0.9976:::SW[and]:0:::SW[at]:0:::SW[on]:0:::SW[of]:0:::SW[du]:0:::
+DICT[N]:0.5483:::DICT[Y]:0.4427:::
+Active Evidence: 1720.8341
+Evidence: 2724.3633
+========================
+Token: Estany De
+ID: estany de
+L[EMPTY]:0.9999:::L[PLACE]:0.0001:::
+R[RIVER]:0.9999:::R[PLACE]:0.0001:::R[ORGANISATION]:0:::
+T[RIVER]:0.9999:::T[PLACE]:0.0001:::
+SW[la]:0.9999:::SW[de]:0.0001:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 2.000177
+Evidence: 3.0
+========================
+Token: Cald
+ID: cald
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.00001
+Evidence: 3.0
+========================
+Token: Mijlociu
+ID: mijlociu
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.000003
+Evidence: 3.0
+========================
+Token: Pinului
+ID: pinului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0000002
+Evidence: 3.0
+========================
+Token: Florilor
+ID: florilor
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0000002
+Evidence: 3.0
+========================
+Token: Radului
+ID: radului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0
+Evidence: 3.0
+========================
+Token: Unterer
+ID: unterer
+L[EMPTY]:1:::
+R[RIVER]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5001:::DICT[N]:0.4999:::
+Active Evidence: 1.9997944
+Evidence: 3.0
+========================
+Token: Aue
+ID: aue
+L[EMPTY]:0.2649:::L[RIVER]:0.229:::L[COMPANY]:0.0458:::L[PERSON]:0.0008:::L[MOUNTAIN]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::R[BUILDING]:0:::R[PERSON]:0:::
+T[RIVER]:0.229:::T[PLACE]:0.2038:::T[COMPANY]:0.0458:::T[OTHER]:0.0229:::T[PERSON]:0.0008:::T[ORGANISATION]:0:::
+SW[NULL]:0.9988:::SW[von]:0.0004:::
+DICT[N]:0.7962:::DICT[Y]:0.0001:::
+Active Evidence: 8.185276
+Evidence: 15.6674
+========================
+Token: Argen
+ID: argen
+L[EMPTY]:0.8006:::L[RIVER]:0.076:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.1994:::
+Active Evidence: 2.0259538
+Evidence: 3.622
+========================
+Token: Lucerne
+ID: lucerne
+L[EMPTY]:0.9999:::L[PLACE]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.9991:::R[PLACE]:0.0002:::R[ORGANISATION]:0:::R[MOUNTAIN]:0:::R[UNIVERSITY]:0:::
+T[RIVER]:0.3601:::T[OTHER]:0.2716:::T[PLACE]:0.1419:::T[ORGANISATION]:0:::T[UNIVERSITY]:0:::T[MOUNTAIN]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.3533:::DICT[Y]:0.0001:::
+Active Evidence: 7.3304586
+Evidence: 23.74
+========================
+Token: Lacs
+ID: lacs
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::L[RIVER]:0:::L[PLACE]:0:::L[COMPANY]:0:::
+R[RIVER]:0.8333:::R[PERSON]:0.1666:::R[EMPTY]:0:::R[PLACE]:0:::R[ORGANISATION]:0:::R[MUSEUM]:0:::
+T[RIVER]:1:::T[PLACE]:0:::T[MUSEUM]:0:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 2.9998531
+Evidence: 14.0
+========================
+Token: Nahe
+ID: nahe
+L[EMPTY]:0.8062:::L[PERSON]:0.034:::L[PLACE]:0.034:::
+R[EMPTY]:1:::
+T[RIVER]:0.8062:::T[PLACE]:0.068:::
+SW[NULL]:0.8062:::SW[an]:0.068:::
+DICT[Y]:0.1637:::DICT[N]:0.0301:::
+Active Evidence: 2.293084
+Evidence: 3.8486
+========================
+Token: Weser
+ID: weser
+L[EMPTY]:0.9992:::L[COMPANY]:0.0002:::L[RIVER]:0.0001:::L[PERSON]:0:::
+R[EMPTY]:0.9993:::R[COMPANY]:0.0002:::R[PERSON]:0:::R[RIVER]:0:::
+T[RIVER]:0.8182:::T[OTHER]:0.0552:::T[COMPANY]:0.0004:::T[PLACE]:0.0001:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.1818:::DICT[Y]:0:::
+Active Evidence: 2.7727172
+Evidence: 8.2686
+========================
+Token: Dniester
+ID: dniester
+L[EMPTY]:1:::
+R[EMPTY]:0.9951:::R[PLACE]:0.0016:::
+T[RIVER]:0.9999:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0049:::
+Active Evidence: 2.0383291
+Evidence: 4.0284
+========================
+Token: Semliki
+ID: semliki
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.669:::T[OTHER]:0.1233:::
+SW[NULL]:1:::
+DICT[N]:0.331:::
+Active Evidence: 2.5173333
+Evidence: 3.684
+========================
+Token: Khabur
+ID: khabur
+L[EMPTY]:0.6118:::L[PLACE]:0.1507:::
+R[EMPTY]:1:::
+T[RIVER]:0.6118:::T[PLACE]:0.1507:::
+SW[NULL]:1:::
+DICT[N]:0.3882:::
+Active Evidence: 2.576
+Evidence: 2.576
+========================
+Token: Buh
+ID: buh
+L[EMPTY]:0.6661:::L[PLACE]:0.1134:::L[UNIVERSITY]:0:::L[EVENT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.6661:::T[PLACE]:0.1134:::T[EVENT]:0:::
+SW[NULL]:0.6661:::SW[of]:0.1133:::
+DICT[Y]:0.3339:::DICT[N]:0:::
+Active Evidence: 2.9213674
+Evidence: 6.9458
+========================
+Token: Kwango
+ID: kwango
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 2.006212
+Evidence: 4.0062
+========================
+Token: Viilor
+ID: viilor
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 2.0000536
+Evidence: 4.0
+========================
+Token: Vulturilor
+ID: vulturilor
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.5:::DICT[N]:0.5:::
+Active Evidence: 2.0
+Evidence: 2.0
+========================
+Token: Eschach
+ID: eschach
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.5:::DICT[N]:0.5:::
+Active Evidence: 2.0
+Evidence: 2.0
+========================
+Token: Rezat
+ID: rezat
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.0
+Evidence: 2.0
+========================
+Token: Riede
+ID: riede
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.5:::DICT[N]:0.5:::
+Active Evidence: 2.0
+Evidence: 2.0
+========================
+Token: Regnitz
+ID: regnitz
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0
+Evidence: 2.0
+========================
+Token: Canals
+ID: canals
+L[EMPTY]:0.4418:::L[RIVER]:0.2987:::L[PERSON]:0.1267:::L[ORGANISATION]:0.0751:::L[COMPANY]:0.0577:::L[PLACE]:0:::
+R[EMPTY]:0.9999:::R[PERSON]:0.0001:::R[PLACE]:0:::R[BUILDING]:0:::
+T[RIVER]:0.4718:::T[OTHER]:0.4418:::T[ORGANISATION]:0.0751:::T[PERSON]:0.0113:::T[BUILDING]:0:::
+SW[NULL]:0.7692:::SW[and]:0.2308:::
+DICT[N]:0.7691:::DICT[Y]:0.2309:::
+Active Evidence: 4.1492386
+Evidence: 11.0
+========================
+Token: Superior
+ID: superior
+L[EMPTY]:0.9761:::L[PLACE]:0.0026:::L[PERSON]:0:::L[PERIODICAL_LITERATURE]:0:::L[ORGANISATION]:0:::L[UNIVERSITY]:0:::
+R[EMPTY]:0.946:::R[DISEASE]:0.0028:::R[PLACE]:0.0019:::R[RIVER]:0.0009:::R[AIRLINE]:0.0001:::R[COMPANY]:0.0001:::
+T[RIVER]:0.1477:::T[OTHER]:0.0836:::T[DISEASE]:0.0037:::T[PLACE]:0.0026:::T[COMPANY]:0.0021:::T[ORGANISATION]:0:::
+SW[NULL]:0.9999:::SW[of]:0:::SW[de]:0:::SW[and]:0:::SW[del]:0:::
+DICT[N]:0.8173:::DICT[Y]:0.035:::
+Active Evidence: 55.985302
+Evidence: 197.2648
+========================
+Token: Aike
+ID: aike
+L[EMPTY]:0.6415:::L[RIVER]:0.3584:::L[PLACE]:0.0001:::
+R[PERSON]:0.6415:::R[EMPTY]:0.3585:::R[PLACE]:0:::
+T[RIVER]:0.6416:::T[PERSON]:0.3584:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7168:::DICT[Y]:0.2832:::
+Active Evidence: 2.7902074
+Evidence: 6.0
+========================
+Token: Skipsfjorden
+ID: skipsfjorden
+L[EMPTY]:1:::
+R[RIVER]:0.5065:::R[PLACE]:0.4935:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.9742892
+Evidence: 2.0
+========================
+Token: Ramu
+ID: ramu
+L[EMPTY]:0.979:::L[PERSON]:0.0083:::
+R[EMPTY]:0.4171:::R[PERSON]:0.23:::R[PLACE]:0.0001:::
+T[RIVER]:0.2987:::T[PERSON]:0.2382:::T[OTHER]:0.0384:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.6991:::DICT[Y]:0.0022:::
+Active Evidence: 5.133949
+Evidence: 9.5336
+========================
+Token: Ffynnon
+ID: ffynnon
+L[EMPTY]:0.9994:::L[PLACE]:0.0006:::
+R[RIVER]:0.8571:::R[PLACE]:0.1069:::R[PERSON]:0.0356:::R[EMPTY]:0.0004:::R[MOUNTAIN]:0:::
+T[RIVER]:0.8571:::T[PLACE]:0.1429:::
+SW[NULL]:0.8573:::SW[and]:0.1423:::SW[a]:0.0004:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 2.3334055
+Evidence: 6.0
+========================
+Token: Tagus
+ID: tagus
+L[EMPTY]:1:::L[EVENT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:1:::T[PLACE]:0:::T[EVENT]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[Y]:0:::
+Active Evidence: 1.9326004
+Evidence: 3.9326
+========================
+Token: Pocomoke
+ID: pocomoke
+L[EMPTY]:0.9691:::L[PERSON]:0.01:::
+R[EMPTY]:0.9997:::R[PLACE]:0.0001:::R[RIVER]:0:::R[PERSON]:0:::R[BUILDING]:0:::
+T[RIVER]:0.4933:::T[OTHER]:0.1547:::T[PLACE]:0.0101:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:0.4755:::DICT[Y]:0.0312:::
+Active Evidence: 4.2058516
+Evidence: 13.0746
+========================
+Token: Schie
+ID: schie
+L[EMPTY]:0.3959:::L[PERSON]:0.2614:::
+R[EMPTY]:1:::
+T[RIVER]:0.3959:::T[PERSON]:0.2614:::
+SW[NULL]:0.3959:::SW[van]:0.2614:::
+DICT[N]:0.6041:::DICT[Y]:0:::
+Active Evidence: 3.3108375
+Evidence: 4.3108
+========================
+Token: Boyuk
+ID: boyuk
+L[EMPTY]:0.9994:::L[PERSON]:0.0006:::
+R[PERSON]:0.6612:::R[RIVER]:0.327:::R[PLACE]:0.0112:::R[EMPTY]:0.0006:::
+T[RIVER]:0.6537:::T[PERSON]:0.327:::T[MONUMENT]:0.0145:::T[PLACE]:0.0042:::T[ROAD]:0.0006:::
+SW[NULL]:1:::
+DICT[N]:0.9849:::DICT[Y]:0.0151:::
+Active Evidence: 3.0579216
+Evidence: 9.0
+========================
+Token: Tipiqucha
+ID: tipiqucha
+L[RIVER]:0.5212:::L[PERSON]:0.4788:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.9185772
+Evidence: 2.0
+========================
+Token: Mapocho
+ID: mapocho
+L[EMPTY]:0.3794:::L[PLACE]:0.1396:::L[PERIODICAL_LITERATURE]:0.1396:::
+R[EMPTY]:1:::
+T[RIVER]:0.3794:::T[PLACE]:0.1396:::T[PERIODICAL_LITERATURE]:0.1396:::
+SW[NULL]:1:::
+DICT[Y]:0.3103:::DICT[N]:0.3103:::
+Active Evidence: 3.2228
+Evidence: 3.2228
+========================
+Token: Doamnei
+ID: doamnei
+L[RIVER]:0.9995:::L[PLACE]:0.0005:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.9995:::T[PLACE]:0.0005:::
+SW[NULL]:1:::
+DICT[Y]:0.9995:::DICT[N]:0.0005:::
+Active Evidence: 2.0010028
+Evidence: 5.0
+========================
+Token: Lagoons
+ID: lagoons
+L[RIVER]:0.9997:::L[PLACE]:0.0002:::L[ORGANISATION]:0.0001:::L[PERSON]:0:::
+R[EMPTY]:0.9998:::R[PLACE]:0.0002:::R[ORGANISATION]:0:::
+T[RIVER]:0.9997:::T[PLACE]:0.0002:::T[ORGANISATION]:0.0001:::
+SW[NULL]:0.9998:::SW[and]:0.0002:::
+DICT[N]:0.9997:::DICT[Y]:0.0003:::
+Active Evidence: 2.0005064
+Evidence: 5.0
+========================
+Token: Oberer
+ID: oberer
+L[EMPTY]:1:::L[PERSON]:0:::
+R[RIVER]:0.9999:::R[PLACE]:0.0001:::R[EMPTY]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.9999:::T[PLACE]:0.0001:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 2.0001655
+Evidence: 5.0
+========================
+Token: Socilor
+ID: socilor
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0000005
+Evidence: 5.0
+========================
+Token: Manchester
+ID: manchester
+L[EMPTY]:0.824:::L[PLACE]:0.0019:::L[PERSON]:0.0011:::L[BUILDING]:0.0008:::L[COMPANY]:0.0004:::L[PERIODICAL_LITERATURE]:0.0001:::
+R[EMPTY]:0.893:::R[PLACE]:0.0015:::R[ORGANISATION]:0.0004:::R[PERSON]:0.0004:::R[COMPANY]:0.0002:::R[AIRPORT]:0.0001:::
+T[RIVER]:0.139:::T[PLACE]:0.086:::T[BUILDING]:0.073:::T[OTHER]:0.0431:::T[COMPANY]:0.0397:::T[EVENT]:0.0245:::
+SW[NULL]:0.989:::SW[in]:0.0002:::SW[and]:0.0001:::SW[to]:0:::SW[of]:0:::SW[for]:0:::
+DICT[N]:0.4593:::DICT[Y]:0.2049:::
+Active Evidence: 108.88266
+Evidence: 460.564
+========================
+Token: Chui
+ID: chui
+L[EMPTY]:0.9805:::L[PERSON]:0.0065:::
+R[EMPTY]:0.6342:::R[PERSON]:0.1214:::
+T[RIVER]:0.3525:::T[PERSON]:0.1277:::T[OTHER]:0.0872:::
+SW[NULL]:0.8249:::SW[a]:0.0581:::
+DICT[N]:0.4724:::DICT[Y]:0.1751:::
+Active Evidence: 5.711546
+Evidence: 17.013199
+========================
+Token: Spree
+ID: spree
+L[EMPTY]:0.8262:::L[PERSON]:0.0354:::L[PLACE]:0.0354:::L[RIVER]:0.0001:::
+R[EMPTY]:1:::
+T[RIVER]:0.329:::T[OTHER]:0.2028:::T[PLACE]:0.0707:::
+SW[NULL]:0.8265:::SW[an]:0.0707:::
+DICT[N]:0.6714:::
+Active Evidence: 4.4214654
+Evidence: 8.453
+========================
+Token: Neckar
+ID: neckar
+L[EMPTY]:0.7666:::L[PLACE]:0.0494:::L[PERSON]:0.0001:::
+R[EMPTY]:1:::
+T[RIVER]:0.3863:::T[COMPANY]:0.3803:::T[PLACE]:0.0495:::
+SW[NULL]:1:::
+DICT[Y]:0.2334:::
+Active Evidence: 4.8519993
+Evidence: 13.719601
+========================
+Token: Elvo
+ID: elvo
+L[EMPTY]:0.8069:::L[PERSON]:0.0819:::
+R[EMPTY]:1:::
+T[RIVER]:0.4647:::T[OTHER]:0.1451:::T[PLACE]:0.0819:::
+SW[NULL]:1:::
+DICT[N]:0.5353:::
+Active Evidence: 2.9223232
+Evidence: 4.358
+========================
+Token: Levisa
+ID: levisa
+L[EMPTY]:0.9999:::L[ISLAND]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9968:::R[PLACE]:0.0008:::
+T[RIVER]:0.5465:::T[PLACE]:0.4524:::T[ISLAND]:0:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0032:::DICT[N]:0.0001:::
+Active Evidence: 2.8486106
+Evidence: 5.8392
+========================
+Token: Sabarmati
+ID: sabarmati
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 1.8858
+Evidence: 1.8858
+========================
+Token: Kosi
+ID: kosi
+L[RIVER]:0.4002:::L[PERSON]:0.3954:::L[EMPTY]:0.2044:::
+R[EMPTY]:0.9956:::R[PLACE]:0.0044:::
+T[RIVER]:0.7939:::T[OTHER]:0.2001:::T[PERSON]:0.0058:::T[PLACE]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:0.6061:::DICT[Y]:0.3939:::
+Active Evidence: 2.4989119
+Evidence: 8.0
+========================
+Token: Jiu
+ID: jiu
+L[EMPTY]:0.4601:::L[PLACE]:0.1515:::L[ORGANISATION]:0.0564:::L[COMPANY]:0.0188:::L[PERSON]:0:::L[EVENT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[COMPANY]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.2495:::T[PLACE]:0.1515:::T[OTHER]:0.0884:::T[ORGANISATION]:0.0751:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.3911:::DICT[Y]:0.3594:::
+Active Evidence: 5.540399
+Evidence: 10.3824005
+========================
+Token: Izvorului
+ID: izvorului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.000001
+Evidence: 6.0
+========================
+Token: Siljan
+ID: siljan
+L[EMPTY]:1:::
+R[EMPTY]:0.6452:::R[PERSON]:0.1528:::R[PLACE]:0.0001:::
+T[RIVER]:0.468:::T[PERSON]:0.1528:::T[OTHER]:0.0764:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.532:::
+Active Evidence: 2.8207302
+Evidence: 4.32
+========================
+Token: Achelous
+ID: achelous
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.7555:::T[OTHER]:0.0961:::
+SW[NULL]:1:::
+DICT[N]:0.2445:::
+Active Evidence: 2.0452
+Evidence: 2.5452
+========================
+Token: Vaal
+ID: vaal
+L[EMPTY]:0.7914:::L[PLACE]:0.0811:::L[PERSON]:0.0001:::
+R[EMPTY]:0.6403:::R[PLACE]:0.0807:::R[PERSON]:0.0592:::R[COMPANY]:0:::R[UNIVERSITY]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.3275:::T[PLACE]:0.221:::T[OTHER]:0.0406:::T[PERSON]:0.0001:::T[UNIVERSITY]:0:::T[ORGANISATION]:0:::
+SW[NULL]:0.7915:::SW[on]:0.0811:::SW[of]:0:::
+DICT[N]:0.5199:::DICT[Y]:0.1526:::
+Active Evidence: 4.796275
+Evidence: 11.5706005
+========================
+Token: Tugela
+ID: tugela
+L[EMPTY]:1:::
+R[EMPTY]:0.7317:::R[PERSON]:0.1204:::R[PLACE]:0:::
+T[RIVER]:0.3294:::T[OTHER]:0.1806:::T[PERSON]:0.1204:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6705:::DICT[Y]:0:::
+Active Evidence: 3.728361
+Evidence: 6.2282
+========================
+Token: Olifants
+ID: olifants
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 1.8158001
+Evidence: 1.8158001
+========================
+Token: Adige
+ID: adige
+L[EMPTY]:0.3394:::L[COMPANY]:0.2257:::L[PLACE]:0.0763:::L[GOVAGENCY]:0.0001:::
+R[EMPTY]:1:::
+T[RIVER]:0.2804:::T[COMPANY]:0.2434:::T[PERIODICAL_LITERATURE]:0.0586:::T[OTHER]:0.027:::T[PLACE]:0.0001:::
+SW[NULL]:0.9997:::SW[of]:0.0001:::
+DICT[Y]:0.6606:::DICT[N]:0.0591:::
+Active Evidence: 4.231652
+Evidence: 7.1864
+========================
+Token: Neris
+ID: neris
+L[EMPTY]:0.5702:::L[PERSON]:0.1847:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:0.5702:::T[PERSON]:0.1847:::
+SW[NULL]:1:::
+DICT[Y]:0.4298:::DICT[N]:0:::
+Active Evidence: 2.3266046
+Evidence: 3.3266
+========================
+Token: Padma
+ID: padma
+L[EMPTY]:0.9324:::L[PERSON]:0.0218:::L[PLACE]:0:::
+R[EMPTY]:0.4081:::R[PERSON]:0.1903:::R[PLACE]:0.0002:::R[BUILDING]:0.0001:::R[BRIDGE]:0:::R[RIVER]:0:::
+T[RIVER]:0.2309:::T[PERSON]:0.212:::T[OTHER]:0.0353:::T[UNIVERSITY]:0.0002:::T[PLACE]:0:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7015:::DICT[Y]:0.0676:::
+Active Evidence: 9.121972
+Evidence: 29.1064
+========================
+Token: Kutubu
+ID: kutubu
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.5092:::T[OTHER]:0.2059:::
+SW[NULL]:1:::
+DICT[N]:0.4908:::DICT[Y]:0:::
+Active Evidence: 2.7167995
+Evidence: 5.3834
+========================
+Token: Oker
+ID: oker
+L[EMPTY]:0.7786:::L[PERSON]:0.0877:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.7786:::T[PERSON]:0.0877:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2214:::DICT[Y]:0:::
+Active Evidence: 1.957145
+Evidence: 3.5238
+========================
+Token: Strathnaver
+ID: strathnaver
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.7484:::T[OTHER]:0.1012:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2516:::DICT[Y]:0:::
+Active Evidence: 1.9872019
+Evidence: 3.4872
+========================
+Token: Ulhas
+ID: ulhas
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.5619:::R[PERSON]:0.1919:::
+T[RIVER]:0.5619:::T[PERSON]:0.1919:::
+SW[NULL]:1:::
+DICT[N]:0.4381:::
+Active Evidence: 2.282627
+Evidence: 3.2826
+========================
+Token: Cheii
+ID: cheii
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0000007
+Evidence: 8.0
+========================
+Token: Ripoll
+ID: ripoll
+L[EMPTY]:0.5933:::L[PERSON]:0.1636:::L[PLACE]:0.0001:::
+R[EMPTY]:1:::
+T[RIVER]:0.5933:::T[PERSON]:0.1637:::
+SW[NULL]:1:::
+DICT[N]:0.4062:::DICT[Y]:0.0006:::
+Active Evidence: 2.5021415
+Evidence: 6.4844
+========================
+Token: Leitha
+ID: leitha
+L[EMPTY]:0.457:::L[PERSON]:0.1173:::L[PLACE]:0.1173:::
+R[EMPTY]:1:::R[MOUNTAIN]:0:::R[PLACE]:0:::
+T[RIVER]:0.3311:::T[PLACE]:0.2346:::T[OTHER]:0.0544:::T[MOUNTAIN]:0:::
+SW[NULL]:0.457:::SW[an]:0.2346:::
+DICT[N]:0.5156:::DICT[Y]:0.1533:::
+Active Evidence: 3.969154
+Evidence: 9.314
+========================
+Token: Forth
+ID: forth
+L[EMPTY]:0.9898:::L[PERSON]:0.0032:::L[ORGANISATION]:0.0003:::L[RIVER]:0:::
+R[EMPTY]:0.5446:::R[ORGANISATION]:0.0778:::R[PLACE]:0.0614:::R[COMPANY]:0.0194:::R[PERIODICAL_LITERATURE]:0:::R[HOSPITAL]:0:::
+T[RIVER]:0.2088:::T[OTHER]:0.1135:::T[ORGANISATION]:0.0778:::T[COMPANY]:0.0769:::T[PERSON]:0.0035:::T[BUILDING]:0.0031:::
+SW[NULL]:1:::
+DICT[N]:0.6676:::DICT[Y]:0.1236:::
+Active Evidence: 8.95544
+Evidence: 27.8696
+========================
+Token: Olza
+ID: olza
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.7338:::T[OTHER]:0.1119:::
+SW[NULL]:1:::
+DICT[N]:0.2662:::
+Active Evidence: 1.8784
+Evidence: 2.3783998
+========================
+Token: Mortes
+ID: mortes
+L[PLACE]:0.3165:::L[EMPTY]:0.2504:::L[PERSON]:0.1999:::L[RIVER]:0.1166:::L[ORGANISATION]:0.1166:::
+R[EMPTY]:1:::
+T[RIVER]:0.7496:::T[OTHER]:0.2504:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.9967449
+Evidence: 5.0
+========================
+Token: Brodribb
+ID: brodribb
+L[EMPTY]:1:::L[PERSON]:0:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 1.6798187
+Evidence: 4.6798
+========================
+Token: Drava
+ID: drava
+L[EMPTY]:0.9986:::L[ORGANISATION]:0.0005:::
+R[EMPTY]:0.9951:::R[PLACE]:0.0019:::R[PERIODICAL_LITERATURE]:0:::
+T[RIVER]:0.6504:::T[OTHER]:0.134:::T[PLACE]:0.0014:::T[ORGANISATION]:0.0005:::
+SW[NULL]:1:::
+DICT[N]:0.3483:::DICT[Y]:0.0014:::
+Active Evidence: 2.41746
+Evidence: 7.5722
+========================
+Token: Mura
+ID: mura
+L[EMPTY]:0.4469:::L[PERSON]:0.0871:::L[ORGANISATION]:0.0448:::L[BUILDING]:0.0447:::L[MOUNTAIN]:0.0447:::
+R[EMPTY]:0.8881:::R[PERSON]:0.0447:::R[ORGANISATION]:0.0001:::R[PLACE]:0:::R[PERIODICAL_LITERATURE]:0:::R[RIVER]:0:::
+T[RIVER]:0.1675:::T[PERSON]:0.1318:::T[OTHER]:0.0671:::T[ORGANISATION]:0.0448:::T[BUILDING]:0.0447:::T[MOUNTAIN]:0.0447:::
+SW[NULL]:0.7765:::SW[de]:0.0447:::SW[le]:0.0447:::
+DICT[N]:0.7207:::DICT[Y]:0.1118:::
+Active Evidence: 8.948438
+Evidence: 22.499199
+========================
+Token: Meon
+ID: meon
+L[EMPTY]:0.9139:::L[PERSON]:0.0352:::L[RIVER]:0:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.6787:::T[OTHER]:0.0963:::T[PLACE]:0.0352:::
+SW[NULL]:1:::
+DICT[N]:0.2353:::DICT[Y]:0.0861:::
+Active Evidence: 2.125123
+Evidence: 5.4422
+========================
+Token: Liri
+ID: liri
+L[EMPTY]:0.8474:::L[PLACE]:0.0374:::L[PERSON]:0.0307:::L[ORGANISATION]:0:::
+R[EMPTY]:0.4768:::R[PERSON]:0.2336:::
+T[RIVER]:0.3243:::T[PERSON]:0.2345:::T[PLACE]:0.0672:::T[ORGANISATION]:0:::
+SW[NULL]:0.9796:::SW[a]:0.0081:::SW[del]:0.001:::
+DICT[N]:0.6757:::DICT[Y]:0:::
+Active Evidence: 3.8227856
+Evidence: 9.2396
+========================
+Token: Lackawanna
+ID: lackawanna
+L[EMPTY]:0.9999:::L[PLACE]:0.0001:::
+R[EMPTY]:0.5713:::R[PLACE]:0.1555:::R[BUILDING]:0:::R[ROAD]:0:::R[UNIVERSITY]:0:::R[PERSON]:0:::
+T[RIVER]:0.2862:::T[OTHER]:0.1035:::T[PLACE]:0.0587:::T[MUSEUM]:0.0581:::T[BUILDING]:0.0387:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[and]:0:::SW[of]:0:::
+DICT[Y]:0.4288:::DICT[N]:0.2852:::
+Active Evidence: 6.1367445
+Evidence: 22.7552
+========================
+Token: Lake in
+ID: lake in
+L[EMPTY]:0.6491:::L[BUILDING]:0.3509:::
+R[PERSON]:0.3625:::R[PLACE]:0.3537:::R[PERIODICAL_LITERATURE]:0.1754:::R[AIRPORT]:0.1084:::
+T[RIVER]:0.3625:::T[BUILDING]:0.3509:::T[AIRPORT]:0.2168:::T[PLACE]:0.0699:::
+SW[the]:0.6491:::SW[on]:0.3509:::
+DICT[Y]:0.9301:::DICT[N]:0.0699:::
+Active Evidence: 2.7586625
+Evidence: 4.0
+========================
+Token: Imjin
+ID: imjin
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::
+T[RIVER]:0.7257:::T[OTHER]:0.118:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2743:::
+Active Evidence: 1.8233141
+Evidence: 3.3232002
+========================
+Token: Acheloos
+ID: acheloos
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[ORGANISATION]:0:::R[PERSON]:0:::
+T[RIVER]:1:::T[COMPANY]:0:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 1.5452659
+Evidence: 3.5452
+========================
+Token: Zhujiang
+ID: zhujiang
+L[EMPTY]:1:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::R[ORGANISATION]:0:::R[BUILDING]:0:::R[ROAD]:0:::R[COMPANY]:0:::
+T[RIVER]:0.9999:::T[BUILDING]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 1.615521
+Evidence: 4.6154003
+========================
+Token: Tonegawa
+ID: tonegawa
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.7225:::T[OTHER]:0.1205:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2775:::
+Active Evidence: 1.802058
+Evidence: 3.302
+========================
+Token: Salado
+ID: salado
+L[PLACE]:0.814:::L[EMPTY]:0.1851:::L[PERSON]:0.0009:::L[EVENT]:0:::
+R[EMPTY]:0.9966:::R[UNIVERSITY]:0.0029:::R[RIVER]:0.0003:::R[PERSON]:0.0002:::R[PLACE]:0:::R[BUILDING]:0:::
+T[RIVER]:0.4311:::T[PLACE]:0.3836:::T[OTHER]:0.1821:::T[BUILDING]:0.0029:::T[PERSON]:0.0003:::T[UNIVERSITY]:0:::
+SW[NULL]:0.7815:::SW[del]:0.2185:::SW[of]:0:::
+DICT[N]:0.9961:::DICT[Y]:0.0039:::
+Active Evidence: 4.5767374
+Evidence: 23.0
+========================
+Token: Drau
+ID: drau
+L[EMPTY]:0.9831:::L[PERSON]:0.0029:::L[PLACE]:0.0029:::L[COMPANY]:0.0008:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.9831:::T[PLACE]:0.0058:::T[MOUNTAIN]:0.0008:::
+SW[NULL]:0.9851:::SW[an]:0.0058:::
+DICT[N]:0.0169:::DICT[Y]:0:::
+Active Evidence: 1.5992707
+Evidence: 4.5722
+========================
+Token: Kocher
+ID: kocher
+L[RIVER]:0.3421:::L[MOUNTAIN]:0.3414:::L[PLACE]:0.2355:::L[PERSON]:0.081:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[BRIDGE]:0:::
+T[RIVER]:0.6834:::T[PLACE]:0.2355:::T[PERSON]:0.081:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.7587:::DICT[Y]:0.2413:::
+Active Evidence: 2.9231675
+Evidence: 16.0
+========================
+Token: Manzanares
+ID: manzanares
+L[EMPTY]:0.2983:::L[PERSON]:0.2064:::L[PLACE]:0.1079:::L[BUILDING]:0:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9984:::R[PERSON]:0.0004:::R[PLACE]:0.0003:::R[ORGANISATION]:0:::
+T[RIVER]:0.297:::T[PERSON]:0.2064:::T[PLACE]:0.1085:::T[ORGANISATION]:0:::
+SW[NULL]:0.759:::SW[de]:0.1079:::SW[of]:0:::
+DICT[N]:0.4819:::DICT[Y]:0.2211:::
+Active Evidence: 4.151361
+Evidence: 11.233
+========================
+Token: Kayal
+ID: kayal
+L[PERSON]:0.4502:::L[PLACE]:0.3217:::L[RIVER]:0.2127:::L[EMPTY]:0.0154:::
+R[EMPTY]:0.9846:::R[PERSON]:0.0154:::
+T[RIVER]:0.5344:::T[PERSON]:0.4656:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.2452505
+Evidence: 5.0
+========================
+Token: Gomti
+ID: gomti
+L[EMPTY]:1:::L[UNIVERSITY]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[UNIVERSITY]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 1.4964206
+Evidence: 3.4963999
+========================
+Token: Suur
+ID: suur
+L[EMPTY]:1:::L[PERSON]:0:::
+R[RIVER]:0.4:::R[MOUNTAIN]:0.4:::R[EMPTY]:0.2:::
+T[RIVER]:0.4:::T[MOUNTAIN]:0.4:::T[OTHER]:0.2:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.500041
+Evidence: 4.0
+========================
+Token: Lacului
+ID: lacului
+L[RIVER]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.9999923
+Evidence: 11.0
+========================
+Token: Samur
+ID: samur
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 1.4684126
+Evidence: 3.4684
+========================
+Token: Ewaso
+ID: ewaso
+L[EMPTY]:0.9787:::L[UNIVERSITY]:0.0213:::
+R[RIVER]:0.3768:::R[ORGANISATION]:0.3255:::R[EMPTY]:0.2978:::
+T[RIVER]:0.3768:::T[COMPANY]:0.3255:::T[OTHER]:0.2978:::
+SW[NULL]:1:::
+DICT[N]:0.9787:::DICT[Y]:0.0213:::
+Active Evidence: 2.7986424
+Evidence: 6.0
+========================
+Token: L'or
+ID: l'or
+L[RIVER]:0.3791:::L[MUSEUM]:0.3791:::L[EMPTY]:0.2212:::L[BRIDGE]:0.0206:::
+R[EMPTY]:0.9794:::R[BRIDGE]:0.0206:::
+T[RIVER]:0.3791:::T[MUSEUM]:0.3791:::T[OTHER]:0.2212:::T[BRIDGE]:0.0206:::
+SW[de]:0.7788:::SW[NULL]:0.2212:::
+DICT[Y]:1:::
+Active Evidence: 2.6376693
+Evidence: 5.0
+========================
+Token: Ribeira Da
+ID: ribeira da
+L[EMPTY]:1:::
+R[PERSON]:0.4955:::R[RIVER]:0.4871:::R[PLACE]:0.0174:::
+T[RIVER]:0.5132:::T[PLACE]:0.4868:::
+SW[NULL]:1:::
+DICT[Y]:0.5132:::DICT[N]:0.4868:::
+Active Evidence: 2.0531662
+Evidence: 3.0
+========================
+Token: Mur
+ID: mur
+L[EMPTY]:0.6195:::L[PLACE]:0.0794:::L[PERSON]:0.0729:::
+R[EMPTY]:0.6857:::R[PERSON]:0.0667:::R[PLACE]:0.0591:::
+T[RIVER]:0.2497:::T[PLACE]:0.2101:::T[PERSON]:0.0678:::T[OTHER]:0.0222:::
+SW[NULL]:0.6417:::SW[an]:0.1434:::SW[de]:0:::
+DICT[N]:0.7497:::DICT[Y]:0.0005:::
+Active Evidence: 6.00324
+Evidence: 21.499199
+========================
+Token: Ichetucknee
+ID: ichetucknee
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.7096:::T[OTHER]:0.1307:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2904:::DICT[Y]:0:::
+Active Evidence: 1.7216004
+Evidence: 3.2216
+========================
+Token: Attersee
+ID: attersee
+L[EMPTY]:0.4621:::L[PLACE]:0.238:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.4621:::T[PLACE]:0.238:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.5378:::DICT[N]:0:::
+Active Evidence: 2.726493
+Evidence: 8.26
+========================
+Token: Al-arab
+ID: al-arab
+L[RIVER]:0.5078:::L[PERSON]:0.3889:::L[PLACE]:0.1033:::L[EMPTY]:0:::
+R[EMPTY]:0.9993:::R[PERSON]:0.0007:::R[UNIVERSITY]:0:::R[HOSPITAL]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.896:::T[PERIODICAL_LITERATURE]:0.0851:::T[PLACE]:0.0181:::T[PERSON]:0.0007:::T[UNIVERSITY]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.9345455
+Evidence: 9.0
+========================
+Token: Kander
+ID: kander
+L[EMPTY]:0.9988:::L[PERSON]:0.0004:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.9988:::T[PERSON]:0.0004:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0012:::DICT[Y]:0.0001:::
+Active Evidence: 1.7307259
+Evidence: 7.7286
+========================
+Token: Piva
+ID: piva
+L[EMPTY]:0.9998:::L[PERSON]:0.0001:::L[PLACE]:0:::L[EVENT]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[BUILDING]:0:::
+T[RIVER]:0.9998:::T[PERSON]:0.0001:::T[PLACE]:0:::T[BUILDING]:0:::T[EVENT]:0:::
+SW[NULL]:1:::SW[for]:0:::
+DICT[N]:0.0002:::DICT[Y]:0:::
+Active Evidence: 1.8398039
+Evidence: 9.8394
+========================
+Token: Linth
+ID: linth
+L[EMPTY]:0.9999:::L[PERSON]:0:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.9999:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:0.9999:::SW[von]:0:::SW[of]:0:::
+DICT[N]:0.0001:::DICT[Y]:0:::
+Active Evidence: 1.4717226
+Evidence: 4.4716
+========================
+Token: Westliche
+ID: westliche
+L[EMPTY]:1:::
+R[RIVER]:0.4994:::R[MOUNTAIN]:0.4994:::R[COMPANY]:0.0011:::
+T[RIVER]:0.4994:::T[MOUNTAIN]:0.4994:::T[PERIODICAL_LITERATURE]:0.0011:::
+SW[NULL]:1:::
+DICT[Y]:0.5006:::DICT[N]:0.4994:::
+Active Evidence: 2.0022707
+Evidence: 3.0
+========================
+Token: Golyam
+ID: golyam
+L[EMPTY]:1:::
+R[RIVER]:0.4999:::R[MOUNTAIN]:0.4999:::R[PLACE]:0.0002:::
+T[RIVER]:0.4999:::T[MOUNTAIN]:0.4999:::T[PLACE]:0.0002:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.000477
+Evidence: 3.0
+========================
+Token: Re Di
+ID: re di
+L[EMPTY]:0.9998:::L[PLACE]:0.0002:::
+R[RIVER]:0.5004:::R[PLACE]:0.4996:::
+T[RIVER]:0.5004:::T[PLACE]:0.4994:::T[MOUNTAIN]:0.0002:::
+SW[NULL]:0.9998:::SW[di]:0.0002:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 1.9984341
+Evidence: 3.0
+========================
+Token: Grise
+ID: grise
+L[RIVER]:0.5005:::L[EMPTY]:0.4995:::
+R[EMPTY]:0.5005:::R[PLACE]:0.4995:::R[AIRPORT]:0:::
+T[RIVER]:0.5005:::T[PLACE]:0.4995:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.9980574
+Evidence: 3.0
+========================
+Token: Colville
+ID: colville
+L[EMPTY]:0.9322:::L[PERSON]:0.0178:::L[PLACE]:0.002:::L[COMPANY]:0.001:::L[BUILDING]:0:::
+R[EMPTY]:0.5993:::R[PERSON]:0.1227:::R[PLACE]:0:::R[AIRPORT]:0:::R[ORGANISATION]:0:::R[BUILDING]:0:::
+T[RIVER]:0.3687:::T[PERSON]:0.1917:::T[PLACE]:0.0017:::T[AIRPORT]:0:::T[BUILDING]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.6141:::DICT[Y]:0.0172:::
+Active Evidence: 6.1413045
+Evidence: 41.2642
+========================
+Token: Motijheel
+ID: motijheel
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[UNIVERSITY]:0:::R[BUILDING]:0:::R[PERSON]:0:::
+T[RIVER]:1:::T[PLACE]:0:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0:::DICT[Y]:0:::
+Active Evidence: 1.5158286
+Evidence: 5.5158
+========================
+Token: Narewka
+ID: narewka
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 1.3722038
+Evidence: 2.3722
+========================
+Token: Hamilton and
+ID: hamilton and
+L[PLACE]:0.5271:::L[EMPTY]:0.4729:::
+R[PLACE]:0.5632:::R[PERSON]:0.4251:::R[UNIVERSITY]:0.0117:::
+T[RIVER]:0.5271:::T[BUILDING]:0.4495:::T[UNIVERSITY]:0.0234:::
+SW[and]:0.5271:::SW[NULL]:0.4729:::
+DICT[Y]:1:::
+Active Evidence: 1.8878362
+Evidence: 3.0
+========================
+Token: Saimaa
+ID: saimaa
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[UNIVERSITY]:0:::R[PERSON]:0:::
+T[RIVER]:0.5607:::T[OTHER]:0.2129:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.4393:::DICT[Y]:0:::
+Active Evidence: 1.896935
+Evidence: 4.0636
+========================
+Token: Gunnison
+ID: gunnison
+L[EMPTY]:0.9999:::L[PLACE]:0:::L[PERSON]:0:::L[ROAD]:0:::L[COMPANY]:0:::L[MOUNTAIN]:0:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::R[ORGANISATION]:0:::R[HOSPITAL]:0:::R[PERSON]:0:::R[COMPANY]:0:::
+T[RIVER]:0.782:::T[OTHER]:0.0779:::T[BUILDING]:0:::T[PLACE]:0:::T[HOSPITAL]:0:::T[PERSON]:0:::
+SW[NULL]:0.9999:::SW[of]:0:::
+DICT[N]:0.2178:::DICT[Y]:0.0001:::
+Active Evidence: 2.2953122
+Evidence: 13.795
+========================
+Token: Aibonito
+ID: aibonito
+L[RIVER]:0.5:::L[PLACE]:0.3333:::L[BUILDING]:0.1667:::
+R[EMPTY]:1:::
+T[RIVER]:0.5:::T[PLACE]:0.5:::
+SW[de]:0.5:::SW[of]:0.5:::
+DICT[Y]:1:::
+Active Evidence: 1.9999669
+Evidence: 2.0
+========================
+Token: Unstrut
+ID: unstrut
+L[EMPTY]:0.9619:::L[PERSON]:0.0091:::L[PLACE]:0.0091:::
+R[EMPTY]:1:::
+T[RIVER]:0.6616:::T[OTHER]:0.1429:::T[PLACE]:0.0181:::
+SW[NULL]:0.9619:::SW[an]:0.0181:::
+DICT[N]:0.3384:::
+Active Evidence: 1.6653173
+Evidence: 3.1018
+========================
+Token: Pasto
+ID: pasto
+L[RIVER]:0.4105:::L[PERSON]:0.372:::L[EMPTY]:0.2175:::L[ORGANISATION]:0:::L[PLACE]:0:::
+R[EMPTY]:0.9877:::R[PERSON]:0.0123:::
+T[RIVER]:0.4105:::T[PLACE]:0.3843:::T[OTHER]:0.2052:::T[ORGANISATION]:0:::
+SW[NULL]:0.5895:::SW[del]:0.4105:::SW[of]:0:::
+DICT[N]:0.5895:::DICT[Y]:0.4105:::
+Active Evidence: 2.4361606
+Evidence: 6.0
+========================
+Token: Vardar
+ID: vardar
+L[EMPTY]:0.551:::L[PERSON]:0.1907:::L[ORGANISATION]:0:::
+R[EMPTY]:0.9941:::R[PLACE]:0.0025:::R[ORGANISATION]:0:::R[PERIODICAL_LITERATURE]:0:::R[EVENT]:0:::
+T[RIVER]:0.3982:::T[PERSON]:0.1907:::T[OTHER]:0.0624:::T[PLACE]:0.0025:::T[ORGANISATION]:0.0001:::T[EVENT]:0:::
+SW[NULL]:1:::
+DICT[N]:0.6018:::DICT[Y]:0.0001:::
+Active Evidence: 3.4011528
+Evidence: 14.3542
+========================
+Token: Imja
+ID: imja
+L[EMPTY]:1:::
+R[RIVER]:0.5684:::R[PERSON]:0.4278:::R[PLACE]:0.0038:::
+T[RIVER]:0.5722:::T[MOUNTAIN]:0.4278:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.7593586
+Evidence: 3.0
+========================
+Token: Rur
+ID: rur
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 1.3122015
+Evidence: 2.3122
+========================
+Token: Boise
+ID: boise
+L[EMPTY]:0.9501:::L[PLACE]:0.0077:::L[COMPANY]:0.0073:::L[PERSON]:0:::L[EVENT]:0:::
+R[EMPTY]:0.8425:::R[PLACE]:0.0316:::R[ORGANISATION]:0.0081:::R[PERSON]:0.0021:::R[BUILDING]:0.0019:::R[MUSEUM]:0.0019:::
+T[RIVER]:0.2457:::T[OTHER]:0.1653:::T[ORGANISATION]:0.0428:::T[PLACE]:0.0162:::T[PERSON]:0.0019:::T[PERIODICAL_LITERATURE]:0.0014:::
+SW[NULL]:1:::
+DICT[N]:0.5725:::DICT[Y]:0.1824:::
+Active Evidence: 9.435495
+Evidence: 60.3124
+========================
+Token: Trou
+ID: trou
+L[EMPTY]:1:::
+R[RIVER]:0.5408:::R[MOUNTAIN]:0.2296:::R[ORGANISATION]:0.2296:::
+T[RIVER]:0.5408:::T[MOUNTAIN]:0.4592:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.8490828
+Evidence: 4.0
+========================
+Token: Luncii
+ID: luncii
+L[RIVER]:0.5484:::L[PERSON]:0.4516:::
+R[EMPTY]:1:::
+T[RIVER]:0.5484:::T[PLACE]:0.4516:::
+SW[NULL]:1:::
+DICT[Y]:0.5484:::DICT[N]:0.4516:::
+Active Evidence: 1.8233697
+Evidence: 2.0
+========================
+Token: Bocas Del
+ID: bocas del
+L[EMPTY]:1:::
+R[RIVER]:0.449:::R[AIRPORT]:0.2223:::R[EMPTY]:0.1497:::R[PERSON]:0.0895:::R[COMPANY]:0.0741:::R[ISLAND]:0.0132:::
+T[RIVER]:0.449:::T[AIRPORT]:0.3705:::T[OTHER]:0.1497:::T[PLACE]:0.0308:::
+SW[NULL]:1:::
+DICT[Y]:0.8503:::DICT[N]:0.1497:::
+Active Evidence: 2.2269368
+Evidence: 6.0
+========================
+Token: Reuss
+ID: reuss
+L[EMPTY]:0.7741:::L[PERSON]:0.0637:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.4519:::T[PLACE]:0.3222:::T[PERSON]:0.0637:::
+SW[NULL]:0.9846:::SW[von]:0.0043:::SW[of]:0:::
+DICT[N]:0.2086:::DICT[Y]:0.0173:::
+Active Evidence: 3.287686
+Evidence: 17.545
+========================
+Token: Seele
+ID: seele
+L[EMPTY]:0.5343:::L[RIVER]:0.4592:::L[PERSON]:0.0065:::
+R[EMPTY]:0.5575:::R[PERSON]:0.4425:::
+T[RIVER]:0.4592:::T[PERSON]:0.4489:::T[OTHER]:0.0918:::
+SW[NULL]:1:::
+DICT[N]:0.9998:::DICT[Y]:0.0002:::
+Active Evidence: 2.1776602
+Evidence: 6.0
+========================
+Token: Cibin
+ID: cibin
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0:::
+Active Evidence: 1.2768075
+Evidence: 2.2768002
+========================
+Token: Cuckmere
+ID: cuckmere
+L[EMPTY]:1:::L[RIVER]:0:::
+R[EMPTY]:0.9992:::R[PLACE]:0.0003:::
+T[RIVER]:0.9992:::T[COMPANY]:0.0003:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0008:::DICT[Y]:0:::
+Active Evidence: 1.3118666
+Evidence: 4.3108
+========================
+Token: Palar
+ID: palar
+L[EMPTY]:0.9989:::L[PERSON]:0.0005:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.9989:::T[PERSON]:0.0005:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0011:::
+Active Evidence: 1.2533959
+Evidence: 3.2519999
+========================
+Token: Olentangy
+ID: olentangy
+L[EMPTY]:1:::
+R[EMPTY]:0.8004:::R[PERSON]:0.0922:::R[PLACE]:0.0001:::R[UNIVERSITY]:0:::R[RIVER]:0:::
+T[RIVER]:0.8004:::T[PLACE]:0.0922:::T[UNIVERSITY]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.1996:::
+Active Evidence: 1.4550453
+Evidence: 4.1646
+========================
+Token: Desna
+ID: desna
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.67:::T[OTHER]:0.1638:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.33:::
+Active Evidence: 1.5150106
+Evidence: 3.0149999
+========================
+Token: Canot
+ID: canot
+L[RIVER]:0.6656:::L[EMPTY]:0.3328:::L[PERSON]:0.0017:::
+R[EMPTY]:1:::
+T[RIVER]:0.6656:::T[OTHER]:0.3328:::T[PERSON]:0.0017:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.5024835
+Evidence: 3.0
+========================
+Token: Veillet
+ID: veillet
+L[RIVER]:0.6666:::L[EMPTY]:0.3333:::L[PERSON]:0.0001:::
+R[EMPTY]:1:::
+T[RIVER]:0.6666:::T[OTHER]:0.3333:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.5001899
+Evidence: 3.0
+========================
+Token: Papaloapan
+ID: papaloapan
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 1.2274019
+Evidence: 2.2274
+========================
+Token: Breede
+ID: breede
+L[EMPTY]:1:::
+R[EMPTY]:0.9997:::R[PLACE]:0.0001:::R[RIVER]:0.0001:::
+T[RIVER]:0.9997:::T[EVENT]:0.0002:::
+SW[NULL]:1:::
+DICT[Y]:0.0003:::
+Active Evidence: 1.224819
+Evidence: 2.2244
+========================
+Token: Cervo
+ID: cervo
+L[EMPTY]:0.8304:::L[PLACE]:0.0751:::L[PERSON]:0.0013:::L[COMPANY]:0:::L[EVENT]:0:::
+R[EMPTY]:0.9985:::R[PERSON]:0.0007:::
+T[RIVER]:0.5889:::T[OTHER]:0.1088:::T[PLACE]:0.0755:::T[PERSON]:0.0009:::T[EVENT]:0:::
+SW[NULL]:1:::SW[of]:0:::
+DICT[N]:0.4096:::DICT[Y]:0.0015:::
+Active Evidence: 2.0702965
+Evidence: 9.2192
+========================
+Token: Churn
+ID: churn
+L[EMPTY]:0.9994:::L[PERSON]:0.0002:::L[RIVER]:0:::
+R[EMPTY]:0.9997:::R[PLACE]:0.0001:::R[RIVER]:0:::
+T[RIVER]:0.9994:::T[PERSON]:0.0002:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0006:::
+Active Evidence: 1.3838668
+Evidence: 6.383
+========================
+Token: Amstel
+ID: amstel
+L[EMPTY]:0.9982:::L[PERSON]:0.0005:::L[PLACE]:0.0002:::L[COMPANY]:0:::
+R[EMPTY]:0.9976:::R[GOVAGENCY]:0.0003:::R[PLACE]:0.0002:::R[EVENT]:0.0002:::R[PERSON]:0.0001:::R[COMPANY]:0:::
+T[RIVER]:0.6511:::T[OTHER]:0.134:::T[PLACE]:0.0009:::T[EVENT]:0.0007:::T[BUILDING]:0:::T[PERSON]:0:::
+SW[NULL]:0.9999:::SW[van]:0:::SW[de]:0:::SW[a]:0:::
+DICT[N]:0.345:::DICT[Y]:0.004:::
+Active Evidence: 2.4166958
+Evidence: 16.5734
+========================
+Token: Thomas a
+ID: thomas a
+L[PLACE]:0.5576:::L[EMPTY]:0.4424:::
+R[PLACE]:0.5576:::R[PERSON]:0.4424:::R[UNIVERSITY]:0:::R[COMPANY]:0:::
+T[RIVER]:0.5576:::T[PERSON]:0.4424:::T[UNIVERSITY]:0:::
+SW[a]:0.5576:::SW[NULL]:0.4424:::
+DICT[Y]:0.5576:::DICT[N]:0.4424:::
+Active Evidence: 1.6628137
+Evidence: 4.0
+========================
+Token: Lutos
+ID: lutos
+L[RIVER]:0.6667:::L[EMPTY]:0.3333:::
+R[EMPTY]:1:::
+T[RIVER]:0.6667:::T[OTHER]:0.3333:::
+SW[NULL]:1:::
+DICT[Y]:0.6667:::DICT[N]:0.3333:::
+Active Evidence: 1.5
+Evidence: 2.0
+========================
+Token: Moale
+ID: moale
+L[RIVER]:0.6667:::L[EMPTY]:0.3333:::
+R[EMPTY]:1:::
+T[RIVER]:0.6667:::T[OTHER]:0.3333:::
+SW[NULL]:1:::
+DICT[Y]:0.6667:::DICT[N]:0.3333:::
+Active Evidence: 1.5
+Evidence: 2.0
+========================
+Token: Shebelle
+ID: shebelle
+L[EMPTY]:0.9447:::L[UNIVERSITY]:0.0257:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.9447:::T[PLACE]:0.0257:::
+SW[NULL]:1:::
+DICT[Y]:0.0553:::
+Active Evidence: 1.2149712
+Evidence: 3.1478
+========================
+Token: Longue
+ID: longue
+L[RIVER]:0.4981:::L[ISLAND]:0.4981:::L[PERSON]:0.0018:::L[PLACE]:0.0016:::L[EMPTY]:0.0005:::
+R[EMPTY]:0.9995:::R[PLACE]:0.0002:::R[COMPANY]:0.0002:::R[BUILDING]:0:::
+T[RIVER]:0.4981:::T[ISLAND]:0.4981:::T[PERSON]:0.0018:::T[PLACE]:0.0016:::T[BUILDING]:0.0005:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:0.9995:::DICT[Y]:0.0005:::
+Active Evidence: 2.0076141
+Evidence: 7.0
+========================
+Token: Kolubara
+ID: kolubara
+L[EMPTY]:0.9978:::L[COMPANY]:0.001:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:0.9978:::T[COMPANY]:0.001:::T[PLACE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0022:::DICT[Y]:0:::
+Active Evidence: 1.276781
+Evidence: 5.274
+========================
+Token: Lago De
+ID: lago de
+L[EMPTY]:1:::
+R[PLACE]:0.7876:::R[EMPTY]:0.1825:::R[ORGANISATION]:0.0299:::
+T[RIVER]:0.7279:::T[OTHER]:0.1825:::T[PLACE]:0.0896:::
+SW[NULL]:1:::
+DICT[N]:0.9104:::DICT[Y]:0.0896:::
+Active Evidence: 1.3699081
+Evidence: 3.0
+========================
+Token: Biga
+ID: biga
+L[EMPTY]:1:::
+R[RIVER]:0.7411:::R[EMPTY]:0.247:::R[PERSON]:0.0119:::
+T[RIVER]:0.7411:::T[OTHER]:0.247:::T[PERSON]:0.0119:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3493484
+Evidence: 3.0
+========================
+Token: Pyra
+ID: pyra
+L[RIVER]:0.5715:::L[EMPTY]:0.4285:::L[PERSON]:0:::
+R[EMPTY]:0.9999:::R[COMPANY]:0.0001:::
+T[RIVER]:0.5715:::T[OTHER]:0.4284:::T[COMPANY]:0.0001:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.7505891
+Evidence: 6.0
+========================
+Token: Vereda
+ID: vereda
+L[EMPTY]:1:::L[PERSON]:0:::
+R[RIVER]:0.75:::R[EMPTY]:0.25:::
+T[RIVER]:0.75:::T[OTHER]:0.25:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3333356
+Evidence: 3.0
+========================
+Token: Abukuma
+ID: abukuma
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::R[COMPANY]:0:::R[BUILDING]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.7559:::T[OTHER]:0.1201:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:0.2441:::DICT[Y]:0:::
+Active Evidence: 1.3653462
+Evidence: 4.032
+========================
+Token: Pequeno
+ID: pequeno
+L[PLACE]:0.9905:::L[PERSON]:0.0095:::L[RIVER]:0:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:0.9447:::T[PLACE]:0.0458:::T[PERSON]:0.0095:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.490444
+Evidence: 9.0
+========================
+Token: Cheval
+ID: cheval
+L[EMPTY]:0.3585:::L[RIVER]:0.2588:::L[PLACE]:0.2527:::L[PERSON]:0.13:::
+R[EMPTY]:0.7135:::R[PERSON]:0.2865:::
+T[RIVER]:0.3882:::T[OTHER]:0.3247:::T[PLACE]:0.2527:::T[BUILDING]:0.022:::T[MOUNTAIN]:0.0118:::T[PERSON]:0.0006:::
+SW[de]:0.3882:::SW[NULL]:0.3591:::SW[du]:0.2527:::
+DICT[N]:0.7161:::DICT[Y]:0.2839:::
+Active Evidence: 2.5661924
+Evidence: 11.0
+========================
+Token: Pleso
+ID: pleso
+L[RIVER]:0.75:::L[EMPTY]:0.25:::
+R[EMPTY]:1:::
+T[RIVER]:0.75:::T[OTHER]:0.25:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3333334
+Evidence: 2.0
+========================
+Token: Lusatian
+ID: lusatian
+L[EMPTY]:1:::
+R[RIVER]:0.6847:::R[EMPTY]:0.2282:::R[PLACE]:0.0865:::R[MOUNTAIN]:0.0004:::R[ORGANISATION]:0.0001:::
+T[RIVER]:0.6847:::T[OTHER]:0.2282:::T[MOUNTAIN]:0.0869:::T[ORGANISATION]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 1.4604135
+Evidence: 5.0
+========================
+Token: Maritsa
+ID: maritsa
+L[EMPTY]:1:::L[PERSON]:0:::
+R[EMPTY]:0.9995:::R[PLACE]:0.0001:::R[PERSON]:0.0001:::R[BUILDING]:0:::R[ROAD]:0:::R[AIRPORT]:0:::
+T[RIVER]:0.9995:::T[PLACE]:0.0002:::T[BUILDING]:0:::T[ROAD]:0:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0005:::DICT[N]:0:::
+Active Evidence: 1.3184633
+Evidence: 7.3178
+========================
+Token: Monnow
+ID: monnow
+L[EMPTY]:1:::L[RIVER]:0:::
+R[EMPTY]:0.9999:::R[PLACE]:0:::R[BUILDING]:0:::R[BRIDGE]:0:::
+T[RIVER]:0.9999:::T[ROAD]:0:::T[BUILDING]:0:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.0001:::
+Active Evidence: 1.1981239
+Evidence: 5.198
+========================
+Token: Salzach
+ID: salzach
+L[EMPTY]:0.9858:::L[PERSON]:0.0034:::L[PLACE]:0.0034:::
+R[EMPTY]:1:::
+T[RIVER]:0.9858:::T[PLACE]:0.0067:::
+SW[NULL]:0.9858:::SW[an]:0.0067:::
+DICT[N]:0.0142:::
+Active Evidence: 1.1198492
+Evidence: 2.104
+========================
+Token: Embalse
+ID: embalse
+L[EMPTY]:1:::
+R[RIVER]:0.7387:::R[PLACE]:0.2613:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.5225:::DICT[N]:0.4775:::
+Active Evidence: 1.1223538
+Evidence: 2.0
+========================
+Token: Juncal
+ID: juncal
+L[RIVER]:0.6665:::L[EMPTY]:0.3334:::L[MOUNTAIN]:0.0001:::L[PLACE]:0:::
+R[EMPTY]:0.9999:::R[PERSON]:0.0001:::
+T[RIVER]:0.6665:::T[OTHER]:0.3333:::T[PERSON]:0.0001:::T[MOUNTAIN]:0.0001:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.6666:::DICT[N]:0.3334:::
+Active Evidence: 1.5003492
+Evidence: 6.0
+========================
+Token: Giulietti
+ID: giulietti
+L[EMPTY]:0.9999:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:0.9999:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::DICT[N]:0:::
+Active Evidence: 1.1002634
+Evidence: 4.1002
+========================
+Token: Klare
+ID: klare
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[PERSON]:0.6495:::R[EMPTY]:0.3505:::
+T[RIVER]:0.6495:::T[OTHER]:0.3504:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.4270368
+Evidence: 5.0
+========================
+Token: Joon
+ID: joon
+L[EMPTY]:0.9998:::L[PERSON]:0.0002:::L[PLACE]:0:::
+R[RIVER]:0.5045:::R[PERSON]:0.4927:::R[PLACE]:0.0026:::R[EMPTY]:0.0002:::
+T[RIVER]:0.5045:::T[PERSON]:0.4955:::
+SW[NULL]:1:::
+DICT[N]:0.9974:::DICT[Y]:0.0026:::
+Active Evidence: 1.9820247
+Evidence: 10.0
+========================
+Token: Cambridgeshire
+ID: cambridgeshire
+L[EMPTY]:0.8982:::L[PERSON]:0.0913:::L[ORGANISATION]:0.0052:::L[COMPANY]:0.0052:::L[PLACE]:0:::
+R[RIVER]:0.3831:::R[EMPTY]:0.2934:::R[EVENT]:0.1243:::R[ORGANISATION]:0.075:::R[PLACE]:0.0621:::R[LEGISLATURE]:0.0621:::
+T[RIVER]:0.3831:::T[EVENT]:0.2485:::T[OTHER]:0.1916:::T[ORGANISATION]:0.1767:::T[PLACE]:0:::T[LEGISLATURE]:0:::
+SW[NULL]:1:::SW[for]:0:::
+DICT[N]:0.6493:::DICT[Y]:0.3507:::
+Active Evidence: 2.6100492
+Evidence: 14.0
+========================
+Token: Rihand
+ID: rihand
+L[EMPTY]:1:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0:::
+Active Evidence: 1.048001
+Evidence: 2.0479999
+========================
+Token: Morilor
+ID: morilor
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.9882:::DICT[N]:0.0118:::
+Active Evidence: 1.0119561
+Evidence: 3.0
+========================
+Token: Salar De
+ID: salar de
+L[EMPTY]:1:::
+R[RIVER]:0.9946:::R[PLACE]:0.0036:::R[ORGANISATION]:0.0017:::R[AIRPORT]:0.0002:::
+T[RIVER]:0.9946:::T[PLACE]:0.0051:::T[AIRPORT]:0.0003:::
+SW[NULL]:1:::
+DICT[N]:0.9946:::DICT[Y]:0.0054:::
+Active Evidence: 1.0054555
+Evidence: 3.0
+========================
+Token: Oii
+ID: oii
+L[RIVER]:0.9983:::L[EMPTY]:0.0017:::L[BRIDGE]:0:::
+R[EMPTY]:0.9983:::R[PLACE]:0.0017:::R[BRIDGE]:0:::
+T[RIVER]:0.9983:::T[ORGANISATION]:0.0017:::T[BRIDGE]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.9983:::DICT[N]:0.0017:::
+Active Evidence: 1.0016853
+Evidence: 3.0
+========================
+Token: Lewa
+ID: lewa
+L[RIVER]:0.9992:::L[PLACE]:0.0008:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[AIRPORT]:0:::
+T[RIVER]:0.9992:::T[PLACE]:0.0008:::T[AIRPORT]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0008218
+Evidence: 3.0
+========================
+Token: Taquari
+ID: taquari
+L[EMPTY]:0.9999:::L[PLACE]:0.0001:::
+R[RIVER]:0.9999:::R[EMPTY]:0.0001:::
+T[RIVER]:0.9999:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.000071
+Evidence: 3.0
+========================
+Token: Vadului
+ID: vadului
+L[RIVER]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000372
+Evidence: 3.0
+========================
+Token: Galion
+ID: galion
+L[RIVER]:1:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[PERIODICAL_LITERATURE]:0:::R[AIRPORT]:0:::R[EVENT]:0:::
+T[RIVER]:1:::T[PERIODICAL_LITERATURE]:0:::T[AIRPORT]:0:::
+SW[du]:1:::SW[NULL]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000219
+Evidence: 3.0
+========================
+Token: Lanoux
+ID: lanoux
+L[RIVER]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[du]:1:::SW[NULL]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000211
+Evidence: 3.0
+========================
+Token: Turcului
+ID: turcului
+L[RIVER]:0.9764:::L[PLACE]:0.0236:::
+R[EMPTY]:1:::
+T[RIVER]:0.9764:::T[PLACE]:0.0236:::
+SW[NULL]:1:::
+DICT[Y]:0.9764:::DICT[N]:0.0236:::
+Active Evidence: 1.0242208
+Evidence: 2.0
+========================
+Token: Norfork
+ID: norfork
+L[EMPTY]:1:::
+R[RIVER]:0.9956:::R[PLACE]:0.0044:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:0.9956:::DICT[Y]:0.0044:::
+Active Evidence: 1.00444
+Evidence: 2.0
+========================
+Token: Labussee
+ID: labussee
+L[RIVER]:0.9975:::L[MOUNTAIN]:0.0025:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0025219
+Evidence: 2.0
+========================
+Token: Wierzyca
+ID: wierzyca
+L[RIVER]:0.9985:::L[EMPTY]:0.0015:::
+R[EMPTY]:0.9985:::R[PLACE]:0.0015:::
+T[RIVER]:0.9985:::T[ORGANISATION]:0.0015:::
+SW[NULL]:1:::
+DICT[Y]:0.9985:::DICT[N]:0.0015:::
+Active Evidence: 1.001522
+Evidence: 2.0
+========================
+Token: Demonte
+ID: demonte
+L[RIVER]:0.9992:::L[EMPTY]:0.0008:::L[PERSON]:0:::
+R[EMPTY]:0.9992:::R[PERSON]:0.0008:::
+T[RIVER]:0.9992:::T[PERSON]:0.0008:::
+SW[di]:0.9992:::SW[NULL]:0.0008:::
+DICT[N]:1:::
+Active Evidence: 1.0008093
+Evidence: 4.0
+========================
+Token: Lontra
+ID: lontra
+L[RIVER]:0.9993:::L[PLACE]:0.0007:::
+R[EMPTY]:1:::
+T[RIVER]:0.9993:::T[PLACE]:0.0007:::
+SW[NULL]:0.9993:::SW[do]:0.0007:::
+DICT[N]:1:::
+Active Evidence: 1.0007236
+Evidence: 2.0
+========================
+Token: Huapi
+ID: huapi
+L[PLACE]:0.4998:::L[RIVER]:0.4998:::L[PERSON]:0.0004:::
+R[EMPTY]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:0.9996:::T[PLACE]:0.0004:::
+SW[and]:0.9996:::SW[NULL]:0.0004:::
+DICT[Y]:0.9996:::DICT[N]:0.0004:::
+Active Evidence: 1.0004035
+Evidence: 4.0
+========================
+Token: Haanja
+ID: haanja
+L[EMPTY]:1:::
+R[RIVER]:0.9997:::R[PLACE]:0.0003:::
+T[RIVER]:0.9997:::T[PLACE]:0.0003:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0002923
+Evidence: 2.0
+========================
+Token: Vils
+ID: vils
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0001296
+Evidence: 2.0
+========================
+Token: Larrau
+ID: larrau
+L[RIVER]:0.9998:::L[PLACE]:0.0002:::
+R[EMPTY]:1:::
+T[RIVER]:0.9998:::T[PLACE]:0.0002:::
+SW[de]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0002471
+Evidence: 2.0
+========================
+Token: Bystry
+ID: bystry
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0000632
+Evidence: 2.0
+========================
+Token: Szlak
+ID: szlak
+L[EMPTY]:0.9999:::L[PERSON]:0.0001:::
+R[RIVER]:0.9999:::R[EMPTY]:0.0001:::
+T[RIVER]:0.9999:::T[PERSON]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0001069
+Evidence: 2.0
+========================
+Token: Lochy
+ID: lochy
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0000494
+Evidence: 2.0
+========================
+Token: Leucate
+ID: leucate
+L[RIVER]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[de]:1:::SW[du]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000485
+Evidence: 2.0
+========================
+Token: Kose
+ID: kose
+L[EMPTY]:1:::
+R[RIVER]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.000048
+Evidence: 2.0
+========================
+Token: Achen
+ID: achen
+L[RIVER]:1:::L[PERSON]:0:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::
+T[RIVER]:1:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000396
+Evidence: 4.0
+========================
+Token: Teiului
+ID: teiului
+L[RIVER]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000194
+Evidence: 2.0
+========================
+Token: Ciorii
+ID: ciorii
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000126
+Evidence: 2.0
+========================
+Token: Barachois
+ID: barachois
+L[EMPTY]:1:::L[PLACE]:0:::
+R[EMPTY]:1:::R[PLACE]:0:::R[RIVER]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000064
+Evidence: 4.0
+========================
+Token: Viitina
+ID: viitina
+L[EMPTY]:1:::L[PLACE]:0:::
+R[RIVER]:1:::R[EMPTY]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.000003
+Evidence: 2.0
+========================
+Token: Shatsky
+ID: shatsky
+L[EMPTY]:1:::L[PERSON]:0:::
+R[RIVER]:1:::R[EMPTY]:0:::R[ORGANISATION]:0:::R[PLACE]:0:::
+T[RIVER]:1:::T[PERSON]:0:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000056
+Evidence: 4.0
+========================
+Token: Pietrei
+ID: pietrei
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0000025
+Evidence: 2.0
+========================
+Token: Cailor
+ID: cailor
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0000025
+Evidence: 2.0
+========================
+Token: Fierului
+ID: fierului
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0000025
+Evidence: 2.0
+========================
+Token: Ascuns
+ID: ascuns
+L[RIVER]:1:::
+R[EMPTY]:1:::R[RIVER]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0000025
+Evidence: 2.0
+========================
+Token: Minei
+ID: minei
+L[RIVER]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::R[PERSON]:0:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.000001
+Evidence: 2.0
+========================
+Token: Manggahan
+ID: manggahan
+L[EMPTY]:1:::
+R[RIVER]:1:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0000004
+Evidence: 2.0
+========================
+Token: Sill
+ID: sill
+L[EMPTY]:0.5589:::L[PERSON]:0.2123:::L[PLACE]:0:::L[ORGANISATION]:0:::L[MOUNTAIN]:0:::L[AIRPORT]:0:::
+R[EMPTY]:0.9999:::R[PERSON]:0:::R[PLACE]:0:::R[ORGANISATION]:0:::R[AIRPORT]:0:::
+T[RIVER]:0.4536:::T[PERSON]:0.2123:::T[OTHER]:0.0507:::T[BUILDING]:0:::T[PLACE]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.546:::DICT[Y]:0.0004:::
+Active Evidence: 2.3753204
+Evidence: 17.0774
+========================
+Token: Lajeado
+ID: lajeado
+L[EMPTY]:1:::
+R[PERSON]:0.9999:::R[PLACE]:0.0001:::R[RIVER]:0:::
+T[RIVER]:0.9999:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 0.99105567
+Evidence: 4.0
+========================
+Token: Zipser
+ID: zipser
+L[EMPTY]:0.9977:::L[PERSON]:0.0023:::L[BUILDING]:0:::
+R[RIVER]:0.9802:::R[PERSON]:0.0175:::R[EMPTY]:0.0023:::
+T[RIVER]:0.9802:::T[MOUNTAIN]:0.0175:::T[PERSON]:0.0023:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.9977:::DICT[N]:0.0023:::
+Active Evidence: 1.0202116
+Evidence: 5.0
+========================
+Token: Thau
+ID: thau
+L[RIVER]:0.9999:::L[PERSON]:0.0001:::
+R[EMPTY]:1:::
+T[RIVER]:0.9999:::T[PERSON]:0.0001:::
+SW[de]:0.9999:::SW[NULL]:0.0001:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0000693
+Evidence: 5.0
+========================
+Token: Orbetello
+ID: orbetello
+L[RIVER]:1:::L[EVENT]:0:::L[EMPTY]:0:::
+R[EMPTY]:1:::R[EVENT]:0:::R[PLACE]:0:::
+T[RIVER]:1:::T[EVENT]:0:::T[PLACE]:0:::
+SW[of]:1:::SW[NULL]:0:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 1.0000117
+Evidence: 5.0
+========================
+Token: Chander
+ID: chander
+L[EMPTY]:0.3339:::L[PERSON]:0.3336:::L[RIVER]:0.3326:::
+R[RIVER]:0.6651:::R[EMPTY]:0.3344:::R[PERSON]:0.0004:::
+T[RIVER]:0.6651:::T[OTHER]:0.3337:::T[PERSON]:0.0012:::
+SW[and]:0.6651:::SW[NULL]:0.3349:::
+DICT[N]:1:::
+Active Evidence: 1.4983288
+Evidence: 10.0
+========================
+Token: Neudorf
+ID: neudorf
+L[RIVER]:0.9713:::L[EMPTY]:0.0247:::L[PERSON]:0.0039:::
+R[EMPTY]:0.9753:::R[PLACE]:0.0245:::R[ORGANISATION]:0.0003:::
+T[RIVER]:0.9713:::T[PLACE]:0.0283:::T[PERSON]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:0.9964:::DICT[Y]:0.0036:::
+Active Evidence: 1.0295273
+Evidence: 7.0
+========================
+Token: Rond
+ID: rond
+L[RIVER]:0.9566:::L[PERSON]:0.0431:::L[EMPTY]:0.0003:::
+R[EMPTY]:0.9997:::R[PERSON]:0.0003:::
+T[RIVER]:0.9566:::T[MOUNTAIN]:0.0429:::T[PERSON]:0.0005:::
+SW[NULL]:0.9999:::SW[de]:0:::SW[le]:0:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 0.9937348
+Evidence: 6.0
+========================
+Token: Strait of
+ID: strait of
+L[EMPTY]:0.9999:::L[EVENT]:0.0001:::
+R[PLACE]:0.9999:::R[EVENT]:0.0001:::R[PERSON]:0:::
+T[RIVER]:0.9999:::T[EVENT]:0.0001:::T[PLACE]:0:::
+SW[NULL]:0.9999:::SW[of]:0.0001:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 0.99873734
+Evidence: 7.0
+========================
+Token: Strei
+ID: strei
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 1.2532
+Evidence: 1.2532
+========================
+Token: Waterway
+ID: waterway
+L[RIVER]:0.9981:::L[PLACE]:0.0007:::L[COMPANY]:0.0006:::L[BRIDGE]:0.0006:::L[EMPTY]:0:::L[PERSON]:0:::
+R[EMPTY]:0.9988:::R[PLACE]:0.0004:::R[PERSON]:0.0004:::R[BRIDGE]:0.0004:::R[ORGANISATION]:0:::
+T[RIVER]:0.9981:::T[BRIDGE]:0.0012:::T[PLACE]:0.0007:::T[COMPANY]:0:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9981:::DICT[Y]:0.0019:::
+Active Evidence: 1.0019343
+Evidence: 8.0
+========================
+Token: Seebach
+ID: seebach
+L[RIVER]:0.9987:::L[PERSON]:0.0013:::
+R[EMPTY]:1:::
+T[RIVER]:0.9987:::T[PERSON]:0.0013:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 1.0012679
+Evidence: 9.0
+========================
+Token: Nebeska
+ID: nebeska
+L[EMPTY]:1:::
+R[PERSON]:1:::R[MOUNTAIN]:0:::
+T[RIVER]:1:::T[PLACE]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.79286253
+Evidence: 2.0
+========================
+Token: Sitch
+ID: sitch
+L[PERSON]:0.9928:::L[PLACE]:0.0036:::L[ORGANISATION]:0.0036:::
+R[EMPTY]:1:::
+T[RIVER]:0.9925:::T[ORGANISATION]:0.0072:::T[PERSON]:0.0003:::
+SW[NULL]:1:::
+DICT[Y]:0.9926:::DICT[N]:0.0074:::
+Active Evidence: 0.718101
+Evidence: 4.0
+========================
+Token: Pomme De
+ID: pomme de
+L[EMPTY]:1:::
+R[PLACE]:1:::R[RIVER]:0:::
+T[RIVER]:0.9643:::T[PLACE]:0.0357:::
+SW[NULL]:1:::
+DICT[Y]:0.9997:::DICT[N]:0.0003:::
+Active Evidence: 0.7176982
+Evidence: 4.0
+========================
+Token: Neajlov
+ID: neajlov
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 1.1602001
+Evidence: 1.1602001
+========================
+Token: Bahlui
+ID: bahlui
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 1.1436
+Evidence: 1.1436
+========================
+Token: Uska
+ID: uska
+L[EMPTY]:1:::
+R[PERSON]:0.7362:::R[EMPTY]:0.2638:::
+T[RIVER]:0.7362:::T[OTHER]:0.2638:::
+SW[NULL]:1:::
+DICT[Y]:0.7362:::DICT[N]:0.2638:::
+Active Evidence: 0.6317232
+Evidence: 2.0
+========================
+Token: Bacolet
+ID: bacolet
+L[PLACE]:0.6667:::L[RIVER]:0.3333:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.53320247
+Evidence: 2.0
+========================
+Token: Paravur
+ID: paravur
+L[EMPTY]:1:::L[PLACE]:0:::
+R[PERSON]:0.9996:::R[PLACE]:0.0004:::R[EMPTY]:0:::
+T[RIVER]:0.9996:::T[PLACE]:0.0004:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.5226751
+Evidence: 4.0
+========================
+Token: Recoleta
+ID: recoleta
+L[RIVER]:1:::L[ORGANISATION]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[ORGANISATION]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.4641211
+Evidence: 2.0
+========================
+Token: Lej
+ID: lej
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:0.8389:::DICT[N]:0.1611:::
+Active Evidence: 0.41558373
+Evidence: 3.0
+========================
+Token: Teleajen
+ID: teleajen
+L[EMPTY]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+
+Active Evidence: 1.0766
+Evidence: 1.0766
+========================
+Token: Yeso
+ID: yeso
+L[PLACE]:0.4989:::L[RIVER]:0.4989:::L[EMPTY]:0.0022:::L[PERSON]:0:::
+R[EMPTY]:0.9978:::R[PLACE]:0.0022:::
+T[RIVER]:0.9978:::T[PERSON]:0.0022:::T[PLACE]:0:::
+SW[NULL]:1:::SW[del]:0:::
+DICT[Y]:0.9978:::DICT[N]:0.0022:::
+Active Evidence: 0.37983546
+Evidence: 3.0
+========================
+Token: Bourlet
+ID: bourlet
+L[PLACE]:0.5:::L[RIVER]:0.5:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 0.17269863
+Evidence: 2.0
+========================
+Token: Puerco
+ID: puerco
+L[PLACE]:1:::
+R[EMPTY]:1:::R[BRIDGE]:0:::
+T[RIVER]:1:::T[BUILDING]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.09447995
+Evidence: 3.0
+========================
+Token: Berezina
+ID: berezina
+L[ORGANISATION]:1:::L[PERSON]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[Y]:1:::DICT[N]:0:::
+Active Evidence: 0.06595217
+Evidence: 2.0
+========================
+Token: Thorne and
+ID: thorne and
+L[EMPTY]:1:::
+R[PERSON]:0.7202:::R[RIVER]:0.1399:::R[COMPANY]:0.1399:::
+T[RIVER]:0.5597:::T[PLACE]:0.4403:::
+SW[NULL]:1:::
+DICT[Y]:0.5597:::DICT[N]:0.4403:::
+Active Evidence: 0.063627005
+Evidence: 2.0
+========================
+Token: Calore
+ID: calore
+L[EMPTY]:0.7709:::L[PLACE]:0.2291:::
+R[PLACE]:0.7709:::R[EMPTY]:0.2291:::
+T[RIVER]:0.7709:::T[PLACE]:0.2291:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.059406817
+Evidence: 4.0
+========================
+Token: Bassin
+ID: bassin
+L[EMPTY]:0.9999:::L[ORGANISATION]:0:::L[PERSON]:0:::
+R[RIVER]:0.9999:::R[ORGANISATION]:0:::R[EMPTY]:0:::
+T[RIVER]:0.9999:::T[ORGANISATION]:0:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:0.9999:::DICT[Y]:0.0001:::
+Active Evidence: 0.04941752
+Evidence: 3.0
+========================
+Token: Ng'iro
+ID: ng'iro
+L[RIVER]:0.578:::L[UNIVERSITY]:0.422:::L[MOUNTAIN]:0:::
+R[EMPTY]:1:::
+T[RIVER]:1:::T[MOUNTAIN]:0:::
+SW[NULL]:1:::
+DICT[Y]:0.844:::DICT[N]:0.156:::
+Active Evidence: 0.033214506
+Evidence: 3.0
+========================
+Token: Braia
+ID: braia
+L[RIVER]:0.9988:::L[PERSON]:0.0012:::
+R[EMPTY]:1:::
+T[RIVER]:0.9988:::T[PERSON]:0.0012:::
+SW[NULL]:1:::
+DICT[Y]:0.9988:::DICT[N]:0.0012:::
+Active Evidence: 0.020761786
+Evidence: 2.0
+========================
+Token: Minho
+ID: minho
+L[PLACE]:0.9987:::L[PERSON]:0.0012:::L[UNIVERSITY]:0.0001:::
+R[EMPTY]:0.9973:::R[PLACE]:0.0027:::
+T[RIVER]:0.996:::T[PLACE]:0.0027:::T[PERSON]:0.0012:::T[UNIVERSITY]:0.0001:::
+SW[NULL]:0.9973:::SW[do]:0.0027:::SW[of]:0.0001:::
+DICT[N]:1:::
+Active Evidence: 0.015550285
+Evidence: 4.0
+========================
+Token: Issyk
+ID: issyk
+L[EMPTY]:1:::L[PLACE]:0:::
+R[PLACE]:1:::R[EMPTY]:0:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 0.009970258
+Evidence: 2.0
+========================
+Token: Chartiers
+ID: chartiers
+L[EMPTY]:1:::
+R[PERSON]:0.9936:::R[RIVER]:0.0064:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.0047197463
+Evidence: 3.0
+========================
+Token: Goffs
+ID: goffs
+L[EMPTY]:0.5809:::L[PLACE]:0.4191:::
+R[EMPTY]:0.4191:::R[EVENT]:0.4037:::R[PLACE]:0.1538:::R[BUILDING]:0.0234:::
+T[RIVER]:0.4191:::T[EVENT]:0.4037:::T[PLACE]:0.1772:::
+SW[NULL]:1:::
+DICT[Y]:0.9869:::DICT[N]:0.0131:::
+Active Evidence: 0.0018438394
+Evidence: 5.0
+========================
+Token: Talao
+ID: talao
+L[PLACE]:0.7052:::L[EMPTY]:0.2948:::L[PERSON]:0.0001:::
+R[EMPTY]:0.7052:::R[PLACE]:0.2948:::
+T[RIVER]:0.9999:::T[PLACE]:0.0001:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.001458238
+Evidence: 4.0
+========================
+Token: Luppe
+ID: luppe
+L[PERIODICAL_LITERATURE]:0.9934:::L[RIVER]:0.0066:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.0011529173
+Evidence: 3.0
+========================
+Token: Sanguinet
+ID: sanguinet
+L[RIVER]:0.6665:::L[PERSON]:0.3335:::
+R[EMPTY]:0.9998:::R[PLACE]:0.0002:::
+T[RIVER]:0.9998:::T[PLACE]:0.0002:::
+SW[de]:0.9998:::SW[NULL]:0.0002:::
+DICT[Y]:1:::
+Active Evidence: 9.012254E-4
+Evidence: 2.0
+========================
+Token: Steinach
+ID: steinach
+L[RIVER]:0.9891:::L[ORGANISATION]:0.0051:::L[PERSON]:0.0031:::L[EMPTY]:0.0027:::
+R[EMPTY]:0.9973:::R[PERSON]:0.0014:::R[PLACE]:0.0014:::
+T[RIVER]:0.9891:::T[ORGANISATION]:0.0051:::T[PERSON]:0.0031:::T[PLACE]:0.0027:::
+SW[NULL]:1:::
+DICT[N]:0.9973:::DICT[Y]:0.0027:::
+Active Evidence: 8.9080434E-4
+Evidence: 5.0
+========================
+Token: Cazaux
+ID: cazaux
+L[RIVER]:0.9984:::L[PERSON]:0.0012:::L[EMPTY]:0.0004:::
+R[PERSON]:0.4992:::R[RIVER]:0.4992:::R[EMPTY]:0.0012:::R[AIRPORT]:0.0002:::R[AIRLINE]:0.0002:::
+T[RIVER]:0.9984:::T[PERSON]:0.0012:::T[AIRPORT]:0.0004:::
+SW[de]:0.9984:::SW[NULL]:0.0016:::
+DICT[Y]:0.9995:::DICT[N]:0.0005:::
+Active Evidence: 6.6009565E-4
+Evidence: 4.0
+========================
+Token: Sarovar
+ID: sarovar
+L[PLACE]:0.6896:::L[PERSON]:0.3098:::L[EMPTY]:0.0006:::
+R[EMPTY]:0.997:::R[PLACE]:0.0024:::R[COMPANY]:0.0006:::
+T[RIVER]:0.997:::T[PLACE]:0.0024:::T[COMPANY]:0.0006:::
+SW[NULL]:1:::
+DICT[Y]:0.692:::DICT[N]:0.308:::
+Active Evidence: 4.9591565E-4
+Evidence: 4.0
+========================
+Token: Rele
+ID: rele
+L[RIVER]:0.9485:::L[PERSON]:0.0515:::
+R[EMPTY]:1:::
+T[RIVER]:0.9485:::T[PERSON]:0.0515:::
+SW[NULL]:1:::
+DICT[Y]:0.9485:::DICT[N]:0.0515:::
+Active Evidence: 4.5431618E-4
+Evidence: 2.0
+========================
+Token: Laghi
+ID: laghi
+L[EMPTY]:0.9977:::L[PERSON]:0.0023:::
+R[PERSON]:0.9977:::R[EMPTY]:0.0023:::
+T[RIVER]:0.9977:::T[PERSON]:0.0023:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.1893567E-4
+Evidence: 2.0
+========================
+Token: Reeds
+ID: reeds
+L[EMPTY]:0.9945:::L[PERSON]:0.0055:::
+R[RIVER]:0.8943:::R[COMPANY]:0.0873:::R[PLACE]:0.013:::R[EMPTY]:0.0055:::
+T[RIVER]:0.8987:::T[COMPANY]:0.0873:::T[PLACE]:0.0086:::T[PERSON]:0.0055:::
+SW[NULL]:1:::
+DICT[N]:0.989:::DICT[Y]:0.011:::
+Active Evidence: 4.892754E-4
+Evidence: 8.0
+========================
+Token: Wehrbach
+ID: wehrbach
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.1598625E-4
+Evidence: 2.0
+========================
+Token: Brandenberger
+ID: brandenberger
+L[EMPTY]:0.9949:::L[PERSON]:0.0051:::
+R[PLACE]:0.9949:::R[EMPTY]:0.0051:::
+T[RIVER]:0.9942:::T[PERSON]:0.0051:::T[PLACE]:0.0007:::
+SW[NULL]:1:::
+DICT[Y]:0.9954:::DICT[N]:0.0046:::
+Active Evidence: 2.6039057E-4
+Evidence: 5.0
+========================
+Token: Annandale
+ID: annandale
+L[EMPTY]:0.9886:::L[PERSON]:0.0114:::
+R[PLACE]:0.9373:::R[MOUNTAIN]:0.0289:::R[EMPTY]:0.0114:::R[BUILDING]:0.0112:::R[ORGANISATION]:0.0112:::
+T[RIVER]:0.8759:::T[PLACE]:0.079:::T[MUSEUM]:0.0337:::T[PERSON]:0.0114:::
+SW[NULL]:1:::
+DICT[Y]:0.9886:::DICT[N]:0.0114:::
+Active Evidence: 1.3854788E-4
+Evidence: 6.0
+========================
+Token: Beardy
+ID: beardy
+L[EMPTY]:0.9718:::L[PERSON]:0.0282:::
+R[PERSON]:0.9718:::R[EMPTY]:0.0282:::
+T[RIVER]:0.9718:::T[PERSON]:0.0282:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.1173654E-4
+Evidence: 3.0
+========================
+Token: Gutach
+ID: gutach
+L[PERSON]:0.9936:::L[EMPTY]:0.0064:::
+R[EMPTY]:0.9936:::R[PLACE]:0.0064:::
+T[RIVER]:0.9936:::T[PLACE]:0.0064:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0800294E-4
+Evidence: 2.0
+========================
+Token: Valea De
+ID: valea de
+L[EMPTY]:1:::
+R[RIVER]:0.9946:::R[PLACE]:0.0033:::R[PERSON]:0.0021:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.116964E-5
+Evidence: 6.0
+========================
+Token: Neir
+ID: neir
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[RIVER]:0.9958:::T[PERSON]:0.0042:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.286072E-5
+Evidence: 2.0
+========================
+Token: Valea La
+ID: valea la
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.525134E-5
+Evidence: 2.0
+========================
+Token: Sulby
+ID: sulby
+L[EMPTY]:1:::
+R[PLACE]:0.3767:::R[RIVER]:0.3767:::R[PERSON]:0.2466:::
+T[RIVER]:0.7534:::T[BUILDING]:0.2466:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.7605336E-5
+Evidence: 2.0
+========================
+Token: Zab
+ID: zab
+L[PLACE]:0.8012:::L[EMPTY]:0.1988:::
+R[EMPTY]:0.8012:::R[PERSON]:0.1988:::
+T[RIVER]:0.8012:::T[PERSON]:0.1988:::
+SW[NULL]:1:::
+DICT[Y]:0.8012:::DICT[N]:0.1988:::
+Active Evidence: 9.091851E-6
+Evidence: 3.0
+========================
+Token: Smeaton
+ID: smeaton
+L[EMPTY]:0.9526:::L[PERSON]:0.0474:::
+R[PLACE]:0.4763:::R[COMPANY]:0.4763:::R[EMPTY]:0.0474:::
+T[RIVER]:0.9526:::T[PLACE]:0.0309:::T[PERSON]:0.0165:::
+SW[NULL]:1:::
+DICT[Y]:0.9835:::DICT[N]:0.0165:::
+Active Evidence: 8.638998E-6
+Evidence: 3.0
+========================
+Token: Neversink
+ID: neversink
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:0.8858:::T[PLACE]:0.1142:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.677347E-6
+Evidence: 2.0
+========================
+Token: Sheffield and
+ID: sheffield and
+L[EMPTY]:0.9077:::L[RIVER]:0.0923:::
+R[PLACE]:0.6931:::R[RIVER]:0.2892:::R[ORGANISATION]:0.0133:::R[EVENT]:0.0044:::
+T[RIVER]:0.8676:::T[COMPANY]:0.0923:::T[ORGANISATION]:0.0401:::
+SW[NULL]:0.9077:::SW[and]:0.0923:::
+DICT[Y]:1:::
+Active Evidence: 7.293787E-6
+Evidence: 4.0
+========================
+Token: Sagami
+ID: sagami
+L[PLACE]:0.5857:::L[EMPTY]:0.4143:::
+R[EMPTY]:0.5857:::R[PLACE]:0.3085:::R[EVENT]:0.0529:::R[UNIVERSITY]:0.0322:::R[BUILDING]:0.0207:::
+T[RIVER]:0.5857:::T[PLACE]:0.2489:::T[COMPANY]:0.1009:::T[UNIVERSITY]:0.0644:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.430824E-6
+Evidence: 7.0
+========================
+Token: Brazi
+ID: brazi
+L[RIVER]:0.7496:::L[PERSON]:0.1053:::L[PLACE]:0.1053:::L[ORGANISATION]:0.0399:::
+R[EMPTY]:1:::
+T[RIVER]:0.7496:::T[PERSON]:0.2105:::T[ORGANISATION]:0.0399:::
+SW[NULL]:1:::
+DICT[Y]:0.9601:::DICT[N]:0.0399:::
+Active Evidence: 5.2141213E-6
+Evidence: 4.0
+========================
+Token: Foale
+ID: foale
+L[RIVER]:0.9311:::L[PERSON]:0.0689:::
+R[EMPTY]:1:::
+T[RIVER]:0.9311:::T[PERSON]:0.0689:::
+SW[NULL]:1:::
+DICT[Y]:0.9311:::DICT[N]:0.0689:::
+Active Evidence: 5.0029726E-6
+Evidence: 2.0
+========================
+Token: Schmale
+ID: schmale
+L[EMPTY]:1:::
+R[PERSON]:0.8646:::R[PLACE]:0.1354:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.8817943E-6
+Evidence: 2.0
+========================
+Token: Countryside
+ID: countryside
+L[EMPTY]:0.6181:::L[PLACE]:0.2187:::L[RIVER]:0.1219:::L[PERSON]:0.0413:::
+R[PLACE]:0.5113:::R[EMPTY]:0.1774:::R[ORGANISATION]:0.1261:::R[HOSPITAL]:0.1219:::R[COMPANY]:0.0439:::R[MUSEUM]:0.0194:::
+T[RIVER]:0.3658:::T[ORGANISATION]:0.2961:::T[PLACE]:0.1774:::T[HOSPITAL]:0.1219:::T[MUSEUM]:0.0388:::
+SW[NULL]:0.709:::SW[for]:0.2522:::SW[and]:0.0388:::
+DICT[Y]:0.8226:::DICT[N]:0.1774:::
+Active Evidence: 3.9331762E-6
+Evidence: 6.0
+========================
+Token: Taseko
+ID: taseko
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:0.746:::T[COMPANY]:0.1982:::T[MOUNTAIN]:0.0558:::
+SW[NULL]:1:::
+DICT[N]:0.9442:::DICT[Y]:0.0558:::
+Active Evidence: 2.135639E-6
+Evidence: 3.0
+========================
+Token: Hinze
+ID: hinze
+L[EMPTY]:0.8397:::L[PERSON]:0.1603:::
+R[PLACE]:0.8397:::R[EMPTY]:0.1603:::
+T[RIVER]:0.8397:::T[PERSON]:0.1603:::
+SW[NULL]:1:::
+DICT[Y]:0.8397:::DICT[N]:0.1603:::
+Active Evidence: 2.0367704E-6
+Evidence: 2.0
+========================
+Token: Langdale
+ID: langdale
+L[EMPTY]:0.8505:::L[PLACE]:0.0753:::L[PERSON]:0.0742:::
+R[PLACE]:0.8505:::R[EMPTY]:0.1495:::
+T[RIVER]:0.8505:::T[PLACE]:0.0753:::T[PERSON]:0.0742:::
+SW[NULL]:1:::
+DICT[Y]:0.9258:::DICT[N]:0.0742:::
+Active Evidence: 1.6597695E-6
+Evidence: 3.0
+========================
+Token: Breiter
+ID: breiter
+L[EMPTY]:0.8373:::L[PERSON]:0.1627:::
+R[RIVER]:0.8373:::R[EMPTY]:0.1627:::
+T[RIVER]:0.8373:::T[PERSON]:0.1627:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.6952072E-6
+Evidence: 2.0
+========================
+Token: Kranji
+ID: kranji
+L[EMPTY]:1:::
+R[RIVER]:0.7506:::R[PERSON]:0.2494:::
+T[RIVER]:0.7506:::T[EVENT]:0.2494:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.4789257E-7
+Evidence: 2.0
+========================
+Token: Nacimiento
+ID: nacimiento
+L[PLACE]:0.7308:::L[MOUNTAIN]:0.2692:::
+R[EMPTY]:1:::
+T[RIVER]:0.7308:::T[MOUNTAIN]:0.2692:::
+SW[NULL]:0.7308:::SW[del]:0.2692:::
+DICT[Y]:0.7308:::DICT[N]:0.2692:::
+Active Evidence: 5.1145173E-7
+Evidence: 2.0
+========================
+Token: Litton
+ID: litton
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:0.6563:::T[PLACE]:0.3437:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.890476E-7
+Evidence: 2.0
+========================
+Token: Kainji
+ID: kainji
+L[EMPTY]:1:::
+R[PLACE]:0.7997:::R[ORGANISATION]:0.2003:::
+T[RIVER]:0.5994:::T[PLACE]:0.4006:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.25734E-7
+Evidence: 2.0
+========================
+Token: Dracului
+ID: dracului
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Tallebudgera
+ID: tallebudgera
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[RIVER]:0.5:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.052328E-7
+Evidence: 1.0
+========================
+Token: Dannelly
+ID: dannelly
+L[PERSON]:0.5:::L[RIVER]:0.5:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.0317011E-6
+Evidence: 1.0
+========================
+Token: Patillas
+ID: patillas
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[de]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.9572885E-7
+Evidence: 1.0
+========================
+Token: Sebkha
+ID: sebkha
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.7001547E-7
+Evidence: 1.0
+========================
+Token: Icknield
+ID: icknield
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.4778123E-5
+Evidence: 1.0
+========================
+Token: Laptelui
+ID: laptelui
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Gailey
+ID: gailey
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 2.6366857E-7
+Evidence: 1.0
+========================
+Token: Lespezi
+ID: lespezi
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.8875455E-6
+Evidence: 1.0
+========================
+Token: Pactola
+ID: pactola
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Bivens
+ID: bivens
+L[EMPTY]:1:::
+R[COMPANY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0834209E-6
+Evidence: 1.0
+========================
+Token: Bistcho
+ID: bistcho
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Millbrook
+ID: millbrook
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.8805835E-7
+Evidence: 1.0
+========================
+Token: Vadret
+ID: vadret
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[da]:1:::
+DICT[N]:1:::
+Active Evidence: 8.1257144E-7
+Evidence: 1.0
+========================
+Token: Kaban
+ID: kaban
+L[PLACE]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 5.3440876E-6
+Evidence: 1.0
+========================
+Token: Lipez
+ID: lipez
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[de]:1:::
+DICT[Y]:1:::
+Active Evidence: 9.240944E-7
+Evidence: 1.0
+========================
+Token: Haddiscoe
+ID: haddiscoe
+L[EMPTY]:1:::
+R[DISEASE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.8406884E-6
+Evidence: 1.0
+========================
+Token: Maffitt
+ID: maffitt
+L[PERSON]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.047057E-6
+Evidence: 1.0
+========================
+Token: Cucului
+ID: cucului
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Plopilor
+ID: plopilor
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Tiefer
+ID: tiefer
+L[EMPTY]:1:::
+R[PERSON]:0.5:::R[RIVER]:0.5:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.3323448E-7
+Evidence: 1.0
+========================
+Token: Cracul
+ID: cracul
+L[RIVER]:1:::
+R[DISEASE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 0.0064577796
+Evidence: 1.0
+========================
+Token: Scandale
+ID: scandale
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.8488533E-7
+Evidence: 1.0
+========================
+Token: Poxim
+ID: poxim
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[a]:1:::
+DICT[Y]:1:::
+Active Evidence: 8.195365E-7
+Evidence: 1.0
+========================
+Token: Gropii
+ID: gropii
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Devoll
+ID: devoll
+L[EMPTY]:1:::
+R[PERSON]:0.6667:::R[PLACE]:0.3333:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.086222E-7
+Evidence: 1.0
+========================
+Token: Lohbach
+ID: lohbach
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Plaiul
+ID: plaiul
+L[RIVER]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0173195E-7
+Evidence: 1.0
+========================
+Token: Dongping
+ID: dongping
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Blackton
+ID: blackton
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Arnfield
+ID: arnfield
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Pietrele
+ID: pietrele
+L[RIVER]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.454765E-5
+Evidence: 1.0
+========================
+Token: Rusului
+ID: rusului
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Pitsford
+ID: pitsford
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.4922733E-5
+Evidence: 1.0
+========================
+Token: Spout
+ID: spout
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.2687875E-6
+Evidence: 1.0
+========================
+Token: Rovina
+ID: rovina
+L[PERSON]:0.5:::L[PLACE]:0.5:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 3.154615E-7
+Evidence: 1.0
+========================
+Token: Sywell
+ID: sywell
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.1317417E-5
+Evidence: 1.0
+========================
+Token: Bregenzer
+ID: bregenzer
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.4828252E-6
+Evidence: 1.0
+========================
+Token: Iezerului
+ID: iezerului
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Danjiangkou
+ID: danjiangkou
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Sutlepa
+ID: sutlepa
+L[EMPTY]:1:::
+R[ORGANISATION]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.987E-7
+Evidence: 1.0
+========================
+Token: Deadhorse
+ID: deadhorse
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Puslinch
+ID: puslinch
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Yanarahu
+ID: yanarahu
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Ramsauer
+ID: ramsauer
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.5117547E-6
+Evidence: 1.0
+========================
+Token: Fishtrap
+ID: fishtrap
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Pukaqucha
+ID: pukaqucha
+L[PERSON]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 0.023342144
+Evidence: 1.0
+========================
+Token: Sirk'i
+ID: sirk'i
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.1220477E-7
+Evidence: 1.0
+========================
+Token: Addicks
+ID: addicks
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Aleknagik
+ID: aleknagik
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Bogat
+ID: bogat
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Kielder
+ID: kielder
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0052219E-4
+Evidence: 1.0
+========================
+Token: Torno
+ID: torno
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.4932985E-5
+Evidence: 1.0
+========================
+Token: Millerton
+ID: millerton
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Mundaring
+ID: mundaring
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.5814758E-7
+Evidence: 1.0
+========================
+Token: Weihergraben
+ID: weihergraben
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Grafham
+ID: grafham
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.953267E-7
+Evidence: 1.0
+========================
+Token: Riozinho
+ID: riozinho
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Phoksundo
+ID: phoksundo
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Ballabh
+ID: ballabh
+L[PERSON]:1:::
+R[PERSON]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.2946155E-7
+Evidence: 1.0
+========================
+Token: Pintii
+ID: pintii
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Mioarele
+ID: mioarele
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Splitrock
+ID: splitrock
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Cressbrook
+ID: cressbrook
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 3.5318512E-6
+Evidence: 1.0
+========================
+Token: Soodla
+ID: soodla
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Pewaukee
+ID: pewaukee
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Pinehouse
+ID: pinehouse
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Dorena
+ID: dorena
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Balmorhea
+ID: balmorhea
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Uhlenbach
+ID: uhlenbach
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Zlatar
+ID: zlatar
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Waurika
+ID: waurika
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Holzminde
+ID: holzminde
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Ystradfellte
+ID: ystradfellte
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Ivaylovgrad
+ID: ivaylovgrad
+L[EMPTY]:1:::
+R[RIVER]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.692918E-7
+Evidence: 1.0
+========================
+Token: Kildare and
+ID: kildare and
+L[RIVER]:0.5:::L[COMPANY]:0.5:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[and]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.329848E-5
+Evidence: 1.0
+========================
+Token: Mioarelor
+ID: mioarelor
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Weagamow
+ID: weagamow
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Arram
+ID: arram
+L[EMPTY]:1:::
+R[PERSON]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 7.945122E-6
+Evidence: 1.0
+========================
+Token: Batiscan
+ID: batiscan
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.5774278E-7
+Evidence: 1.0
+========================
+Token: Caprelor
+ID: caprelor
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Loue
+ID: loue
+L[PLACE]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.2574515E-5
+Evidence: 1.0
+========================
+Token: Booragoon
+ID: booragoon
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Bermecke
+ID: bermecke
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================
+Token: Vrutci
+ID: vrutci
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.9523613E-7
+Evidence: 1.0
+========================
+Token: Tocilelor
+ID: tocilelor
+L[RIVER]:1:::
+R[EMPTY]:1:::
+T[RIVER]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0
+Evidence: 1.0
+========================

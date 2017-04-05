@@ -1,0 +1,370 @@
+Token: Library of
+ID: library of
+L[ORGANISATION]:0.5225:::L[PERSON]:0.127:::L[EMPTY]:0.1221:::L[PLACE]:0.1144:::L[LIBRARY]:0.0566:::L[UNIVERSITY]:0.0256:::
+R[PLACE]:0.7191:::R[PERSON]:0.0644:::R[ORGANISATION]:0.0463:::R[BUILDING]:0.0357:::R[LIBRARY]:0.0353:::R[UNIVERSITY]:0.0205:::
+T[LIBRARY]:0.7645:::T[BUILDING]:0.1279:::T[GOVAGENCY]:0.0385:::T[PLACE]:0.0385:::T[OTHER]:0.0154:::T[COMPANY]:0.0097:::
+SW[of]:0.7742:::SW[NULL]:0.0932:::SW[the]:0.0702:::SW[and]:0.0624:::
+DICT[N]:0.6029:::DICT[Y]:0.3971:::
+Active Evidence: 102.78703
+Evidence: 118.0
+========================
+Token: Biblioteca
+ID: biblioteca
+L[EMPTY]:0.9997:::L[ORGANISATION]:0.0003:::
+R[LIBRARY]:0.514:::R[ORGANISATION]:0.2555:::R[PLACE]:0.1535:::R[PERSON]:0.0676:::R[MUSEUM]:0.0094:::
+T[LIBRARY]:0.875:::T[PERSON]:0.1107:::T[MUSEUM]:0.0141:::T[ORGANISATION]:0.0003:::
+SW[NULL]:0.5528:::SW[de]:0.335:::SW[di]:0.1121:::
+DICT[N]:0.8955:::DICT[Y]:0.1045:::
+Active Evidence: 8.916415
+Evidence: 12.0
+========================
+Token: Bodley
+ID: bodley
+L[EMPTY]:0.9058:::L[PERSON]:0.0081:::L[PLACE]:0:::
+R[EMPTY]:0.9996:::R[PERSON]:0:::
+T[LIBRARY]:0.5013:::T[PERSON]:0.4506:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:0.0942:::DICT[Y]:0.0004:::
+Active Evidence: 11.734878
+Evidence: 19.624
+========================
+Token: Hul
+ID: hul
+L[EMPTY]:0.9976:::L[PERSON]:0.0005:::
+R[EMPTY]:0.8081:::R[PERSON]:0.0369:::R[PLACE]:0:::R[ORGANISATION]:0:::
+T[LIBRARY]:0.8056:::T[PERSON]:0.0374:::T[ORGANISATION]:0:::
+SW[NULL]:0.9976:::SW[van]:0.0005:::
+DICT[N]:0.192:::DICT[Y]:0.0024:::
+Active Evidence: 5.2103925
+Evidence: 8.197599
+========================
+Token: Archive
+ID: archive
+L[EMPTY]:0.2131:::L[PERSON]:0.1701:::L[COMPANY]:0.1641:::L[ORGANISATION]:0.122:::L[PLACE]:0.1034:::L[EVENT]:0.095:::
+R[EMPTY]:0.9998:::R[PERIODICAL_LITERATURE]:0.0002:::R[PLACE]:0:::R[BUILDING]:0:::R[MUSEUM]:0:::R[GOVAGENCY]:0:::
+T[LIBRARY]:0.2562:::T[OTHER]:0.2131:::T[ORGANISATION]:0.1897:::T[COMPANY]:0.15:::T[MUSEUM]:0.0809:::T[BUILDING]:0.0756:::
+SW[NULL]:0.8758:::SW[and]:0.0863:::SW[do]:0.0379:::
+DICT[Y]:0.5822:::DICT[N]:0.4178:::
+Active Evidence: 26.351213
+Evidence: 44.0
+========================
+Token: National and
+ID: national and
+L[EMPTY]:0.9583:::L[PLACE]:0.0396:::L[GOVAGENCY]:0.002:::L[PERSON]:0:::L[UNIVERSITY]:0:::
+R[PLACE]:0.2873:::R[LIBRARY]:0.2286:::R[UNIVERSITY]:0.2259:::R[BUILDING]:0.1178:::R[PERSON]:0.0673:::R[EVENT]:0.0393:::
+T[LIBRARY]:0.8007:::T[BUILDING]:0.1395:::T[PLACE]:0.0396:::T[UNIVERSITY]:0.0181:::T[GOVAGENCY]:0.002:::T[ORGANISATION]:0:::
+SW[of]:0.605:::SW[in]:0.2138:::SW[NULL]:0.1395:::SW[and]:0.0396:::SW[for]:0.002:::
+DICT[Y]:0.8424:::DICT[N]:0.1576:::
+Active Evidence: 4.655088
+Evidence: 12.0
+========================
+Token: Public
+ID: public
+L[EMPTY]:0.2167:::L[PLACE]:0.1578:::L[PERSON]:0.0694:::L[LIBRARY]:0.0149:::L[ORGANISATION]:0.0103:::L[BUILDING]:0.0067:::
+R[PLACE]:0.2716:::R[EMPTY]:0.0488:::R[ORGANISATION]:0.0164:::R[COMPANY]:0.0101:::R[PERSON]:0.01:::R[UNIVERSITY]:0.0095:::
+T[LIBRARY]:0.18:::T[BUILDING]:0.0945:::T[PLACE]:0.0402:::T[ORGANISATION]:0.0197:::T[OTHER]:0.014:::T[COMPANY]:0.0097:::
+SW[NULL]:0.9573:::SW[of]:0.0062:::SW[and]:0.0033:::SW[in]:0.0021:::SW[for]:0.0017:::SW[at]:0.0008:::
+DICT[Y]:0.9223:::DICT[N]:0.0732:::
+Active Evidence: 413.2157
+Evidence: 1488.8442
+========================
+Token: Library for
+ID: library for
+L[PERSON]:0.637:::L[EMPTY]:0.1457:::L[PLACE]:0.129:::L[COMPANY]:0.0624:::L[ORGANISATION]:0.0213:::L[LIBRARY]:0.0041:::
+R[COMPANY]:0.6682:::R[BUILDING]:0.1623:::R[EMPTY]:0.1457:::R[UNIVERSITY]:0.0065:::R[PERSON]:0.0057:::R[PLACE]:0.0057:::
+T[LIBRARY]:0.7759:::T[OTHER]:0.1457:::T[BUILDING]:0.0777:::T[COMPANY]:0.0005:::T[MUSEUM]:0.0003:::
+SW[the]:0.4995:::SW[for]:0.325:::SW[NULL]:0.1457:::SW[and]:0.0298:::
+DICT[Y]:0.5293:::DICT[N]:0.4707:::
+Active Evidence: 4.0037527
+Evidence: 10.0
+========================
+Token: Grameena
+ID: grameena
+L[LIBRARY]:1:::L[PERSON]:0:::L[EVENT]:0:::
+R[LIBRARY]:1:::R[PLACE]:0:::
+T[LIBRARY]:1:::T[COMPANY]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::DICT[Y]:0:::
+Active Evidence: 2.000015
+Evidence: 3.0
+========================
+Token: Library
+ID: & library
+L[MUSEUM]:0.3368:::L[PERSON]:0.1822:::L[BUILDING]:0.1736:::L[ORGANISATION]:0.1537:::L[LIBRARY]:0.1534:::L[COMPANY]:0.0004:::
+R[EMPTY]:1:::
+T[LIBRARY]:0.9792:::T[MUSEUM]:0.0197:::T[BUILDING]:0.0011:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.819307
+Evidence: 5.0
+========================
+Token: State and
+ID: state and
+L[EMPTY]:0.5573:::L[ORGANISATION]:0.219:::L[LIBRARY]:0.2174:::L[PLACE]:0.0063:::L[UNIVERSITY]:0:::L[EVENT]:0:::
+R[PLACE]:0.3676:::R[EMPTY]:0.3378:::R[UNIVERSITY]:0.1818:::R[LEGISLATURE]:0.1095:::R[ORGANISATION]:0.0032:::R[PERIODICAL_LITERATURE]:0.0001:::
+T[LIBRARY]:0.4364:::T[OTHER]:0.3378:::T[LEGISLATURE]:0.2191:::T[PLACE]:0.0064:::T[PERIODICAL_LITERATURE]:0.0002:::T[UNIVERSITY]:0.0001:::
+SW[NULL]:0.5573:::SW[and]:0.4427:::SW[of]:0:::SW[for]:0:::
+DICT[Y]:0.6622:::DICT[N]:0.3378:::
+Active Evidence: 4.5645003
+Evidence: 18.0
+========================
+Token: University and
+ID: university and
+L[EMPTY]:0.7022:::L[PLACE]:0.2963:::L[ORGANISATION]:0.0007:::L[BUILDING]:0.0004:::L[UNIVERSITY]:0.0004:::
+R[PLACE]:0.296:::R[ORGANISATION]:0.2771:::R[LIBRARY]:0.1477:::R[COMPANY]:0.1476:::R[UNIVERSITY]:0.1311:::R[GOVAGENCY]:0.0005:::
+T[LIBRARY]:0.4432:::T[UNIVERSITY]:0.2978:::T[ORGANISATION]:0.259:::
+SW[NULL]:0.7022:::SW[and]:0.2978:::
+DICT[Y]:0.7048:::DICT[N]:0.2952:::
+Active Evidence: 2.256154
+Evidence: 5.0
+========================
+Token: Maternal and
+ID: maternal and
+L[EMPTY]:0.6573:::L[PERSON]:0.3382:::L[ORGANISATION]:0.0045:::L[PLACE]:0:::
+R[PERSON]:0.4428:::R[GOVAGENCY]:0.3287:::R[ORGANISATION]:0.1142:::R[COMPANY]:0.1127:::R[DISEASE]:0.0015:::R[PLACE]:0:::
+T[LIBRARY]:0.657:::T[HOSPITAL]:0.3382:::T[UNIVERSITY]:0.0045:::T[GOVAGENCY]:0.0003:::T[COMPANY]:0:::
+SW[NULL]:0.6573:::SW[and]:0.3427:::
+DICT[Y]:1:::
+Active Evidence: 1.5108206
+Evidence: 5.0
+========================
+Token: Collections
+ID: collections
+L[LIBRARY]:0.4477:::L[EMPTY]:0.4259:::L[ORGANISATION]:0.0493:::L[PLACE]:0.0493:::L[COMPANY]:0.0139:::L[PERSON]:0.0139:::
+R[EMPTY]:0.9994:::R[ORGANISATION]:0.0006:::
+T[LIBRARY]:0.4477:::T[OTHER]:0.4253:::T[UNIVERSITY]:0.0986:::T[COMPANY]:0.0283:::T[MUSEUM]:0:::T[ORGANISATION]:0:::
+SW[NULL]:0.9013:::SW[and]:0.0986:::SW[of]:0:::
+DICT[N]:0.9008:::DICT[Y]:0.0992:::
+Active Evidence: 2.2335343
+Evidence: 10.0
+========================
+Token: Mark and
+ID: mark and
+L[EMPTY]:1:::L[PERSON]:0:::
+R[PERSON]:0.3984:::R[EMPTY]:0.2031:::R[PLACE]:0.1992:::R[BUILDING]:0.1992:::
+T[LIBRARY]:0.7968:::T[OTHER]:0.2031:::T[PLACE]:0:::
+SW[NULL]:1:::SW[and]:0:::
+DICT[Y]:0.7969:::DICT[N]:0.2031:::
+Active Evidence: 1.23079
+Evidence: 3.0
+========================
+Token: Jean and
+ID: jean and
+L[EMPTY]:0.9994:::L[MUSEUM]:0.0006:::
+R[PERSON]:0.6664:::R[PLACE]:0.3331:::R[MUSEUM]:0.0004:::R[UNIVERSITY]:0:::R[PERIODICAL_LITERATURE]:0:::
+T[LIBRARY]:0.9993:::T[MUSEUM]:0.0006:::T[UNIVERSITY]:0.0001:::
+SW[NULL]:0.9993:::SW[and]:0.0006:::SW[of]:0.0001:::
+DICT[Y]:1:::
+Active Evidence: 0.965836
+Evidence: 3.0
+========================
+Token: Libri
+ID: libri
+L[EMPTY]:1:::L[PERSON]:0:::
+R[LIBRARY]:1:::R[EMPTY]:0:::R[PERSON]:0:::
+T[LIBRARY]:1:::T[PERSON]:0:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.0000217
+Evidence: 5.0
+========================
+Token: Pritzker
+ID: pritzker
+L[EMPTY]:0.9963:::L[PERSON]:0.0023:::L[PLACE]:0.0014:::
+R[ORGANISATION]:0.3313:::R[MUSEUM]:0.3299:::R[LIBRARY]:0.3299:::R[EMPTY]:0.0033:::R[UNIVERSITY]:0.002:::R[AWARD]:0.0015:::
+T[LIBRARY]:0.9896:::T[AWARD]:0.0044:::T[PERSON]:0.0033:::T[UNIVERSITY]:0.0023:::T[THEATRE]:0.0005:::
+SW[NULL]:0.9949:::SW[for]:0.0042:::SW[of]:0.0008:::
+DICT[Y]:0.9981:::DICT[N]:0.0019:::
+Active Evidence: 0.16007347
+Evidence: 27.0
+========================
+Token: Sayaji
+ID: sayaji
+L[EMPTY]:1:::
+R[PLACE]:0.4992:::R[PERSON]:0.2525:::R[UNIVERSITY]:0.2483:::
+T[LIBRARY]:0.9933:::T[PERSON]:0.0067:::
+SW[NULL]:1:::
+DICT[Y]:0.9933:::DICT[N]:0.0067:::
+Active Evidence: 0.0011588564
+Evidence: 3.0
+========================
+Token: Widener
+ID: widener
+L[EMPTY]:0.972:::L[PERSON]:0.0269:::L[PLACE]:0.0007:::L[UNIVERSITY]:0.0004:::
+R[PLACE]:0.9554:::R[EMPTY]:0.028:::R[EVENT]:0.0116:::R[UNIVERSITY]:0.0044:::R[COMPANY]:0.0002:::R[AIRLINE]:0.0002:::
+T[LIBRARY]:0.9551:::T[PERSON]:0.028:::T[EVENT]:0.0116:::T[UNIVERSITY]:0.0049:::T[PERIODICAL_LITERATURE]:0.0003:::
+SW[NULL]:0.9997:::SW[of]:0.0003:::
+DICT[Y]:0.9877:::DICT[N]:0.0123:::
+Active Evidence: 0.0017338889
+Evidence: 17.0
+========================
+Token: Tualatin
+ID: tualatin
+L[EMPTY]:1:::
+R[PLACE]:0.6707:::R[LIBRARY]:0.2503:::R[MOUNTAIN]:0.0555:::R[GOVAGENCY]:0.0157:::R[RIVER]:0.003:::R[UNIVERSITY]:0.0025:::
+T[LIBRARY]:0.5005:::T[ROAD]:0.266:::T[PLACE]:0.112:::T[GOVAGENCY]:0.0626:::T[MOUNTAIN]:0.0555:::T[UNIVERSITY]:0.0027:::
+SW[NULL]:1:::
+DICT[Y]:0.8783:::DICT[N]:0.1217:::
+Active Evidence: 9.3566836E-4
+Evidence: 10.0
+========================
+Token: Schomburg
+ID: schomburg
+L[EMPTY]:0.986:::L[PERSON]:0.014:::
+R[PERIODICAL_LITERATURE]:0.493:::R[PERSON]:0.2465:::R[ORGANISATION]:0.2465:::R[EMPTY]:0.014:::
+T[LIBRARY]:0.986:::T[PERSON]:0.014:::
+SW[for]:0.986:::SW[NULL]:0.014:::
+DICT[Y]:0.9959:::DICT[N]:0.0041:::
+Active Evidence: 9.0216985E-5
+Evidence: 4.0
+========================
+Token: Wittliff
+ID: wittliff
+L[EMPTY]:0.9591:::L[PERSON]:0.0409:::
+R[LIBRARY]:0.9591:::R[EMPTY]:0.0409:::
+T[LIBRARY]:0.9591:::T[PERSON]:0.0409:::
+SW[NULL]:1:::
+DICT[N]:0.9665:::DICT[Y]:0.0335:::
+Active Evidence: 5.7444E-5
+Evidence: 3.0
+========================
+Token: Itu
+ID: itu
+L[EMPTY]:0.9405:::L[ORGANISATION]:0.0467:::L[PERSON]:0.0129:::
+R[PERSON]:0.4675:::R[PLACE]:0.2849:::R[UNIVERSITY]:0.0685:::R[EMPTY]:0.0595:::R[COMPANY]:0.0574:::R[EVENT]:0.051:::
+T[LIBRARY]:0.6848:::T[UNIVERSITY]:0.2336:::T[ORGANISATION]:0.0467:::T[BUILDING]:0.022:::T[PERSON]:0.0129:::
+SW[NULL]:0.9675:::SW[of]:0.0325:::
+DICT[Y]:0.9871:::DICT[N]:0.0129:::
+Active Evidence: 5.693004E-5
+Evidence: 10.0
+========================
+Token: Cincinnati and
+ID: cincinnati and
+L[LIBRARY]:0.6803:::L[EMPTY]:0.3197:::
+R[PLACE]:0.5463:::R[PERSON]:0.3402:::R[RIVER]:0.101:::R[BUILDING]:0.0042:::R[COMPANY]:0.0042:::R[PERIODICAL_LITERATURE]:0.0042:::
+T[LIBRARY]:0.6803:::T[BUILDING]:0.3029:::T[PLACE]:0.0168:::
+SW[of]:0.6803:::SW[NULL]:0.3197:::
+DICT[Y]:1:::
+Active Evidence: 1.0853198E-5
+Evidence: 3.0
+========================
+Token: Westerville
+ID: westerville
+L[EMPTY]:1:::
+R[PLACE]:0.7729:::R[LIBRARY]:0.2271:::
+T[LIBRARY]:0.4543:::T[BUILDING]:0.4189:::T[PLACE]:0.1269:::
+SW[NULL]:1:::
+DICT[N]:0.5457:::DICT[Y]:0.4543:::
+Active Evidence: 1.463559E-6
+Evidence: 3.0
+========================
+Token: Leavey
+ID: leavey
+L[EMPTY]:0.8642:::L[PERSON]:0.1358:::
+R[PLACE]:0.8642:::R[EMPTY]:0.1358:::
+T[LIBRARY]:0.7785:::T[PERSON]:0.1358:::T[PLACE]:0.0857:::
+SW[NULL]:1:::
+DICT[Y]:0.9143:::DICT[N]:0.0857:::
+Active Evidence: 1.1915087E-6
+Evidence: 3.0
+========================
+Token: Sunnyvale
+ID: sunnyvale
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[LIBRARY]:0.3916:::R[UNIVERSITY]:0.1084:::
+T[LIBRARY]:0.7833:::T[ORGANISATION]:0.2167:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 6.044286E-7
+Evidence: 2.0
+========================
+Token: Sherborn
+ID: sherborn
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 2.5971102E-7
+Evidence: 1.0
+========================
+Token: Agudas
+ID: agudas
+L[LIBRARY]:1:::
+R[LIBRARY]:1:::
+T[LIBRARY]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.5597076E-7
+Evidence: 1.0
+========================
+Token: Lindenhurst
+ID: lindenhurst
+L[EMPTY]:1:::
+R[PLACE]:0.5:::R[BUILDING]:0.5:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.0774982E-7
+Evidence: 1.0
+========================
+Token: Johnsbury
+ID: johnsbury
+L[BUILDING]:1:::
+R[THEATRE]:1:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 4.5037388E-7
+Evidence: 1.0
+========================
+Token: Jagiellonian
+ID: jagiellonian
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 1.5718366E-7
+Evidence: 1.0
+========================
+Token: Robarts
+ID: robarts
+L[PERSON]:1:::
+R[ORGANISATION]:1:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[N]:1:::
+Active Evidence: 1.3588716E-7
+Evidence: 1.0
+========================
+Token: Remuera
+ID: remuera
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 5.327741E-7
+Evidence: 1.0
+========================
+Token: Manguinhos
+ID: manguinhos
+L[EMPTY]:1:::
+R[PLACE]:1:::
+T[LIBRARY]:1:::
+SW[NULL]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.872695E-5
+Evidence: 1.0
+========================
+Token: Chabad
+ID: chabad
+L[LIBRARY]:0.6667:::L[BUILDING]:0.3333:::
+R[EMPTY]:1:::
+T[LIBRARY]:1:::
+SW[of]:1:::
+DICT[Y]:1:::
+Active Evidence: 4.969555E-7
+Evidence: 1.0
+========================
