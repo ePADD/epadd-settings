@@ -1,0 +1,38 @@
+[
+	{
+		"repositoryName": "Not found",
+		"logoURL": "https://icon-library.com/images/not-found-icon/not-found-icon-10.jpg",
+		"email": "abc@xyz",
+		"instituteName": "Please add",
+		"addressLine1": "Please add",
+		"addressLine2": "Please add",
+		"phone": "000-000",
+		"fax": "000-000",
+		"website": "http://xyz.com",
+		"instituteInfo": "Please add the information about this repository in epaddRepoDetails.txt file. This file can be found in the epadd-settings folder of the system where epadd is running"
+	},
+	{
+                "repositoryName": "Special Collections",
+                "logoURL": "http://aabs2018.stanford.edu/icons/sul.png",
+                "email": "specialcollections@stanford.edu",
+                "instituteName": "Green Library",
+                "addressLine1": "Green Library",
+                "addressLine2": "Stanford California 94305-6004",
+                "phone": "(650) 725-1161",
+                "fax": "(650) 723-8690",
+                "website": " https://library.stanford.edu/spc/manuscripts-division",
+		"instituteInfo": "The Collection Services division in the Department of Special Collections at Stanford University arranges, describes, preserves, and makes available documents and born-digital materials acquired by subject specialists across disciplines in the Stanford Libraries. These are records of enduring historic value primarily acquired to support the research needs of the undergraduates, graduate students, faculty and other scholars at Stanford University and beyond."
+        },
+	{
+                "repositoryName": "Stanford University Archives",
+                "logoURL": "http://aabs2018.stanford.edu/icons/sul.png",
+                "email": "universityarchives@stanford.edu",
+                "instituteName": "Field Reading Room",
+                "addressLine1": "Green Library, 557 Escondido Mall",
+                "addressLine2": "Stanford California 94305-6004",
+                "phone": "(650) 725-1022",
+                "fax": "(650) 723-8690",
+                "website": "https://library.stanford.edu/spc/university-archives",
+		"instituteInfo": "The Stanford University Archives is the official repository for records of Stanford University and serves as its institutional memory. The Archives partners with university community members to collect, describe, administer, preserve, and make accessible materials of enduring value pertaining to the history of Stanford University. These include records of Stanford administration; schools, departments, centers, and institutes; faculty; students, student organizations, and alumni; campus activities and events; and Stanford’s relationships with Santa Clara County, the State of California, the region, and the world."
+ }
+]
